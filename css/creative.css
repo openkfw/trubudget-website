@@ -11,7 +11,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #1b618c;
+  border-color: #27533b;
 }
 
 hr.light {
@@ -19,14 +19,14 @@ hr.light {
 }
 
 a {
-  color: #1b618c;
+  color: #27533b;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #1b618c;
+  color: #27533b;
 }
 
 h1,
@@ -91,13 +91,13 @@ img::-moz-selection {
 
 #mainNav .navbar-brand {
   font-weight: 700;
-  color: #1b618c;
+  color: #27533b;
   text-transform: none;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #1b618c;
+  color: #27533b;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -110,12 +110,12 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #1b618c;
+  color: #27533b;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #1b618c !important;
+  color: #27533b !important;
   background-color: transparent;
 }
 
@@ -151,10 +151,10 @@ img::-moz-selection {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #1b618c;
+    color: #27533b;
   }
   #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #1b618c;
+    color: #27533b;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
@@ -162,14 +162,14 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #1b618c;
+    color: #27533b;
   }
 }
 
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/isabella-juskova-1-unsplash.jpg");
+  background-image: url("../img/isabella-juskova-unsplash-4.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -282,7 +282,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #1b618c !important;
+  color: #27533b !important;
 }
 
 .btn {
@@ -298,12 +298,12 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #1b618c;
-  border-color: #1B618C;
+  background-color: #27533b;
+  border-color: #27533b;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  color: #fff;
+  color: rgb(218, 213, 213);
   background-color: #ee4b28 !important;
 }
 
