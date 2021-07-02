@@ -1,21 +1,19 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+require("dotenv").config();
 module.exports = {
   title: "TruBudget",
-  tagline: "Dinosaurs are cool",
-  url: "https://mayrmartin.github.io/TrubudgetWebsite/",
-  baseUrl: "/TrubudgetWebsite/",
+  tagline: "TruBudget - a trusted public expenditure tool",
+  url: "https://openkfw.github.io/trubudget-website/",
+  baseUrl: "/trubudget-website/",
   onBrokenLinks: "warn",
-  onBrokenMarkdownLinks: "throw",
   favicon: "img/favicon.ico",
-  organizationName: "mayrmartin", // Usually your GitHub org/user name.
-  projectName: "TrubudgetWebsite", // Usually your repo name.
+  // onBrokenMarkdownLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  organizationName: "openkfw",
+  projectName: "trubudget-website",
   themeConfig: {
     navbar: {
       title: "TruBudget",
-      logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
-      },
       items: [
         {
           type: "doc",
@@ -52,7 +50,7 @@ module.exports = {
           items: [
             {
               label: "Github Discussions",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              href: "https://github.com/openkfw/TruBudget/discussions",
             },
           ],
         },
@@ -69,14 +67,14 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} TruBudget`,
     },
     algolia: {
-      apiKey: "YOUR_API_KEY",
-      indexName: "YOUR_INDEX_NAME",
+      apiKey: process.env.ALGOLIA_API_KEY,
+      indexName: process.env.ALGOLIA_INDEX_NAME,
 
       // Optional: see doc section below
       contextualSearch: true,
 
       // Optional: see doc section below
-      appId: "YOUR_APP_ID",
+      appId: process.env.ALGOLIA_APP_ID,
 
       // Optional: Algolia search parameters
       searchParameters: {},

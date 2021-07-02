@@ -23,8 +23,8 @@ Installation - How to install TruBudget
 
 [Tutorials](./operation-administration/installation/README.md) - Guides to get started with running TruBudget
 
-- [Starting a new network](./operation-administration/installation/create-new-network.md)
-- [Connecting to existing network](./operation-administration/installation/connect-to-network.md)
+- [Starting a new network](./operation-administration/installation/create-new-network/create-new-docker-compose.md)
+- [Connecting to existing network](./operation-administration/installation/connect-to-existing-node/connect-docker-compose.md)
 - [Update TruBudget](./operation-administration/installation/update-trubudget.md)
 
 [User Guide](./user-guide/README.md) - How to interact with TruBudget via the frontend
