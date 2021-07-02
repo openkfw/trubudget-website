@@ -7,8 +7,7 @@ module.exports = {
   baseUrl: "/trubudget-website/",
   onBrokenLinks: "warn",
   favicon: "img/favicon.ico",
-  // onBrokenMarkdownLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
+  onBrokenMarkdownLinks: "throw",
   organizationName: "openkfw",
   projectName: "trubudget-website",
   themeConfig: {
