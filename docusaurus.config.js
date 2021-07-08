@@ -5,7 +5,7 @@ module.exports = {
   tagline: "TruBudget - a trusted public expenditure tool",
   url: "https://openkfw.github.io/trubudget-website/",
   baseUrl: "/trubudget-website/",
-  onBrokenLinks: "warn",
+  onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   onBrokenMarkdownLinks: "throw",
   organizationName: "openkfw",
@@ -16,7 +16,7 @@ module.exports = {
       items: [
         {
           type: "doc",
-          docId: "intro",
+          docId: "README",
           position: "left",
           label: "Documentation",
         },
@@ -40,7 +40,7 @@ module.exports = {
           items: [
             {
               label: "Tutorial",
-              to: "/docs/intro",
+              to: "/docs/README",
             },
           ],
         },
@@ -66,14 +66,14 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} TruBudget`,
     },
     algolia: {
-      apiKey: process.env.ALGOLIA_API_KEY,
-      indexName: process.env.ALGOLIA_INDEX_NAME,
+      apiKey: "sudhaj",
+      indexName: "sdadas",
 
       // Optional: see doc section below
       contextualSearch: true,
 
       // Optional: see doc section below
-      appId: process.env.ALGOLIA_APP_ID,
+      appId: "asdas",
 
       // Optional: Algolia search parameters
       searchParameters: {},
