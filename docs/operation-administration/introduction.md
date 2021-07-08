@@ -123,4 +123,4 @@ OrgaC wants to join the network and connects to OrgaA. The request for approval 
 
 ## Further reading
 
-If you want to read more about the concept of organizations, have a look at the [Multi Node Setup ADR](../developer/architecture/0010-multi-node-setup-and-user-management.md).
+If you want to read more about the concept of organizations, have a look at the [Multi Node Setup ADR](../developer/architecture/0010-multi-node-setup-and-user-management).
