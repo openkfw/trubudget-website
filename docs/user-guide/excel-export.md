@@ -1,6 +1,6 @@
 # Excel Export
 
-TruBudget now features the possibility to export all the data visible to one user into an Excel Workbook. This feature is enabled through a new service that needs to be started separately. If you want to know how to start the service, please see the [here](./../operation-administration/introduction).
+TruBudget now features the possibility to export all the data visible to one user into an Excel Workbook. This feature is enabled through a new service that needs to be started separately. If you want to know how to start the service, please see the [here](./../operation-administration/introduction.md).
 
 ### Exporting Data
 
