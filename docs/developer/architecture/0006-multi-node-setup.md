@@ -8,7 +8,7 @@ Date: 05/07/2018
 
 ## Status
 
-Superceded by [multi node setup](./0010-multi-node-setup-and-user-management.md)
+Superceded by [multi node setup](./0010-multi-node-setup-and-user-management)
 
 ## Context
 

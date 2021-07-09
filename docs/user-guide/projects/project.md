@@ -29,7 +29,7 @@ There are some different permissions which affect projects.
 - project.viewHistory
 - project.close
 
-More details about the permission model can be found in the [Permissions section](./../users-and-groups/permissions.md).
+More details about the permission model can be found in the [Permissions section](./../users-and-groups/permissions).
 
 ## View projects
 
@@ -183,7 +183,7 @@ Assign a User or Group to a project to show which User or Group is responsible f
 2. Click the "Projects" menu point
 3. Click the blue magnifier icon in the bottom right corner of a project
 4. Click the assignee dropdown field to open a selection
-5. Select and click on an user or group to open a [confirmation dialog](../confirmation.md)
+5. Select and click on an user or group to open a [confirmation dialog](../confirmation)
 6. In case the assigner has no project view permissions the user or group cannot be assigned
 7. Confirming the dialog first executes all additional actions listed if there are any, then assigns the user
 8. If no addtional permissions have to be granted the user or group is assigned
@@ -194,7 +194,7 @@ Assign a User or Group to a project to show which User or Group is responsible f
 
 - Assigning a user/group needs project view permissions.
 - If the assignee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-  On confirm they can be granted if the assigner has grant permissions. (see [confirmation](../confirmation.md) for more Details)
+  On confirm they can be granted if the assigner has grant permissions. (see [confirmation](../confirmation) for more Details)
 
 :::
 
@@ -231,7 +231,7 @@ The history contains all activities done directly refer to the current project.
 ![show project history](./../img/view_project_history.jpg)
 
 :::note
-The history of actions refer to workflowitems can only be viewed by the [history](./subproject.md) of a certain subproject
+The history of actions refer to workflowitems can only be viewed by the [history](./subproject) of a certain subproject
 :::
 
 ## Filter the history of a project
@@ -273,6 +273,6 @@ The entries in the history can be filtered by 4 different values: publisher, typ
 
 :::
 
-## [Permissions on project](./../users-and-groups/permissions.md)
+## [Permissions on project](./../users-and-groups/permissions)
 
-## [Create a subproject](./subproject.md)
+## [Create a subproject](./subproject)
