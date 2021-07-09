@@ -61,10 +61,10 @@ These section describes all permissions related to a project. Selecting a user o
 
 :::note
 
-- More information about a specific intent can be found in the [project section](../projects/project).
+- More information about a specific intent can be found in the [project section](../projects/project.md).
 - The user who created the project is automatically assigned to it.
 - Granting assign permissions also grants view permission-permissions because it is needed in the assign process.
-- More information about the confirmation dialog can be found in the [confirmation section](./../confirmation).
+- More information about the confirmation dialog can be found in the [confirmation section](./../confirmation.md).
 
 :::
 
@@ -78,7 +78,7 @@ These section describes all permissions related to a project. Selecting a user o
 :::note
 
 If the grantee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-On confirm they are granted. (see [confirmation](./../confirmation) for more Details)
+On confirm they are granted. (see [confirmation](./../confirmation.md) for more Details)
 
 :::
 
@@ -93,7 +93,7 @@ On confirm they are granted. (see [confirmation](./../confirmation) for more Det
 :::note
 
 If the grantee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-On confirm they are granted. (see [confirmation](./../confirmation) for more Details)
+On confirm they are granted. (see [confirmation](./../confirmation.md) for more Details)
 :::
 
 ### Admin permissions
@@ -106,7 +106,7 @@ On confirm they are granted. (see [confirmation](./../confirmation) for more Det
 
 :::note
 If the grantee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-On confirm they are granted. (see [confirmation](./../confirmation) for more Details)
+On confirm they are granted. (see [confirmation](./../confirmation.md) for more Details)
 :::
 
 ## Subproject permissions
@@ -129,7 +129,7 @@ These section describes all permissions related to a subproject
 ![open subproject permission dialog](./../img/open_subproject_permission_dialog.jpg)
 
 :::note
-More information about a specific action on a subproject can be found in the [subproject section](./../projects/subproject).
+More information about a specific action on a subproject can be found in the [subproject section](./../projects/subproject.md).
 :::
 
 ### View permissions
@@ -144,7 +144,7 @@ Following intents do exist related to view permissions of a subproject:
 :::note
 
 - If the grantee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-  On confirm they are granted. (see [confirmation](./../confirmation) for more Details)
+  On confirm they are granted. (see [confirmation](./../confirmation.md) for more Details)
 - "view project overview" and "view project details" are also required to view a subproject
 
 :::
@@ -164,7 +164,7 @@ Following intents do exist related to write permissions of a project:
 :::note
 
 If the grantee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-On confirm they are granted. (see [confirmation](./../confirmation) for more Details)
+On confirm they are granted. (see [confirmation](./../confirmation.md) for more Details)
 
 :::
 
@@ -178,7 +178,7 @@ On confirm they are granted. (see [confirmation](./../confirmation) for more Det
 
 :::note
 If the grantee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-On confirm they are granted. (see [confirmation](./../confirmation) for more Details)
+On confirm they are granted. (see [confirmation](./../confirmation.md) for more Details)
 :::
 
 ## Workflow permissions
@@ -203,7 +203,7 @@ These section describes all permissions related to a workflowitem
 
 :::note
 
-- More information about a specific intent can be found in the [workflowitem section](./../projects/workflowitem).
+- More information about a specific intent can be found in the [workflowitem section](./../projects/workflowitem.md).
 - If a user has any write permission but no view permission the workflowitem is shown as redacted.
   :::
 
@@ -218,7 +218,7 @@ Following intents do exist related to view permissions of a subproject:
 :::note
 
 - If the grantee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-  On confirm they are granted. (see [confirmation](./../confirmation) for more Details)
+  On confirm they are granted. (see [confirmation](./../confirmation.md) for more Details)
 - "view project overview", "view project details", "view subproject overview" and "view subproject details" are also required to view a workflowitem
 
 :::
@@ -234,7 +234,7 @@ Following intents do exist related to write permissions of a project:
 
 :::note
 If the grantee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-On confirm they are granted. (see [confirmation](./../confirmation) for more Details)
+On confirm they are granted. (see [confirmation](./../confirmation.md) for more Details)
 :::
 
 ### Admin permissions
@@ -249,12 +249,12 @@ Following permissions do exist related to a workflowitem:
 
 :::note
 If the grantee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-On confirm they are granted. (see [confirmation](./../confirmation) for more Details)
+On confirm they are granted. (see [confirmation](./../confirmation.md) for more Details)
 :::
 
 ## Permission intents
 
-Following list describes all existing permissions. If you need more information how you can make use of a specific permission, access the documentation of the specific section via the [User-Guide overview](../README).
+Following list describes all existing permissions. If you need more information how you can make use of a specific permission, access the documentation of the specific section via the [User-Guide overview](../README.md).
 
 | Intent                                        | Description                                                                                                            |
 | :-------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
