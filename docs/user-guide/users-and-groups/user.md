@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # User
 
-With **Users** an organization can grant an entity access to the Trubudget-application. New users only have access to the Trubudget-application without permissions to see any project. All permissions (e.g. view a project, view a subproject,...) have to be granted separately by the administrator. More details about the permission model can be found in the [Permissions section](./permissions.md)
+With **Users** an organization can grant an entity access to the Trubudget-application. New users only have access to the Trubudget-application without permissions to see any project. All permissions (e.g. view a project, view a subproject,...) have to be granted separately by the administrator. More details about the permission model can be found in the [Permissions section](./permissions)
 
 Users and Groups can be viewed and created in the "Users" section which can be found in the sidebar navigation.
 
