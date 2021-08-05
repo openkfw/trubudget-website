@@ -1,6 +1,6 @@
 # Create a New Network Directly on Machine
 
-This guide describes how to create a new network without the use of Docker, Docker-Compose or Kubernetes. Before starting the network make sure to [install the necessary software on your machine.](../connect-to-existing-node/bare-metal)
+This guide describes how to create a new network without the use of Docker, Docker-Compose or Kubernetes. Before starting the network make sure to [install the necessary software on your machine.](../connect-to-existing-node/bare-metal.md)
 
 ## Table of Contents
 
