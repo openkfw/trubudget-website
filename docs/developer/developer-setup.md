@@ -169,25 +169,36 @@ If you want to start developing on Trubudget, you need to setup the application 
 
 This is the fastes way you can run all services needed for development. Everything is run in one command:
 
-1.  in root directory execute: `sh scripts/development/start-dev.sh`
+1.  in root directory execute: `sh scripts/development/start-dev.sh --full` or `sh scripts/development/start-dev.sh --slim`
 
-The script cares for `.env` file. No further step needed.
+This script sets the `.env` - file in the root directory automatically. No further step needed.
 
 Following services are dockerized:
 
 - Blockchain (master node)
 - API (master API)
 - Provisioning (feeds application with dummy data)
-- Excel export
 - Frontend
+- Excel export
+- Email notification
+- Email Database
+- Storage Service
+- Minio Database (external document storage)
 
-It takes some time to build and run at the first launch. After that, source codes of API and frontend are live reloaded. That means any change in `./src` folder is reflected in respective containter automatically.
+If the script is started with `--slim`, only the Blockchain, API, Provisioning and Frontend will be started.
+For further details how to use the script, print out its help section with `sh scripts/development/start-dev.sh -h`.
+
+It takes some time to build and run at the first launch. After that, source codes of all services are live reloaded. That means any change in `./src` folder is reflected in respective container automatically.
 
 The frontend should be availaible as usual at http://localhost:3000
 
 Docker Compose ensures that services are communicating and have correct environment variables set. Docker Compose puts all services in the same network and exposes needed ports.
 
 You can inspect each container individually: `docker logs --follow CONTAINER`. Where _CONTAINER_ represents selected value of NAMES column container in output of `docker ps` command.
+
+:::note
+Hot reloading with docker requires a lot of processing power (due to docker volumes). If you experience huge delays while hot-reloading, you should start the services you need by yourself without docker.
+:::
 
 ### Blockchain
 
@@ -433,7 +444,7 @@ More details and how to enable the storage service with an external storage can 
 
 ### End-to-end Tests
 
-Before checking in, you should always run the end-to-end test which explores / tests the whole functionality of the application. For end-to-end testing we use the testing framework [Cypress]. If you want to start all e2e-tests to check if your changes are not breaking any stuff we recommend the [Docker Compose Setup](#docker-compose-setup). More details regarding the environment variables can be found in the [README](https://github.com/openkfw/TruBudget/blob/master/e2e-test/README) file.
+Before checking in, you should always run the end-to-end test which explores / tests the whole functionality of the application. For end-to-end testing we use the testing framework [Cypress]. If you want to start all e2e-tests to check if your changes are not breaking any stuff we recommend the [Docker Compose Setup](#docker-compose-setup). More details regarding the environment variables can be found in the [README.md](https://github.com/openkfw/TruBudget/blob/master/e2e-test/README.md) file.
 
 #### Docker-Compose Setup
 

@@ -22,7 +22,7 @@ The full state of a node and all its configuration parameters is saved in the no
 
 ## Full state backup via backup endpoint
 
-TruBudget provides a backup endpoint that allows to perform a backup via the frontend. For a detailed explanation how to create/restore a backup via the frontend check out this guide [Create/Restore a Backup](../user-guide/backup).
+TruBudget provides a backup endpoint that allows to perform a backup via the frontend. For a detailed explanation how to create/restore a backup via the frontend check out this guide [Create/Restore a Backup](../user-guide/backup.md).
 
 1. Log into Trubudget's frontend with the root user
 1. Click the backup download button in the side navigation bar
