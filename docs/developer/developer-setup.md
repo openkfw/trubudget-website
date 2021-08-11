@@ -89,31 +89,35 @@ git clone https://github.com/openkfw/TruBudget.git
 git clone https://github.com/openkfw/TruBudget.git
 ```
 
-### IDE
+### IDE
 
-For coding, we recommend the use of Visual Studio Code, which you can find [here](https://code.visualstudio.com/).
+For coding, we recommend the use of Visual Studio Code, which you can find [here](https://code.visualstudio.com/).
 
-To ensure that the code is formatted properly we recommend following extensions for VS Code:
+To ensure that the code is formatted properly we recommend following extensions for VS Code:
 
-- aaron-bond.better-comments
+- aaron-bond.better-comments
 
-- CoenraadS.bracket-pair-colorizer
+- CoenraadS.bracket-pair-colorizer
 
-- dbaeumer.vscode-eslint
+- dbaeumer.vscode-eslint †
 
-- EditorConfig.EditorConfig
+- EditorConfig.EditorConfig
 
-- eg2.tslint
+- esbenp.prettier-vscode
 
-- esbenp.prettier-vscode
+- pmneo.tsimporter
 
-- pmneo.tsimporter
+- rbbit.typescript-hero
 
-- rbbit.typescript-hero
+- xabikos.JavaScriptSnippets
 
-- xabikos.JavaScriptSnippets
+- esbenp.prettier-vscode
 
-- ZeroDragon.prettylintednode
+:::note
+
+† Have a look [here](https://thesoreon.com/blog/how-to-set-up-eslint-with-typescript-in-vs-code) to learn more about how to set up es-lint for validating TypeScript in VSCode
+
+:::
 
 ### Chrome Developer Tools
 
@@ -444,7 +448,7 @@ More details and how to enable the storage service with an external storage can 
 
 ### End-to-end Tests
 
-Before checking in, you should always run the end-to-end test which explores / tests the whole functionality of the application. For end-to-end testing we use the testing framework [Cypress]. If you want to start all e2e-tests to check if your changes are not breaking any stuff we recommend the [Docker Compose Setup](#docker-compose-setup). More details regarding the environment variables can be found in the [README](https://github.com/openkfw/TruBudget/blob/master/e2e-test/README) file.
+Before checking in, you should always run the end-to-end test which explores / tests the whole functionality of the application. For end-to-end testing we use the testing framework [Cypress]. If you want to start all e2e-tests to check if your changes are not breaking any stuff we recommend the [Docker Compose Setup](#docker-compose-setup). More details regarding the environment variables can be found in the [README.md](https://github.com/openkfw/TruBudget/blob/master/e2e-test/README.md) file.
 
 #### Docker-Compose Setup
 
