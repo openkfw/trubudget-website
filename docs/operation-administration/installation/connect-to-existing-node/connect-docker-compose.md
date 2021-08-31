@@ -1,6 +1,6 @@
 # Connect to an Existing Network using Docker
 
-This guide describes how to connect a node to an existing TruBudget network. The steps are the same for new organizations and new nodes for an existing organizations. For new nodes of existing organizations, make sure to use the same `ORGANIZATION_VAULT_KEY` as all the other nodes of this organization.
+This guide describes how to connect a node to an existing TruBudget network. The steps are the same for new organizations and new nodes for an existing organizations. For new nodes of existing organizations, make sure to use the same `ORGANIZATION_VAULT_SECRET` as all the other nodes of this organization.
 
 ## Table of Contents
 
@@ -94,7 +94,7 @@ EXTERNAL_IP=50.50.50.50
 ```
 
 :::note
-For detailed explenations of the environment variables, see the [Enviroment Variables](./../../../enviroment-variables)
+For detailed explenations of the environment variables, see the [Enviroment Variables](./../../../enviroment-variables.md)
 :::
 Assuming that all parameters are set, go ahead and start the deployment.
 

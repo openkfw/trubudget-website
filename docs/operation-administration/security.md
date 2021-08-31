@@ -70,7 +70,7 @@ Yes, every change is stored in an immutable transaction and can’t be deleted. 
 
 ### What are the constraints or requirements for deploying the TruBudget Multichain Blockchain: network interconnection technology between nodes, speed, bandwidth, platforms (Windows, Linux, MacOS), resources (Processor, memory, hard disk space)?
 
-The requirements can be found in the [installation guide](./installation/create-new-network/bare-metal).
+The requirements can be found in the [installation guide](./installation/create-new-network/bare-metal.md).
 
 ### What is the maximum number of nodes that TruBudget can support?
 
@@ -83,7 +83,7 @@ There are two ways Nodes can join the TruBudget network:
 - A node of a new organization wants to join
 - A node of an existing organization wants to join
 
-In both cases a certain number of organizations in the network has to approve the new node. The difference is that a new organization needs 51% of all organizations in the network and a new node of an existing organization only needs one approval. More about how to connect a new node to an existing network can be found in the [documentation](./installation/connect-to-existing-node/connect-docker-compose).
+In both cases a certain number of organizations in the network has to approve the new node. The difference is that a new organization needs 51% of all organizations in the network and a new node of an existing organization only needs one approval. More about how to connect a new node to an existing network can be found in the [documentation](./installation/connect-to-existing-node/connect-docker-compose.md).
 
 ### Given that third party organizations who manage blockchain nodes are required to comply with the same security standards, what is the security policy or security measures applicable to the nodes to be integrated into TruBudget in terms of security governance (governance model, node control process), regulatory requirements, prevention (data protection, application protection, identity protection, infrastructure protection), resilience?
 
@@ -101,7 +101,7 @@ TruBudget scales horizontally and is therefore easily scalable by adding multipl
 
 TruBudget uses in-memory caching strategies in order to ensure low latency for read operations.
 
-### How Fork problems are managed at TruBudget level?
+### How are Fork problems managed at TruBudget level?
 
 The longer chain wins: Transactions in the shorter branch re-enter the memory pool of nodes, which leaves them in the regular situation of waiting for confirmation, but being visible to all nodes. The only exception is if some of those transactions conflict with transactions which are already confirmed on the longer branch, or already in the memory pool, in which case they are discarded.
 
@@ -134,3 +134,7 @@ TruBudget versions are backwards compatible, which means different versions of T
 ### The params.dat configuration file containing all the multichain TruBudget configuration. What protection measures are implemented to prevent the multichain parameters and permissions contained in this file from being modified for malicious purposes?
 
 Access to production infrastructure needs to be secured by the operation team. The security relevant configurations like consensus requirements can’t be changed after the first block was mined.
+
+### How secure is TruBudget against malicious attacks? Has TruBudget been penetration tested?
+
+TruBudget has been penetration tested using the [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/), which is a very popular open-source penetration testing tool maintained under the umbrella of the Open Web Application Security Project (OWASP). Our system underwent analysis and attacks from simulated malicious attackers. The tool acted as a “man-in-the-middle proxy” between the browser and the web application and tested if the application is vulnerable to attacks such as SQL Injection, Cross-Site Scripting, Path Traversal, Format String errors and many others. The results of the tests helped us discover vulnerabilities and allowed us to improve the security of the applicaiton and strengthen our defenses against such attacks, by implementing different security measures, checks and validations.
