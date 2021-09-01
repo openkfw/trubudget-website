@@ -113,7 +113,7 @@ EXTERNAL_IP=
 ```
 
 :::note
-For detailed explenations of the environment variables, see the [Enviroment Variables](./../../../enviroment-variables.md)
+For detailed explenations of the environment variables, see the [Enviroment Variables](./../../../enviroment-variables)
 :::
 To deploy the **current codebase** of the repository with an empty blockchain, run the following command:
 
