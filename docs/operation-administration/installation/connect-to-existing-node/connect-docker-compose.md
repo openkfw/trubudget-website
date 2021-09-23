@@ -94,7 +94,7 @@ EXTERNAL_IP=50.50.50.50
 ```
 
 :::note
-For detailed explenations of the environment variables, see the [Enviroment Variables](./../../../enviroment-variables.md)
+For detailed explenations of the environment variables, see the [Enviroment Variables](./../../../enviroment-variables)
 :::
 Assuming that all parameters are set, go ahead and start the deployment.
 
