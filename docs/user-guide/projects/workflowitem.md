@@ -26,7 +26,7 @@ There are some different permissions which affect workflowitems.
 - workflowitem.assign
 - workflowitem.update
 
-More details about the permission model can be found in the [Permissions section](../users-and-groups/permissions).
+More details about the permission model can be found in the [Permissions section](../users-and-groups/permissions.md).
 
 ## View workflowitems
 
@@ -216,7 +216,7 @@ Assign a User or Group to a workflowitem to show which User or Group is responsi
 3. Click the blue magnifier icon in the bottom right corner of a project
 4. Click the grey magnifier icon on the most right of the subproject you want to view
 5. Click the assignee dropdown field of a workflowitem in the bottom list to open a selection
-6. Select and click on an user or group to open a [confirmation dialog](../confirmation)
+6. Select and click on an user or group to open a [confirmation dialog](../confirmation.md)
 7. In case the assigner has no project view permissions the user or group cannot be assigned
 8. Confirming the dialog first executes all additional actions listed if there are any, then assigns the user
 9. If no addtional permissions have to be granted the user or group is assigned
@@ -227,7 +227,7 @@ Assign a User or Group to a workflowitem to show which User or Group is responsi
 
 - Assigning a user/group needs project, subproject and workflowitem view permissions.
 - If the assignee has not all necessary view permissions yet a dialog opens which shows all required permissions.
-  On confirm they can be granted if the assigner has grant permissions. (see [confirmation](../confirmation) for more Details)
+  On confirm they can be granted if the assigner has grant permissions. (see [confirmation](../confirmation.md) for more Details)
 
 :::
 
