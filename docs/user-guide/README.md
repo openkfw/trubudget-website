@@ -11,41 +11,41 @@ The documentation is organized in following sections:
 
 Learn how to create Users/Groups and how or when they are notified.
 
-- [User](./users-and-groups/user.md)
-- [Group](./users-and-groups/group.md)
-- [Notifications](./notifications.md)
+- [User](./users-and-groups/user)
+- [Group](./users-and-groups/group)
+- [Notifications](./notifications)
 
 ## Permissions
 
 Learn which permissions exist in Trubudget and how to grant/revoke them.
 
-- [Permissions](./users-and-groups/permissions.md)
+- [Permissions](./users-and-groups/permissions)
 
 ## Projects
 
 Learn how to create and work with projects and their components.
 
-- [Project](./projects/project.md)
-- [Subproject](./projects/subproject.md)
-- [Workflow](./projects/workflowitem.md)
+- [Project](./projects/project)
+- [Subproject](./projects/subproject)
+- [Workflow](./projects/workflowitem)
 
 ## Network
 
 Learn how to approve other organizations or nodes to expand your Trubudget network.
 
-- [Nodes](./network/nodes.md)
+- [Nodes](./network/nodes)
 
 ## Backups
 
 Learn how to download or upload a backup of the current data (multichain instance) as a _root_ user.
 
-- [Backup](./backup.md)
+- [Backup](./backup)
 
 ## Versions and Service-Status
 
 Learn where to find the versions and connection quality of all Trubudget components
 
-- [Service-Status](./status/status.md)
+- [Service-Status](./status/status)
 
 ## FAQ
 
