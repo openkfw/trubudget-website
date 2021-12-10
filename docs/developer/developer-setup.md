@@ -448,7 +448,7 @@ More details and how to enable the storage service with an external storage can 
 
 ### End-to-end Tests
 
-Before checking in, you should always run the end-to-end test which explores / tests the whole functionality of the application. For end-to-end testing we use the testing framework [Cypress]. If you want to start all e2e-tests to check if your changes are not breaking any stuff we recommend the [Docker Compose Setup](#dockerized-application-recommended). More details regarding the environment variables can be found in the [README.md](https://github.com/openkfw/TruBudget/blob/master/e2e-test/README.md) file.
+Before checking in, you should always run the end-to-end test which explores / tests the whole functionality of the application. For end-to-end testing we use the testing framework [Cypress]. If you want to start all e2e-tests to check if your changes are not breaking any stuff we recommend the [Docker Compose Setup](#dockerized-application-recommended). More details regarding the environment variables can be found in the [README](https://github.com/openkfw/TruBudget/blob/master/e2e-test/README) file.
 
 #### Prerequisits
 

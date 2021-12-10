@@ -43,7 +43,7 @@ Trubudget provides a default example `.env_example` file which has to be renamed
 
 ### Environment Variables in TruBudget
 
-You can find the documentation of all environmental variables in [environment-variables.md](../environment-variables.md).
+You can find the documentation of all environmental variables in [environment-variables](../environment-variables).
 
 If you need a `.env_example` file as a template, use the `.env_example` file in `/scripts/operation`. This file has all values pre-filled.
 
@@ -83,4 +83,4 @@ OrgaC wants to join the network and connects to OrgaA. The request for approval 
 
 ## Further reading
 
-If you want to read more about the concept of organizations, have a look at the [Multi Node Setup ADR](../developer/architecture/0010-multi-node-setup-and-user-management.md).
+If you want to read more about the concept of organizations, have a look at the [Multi Node Setup ADR](../developer/architecture/0010-multi-node-setup-and-user-management).
