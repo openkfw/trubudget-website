@@ -85,7 +85,7 @@ cp .env_example .env
 The `.env` in scripts/operation/ can be edited directly to fit your needs.
 
 :::note
-For detailed explenations of the environment variables, see the [Environment Variables](./../../../environment-variables.md)
+For detailed explenations of the environment variables, see the [Environment Variables](./../../../environment-variables)
 :::
 
 To start the TruBudget in an easy way, use the bash script `start-trubudget.sh`.
