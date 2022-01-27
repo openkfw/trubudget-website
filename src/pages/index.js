@@ -452,7 +452,7 @@ export default function Home() {
               <br />
               <a
                 className="btn btn-light btn-xl sr-button"
-                href="mailto:info@trubudget.net"
+                href="mailto:jure.zakotnik@kfw.de,piet.kleffmann@kfw.de"
               >
                 Discover TruBudget
               </a>
@@ -666,9 +666,9 @@ export default function Home() {
                   <p>
                     <a
                       style={{ color: "#27533b" }}
-                      href="mailto:info@trubudget.net"
+                      href="mailto:jure.zakotnik@kfw.de,piet.kleffmann@kfw.de"
                     >
-                      info@trubudget.net
+                      jure.zakotnik@kfw.de, piet.kleffmann@kfw.de
                     </a>
                   </p>
                 </div>
@@ -697,9 +697,9 @@ export default function Home() {
                     Mail:{" "}
                     <a
                       style={{ color: "white" }}
-                      href="mailto:info@trubudget.net"
+                      href="mailto:jure.zakotnik@kfw.de,piet.kleffmann@kfw.de"
                     >
-                      info@trubudget.net
+                      jure.zakotnik@kfw.de, piet.kleffmann@kfw.de
                     </a>
                     <br />
                     <br />
