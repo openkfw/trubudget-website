@@ -3,7 +3,7 @@ require("dotenv").config();
 module.exports = {
   title: "TruBudget",
   tagline: "TruBudget - a trusted public expenditure tool",
-  url: "https://openkfw.github.io/",
+  url: "https://trubudget.net/",
   baseUrl: "/",
   onBrokenLinks: "ignore",
   favicon: "img/favicon.ico",
