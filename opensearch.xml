@@ -4,8 +4,8 @@
   <ShortName>TruBudget</ShortName>
   <Description>Search TruBudget</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://openkfw.github.io/trubudget-website/trubudget-website/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://openkfw.github.io/trubudget-website//trubudget-website/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://openkfw.github.io/trubudget-website//trubudget-website/opensearch.xml" />
-  <moz:SearchForm>https://openkfw.github.io/trubudget-website//trubudget-website/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://openkfw.github.io/trubudget-website/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://openkfw.github.io/trubudget-website//search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://openkfw.github.io/trubudget-website//opensearch.xml" />
+  <moz:SearchForm>https://openkfw.github.io/trubudget-website//</moz:SearchForm>
 </OpenSearchDescription>
