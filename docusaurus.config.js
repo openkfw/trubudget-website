@@ -5,9 +5,9 @@ module.exports = {
   tagline: "TruBudget - a trusted public expenditure tool",
   url: "https://openkfw.github.io/trubudget-website/",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   favicon: "img/favicon.ico",
-  onBrokenMarkdownLinks: "throw",
+  onBrokenMarkdownLinks: "ignore",
   organizationName: "openkfw",
   projectName: "trubudget-website",
   themeConfig: {
