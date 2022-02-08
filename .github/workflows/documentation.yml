@@ -21,7 +21,7 @@ jobs:
           npm run build
 
 
-audit:
+  audit:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     continue-on-error: true
@@ -36,8 +36,6 @@ audit:
             npm i
             npm audit
 
-
-      
   gh-release:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
