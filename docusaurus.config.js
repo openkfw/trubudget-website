@@ -10,6 +10,7 @@ module.exports = {
   onBrokenMarkdownLinks: "ignore",
   organizationName: "openkfw",
   projectName: "trubudget-website",
+  plugins: [require.resolve("docusaurus-lunr-search")],
   themeConfig: {
     navbar: {
       title: "TruBudget",
@@ -64,21 +65,6 @@ module.exports = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} TruBudget`,
-    },
-    algolia: {
-      apiKey: "sudhaj",
-      indexName: "sdadas",
-
-      // Optional: see doc section below
-      contextualSearch: true,
-
-      // Optional: see doc section below
-      appId: "asdas",
-
-      // Optional: Algolia search parameters
-      searchParameters: {},
-
-      //... other Algolia params
     },
   },
   presets: [

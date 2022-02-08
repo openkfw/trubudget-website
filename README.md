@@ -34,5 +34,13 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ## How to push changes?
 
-Apply your changes to the next branch. Do not push to master directly!
-The PR Merge of next to master performs updates to the links in docusaurus which are essential for the website deployment
+Apply your changes to the next branch. _Do not push to master directly!_
+The PR Merge of next to master performs updates to the links in docusaurus which are essential for the website deployment!
+
+Why?
+Essentially, the provided documentation is copied from the TruBudget main repository.
+When copying the documentation the documentation from the main repository, _all_ links in the documentation must be rewritten.
+This is essential since Docosaurus does not allow links with a file suffix (i.e. ./developer/documentation.md) but GitHub requires them when displaying Markdownfils in the browser.
+
+"But the pipeline does change the repository?"
+Yes, but this is not necessarily an issue since the content is generated trough a PR on the master branch via the next branch.
