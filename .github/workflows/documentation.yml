@@ -20,6 +20,23 @@ jobs:
           npm i
           npm run build
 
+
+  audit:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    needs: [checks]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Audit 
+        run: |
+            npm i
+            npm audit
+
+
       
   gh-release:
     if: github.event_name != 'pull_request'
