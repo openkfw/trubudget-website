@@ -16,10 +16,6 @@ jobs:
         with:
           node-version: "12.x"
       - name: Test Build
-        env:
-          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
-          ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME }}
-          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
         run: |
           npm i
           npm run build
@@ -46,9 +42,6 @@ jobs:
         env:
           USE_SSH: true
           GIT_USER: git
-          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
-          ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME }}
-          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
         run: |
           git config --global user.email ${{ secrets.OPENKFWCI_GITHUB_EMAIL }}
           git config --global user.name "openkfwCI"
