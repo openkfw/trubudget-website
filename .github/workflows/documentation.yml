@@ -24,36 +24,11 @@ jobs:
           npm i
           npm run build
 
-  rewrite-links:
-    runs-on: ubuntu-latest
-    if: github.event_name != 'pull_request'
-    needs: checks
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
-      - uses: actions/setup-node@v1
-        with:
-          node-version: '12.x'
-      
-      - name: rewrite links
-        run: |
-          node ./prepareRelease.js
-
-      - name: Get last commit message
-        id: last-commit-message
-        run: |
-          echo "::set-output name=msg::$(git log -1 --pretty=%s)"
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: ${{ steps.last-commit-message.outputs.msg }}
-      
       
   gh-release:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
-    needs: [checks,rewrite-links]
+    needs: [checks]
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
@@ -62,6 +37,11 @@ jobs:
       - uses: webfactory/ssh-agent@v0.5.0
         with:
           ssh-private-key: ${{ secrets.DEPLOY_PRIVATE_KEY }}
+      
+      - name: rewrite links
+        run: |
+          node ./prepareRelease.js
+        
       - name: Release to GitHub Pages
         env:
           USE_SSH: true
