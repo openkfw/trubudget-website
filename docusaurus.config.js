@@ -27,6 +27,11 @@ module.exports = {
           position: "left",
         },
         {
+          href: "https://taas.trubudget.net",
+          label: "TruBudget as a Service",
+          position: "left",
+        },
+        {
           href: "https://github.com/openkfw/TruBudget",
           label: "GitHub",
           position: "right",
@@ -60,6 +65,10 @@ module.exports = {
             {
               label: "GitHub",
               href: "https://github.com/openkfw/TruBudget",
+            },
+            {
+              label: "TruBudget as a Service",
+              href: "https://taas.trubudget.net",
             },
           ],
         },
