@@ -43,7 +43,7 @@ Trubudget provides a default example `.env_example` file which has to be renamed
 
 ### Environment Variables in TruBudget
 
-You can find the documentation of all environmental variables in [environment-variables](../environment-variables).
+You can find the documentation of all environmental variables in [environment-variables.md](../environment-variables.md).
 
 If you need a `.env_example` file as a template, use the `.env_example` file in `/scripts/operation`. This file has all values pre-filled.
 

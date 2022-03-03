@@ -6,7 +6,7 @@ This guide offers tutorials on some key features of TruBudget, like creating a n
 
 - Starting a new network or connecting to an existing network
 
-  - [With Docker](./create-new-network/create-new-docker-compose) (recommended)
-  - [Without Docker](./create-new-network/bare-metal)
+  - [With Docker](./create-new-network/create-new-docker-compose.md) (recommended)
+  - [Without Docker](./create-new-network/bare-metal.md)
 
-- [Update TruBudget](./../update-trubudget)
+- [Update TruBudget](./../update-trubudget.md)
