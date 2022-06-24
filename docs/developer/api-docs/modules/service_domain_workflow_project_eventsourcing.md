@@ -1,0 +1,61 @@
+# service/domain/workflow/project\_eventsourcing
+ 
+[Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_eventsourcing
+
+## Table of contents
+
+### Functions
+
+- [newProjectFromEvent](service_domain_workflow_project_eventsourcing.md#newprojectfromevent)
+- [sourceProjects](service_domain_workflow_project_eventsourcing.md#sourceprojects)
+
+## Functions
+
+### newProjectFromEvent
+
+▸ **newProjectFromEvent**(`ctx`, `project`, `event`): [`Type`](result.md#type)<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>
+
+Returns a new project with the given event applied, or an error.
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
+| `project` | [`Project`](../interfaces/service_domain_workflow_project.Project.md) |
+| `event` | [`BusinessEvent`](service_domain_business_event.md#businessevent) |
+
+#### Returns
+
+[`Type`](result.md#type)<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>
+
+#### Defined in
+
+[src/service/domain/workflow/project_eventsourcing.ts:125](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/project_eventsourcing.ts#L125)
+
+___
+
+### sourceProjects
+
+▸ **sourceProjects**(`ctx`, `events`, `origin?`): `Object`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
+| `events` | [`BusinessEvent`](service_domain_business_event.md#businessevent)[] |
+| `origin?` | `Map`<`string`, [`Project`](../interfaces/service_domain_workflow_project.Project.md)\> |
+
+#### Returns
+
+`Object`
+
+| Name | Type |
+| :------ | :------ |
+| `errors` | `Error`[] |
+| `projects` | [`Project`](../interfaces/service_domain_workflow_project.Project.md)[] |
+
+#### Defined in
+
+[src/service/domain/workflow/project_eventsourcing.ts:19](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/project_eventsourcing.ts#L19)
