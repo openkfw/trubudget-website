@@ -86,13 +86,13 @@ export default function Home() {
                     transparent project management
                   </p>
                   <iframe
-                    width="568"
-                    height="320"
+                    width="70%"
+                    
                     src="https://www.youtube.com/embed/IzYSCoVGZ6c"
                     frameBorder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
-                  ></iframe>
+                  ></iframe><br></br>
 
                   <a
                     className="btn btn-light btn-xl js-scroll-trigger"
