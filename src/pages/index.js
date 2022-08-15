@@ -403,7 +403,7 @@ export default function Home() {
                       For Donors
                       <br />
                     </h3>
-                    <p className="mb-0">
+                    <div className="mb-0">
                       <br /> Real-time information on the use of funds
                       <center>
                         <hr />
@@ -419,7 +419,7 @@ export default function Home() {
                         <hr />
                       </center>
                       Significantly reduce transaction costs
-                    </p>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -686,7 +686,7 @@ export default function Home() {
                   <center>
                     <hr className="light my-4" />
                   </center>
-                  <p class="mb-4">
+                  <div class="mb-4">
                     Legal notice and disclaimer: <br />
                     <br />
                     KfW <br />
@@ -804,7 +804,7 @@ export default function Home() {
                     Hyperlinks to the KfW Internet offers are admissible if the
                     KfW Internet page retrieved becomes the sole content of the
                     browser window.
-                  </p>
+                  </div>
                 </div>
               </div>
             </div>
