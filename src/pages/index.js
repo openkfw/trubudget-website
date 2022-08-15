@@ -41,7 +41,7 @@ export default function Home() {
           rel="stylesheet"
           type="text/css"
         />
-        <link
+{/*         <link
           href="../css/google-fonts/css/openSans.css"
           rel="stylesheet"
           type="text/css"
@@ -50,7 +50,7 @@ export default function Home() {
           href="../css/google-fonts/css/merriweather.css"
           rel="stylesheet"
           type="text/css"
-        />
+        /> */}
 
         <link
           href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.min.css"

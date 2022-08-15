@@ -90,7 +90,7 @@ module.exports = {
           showLastUpdateTime: true,
         },
         theme: {
-          customCss: [require.resolve("./src/css/custom.css"), require.resolve("./src/css/google-fonts/css/openSans.css"), require.resolve("./src/css/google-fonts/css/merriweather.css")],
+          customCss: [require.resolve("./src/css/custom.css")],
         },
       },
     ],
