@@ -18,6 +18,7 @@
 
 ### Properties
 
+- [cause](service_domain_errors_event_sourcing_error.EventSourcingError.md#cause)
 - [message](service_domain_errors_event_sourcing_error.EventSourcingError.md#message)
 - [name](service_domain_errors_event_sourcing_error.EventSourcingError.md#name)
 - [stack](service_domain_errors_event_sourcing_error.EventSourcingError.md#stack)
@@ -27,7 +28,6 @@
 
 ### Methods
 
-- [cause](service_domain_errors_event_sourcing_error.EventSourcingError.md#cause)
 - [captureStackTrace](service_domain_errors_event_sourcing_error.EventSourcingError.md#capturestacktrace)
 - [cause](service_domain_errors_event_sourcing_error.EventSourcingError.md#cause-1)
 - [errorForEach](service_domain_errors_event_sourcing_error.EventSourcingError.md#errorforeach)
@@ -56,9 +56,31 @@ VError.constructor
 
 #### Defined in
 
-[src/service/domain/errors/event_sourcing_error.ts:31](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/errors/event_sourcing_error.ts#L31)
+[src/service/domain/errors/event_sourcing_error.ts:31](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/errors/event_sourcing_error.ts#L31)
 
 ## Properties
+
+### cause
+
+• **cause**: () => `undefined` \| `Error`
+
+#### Type declaration
+
+▸ (): `undefined` \| `Error`
+
+##### Returns
+
+`undefined` \| `Error`
+
+#### Inherited from
+
+VError.cause
+
+#### Defined in
+
+node_modules/@types/verror/index.d.ts:31
+
+___
 
 ### message
 
@@ -162,24 +184,6 @@ VError.stackTraceLimit
 node_modules/@types/node/globals.d.ts:13
 
 ## Methods
-
-### cause
-
-▸ **cause**(): `undefined` \| `Error`
-
-#### Returns
-
-`undefined` \| `Error`
-
-#### Inherited from
-
-VError.cause
-
-#### Defined in
-
-node_modules/@types/verror/index.d.ts:31
-
-___
 
 ### captureStackTrace
 

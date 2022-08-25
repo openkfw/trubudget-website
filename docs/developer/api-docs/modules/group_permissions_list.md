@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/group.inte
 
 #### Defined in
 
-[src/group_permissions_list.ts:84](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/group_permissions_list.ts#L84)
+[src/group_permissions_list.ts:84](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/group_permissions_list.ts#L84)

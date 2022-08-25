@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_assign.ts:18](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/workflowitem_assign.ts#L18)
+[src/service/workflowitem_assign.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/workflowitem_assign.ts#L18)

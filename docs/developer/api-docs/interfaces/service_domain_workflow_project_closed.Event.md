@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:15](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/project_closed.ts#L15)
+[src/service/domain/workflow/project_closed.ts:15](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_closed.ts#L15)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:14](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/project_closed.ts#L14)
+[src/service/domain/workflow/project_closed.ts:14](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_closed.ts#L14)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:12](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/project_closed.ts#L12)
+[src/service/domain/workflow/project_closed.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_closed.ts#L12)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:13](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/project_closed.ts#L13)
+[src/service/domain/workflow/project_closed.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_closed.ts#L13)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:11](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/project_closed.ts#L11)
+[src/service/domain/workflow/project_closed.ts:11](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_closed.ts#L11)

@@ -21,7 +21,7 @@ Represents a notification with a project and a subproject as metadata
 
 #### Defined in
 
-[src/notification_list.ts:164](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L164)
+[src/notification_list.ts:164](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L164)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:165](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L165)
+[src/notification_list.ts:165](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L165)

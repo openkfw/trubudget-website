@@ -18,6 +18,7 @@
 
 ### Properties
 
+- [cause](service_errors_authentication_failed.AuthenticationFailed.md#cause)
 - [message](service_errors_authentication_failed.AuthenticationFailed.md#message)
 - [name](service_errors_authentication_failed.AuthenticationFailed.md#name)
 - [stack](service_errors_authentication_failed.AuthenticationFailed.md#stack)
@@ -27,7 +28,6 @@
 
 ### Methods
 
-- [cause](service_errors_authentication_failed.AuthenticationFailed.md#cause)
 - [captureStackTrace](service_errors_authentication_failed.AuthenticationFailed.md#capturestacktrace)
 - [cause](service_errors_authentication_failed.AuthenticationFailed.md#cause-1)
 - [errorForEach](service_errors_authentication_failed.AuthenticationFailed.md#errorforeach)
@@ -56,9 +56,31 @@ VError.constructor
 
 #### Defined in
 
-[src/service/errors/authentication_failed.ts:20](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/errors/authentication_failed.ts#L20)
+[src/service/errors/authentication_failed.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/errors/authentication_failed.ts#L20)
 
 ## Properties
+
+### cause
+
+• **cause**: () => `undefined` \| `Error`
+
+#### Type declaration
+
+▸ (): `undefined` \| `Error`
+
+##### Returns
+
+`undefined` \| `Error`
+
+#### Inherited from
+
+VError.cause
+
+#### Defined in
+
+node_modules/@types/verror/index.d.ts:31
+
+___
 
 ### message
 
@@ -162,24 +184,6 @@ VError.stackTraceLimit
 node_modules/@types/node/globals.d.ts:13
 
 ## Methods
-
-### cause
-
-▸ **cause**(): `undefined` \| `Error`
-
-#### Returns
-
-`undefined` \| `Error`
-
-#### Inherited from
-
-VError.cause
-
-#### Defined in
-
-node_modules/@types/verror/index.d.ts:31
-
-___
 
 ### captureStackTrace
 

@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:23](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_disabled.ts#L23)
+[src/service/domain/organization/user_disabled.ts:23](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disabled.ts#L23)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:21](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_disabled.ts#L21)
+[src/service/domain/organization/user_disabled.ts:21](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disabled.ts#L21)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:22](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_disabled.ts#L22)
+[src/service/domain/organization/user_disabled.ts:22](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disabled.ts#L22)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:20](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_disabled.ts#L20)
+[src/service/domain/organization/user_disabled.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disabled.ts#L20)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:24](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_disabled.ts#L24)
+[src/service/domain/organization/user_disabled.ts:24](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disabled.ts#L24)

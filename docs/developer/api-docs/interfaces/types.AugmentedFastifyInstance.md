@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/types.ts#L8)
+[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/types.ts#L8)
 
 ___
 
@@ -398,7 +398,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/types.ts#L9)
+[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/types.ts#L9)
 
 ___
 

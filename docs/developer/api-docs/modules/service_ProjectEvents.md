@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:202](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/ProjectEvents.ts#L202)
+[src/service/ProjectEvents.ts:202](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/ProjectEvents.ts#L202)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:54](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/ProjectEvents.ts#L54)
+[src/service/ProjectEvents.ts:54](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/ProjectEvents.ts#L54)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:147](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/ProjectEvents.ts#L147)
+[src/service/ProjectEvents.ts:147](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/ProjectEvents.ts#L147)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:159](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/ProjectEvents.ts#L159)
+[src/service/ProjectEvents.ts:159](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/ProjectEvents.ts#L159)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:165](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/ProjectEvents.ts#L165)
+[src/service/ProjectEvents.ts:165](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/ProjectEvents.ts#L165)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:173](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/ProjectEvents.ts#L173)
+[src/service/ProjectEvents.ts:173](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/ProjectEvents.ts#L173)
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:119](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/ProjectEvents.ts#L119)
+[src/service/ProjectEvents.ts:119](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/ProjectEvents.ts#L119)
 
 ___
 
@@ -194,4 +194,4 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:92](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/ProjectEvents.ts#L92)
+[src/service/ProjectEvents.ts:92](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/ProjectEvents.ts#L92)

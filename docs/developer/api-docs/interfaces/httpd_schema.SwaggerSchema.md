@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/httpd/schema.ts:9](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/httpd/schema.ts#L9)
+[src/httpd/schema.ts:9](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/schema.ts#L9)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/httpd/schema.ts:5](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/httpd/schema.ts#L5)
+[src/httpd/schema.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/schema.ts#L5)
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-[src/httpd/schema.ts:8](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/httpd/schema.ts#L8)
+[src/httpd/schema.ts:8](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/schema.ts#L8)
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 #### Defined in
 
-[src/httpd/schema.ts:7](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/httpd/schema.ts#L7)
+[src/httpd/schema.ts:7](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/schema.ts#L7)
 
 ___
 
@@ -160,4 +160,4 @@ ___
 
 #### Defined in
 
-[src/httpd/schema.ts:6](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/httpd/schema.ts#L6)
+[src/httpd/schema.ts:6](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/schema.ts#L6)

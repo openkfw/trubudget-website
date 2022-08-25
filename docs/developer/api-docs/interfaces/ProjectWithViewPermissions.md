@@ -22,7 +22,7 @@ Represents a project with view permissions
 
 #### Defined in
 
-[src/notification_list.ts:129](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L129)
+[src/notification_list.ts:129](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L129)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:128](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L128)
+[src/notification_list.ts:128](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L128)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:127](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L127)
+[src/notification_list.ts:127](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L127)

@@ -36,4 +36,4 @@
 
 #### Defined in
 
-[src/service/user_authenticate.ts:31](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/user_authenticate.ts#L31)
+[src/service/user_authenticate.ts:31](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/user_authenticate.ts#L31)

@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/user_permissions_list.ts:12](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/user_permissions_list.ts#L12)
+[src/service/user_permissions_list.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/user_permissions_list.ts#L12)

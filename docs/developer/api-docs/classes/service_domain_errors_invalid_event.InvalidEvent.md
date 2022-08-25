@@ -48,7 +48,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:5](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/errors/invalid_event.ts#L5)
+[src/service/domain/errors/invalid_event.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/errors/invalid_event.ts#L5)
 
 ## Properties
 

@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflowitem_types/types.ts:3](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflowitem_types/types.ts#L3)
+[src/service/domain/workflowitem_types/types.ts:3](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflowitem_types/types.ts#L3)
 
 ## Variables
 
@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflowitem_types/types.ts:12](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflowitem_types/types.ts#L12)
+[src/service/domain/workflowitem_types/types.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflowitem_types/types.ts#L12)

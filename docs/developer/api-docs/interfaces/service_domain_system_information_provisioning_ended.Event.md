@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:14](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/system_information/provisioning_ended.ts#L14)
+[src/service/domain/system_information/provisioning_ended.ts:14](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/system_information/provisioning_ended.ts#L14)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:12](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/system_information/provisioning_ended.ts#L12)
+[src/service/domain/system_information/provisioning_ended.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/system_information/provisioning_ended.ts#L12)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:13](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/system_information/provisioning_ended.ts#L13)
+[src/service/domain/system_information/provisioning_ended.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/system_information/provisioning_ended.ts#L13)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:11](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/system_information/provisioning_ended.ts#L11)
+[src/service/domain/system_information/provisioning_ended.ts:11](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/system_information/provisioning_ended.ts#L11)

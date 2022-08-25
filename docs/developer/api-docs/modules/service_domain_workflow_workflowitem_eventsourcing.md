@@ -31,7 +31,7 @@ Returns a new workflowitem with the given event applied, or an error.
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_eventsourcing.ts:131](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L131)
+[src/service/domain/workflow/workflowitem_eventsourcing.ts:131](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L131)
 
 ___
 
@@ -58,4 +58,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_eventsourcing.ts:18](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L18)
+[src/service/domain/workflow/workflowitem_eventsourcing.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L18)

@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/authz/types.ts:13](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/types.ts#L13)
+[src/authz/types.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/types.ts#L13)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/authz/types.ts:11](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/types.ts#L11)
+[src/authz/types.ts:11](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/types.ts#L11)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/authz/types.ts:12](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/types.ts#L12)
+[src/authz/types.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/types.ts#L12)

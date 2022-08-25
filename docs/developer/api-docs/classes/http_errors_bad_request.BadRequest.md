@@ -18,6 +18,7 @@
 
 ### Properties
 
+- [cause](http_errors_bad_request.BadRequest.md#cause)
 - [message](http_errors_bad_request.BadRequest.md#message)
 - [name](http_errors_bad_request.BadRequest.md#name)
 - [stack](http_errors_bad_request.BadRequest.md#stack)
@@ -27,7 +28,6 @@
 
 ### Methods
 
-- [cause](http_errors_bad_request.BadRequest.md#cause)
 - [captureStackTrace](http_errors_bad_request.BadRequest.md#capturestacktrace)
 - [cause](http_errors_bad_request.BadRequest.md#cause-1)
 - [errorForEach](http_errors_bad_request.BadRequest.md#errorforeach)
@@ -55,9 +55,31 @@ VError.constructor
 
 #### Defined in
 
-[src/http_errors/bad_request.ts:13](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/http_errors/bad_request.ts#L13)
+[src/http_errors/bad_request.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/http_errors/bad_request.ts#L13)
 
 ## Properties
+
+### cause
+
+• **cause**: () => `undefined` \| `Error`
+
+#### Type declaration
+
+▸ (): `undefined` \| `Error`
+
+##### Returns
+
+`undefined` \| `Error`
+
+#### Inherited from
+
+VError.cause
+
+#### Defined in
+
+node_modules/@types/verror/index.d.ts:31
+
+___
 
 ### message
 
@@ -161,24 +183,6 @@ VError.stackTraceLimit
 node_modules/@types/node/globals.d.ts:13
 
 ## Methods
-
-### cause
-
-▸ **cause**(): `undefined` \| `Error`
-
-#### Returns
-
-`undefined` \| `Error`
-
-#### Inherited from
-
-VError.cause
-
-#### Defined in
-
-node_modules/@types/verror/index.d.ts:31
-
-___
 
 ### captureStackTrace
 

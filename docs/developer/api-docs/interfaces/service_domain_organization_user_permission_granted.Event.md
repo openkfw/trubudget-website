@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_granted.ts:19](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_permission_granted.ts#L19)
+[src/service/domain/organization/user_permission_granted.ts:19](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_granted.ts#L19)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_granted.ts:18](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_permission_granted.ts#L18)
+[src/service/domain/organization/user_permission_granted.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_granted.ts#L18)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_granted.ts:16](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_permission_granted.ts#L16)
+[src/service/domain/organization/user_permission_granted.ts:16](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_granted.ts#L16)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_granted.ts:14](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_permission_granted.ts#L14)
+[src/service/domain/organization/user_permission_granted.ts:14](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_granted.ts#L14)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_granted.ts:15](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_permission_granted.ts#L15)
+[src/service/domain/organization/user_permission_granted.ts:15](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_granted.ts#L15)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_granted.ts:13](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_permission_granted.ts#L13)
+[src/service/domain/organization/user_permission_granted.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_granted.ts#L13)
 
 ___
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_granted.ts:17](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_permission_granted.ts#L17)
+[src/service/domain/organization/user_permission_granted.ts:17](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_granted.ts#L17)

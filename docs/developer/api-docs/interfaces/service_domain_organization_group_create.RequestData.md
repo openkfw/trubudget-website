@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:27](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/group_create.ts#L27)
+[src/service/domain/organization/group_create.ts:27](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group_create.ts#L27)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:25](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/group_create.ts#L25)
+[src/service/domain/organization/group_create.ts:25](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group_create.ts#L25)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:24](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/group_create.ts#L24)
+[src/service/domain/organization/group_create.ts:24](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group_create.ts#L24)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:23](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/group_create.ts#L23)
+[src/service/domain/organization/group_create.ts:23](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group_create.ts#L23)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:26](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/group_create.ts#L26)
+[src/service/domain/organization/group_create.ts:26](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group_create.ts#L26)

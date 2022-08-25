@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions_trace_event.ts:11](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/global_permissions_trace_event.ts#L11)
+[src/service/domain/workflow/global_permissions_trace_event.ts:11](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/global_permissions_trace_event.ts#L11)

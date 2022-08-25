@@ -22,7 +22,7 @@ Represents a workflowitem with a project, a subproject and a workflowitem as met
 
 #### Defined in
 
-[src/notification_list.ts:192](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L192)
+[src/notification_list.ts:192](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L192)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:193](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L193)
+[src/notification_list.ts:193](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L193)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:194](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L194)
+[src/notification_list.ts:194](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L194)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/authz/intents.ts:1](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L1)
+[src/authz/intents.ts:1](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L1)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:4](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L4)
+[src/authz/intents.ts:4](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L4)
 
 ## Variables
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:167](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L167)
+[src/authz/intents.ts:167](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L167)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:68](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L68)
+[src/authz/intents.ts:68](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L68)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:123](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L123)
+[src/authz/intents.ts:123](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L123)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:125](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L125)
+[src/authz/intents.ts:125](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L125)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:140](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L140)
+[src/authz/intents.ts:140](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L140)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:91](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L91)
+[src/authz/intents.ts:91](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L91)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:112](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L112)
+[src/authz/intents.ts:112](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L112)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:114](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L114)
+[src/authz/intents.ts:114](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L114)
 
 ___
 
@@ -129,4 +129,4 @@ ___
 
 #### Defined in
 
-[src/authz/intents.ts:156](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/authz/intents.ts#L156)
+[src/authz/intents.ts:156](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/intents.ts#L156)

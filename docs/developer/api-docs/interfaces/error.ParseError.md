@@ -22,7 +22,7 @@ Error type thrown on missing keys and invalid values:
 
 #### Defined in
 
-[src/error.ts:9](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/error.ts#L9)
+[src/error.ts:9](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L9)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:8](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/error.ts#L8)
+[src/error.ts:8](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L8)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:10](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/error.ts#L10)
+[src/error.ts:10](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L10)

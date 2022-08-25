@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:12](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_record.ts#L12)
+[src/service/domain/organization/user_record.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_record.ts#L12)
 
 ## Variables
 
@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:13](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_record.ts#L13)
+[src/service/domain/organization/user_record.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_record.ts#L13)
 
 ## Functions
 
@@ -61,7 +61,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:46](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_record.ts#L46)
+[src/service/domain/organization/user_record.ts:46](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_record.ts#L46)
 
 ___
 
@@ -81,4 +81,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:41](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/organization/user_record.ts#L41)
+[src/service/domain/organization/user_record.ts:41](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_record.ts#L41)

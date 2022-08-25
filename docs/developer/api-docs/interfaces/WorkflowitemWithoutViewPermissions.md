@@ -21,7 +21,7 @@ Represents a workflowitem without view permissions
 
 #### Defined in
 
-[src/notification_list.ts:174](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L174)
+[src/notification_list.ts:174](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L174)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:173](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L173)
+[src/notification_list.ts:173](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L173)

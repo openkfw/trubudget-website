@@ -25,7 +25,7 @@ See [ErrorCode](../enums/service_RpcResponse_h.ErrorCode.md) for a list of prede
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:31](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/RpcResponse.h.ts#L31)
+[src/service/RpcResponse.h.ts:31](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcResponse.h.ts#L31)
 
 ___
 
@@ -37,4 +37,4 @@ Error description.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:36](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/RpcResponse.h.ts#L36)
+[src/service/RpcResponse.h.ts:36](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcResponse.h.ts#L36)

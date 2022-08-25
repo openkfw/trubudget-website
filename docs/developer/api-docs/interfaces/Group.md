@@ -22,7 +22,7 @@ Represents the type of the group that will be created
 
 #### Defined in
 
-[src/group_create.ts:20](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/group_create.ts#L20)
+[src/group_create.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/group_create.ts#L20)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/group_create.ts:19](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/group_create.ts#L19)
+[src/group_create.ts:19](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/group_create.ts#L19)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-[src/group_create.ts:21](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/group_create.ts#L21)
+[src/group_create.ts:21](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/group_create.ts#L21)

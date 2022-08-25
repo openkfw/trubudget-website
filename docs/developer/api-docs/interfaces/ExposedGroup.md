@@ -22,7 +22,7 @@ Represents the type of the group that will be returned in a list
 
 #### Defined in
 
-[src/group_list.ts:70](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/group_list.ts#L70)
+[src/group_list.ts:70](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/group_list.ts#L70)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/group_list.ts:69](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/group_list.ts#L69)
+[src/group_list.ts:69](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/group_list.ts#L69)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-[src/group_list.ts:71](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/group_list.ts#L71)
+[src/group_list.ts:71](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/group_list.ts#L71)

@@ -14,28 +14,28 @@
 
 ### safeIdSchema
 
-• `Const` **safeIdSchema**: `StringSchema`
+• `Const` **safeIdSchema**: `any`
 
 #### Defined in
 
-[src/lib/joiValidation.ts:9](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/lib/joiValidation.ts#L9)
+[src/lib/joiValidation.ts:19](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/lib/joiValidation.ts#L19)
 
 ___
 
 ### safePasswordSchema
 
-• `Const` **safePasswordSchema**: `StringSchema`
+• `Const` **safePasswordSchema**: `any`
 
 #### Defined in
 
-[src/lib/joiValidation.ts:12](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/lib/joiValidation.ts#L12)
+[src/lib/joiValidation.ts:25](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/lib/joiValidation.ts#L25)
 
 ___
 
 ### safeStringSchema
 
-• `Const` **safeStringSchema**: `StringSchema`
+• `Const` **safeStringSchema**: `any`
 
 #### Defined in
 
-[src/lib/joiValidation.ts:5](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/lib/joiValidation.ts#L5)
+[src/lib/joiValidation.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/lib/joiValidation.ts#L12)

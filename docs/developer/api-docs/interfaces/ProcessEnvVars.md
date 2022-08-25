@@ -39,7 +39,7 @@ Shows all environment variables that the api can contain
 
 #### Defined in
 
-[src/config.ts:25](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L25)
+[src/config.ts:25](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L25)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:17](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L17)
+[src/config.ts:17](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L17)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:20](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L20)
+[src/config.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L20)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:19](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L19)
+[src/config.ts:19](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L19)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:21](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L21)
+[src/config.ts:21](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L21)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:27](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L27)
+[src/config.ts:27](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L27)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:18](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L18)
+[src/config.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L18)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:13](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L13)
+[src/config.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L13)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:16](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L16)
+[src/config.ts:16](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L16)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:14](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L14)
+[src/config.ts:14](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L14)
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:15](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L15)
+[src/config.ts:15](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L15)
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:26](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L26)
+[src/config.ts:26](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L26)
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:9](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L9)
+[src/config.ts:9](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L9)
 
 ___
 
@@ -169,7 +169,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:10](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L10)
+[src/config.ts:10](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L10)
 
 ___
 
@@ -179,7 +179,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:11](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L11)
+[src/config.ts:11](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L11)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:12](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L12)
+[src/config.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L12)
 
 ___
 
@@ -199,7 +199,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:28](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L28)
+[src/config.ts:28](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L28)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:24](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L24)
+[src/config.ts:24](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L24)
 
 ___
 
@@ -219,7 +219,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:22](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L22)
+[src/config.ts:22](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L22)
 
 ___
 
@@ -229,4 +229,4 @@ ___
 
 #### Defined in
 
-[src/config.ts:23](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L23)
+[src/config.ts:23](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L23)

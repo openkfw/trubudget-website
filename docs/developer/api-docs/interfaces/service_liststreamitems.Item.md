@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/liststreamitems.ts:11](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/liststreamitems.ts#L11)
+[src/service/liststreamitems.ts:11](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/liststreamitems.ts#L11)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/service/liststreamitems.ts:7](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/liststreamitems.ts#L7)
+[src/service/liststreamitems.ts:7](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/liststreamitems.ts#L7)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/service/liststreamitems.ts:6](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/liststreamitems.ts#L6)
+[src/service/liststreamitems.ts:6](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/liststreamitems.ts#L6)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/liststreamitems.ts:5](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/liststreamitems.ts#L5)
+[src/service/liststreamitems.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/liststreamitems.ts#L5)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/service/liststreamitems.ts:4](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/liststreamitems.ts#L4)
+[src/service/liststreamitems.ts:4](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/liststreamitems.ts#L4)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/liststreamitems.ts:10](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/liststreamitems.ts#L10)
+[src/service/liststreamitems.ts:10](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/liststreamitems.ts#L10)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/service/liststreamitems.ts:3](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/liststreamitems.ts#L3)
+[src/service/liststreamitems.ts:3](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/liststreamitems.ts#L3)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/service/liststreamitems.ts:8](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/liststreamitems.ts#L8)
+[src/service/liststreamitems.ts:8](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/liststreamitems.ts#L8)
 
 ___
 
@@ -106,4 +106,4 @@ ___
 
 #### Defined in
 
-[src/service/liststreamitems.ts:9](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/liststreamitems.ts#L9)
+[src/service/liststreamitems.ts:9](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/liststreamitems.ts#L9)

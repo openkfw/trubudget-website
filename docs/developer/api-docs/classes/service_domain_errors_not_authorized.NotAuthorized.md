@@ -18,6 +18,7 @@
 
 ### Properties
 
+- [cause](service_domain_errors_not_authorized.NotAuthorized.md#cause)
 - [message](service_domain_errors_not_authorized.NotAuthorized.md#message)
 - [name](service_domain_errors_not_authorized.NotAuthorized.md#name)
 - [stack](service_domain_errors_not_authorized.NotAuthorized.md#stack)
@@ -27,7 +28,6 @@
 
 ### Methods
 
-- [cause](service_domain_errors_not_authorized.NotAuthorized.md#cause)
 - [captureStackTrace](service_domain_errors_not_authorized.NotAuthorized.md#capturestacktrace)
 - [cause](service_domain_errors_not_authorized.NotAuthorized.md#cause-1)
 - [errorForEach](service_domain_errors_not_authorized.NotAuthorized.md#errorforeach)
@@ -56,9 +56,31 @@ VError.constructor
 
 #### Defined in
 
-[src/service/domain/errors/not_authorized.ts:33](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/errors/not_authorized.ts#L33)
+[src/service/domain/errors/not_authorized.ts:33](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/errors/not_authorized.ts#L33)
 
 ## Properties
+
+### cause
+
+• **cause**: () => `undefined` \| `Error`
+
+#### Type declaration
+
+▸ (): `undefined` \| `Error`
+
+##### Returns
+
+`undefined` \| `Error`
+
+#### Inherited from
+
+VError.cause
+
+#### Defined in
+
+node_modules/@types/verror/index.d.ts:31
+
+___
 
 ### message
 
@@ -162,24 +184,6 @@ VError.stackTraceLimit
 node_modules/@types/node/globals.d.ts:13
 
 ## Methods
-
-### cause
-
-▸ **cause**(): `undefined` \| `Error`
-
-#### Returns
-
-`undefined` \| `Error`
-
-#### Inherited from
-
-VError.cause
-
-#### Defined in
-
-node_modules/@types/verror/index.d.ts:31
-
-___
 
 ### captureStackTrace
 

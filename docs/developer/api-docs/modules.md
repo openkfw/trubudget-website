@@ -41,6 +41,7 @@ sidebar_label: Table of Contents
 - [lib/deepcopy](modules/lib_deepcopy.md)
 - [lib/emptyChecks](modules/lib_emptyChecks.md)
 - [lib/flatMap](modules/lib_flatMap.md)
+- [lib/htmlSanitize](modules/lib_htmlSanitize.md)
 - [lib/inheritDefinedProperties](modules/lib_inheritDefinedProperties.md)
 - [lib/joiValidation](modules/lib_joiValidation.md)
 - [lib/logger](modules/lib_logger.md)
@@ -432,7 +433,7 @@ Type representing the notification metadata
 
 #### Defined in
 
-[src/notification_list.ts:201](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L201)
+[src/notification_list.ts:201](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L201)
 
 ## Functions
 
@@ -456,7 +457,7 @@ Checks if required environment variables are set, stops the process otherwise
 
 #### Defined in
 
-[src/config.ts:121](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/config.ts#L121)
+[src/config.ts:121](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L121)
 
 ___
 
@@ -485,7 +486,7 @@ the notification metadata as a [NotificationMetadata](modules.md#notificationmet
 
 #### Defined in
 
-[src/notification_list.ts:353](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L353)
+[src/notification_list.ts:353](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L353)
 
 ___
 
@@ -514,7 +515,7 @@ a promise containing the metadata visible to a user either with or without permi
 
 #### Defined in
 
-[src/notification_list.ts:260](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L260)
+[src/notification_list.ts:260](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L260)
 
 ___
 
@@ -544,7 +545,7 @@ a promise containing the metadata visible to a user either with or without permi
 
 #### Defined in
 
-[src/notification_list.ts:288](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L288)
+[src/notification_list.ts:288](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L288)
 
 ___
 
@@ -575,4 +576,4 @@ a promise containing the metadata visible to a user either with or without permi
 
 #### Defined in
 
-[src/notification_list.ts:318](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L318)
+[src/notification_list.ts:318](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L318)

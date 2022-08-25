@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/additional_data.ts:3](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/additional_data.ts#L3)
+[src/service/domain/additional_data.ts:3](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/additional_data.ts#L3)
 
 ## Variables
 
@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/additional_data.ts:5](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/additional_data.ts#L5)
+[src/service/domain/additional_data.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/additional_data.ts#L5)

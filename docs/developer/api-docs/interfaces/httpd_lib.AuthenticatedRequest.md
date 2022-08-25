@@ -364,7 +364,7 @@ ___
 
 #### Defined in
 
-[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/httpd/lib.ts#L7)
+[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/lib.ts#L7)
 
 ___
 

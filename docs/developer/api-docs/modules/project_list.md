@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.li
 
 #### Defined in
 
-[src/project_list.ts:130](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/project_list.ts#L130)
+[src/project_list.ts:130](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/project_list.ts#L130)

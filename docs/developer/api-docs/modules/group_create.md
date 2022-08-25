@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.cre
 
 #### Defined in
 
-[src/group_create.ts:163](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/group_create.ts#L163)
+[src/group_create.ts:163](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/group_create.ts#L163)

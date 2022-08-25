@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/projected_budget.ts:17](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/projected_budget.ts#L17)
+[src/service/domain/workflow/projected_budget.ts:17](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/projected_budget.ts#L17)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/projected_budget.ts:11](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/workflow/projected_budget.ts#L11)
+[src/service/domain/workflow/projected_budget.ts:11](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/projected_budget.ts#L11)

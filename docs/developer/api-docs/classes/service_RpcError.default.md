@@ -57,7 +57,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/RpcError.ts#L12)
+[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcError.ts#L12)
 
 ## Properties
 

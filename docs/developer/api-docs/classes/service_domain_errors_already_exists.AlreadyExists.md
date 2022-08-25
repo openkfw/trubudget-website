@@ -53,7 +53,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:9](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/errors/already_exists.ts#L9)
+[src/service/domain/errors/already_exists.ts:9](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/errors/already_exists.ts#L9)
 
 ## Properties
 

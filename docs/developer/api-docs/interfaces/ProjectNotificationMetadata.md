@@ -20,4 +20,4 @@ Represents a notification with a project as metadata
 
 #### Defined in
 
-[src/notification_list.ts:137](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L137)
+[src/notification_list.ts:137](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L137)

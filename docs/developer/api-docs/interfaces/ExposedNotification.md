@@ -31,7 +31,7 @@ Represents an exposed notification
 
 #### Defined in
 
-[src/notification_list.ts:213](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L213)
+[src/notification_list.ts:213](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L213)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:211](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L211)
+[src/notification_list.ts:211](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L211)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:212](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L212)
+[src/notification_list.ts:212](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L212)
 
 ___
 
@@ -61,4 +61,4 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:218](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L218)
+[src/notification_list.ts:218](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L218)

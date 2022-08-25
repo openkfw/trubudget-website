@@ -21,7 +21,7 @@ Represents a subproject without view permissions
 
 #### Defined in
 
-[src/notification_list.ts:146](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L146)
+[src/notification_list.ts:146](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L146)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/notification_list.ts:145](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/notification_list.ts#L145)
+[src/notification_list.ts:145](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L145)

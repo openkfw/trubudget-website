@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:28](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/document/document.ts#L28)
+[src/service/domain/document/document.ts:28](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/document.ts#L28)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:14](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/document/document.ts#L14)
+[src/service/domain/document/document.ts:14](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/document.ts#L14)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:41](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/document/document.ts#L41)
+[src/service/domain/document/document.ts:41](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/document.ts#L41)
 
 ## Functions
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:54](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/document/document.ts#L54)
+[src/service/domain/document/document.ts:54](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/document.ts#L54)
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:65](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/document/document.ts#L65)
+[src/service/domain/document/document.ts:65](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/document.ts#L65)
 
 ___
 
@@ -111,4 +111,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:87](https://github.com/openkfw/TruBudget/blob/b9aaff0/api/src/service/domain/document/document.ts#L87)
+[src/service/domain/document/document.ts:87](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/document.ts#L87)
