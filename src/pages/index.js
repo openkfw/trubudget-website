@@ -41,16 +41,16 @@ export default function Home() {
           rel="stylesheet"
           type="text/css"
         />
-        <link
-          href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+{/*         <link
+          href="../css/google-fonts/css/openSans.css"
           rel="stylesheet"
           type="text/css"
         />
         <link
-          href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic"
+          href="../css/google-fonts/css/merriweather.css"
           rel="stylesheet"
           type="text/css"
-        />
+        /> */}
 
         <link
           href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.min.css"
@@ -86,13 +86,13 @@ export default function Home() {
                     transparent project management
                   </p>
                   <iframe
-                    width="568"
-                    height="320"
+                    width="70%"
+                    
                     src="https://www.youtube.com/embed/IzYSCoVGZ6c"
                     frameBorder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
-                  ></iframe>
+                  ></iframe><br></br>
 
                   <a
                     className="btn btn-light btn-xl js-scroll-trigger"
@@ -403,7 +403,7 @@ export default function Home() {
                       For Donors
                       <br />
                     </h3>
-                    <p className="mb-0">
+                    <div className="mb-0">
                       <br /> Real-time information on the use of funds
                       <center>
                         <hr />
@@ -419,7 +419,7 @@ export default function Home() {
                         <hr />
                       </center>
                       Significantly reduce transaction costs
-                    </p>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -686,7 +686,7 @@ export default function Home() {
                   <center>
                     <hr className="light my-4" />
                   </center>
-                  <p class="mb-4">
+                  <div class="mb-4">
                     Legal notice and disclaimer: <br />
                     <br />
                     KfW <br />
@@ -804,7 +804,7 @@ export default function Home() {
                     Hyperlinks to the KfW Internet offers are admissible if the
                     KfW Internet page retrieved becomes the sole content of the
                     browser window.
-                  </p>
+                  </div>
                 </div>
               </div>
             </div>
