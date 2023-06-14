@@ -22,11 +22,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_closed.ts#L18)
+[src/service/domain/workflow/project_closed.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_closed.ts#L18)
 
 ## Functions
 
@@ -49,7 +49,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:26](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_closed.ts#L26)
+[src/service/domain/workflow/project_closed.ts:26](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_closed.ts#L26)
 
 ___
 
@@ -79,7 +79,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:61](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_closed.ts#L61)
+[src/service/domain/workflow/project_closed.ts:61](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_closed.ts#L61)
 
 ___
 
@@ -99,4 +99,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:46](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_closed.ts#L46)
+[src/service/domain/workflow/project_closed.ts:46](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_closed.ts#L46)

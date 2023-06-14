@@ -8,14 +8,14 @@
 
 - [NotAuthorizedError](../interfaces/authz_types.NotAuthorizedError.md)
 
-### Type aliases
+### Type Aliases
 
 - [GroupId](authz_types.md#groupid)
 - [People](authz_types.md#people)
 - [Permissions](authz_types.md#permissions)
 - [UserId](authz_types.md#userid)
 
-## Type aliases
+## Type Aliases
 
 ### GroupId
 
@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[src/authz/types.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/types.ts#L5)
+[src/authz/types.ts:5](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/authz/types.ts#L5)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/authz/types.ts:6](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/types.ts#L6)
+[src/authz/types.ts:6](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/authz/types.ts#L6)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/authz/types.ts:8](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/types.ts#L8)
+[src/authz/types.ts:8](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/authz/types.ts#L8)
 
 ___
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/authz/types.ts:4](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/authz/types.ts#L4)
+[src/authz/types.ts:4](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/authz/types.ts#L4)

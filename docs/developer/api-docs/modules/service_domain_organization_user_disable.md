@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_disable.ts:39](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disable.ts#L39)
+[src/service/domain/organization/user_disable.ts:39](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_disable.ts#L39)
 
 ___
 
@@ -55,4 +55,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disable.ts:28](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disable.ts#L28)
+[src/service/domain/organization/user_disable.ts:28](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_disable.ts#L28)

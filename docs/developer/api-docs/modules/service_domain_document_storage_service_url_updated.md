@@ -21,11 +21,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_updated.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/storage_service_url_updated.ts#L18)
+[src/service/domain/document/storage_service_url_updated.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/storage_service_url_updated.ts#L18)
 
 ## Functions
 
@@ -49,7 +49,7 @@
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_updated.ts:27](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/storage_service_url_updated.ts#L27)
+[src/service/domain/document/storage_service_url_updated.ts:27](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/storage_service_url_updated.ts#L27)
 
 ___
 
@@ -69,4 +69,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_updated.ts:49](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/storage_service_url_updated.ts#L49)
+[src/service/domain/document/storage_service_url_updated.ts:49](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/storage_service_url_updated.ts#L49)

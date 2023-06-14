@@ -12,7 +12,7 @@
 
 ### createBackup
 
-▸ **createBackup**(`blockchainHost`, `blockchainPort`, `req`): `Promise`<`any`\>
+▸ **createBackup**(`blockchainHost`, `blockchainPort`, `req`): `Promise`<`AxiosResponse`<`any`, `any`\>\>
 
 #### Parameters
 
@@ -24,8 +24,8 @@
 
 #### Returns
 
-`Promise`<`any`\>
+`Promise`<`AxiosResponse`<`any`, `any`\>\>
 
 #### Defined in
 
-[src/system/createBackup.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/system/createBackup.ts#L5)
+[src/system/createBackup.ts:5](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/system/createBackup.ts#L5)

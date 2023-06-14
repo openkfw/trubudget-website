@@ -57,7 +57,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcError.ts#L12)
+[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcError.ts#L12)
 
 ## Properties
 
@@ -65,11 +65,23 @@ Error.constructor
 
 • `Readonly` **body**: `string`
 
+Body of the HTTP response.
+
+#### Defined in
+
+[src/service/RpcError.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcError.ts#L16)
+
 ___
 
 ### headers
 
 • `Readonly` **headers**: `object`
+
+Headers of the HTTP response.
+
+#### Defined in
+
+[src/service/RpcError.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcError.ts#L15)
 
 ___
 
@@ -83,7 +95,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1023
+node_modules/typescript/lib/lib.es5.d.ts:1055
 
 ___
 
@@ -97,7 +109,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1022
+node_modules/typescript/lib/lib.es5.d.ts:1054
 
 ___
 
@@ -111,7 +123,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1024
+node_modules/typescript/lib/lib.es5.d.ts:1056
 
 ___
 
@@ -119,11 +131,23 @@ ___
 
 • `Readonly` **status**: `number`
 
+Status code of the HTTP response.
+
+#### Defined in
+
+[src/service/RpcError.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcError.ts#L13)
+
 ___
 
 ### statusText
 
 • `Readonly` **statusText**: `string`
+
+Status text of the HTTP response.
+
+#### Defined in
+
+[src/service/RpcError.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcError.ts#L14)
 
 ___
 
@@ -137,7 +161,9 @@ ___
 
 Optional override for formatting stack traces
 
-**`see`** https://v8.dev/docs/stack-trace-api#customizing-stack-traces
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 ##### Parameters
 

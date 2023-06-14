@@ -16,8 +16,8 @@
 
 ### workflowitemTraceEventSchema
 
-• `Const` **workflowitemTraceEventSchema**: `ObjectSchema`
+• `Const` **workflowitemTraceEventSchema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_trace_event.ts:17](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_trace_event.ts#L17)
+[src/service/domain/workflow/workflowitem_trace_event.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_trace_event.ts#L17)

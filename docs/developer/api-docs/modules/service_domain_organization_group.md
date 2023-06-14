@@ -8,7 +8,7 @@
 
 - [Group](../interfaces/service_domain_organization_group.Group.md)
 
-### Type aliases
+### Type Aliases
 
 - [Id](service_domain_organization_group.md#id)
 - [Member](service_domain_organization_group.md#member)
@@ -24,7 +24,7 @@
 - [permits](service_domain_organization_group.md#permits)
 - [validate](service_domain_organization_group.md#validate)
 
-## Type aliases
+## Type Aliases
 
 ### Id
 
@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group.ts#L12)
+[src/service/domain/organization/group.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group.ts#L12)
 
 ___
 
@@ -42,37 +42,37 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:15](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group.ts#L15)
+[src/service/domain/organization/group.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group.ts#L15)
 
 ## Variables
 
 ### idSchema
 
-• `Const` **idSchema**: `StringSchema`
+• `Const` **idSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group.ts#L13)
+[src/service/domain/organization/group.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group.ts#L13)
 
 ___
 
 ### memberSchema
 
-• `Const` **memberSchema**: `StringSchema`
+• `Const` **memberSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:16](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group.ts#L16)
+[src/service/domain/organization/group.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group.ts#L16)
 
 ___
 
 ### membersSchema
 
-• `Const` **membersSchema**: `ArraySchema`
+• `Const` **membersSchema**: `ArraySchema`<`any`[]\>
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:17](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group.ts#L17)
+[src/service/domain/organization/group.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group.ts#L17)
 
 ## Functions
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:47](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group.ts#L47)
+[src/service/domain/organization/group.ts:47](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group.ts#L47)
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:42](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/group.ts#L42)
+[src/service/domain/organization/group.ts:42](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group.ts#L42)

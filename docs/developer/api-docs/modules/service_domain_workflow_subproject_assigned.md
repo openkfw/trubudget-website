@@ -22,11 +22,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:21](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_assigned.ts#L21)
+[src/service/domain/workflow/subproject_assigned.ts:21](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_assigned.ts#L21)
 
 ## Functions
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:31](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_assigned.ts#L31)
+[src/service/domain/workflow/subproject_assigned.ts:31](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_assigned.ts#L31)
 
 ___
 
@@ -81,7 +81,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:71](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_assigned.ts#L71)
+[src/service/domain/workflow/subproject_assigned.ts:71](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_assigned.ts#L71)
 
 ___
 
@@ -101,4 +101,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:56](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_assigned.ts#L56)
+[src/service/domain/workflow/subproject_assigned.ts:56](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_assigned.ts#L56)

@@ -8,7 +8,7 @@
 
 - [RequestData](../interfaces/service_domain_workflow_workflowitem_update.RequestData.md)
 
-### Type aliases
+### Type Aliases
 
 - [EventData](service_domain_workflow_workflowitem_update.md#eventdata)
 
@@ -20,7 +20,7 @@
 
 - [updateWorkflowitem](service_domain_workflow_workflowitem_update.md#updateworkflowitem)
 
-## Type aliases
+## Type Aliases
 
 ### EventData
 
@@ -28,17 +28,17 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_update.ts:40](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_update.ts#L40)
+[src/service/domain/workflow/workflowitem_update.ts:40](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_update.ts#L40)
 
 ## Variables
 
 ### requestDataSchema
 
-• `Const` **requestDataSchema**: `ObjectSchema` = `WorkflowitemUpdated.modificationSchema`
+• `Const` **requestDataSchema**: `ObjectSchema`<`any`\> = `WorkflowitemUpdated.modificationSchema`
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_update.ts:41](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_update.ts#L41)
+[src/service/domain/workflow/workflowitem_update.ts:41](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_update.ts#L41)
 
 ## Functions
 
@@ -64,4 +64,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_update.ts:73](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_update.ts#L73)
+[src/service/domain/workflow/workflowitem_update.ts:73](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_update.ts#L73)

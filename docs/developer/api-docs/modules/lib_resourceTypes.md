@@ -4,11 +4,11 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [ResourceType](lib_resourceTypes.md#resourcetype)
 
-## Type aliases
+## Type Aliases
 
 ### ResourceType
 
@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/lib/resourceTypes.ts:1](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/lib/resourceTypes.ts#L1)
+[src/lib/resourceTypes.ts:1](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/lib/resourceTypes.ts#L1)

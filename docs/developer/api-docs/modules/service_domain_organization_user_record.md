@@ -8,7 +8,7 @@
 
 - [UserRecord](../interfaces/service_domain_organization_user_record.UserRecord.md)
 
-### Type aliases
+### Type Aliases
 
 - [Id](service_domain_organization_user_record.md#id)
 
@@ -21,7 +21,7 @@
 - [permits](service_domain_organization_user_record.md#permits)
 - [validate](service_domain_organization_user_record.md#validate)
 
-## Type aliases
+## Type Aliases
 
 ### Id
 
@@ -29,17 +29,17 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_record.ts#L12)
+[src/service/domain/organization/user_record.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_record.ts#L12)
 
 ## Variables
 
 ### idSchema
 
-• `Const` **idSchema**: `StringSchema`
+• `Const` **idSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_record.ts#L13)
+[src/service/domain/organization/user_record.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_record.ts#L13)
 
 ## Functions
 
@@ -61,7 +61,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:46](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_record.ts#L46)
+[src/service/domain/organization/user_record.ts:46](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_record.ts#L46)
 
 ___
 
@@ -81,4 +81,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:41](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_record.ts#L41)
+[src/service/domain/organization/user_record.ts:41](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_record.ts#L41)

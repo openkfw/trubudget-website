@@ -59,7 +59,7 @@ Error.constructor
 
 #### Defined in
 
-[src/error.ts:135](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L135)
+[src/error.ts:135](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L135)
 
 ## Properties
 
@@ -69,7 +69,7 @@ Error.constructor
 
 #### Defined in
 
-[src/error.ts:121](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L121)
+[src/error.ts:121](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L121)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:113](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L113)
+[src/error.ts:113](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L113)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:131](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L131)
+[src/error.ts:131](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L131)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:129](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L129)
+[src/error.ts:129](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L129)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:117](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L117)
+[src/error.ts:117](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L117)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:133](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L133)
+[src/error.ts:133](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L133)
 
 ___
 
@@ -133,7 +133,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1023
+node_modules/typescript/lib/lib.es5.d.ts:1055
 
 ___
 
@@ -147,7 +147,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1022
+node_modules/typescript/lib/lib.es5.d.ts:1054
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:127](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L127)
+[src/error.ts:127](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L127)
 
 ___
 
@@ -171,7 +171,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1024
+node_modules/typescript/lib/lib.es5.d.ts:1056
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:125](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L125)
+[src/error.ts:125](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L125)
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:123](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L123)
+[src/error.ts:123](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L123)
 
 ___
 
@@ -201,7 +201,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:119](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L119)
+[src/error.ts:119](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L119)
 
 ___
 
@@ -211,7 +211,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:115](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L115)
+[src/error.ts:115](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L115)
 
 ___
 
@@ -225,7 +225,9 @@ ___
 
 Optional override for formatting stack traces
 
-**`see`** https://v8.dev/docs/stack-trace-api#customizing-stack-traces
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 ##### Parameters
 

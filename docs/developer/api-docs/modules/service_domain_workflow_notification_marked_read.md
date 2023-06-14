@@ -21,11 +21,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:23](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/notification_marked_read.ts#L23)
+[src/service/domain/workflow/notification_marked_read.ts:23](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification_marked_read.ts#L23)
 
 ## Functions
 
@@ -49,7 +49,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:32](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/notification_marked_read.ts#L32)
+[src/service/domain/workflow/notification_marked_read.ts:32](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification_marked_read.ts#L32)
 
 ___
 
@@ -69,4 +69,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:56](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/notification_marked_read.ts#L56)
+[src/service/domain/workflow/notification_marked_read.ts:56](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification_marked_read.ts#L56)

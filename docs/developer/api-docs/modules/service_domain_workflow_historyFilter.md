@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [Filter](service_domain_workflow_historyFilter.md#filter)
 
@@ -12,7 +12,7 @@
 
 - [filterTraceEvents](service_domain_workflow_historyFilter.md#filtertraceevents)
 
-## Type aliases
+## Type Aliases
 
 ### Filter
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/historyFilter.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/historyFilter.ts#L20)
+[src/service/domain/workflow/historyFilter.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/historyFilter.ts#L20)
 
 ## Functions
 
@@ -47,4 +47,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/historyFilter.ts:22](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/historyFilter.ts#L22)
+[src/service/domain/workflow/historyFilter.ts:22](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/historyFilter.ts#L22)

@@ -18,6 +18,9 @@
 
 ### Properties
 
+- [ctx](service_domain_errors_not_found.NotFound.md#ctx)
+- [entityId](service_domain_errors_not_found.NotFound.md#entityid)
+- [entityType](service_domain_errors_not_found.NotFound.md#entitytype)
 - [message](service_domain_errors_not_found.NotFound.md#message)
 - [name](service_domain_errors_not_found.NotFound.md#name)
 - [stack](service_domain_errors_not_found.NotFound.md#stack)
@@ -39,7 +42,7 @@
 | Name | Type |
 | :------ | :------ |
 | `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
-| `entityType` | ``"project"`` \| ``"subproject"`` \| ``"workflowitem"`` \| ``"group"`` \| ``"user"`` \| ``"document"`` \| ``"notification"`` \| ``"key"`` \| ``"secret"`` |
+| `entityType` | ``"key"`` \| ``"secret"`` \| ``"document"`` \| ``"user"`` \| ``"group"`` \| ``"project"`` \| ``"subproject"`` \| ``"workflowitem"`` \| ``"notification"`` |
 | `entityId` | `string` |
 
 #### Overrides
@@ -48,9 +51,39 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/not_found.ts:4](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/errors/not_found.ts#L4)
+[src/service/domain/errors/not_found.ts:4](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/not_found.ts#L4)
 
 ## Properties
+
+### ctx
+
+• `Private` `Readonly` **ctx**: [`Ctx`](../interfaces/lib_ctx.Ctx.md)
+
+#### Defined in
+
+[src/service/domain/errors/not_found.ts:5](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/not_found.ts#L5)
+
+___
+
+### entityId
+
+• `Private` `Readonly` **entityId**: `string`
+
+#### Defined in
+
+[src/service/domain/errors/not_found.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/not_found.ts#L16)
+
+___
+
+### entityType
+
+• `Private` `Readonly` **entityType**: ``"key"`` \| ``"secret"`` \| ``"document"`` \| ``"user"`` \| ``"group"`` \| ``"project"`` \| ``"subproject"`` \| ``"workflowitem"`` \| ``"notification"``
+
+#### Defined in
+
+[src/service/domain/errors/not_found.ts:6](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/not_found.ts#L6)
+
+___
 
 ### message
 
@@ -62,7 +95,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1023
+node_modules/typescript/lib/lib.es5.d.ts:1055
 
 ___
 
@@ -76,7 +109,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1022
+node_modules/typescript/lib/lib.es5.d.ts:1054
 
 ___
 
@@ -90,7 +123,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1024
+node_modules/typescript/lib/lib.es5.d.ts:1056
 
 ___
 
@@ -104,7 +137,9 @@ ___
 
 Optional override for formatting stack traces
 
-**`see`** https://v8.dev/docs/stack-trace-api#customizing-stack-traces
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 ##### Parameters
 

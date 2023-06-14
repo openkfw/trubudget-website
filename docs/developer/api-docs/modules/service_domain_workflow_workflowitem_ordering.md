@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [WorkflowitemOrdering](service_domain_workflow_workflowitem_ordering.md#workflowitemordering)
 
@@ -12,7 +12,7 @@
 
 - [sortWorkflowitems](service_domain_workflow_workflowitem_ordering.md#sortworkflowitems)
 
-## Type aliases
+## Type Aliases
 
 ### WorkflowitemOrdering
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_ordering.ts:4](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_ordering.ts#L4)
+[src/service/domain/workflow/workflowitem_ordering.ts:4](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_ordering.ts#L4)
 
 ## Functions
 
@@ -47,4 +47,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_ordering.ts:11](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_ordering.ts#L11)
+[src/service/domain/workflow/workflowitem_ordering.ts:11](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_ordering.ts#L11)

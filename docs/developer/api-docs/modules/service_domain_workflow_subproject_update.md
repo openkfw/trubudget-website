@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [RequestData](service_domain_workflow_subproject_update.md#requestdata)
 
@@ -17,7 +17,7 @@
 - [updateSubproject](service_domain_workflow_subproject_update.md#updatesubproject)
 - [validate](service_domain_workflow_subproject_update.md#validate)
 
-## Type aliases
+## Type Aliases
 
 ### RequestData
 
@@ -25,17 +25,17 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_update.ts#L20)
+[src/service/domain/workflow/subproject_update.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_update.ts#L20)
 
 ## Variables
 
 ### requestDataSchema
 
-• `Const` **requestDataSchema**: `ObjectSchema` = `SubprojectUpdated.updatedDataSchema`
+• `Const` **requestDataSchema**: `ObjectSchema`<`any`\> = `SubprojectUpdated.updatedDataSchema`
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:21](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_update.ts#L21)
+[src/service/domain/workflow/subproject_update.ts:21](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_update.ts#L21)
 
 ## Functions
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:36](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_update.ts#L36)
+[src/service/domain/workflow/subproject_update.ts:36](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_update.ts#L36)
 
 ___
 
@@ -80,4 +80,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:23](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_update.ts#L23)
+[src/service/domain/workflow/subproject_update.ts:23](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_update.ts#L23)

@@ -22,11 +22,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:21](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L21)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:21](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L21)
 
 ## Functions
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:31](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L31)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:31](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L31)
 
 ___
 
@@ -81,7 +81,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:70](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L70)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:70](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L70)
 
 ___
 
@@ -101,4 +101,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:55](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L55)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:55](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L55)

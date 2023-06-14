@@ -8,7 +8,7 @@
 
 - [PublicKey](../interfaces/service_domain_organization_public_key.PublicKey.md)
 
-### Type aliases
+### Type Aliases
 
 - [Organization](service_domain_organization_public_key.md#organization)
 - [PublicKeyBase64](service_domain_organization_public_key.md#publickeybase64)
@@ -17,7 +17,7 @@
 
 - [validate](service_domain_organization_public_key.md#validate)
 
-## Type aliases
+## Type Aliases
 
 ### Organization
 
@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/public_key.ts#L5)
+[src/service/domain/organization/public_key.ts:5](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key.ts#L5)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key.ts:6](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/public_key.ts#L6)
+[src/service/domain/organization/public_key.ts:6](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key.ts#L6)
 
 ## Functions
 
@@ -55,4 +55,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/public_key.ts#L18)
+[src/service/domain/organization/public_key.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key.ts#L18)

@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/grantpermissiontoaddress.ts:4](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/grantpermissiontoaddress.ts#L4)
+[src/service/grantpermissiontoaddress.ts:4](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/grantpermissiontoaddress.ts#L4)

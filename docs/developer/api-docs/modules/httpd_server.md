@@ -12,7 +12,7 @@
 
 ### createBasicApp
 
-▸ **createBasicApp**(`jwtSecret`, `urlPrefix`, `apiPort`, `swaggerBasePath`, `accessControlAllowOrigin`): `FastifyInstance`<`Server`, `IncomingMessage`, `ServerResponse`, `FastifyLoggerInstance`\>
+▸ **createBasicApp**(`jwtSecret`, `urlPrefix`, `apiPort`, `accessControlAllowOrigin`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Parameters
 
@@ -21,13 +21,12 @@
 | `jwtSecret` | `string` |
 | `urlPrefix` | `string` |
 | `apiPort` | `number` |
-| `swaggerBasePath` | `string` |
 | `accessControlAllowOrigin` | `string` |
 
 #### Returns
 
-`FastifyInstance`<`Server`, `IncomingMessage`, `ServerResponse`, `FastifyLoggerInstance`\>
+`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Defined in
 
-[src/httpd/server.ts:108](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/server.ts#L108)
+[src/httpd/server.ts:133](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/server.ts#L133)

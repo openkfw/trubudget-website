@@ -17,18 +17,18 @@
 
 ### projectedBudgetListSchema
 
-• `Const` **projectedBudgetListSchema**: `ArraySchema`
+• `Const` **projectedBudgetListSchema**: `ArraySchema`<`any`[]\>
 
 #### Defined in
 
-[src/service/domain/workflow/projected_budget.ts:17](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/projected_budget.ts#L17)
+[src/service/domain/workflow/projected_budget.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/projected_budget.ts#L17)
 
 ___
 
 ### projectedBudgetSchema
 
-• `Const` **projectedBudgetSchema**: `ObjectSchema`
+• `Const` **projectedBudgetSchema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/projected_budget.ts:11](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/projected_budget.ts#L11)
+[src/service/domain/workflow/projected_budget.ts:11](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/projected_budget.ts#L11)

@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [default](service_domain_workflowitem_types_types.md#default)
 
@@ -12,7 +12,7 @@
 
 - [workflowitemTypeSchema](service_domain_workflowitem_types_types.md#workflowitemtypeschema)
 
-## Type aliases
+## Type Aliases
 
 ### default
 
@@ -20,14 +20,14 @@
 
 #### Defined in
 
-[src/service/domain/workflowitem_types/types.ts:3](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflowitem_types/types.ts#L3)
+[src/service/domain/workflowitem_types/types.ts:3](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflowitem_types/types.ts#L3)
 
 ## Variables
 
 ### workflowitemTypeSchema
 
-• `Const` **workflowitemTypeSchema**: `StringSchema`
+• `Const` **workflowitemTypeSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflowitem_types/types.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflowitem_types/types.ts#L12)
+[src/service/domain/workflowitem_types/types.ts:7](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflowitem_types/types.ts#L7)

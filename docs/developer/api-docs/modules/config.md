@@ -17,31 +17,31 @@
 
 ### config
 
-• `Const` **config**: [`Config`](../interfaces/Config.md)
+• `Const` **config**: `Config`
 
 #### Defined in
 
-[src/config.ts:77](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L77)
+[src/config.ts:77](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/config.ts#L77)
 
 ## Functions
 
 ### default
 
-▸ **default**(): [`Config`](../interfaces/Config.md)
+▸ **default**(): `Config`
 
 Gets the configuration used to start the API
 
-**`notexported`**
+**`Not Exported`**
 
 #### Returns
 
-[`Config`](../interfaces/Config.md)
+`Config`
 
-the configuration [Config](../interfaces/Config.md)
+the configuration Config
 
 #### Defined in
 
-[src/config.ts:168](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L168)
+[src/config.ts:166](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/config.ts#L166)
 
 ___
 
@@ -59,4 +59,4 @@ true if the current environment is a production environment. otherwise false
 
 #### Defined in
 
-[src/config.ts:194](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L194)
+[src/config.ts:192](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/config.ts#L192)

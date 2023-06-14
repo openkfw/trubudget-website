@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/Client.h.ts:100](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client.h.ts#L100)
+[src/service/Client.h.ts:100](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L100)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:98](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client.h.ts#L98)
+[src/service/Client.h.ts:98](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L98)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:99](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client.h.ts#L99)
+[src/service/Client.h.ts:99](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L99)

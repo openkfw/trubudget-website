@@ -26,7 +26,7 @@ Converts an error object to an appropriate http error
 
 `Object`
 
-an error object containing appropriate status code and an {@link ErrorBody}
+an error object containing appropriate status code and an ErrorBody
 
 | Name | Type |
 | :------ | :------ |
@@ -35,4 +35,4 @@ an error object containing appropriate status code and an {@link ErrorBody}
 
 #### Defined in
 
-[src/http_errors.ts:21](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/http_errors.ts#L21)
+[src/http_errors.ts:21](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/http_errors.ts#L21)

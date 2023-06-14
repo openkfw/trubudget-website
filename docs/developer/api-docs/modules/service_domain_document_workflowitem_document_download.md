@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/document/workflowitem_document_download.ts:110](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/document/workflowitem_document_download.ts#L110)
+[src/service/domain/document/workflowitem_document_download.ts:110](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/workflowitem_document_download.ts#L110)

@@ -8,7 +8,7 @@
 
 - [Project](../interfaces/service_domain_workflow_project.Project.md)
 
-### Type aliases
+### Type Aliases
 
 - [Id](service_domain_workflow_project.md#id)
 
@@ -22,7 +22,7 @@
 - [permits](service_domain_workflow_project.md#permits)
 - [validate](service_domain_workflow_project.md#validate)
 
-## Type aliases
+## Type Aliases
 
 ### Id
 
@@ -30,27 +30,27 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project.ts#L13)
+[src/service/domain/workflow/project.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project.ts#L13)
 
 ## Variables
 
 ### idSchema
 
-• `Const` **idSchema**: `StringSchema`
+• `Const` **idSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project.ts:15](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project.ts#L15)
+[src/service/domain/workflow/project.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project.ts#L15)
 
 ___
 
 ### tagsSchema
 
-• `Const` **tagsSchema**: `StringSchema`
+• `Const` **tagsSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project.ts:16](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project.ts#L16)
+[src/service/domain/workflow/project.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project.ts#L16)
 
 ## Functions
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project.ts:56](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project.ts#L56)
+[src/service/domain/workflow/project.ts:56](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project.ts#L56)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project.ts:51](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project.ts#L51)
+[src/service/domain/workflow/project.ts:51](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project.ts#L51)

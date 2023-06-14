@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [Cache2](service_cache2.md#cache2)
 - [TransactionFn](service_cache2.md#transactionfn)
@@ -18,7 +18,7 @@
 - [updateAggregates](service_cache2.md#updateaggregates)
 - [withCache](service_cache2.md#withcache)
 
-## Type aliases
+## Type Aliases
 
 ### Cache2
 
@@ -33,13 +33,14 @@
 | `cachedSubprojects` | `Map`<[`Id`](service_domain_workflow_subproject.md#id), [`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\> |
 | `cachedWorkflowItems` | `Map`<[`Id`](service_domain_workflow_workflowitem.md#id), [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\> |
 | `cachedWorkflowitemLookup` | `Map`<[`Id`](service_domain_workflow_subproject.md#id), `Set`<[`Id`](service_domain_workflow_workflowitem.md#id)\>\> |
+| `ee` | `EventEmitter` |
 | `eventsByStream` | `Map`<`StreamName`, [`BusinessEvent`](service_domain_business_event.md#businessevent)[]\> |
 | `isWriteLocked` | `boolean` |
 | `streamState` | `Map`<`StreamName`, `StreamCursor`\> |
 
 #### Defined in
 
-[src/service/cache2.ts:72](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache2.ts#L72)
+[src/service/cache2.ts:73](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache2.ts#L73)
 
 ___
 
@@ -69,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:325](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache2.ts#L325)
+[src/service/cache2.ts:329](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache2.ts#L329)
 
 ## Functions
 
@@ -90,7 +91,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:144](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache2.ts#L144)
+[src/service/cache2.ts:148](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache2.ts#L148)
 
 ___
 
@@ -104,7 +105,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:90](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache2.ts#L90)
+[src/service/cache2.ts:92](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache2.ts#L92)
 
 ___
 
@@ -124,7 +125,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:355](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache2.ts#L355)
+[src/service/cache2.ts:359](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache2.ts#L359)
 
 ___
 
@@ -145,7 +146,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:620](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache2.ts#L620)
+[src/service/cache2.ts:640](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache2.ts#L640)
 
 ___
 
@@ -167,7 +168,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:526](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache2.ts#L526)
+[src/service/cache2.ts:546](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache2.ts#L546)
 
 ___
 
@@ -196,4 +197,4 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:327](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache2.ts#L327)
+[src/service/cache2.ts:331](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache2.ts#L331)

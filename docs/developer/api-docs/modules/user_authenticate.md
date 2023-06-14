@@ -20,9 +20,9 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `server` | `FastifyInstance`<`Server`, `IncomingMessage`, `ServerResponse`, `FastifyLoggerInstance`\> | the current fastify server instance |
+| `server` | `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> | the current fastify server instance |
 | `urlPrefix` | `string` | the prefix of the http url |
-| `service` | `Service` | the service {@link Service} object used to offer an interface to the domain logic |
+| `service` | `Service` | the service Service object used to offer an interface to the domain logic |
 | `jwtSecret` | `string` | - |
 
 #### Returns
@@ -31,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 #### Defined in
 
-[src/user_authenticate.ts:197](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/user_authenticate.ts#L197)
+[src/user_authenticate.ts:197](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/user_authenticate.ts#L197)

@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [Cache](service_cache.md#cache)
 
@@ -12,7 +12,7 @@
 
 - [initCache](service_cache.md#initcache)
 
-## Type aliases
+## Type Aliases
 
 ### Cache
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/service/cache.ts:8](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache.ts#L8)
+[src/service/cache.ts:8](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache.ts#L8)
 
 ## Functions
 
@@ -43,4 +43,4 @@
 
 #### Defined in
 
-[src/service/cache.ts:19](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/cache.ts#L19)
+[src/service/cache.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/cache.ts#L19)
