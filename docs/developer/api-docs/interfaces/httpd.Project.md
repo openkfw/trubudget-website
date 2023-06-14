@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/httpd/index.ts:121](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/index.ts#L121)
+[src/httpd/index.ts:121](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/index.ts#L121)
 
 ___
 
@@ -38,12 +38,12 @@ ___
 | `displayName` | `string` |
 | `id` | `string` |
 | `projectedBudgets` | `ProjectedBudget`[] |
-| `status` | ``"open"`` \| ``"closed"`` |
+| `status` | ``"closed"`` \| ``"open"`` |
 | `thumbnail` | `string` |
 
 #### Defined in
 
-[src/httpd/index.ts:122](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/index.ts#L122)
+[src/httpd/index.ts:122](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/index.ts#L122)
 
 ___
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:120](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/index.ts#L120)
+[src/httpd/index.ts:120](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/index.ts#L120)

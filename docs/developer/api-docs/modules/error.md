@@ -22,11 +22,11 @@
 - [UnsupportedEventVersion](../interfaces/error.UnsupportedEventVersion.md)
 - [UnsupportedMediaType](../interfaces/error.UnsupportedMediaType.md)
 
-### Type aliases
+### Type Aliases
 
 - [TruBudgetErrorType](error.md#trubudgeterrortype)
 
-## Type aliases
+## Type Aliases
 
 ### TruBudgetErrorType
 
@@ -36,4 +36,4 @@ Error type representing an internal TruBudget Error
 
 #### Defined in
 
-[src/error.ts:96](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/error.ts#L96)
+[src/error.ts:96](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L96)

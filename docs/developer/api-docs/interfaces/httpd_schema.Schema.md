@@ -8,9 +8,20 @@
 
 ### Properties
 
+- [preValidation](httpd_schema.Schema.md#prevalidation)
 - [schema](httpd_schema.Schema.md#schema)
 
 ## Properties
+
+### preValidation
+
+• `Optional` **preValidation**: `any`
+
+#### Defined in
+
+[src/httpd/schema.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/schema.ts#L13)
+
+___
 
 ### schema
 
@@ -18,4 +29,4 @@
 
 #### Defined in
 
-[src/httpd/schema.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/schema.ts#L13)
+[src/httpd/schema.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/schema.ts#L14)

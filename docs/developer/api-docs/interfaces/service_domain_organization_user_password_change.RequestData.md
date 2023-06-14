@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_password_change.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_password_change.ts#L20)
+[src/service/domain/organization/user_password_change.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_change.ts#L20)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_password_change.ts:19](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_password_change.ts#L19)
+[src/service/domain/organization/user_password_change.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_change.ts#L19)

@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:16](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/user_assignments_get.ts#L16)
+[src/service/domain/workflow/user_assignments_get.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/user_assignments_get.ts#L16)

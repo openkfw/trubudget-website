@@ -8,7 +8,7 @@
 
 - [Subproject](../interfaces/service_domain_workflow_subproject.Subproject.md)
 
-### Type aliases
+### Type Aliases
 
 - [Id](service_domain_workflow_subproject.md#id)
 
@@ -21,7 +21,7 @@
 - [permits](service_domain_workflow_subproject.md#permits)
 - [validate](service_domain_workflow_subproject.md#validate)
 
-## Type aliases
+## Type Aliases
 
 ### Id
 
@@ -29,17 +29,17 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:16](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject.ts#L16)
+[src/service/domain/workflow/subproject.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject.ts#L16)
 
 ## Variables
 
 ### idSchema
 
-• `Const` **idSchema**: `StringSchema`
+• `Const` **idSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject.ts#L18)
+[src/service/domain/workflow/subproject.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject.ts#L18)
 
 ## Functions
 
@@ -61,7 +61,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:64](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject.ts#L64)
+[src/service/domain/workflow/subproject.ts:64](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject.ts#L64)
 
 ___
 
@@ -81,4 +81,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:59](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject.ts#L59)
+[src/service/domain/workflow/subproject.ts:59](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject.ts#L59)

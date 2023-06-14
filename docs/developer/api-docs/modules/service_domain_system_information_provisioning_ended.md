@@ -21,11 +21,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:17](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/system_information/provisioning_ended.ts#L17)
+[src/service/domain/system_information/provisioning_ended.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/system_information/provisioning_ended.ts#L17)
 
 ## Functions
 
@@ -47,7 +47,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:24](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/system_information/provisioning_ended.ts#L24)
+[src/service/domain/system_information/provisioning_ended.ts:24](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/system_information/provisioning_ended.ts#L24)
 
 ___
 
@@ -67,4 +67,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:44](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/system_information/provisioning_ended.ts#L44)
+[src/service/domain/system_information/provisioning_ended.ts:44](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/system_information/provisioning_ended.ts#L44)

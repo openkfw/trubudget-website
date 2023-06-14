@@ -16,8 +16,8 @@
 
 ### projectTraceEventSchema
 
-• `Const` **projectTraceEventSchema**: `ObjectSchema`
+• `Const` **projectTraceEventSchema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/project_trace_event.ts#L14)
+[src/service/domain/workflow/project_trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_trace_event.ts#L14)

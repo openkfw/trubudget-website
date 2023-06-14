@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [CurrencyCode](service_domain_workflow_money.md#currencycode)
 - [MoneyAmount](service_domain_workflow_money.md#moneyamount)
@@ -20,7 +20,7 @@
 
 - [isAmountOfMoney](service_domain_workflow_money.md#isamountofmoney)
 
-## Type aliases
+## Type Aliases
 
 ### CurrencyCode
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/money.ts:295](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/money.ts#L295)
+[src/service/domain/workflow/money.ts:295](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/money.ts#L295)
 
 ___
 
@@ -38,47 +38,47 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/money.ts:3](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/money.ts#L3)
+[src/service/domain/workflow/money.ts:3](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/money.ts#L3)
 
 ## Variables
 
 ### amountTypeSchema
 
-• `Const` **amountTypeSchema**: `StringSchema`
+• `Const` **amountTypeSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/money.ts:297](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/money.ts#L297)
+[src/service/domain/workflow/money.ts:297](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/money.ts#L297)
 
 ___
 
 ### conversionRateSchema
 
-• `Const` **conversionRateSchema**: `StringSchema`
+• `Const` **conversionRateSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/money.ts:14](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/money.ts#L14)
+[src/service/domain/workflow/money.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/money.ts#L14)
 
 ___
 
 ### currencyCodeSchema
 
-• `Const` **currencyCodeSchema**: `StringSchema`
+• `Const` **currencyCodeSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/money.ts:296](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/money.ts#L296)
+[src/service/domain/workflow/money.ts:296](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/money.ts#L296)
 
 ___
 
 ### moneyAmountSchema
 
-• `Const` **moneyAmountSchema**: `StringSchema`
+• `Const` **moneyAmountSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/money.ts:4](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/money.ts#L4)
+[src/service/domain/workflow/money.ts:4](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/money.ts#L4)
 
 ## Functions
 
@@ -98,4 +98,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/money.ts:9](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/money.ts#L9)
+[src/service/domain/workflow/money.ts:9](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/money.ts#L9)

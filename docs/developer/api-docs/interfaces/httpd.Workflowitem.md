@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/httpd/index.ts:135](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/index.ts#L135)
+[src/httpd/index.ts:135](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/index.ts#L135)
 
 ___
 
@@ -43,9 +43,9 @@ ___
 | `dueDate?` | ``null`` \| `string` |
 | `exchangeRate?` | ``null`` \| `string` |
 | `id` | `string` |
-| `status` | ``"open"`` \| ``"closed"`` |
+| `status` | ``"closed"`` \| ``"open"`` |
 | `workflowitemType?` | [`default`](../modules/service_domain_workflowitem_types_types.md#default) |
 
 #### Defined in
 
-[src/httpd/index.ts:136](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/index.ts#L136)
+[src/httpd/index.ts:136](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/index.ts#L136)

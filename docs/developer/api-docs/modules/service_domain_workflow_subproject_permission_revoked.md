@@ -22,11 +22,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_revoked.ts:23](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_permission_revoked.ts#L23)
+[src/service/domain/workflow/subproject_permission_revoked.ts:23](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_permission_revoked.ts#L23)
 
 ## Functions
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_revoked.ts:34](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_permission_revoked.ts#L34)
+[src/service/domain/workflow/subproject_permission_revoked.ts:34](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_permission_revoked.ts#L34)
 
 ___
 
@@ -82,7 +82,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_revoked.ts:76](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_permission_revoked.ts#L76)
+[src/service/domain/workflow/subproject_permission_revoked.ts:76](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_permission_revoked.ts#L76)
 
 ___
 
@@ -102,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_revoked.ts:61](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_permission_revoked.ts#L61)
+[src/service/domain/workflow/subproject_permission_revoked.ts:61](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_permission_revoked.ts#L61)

@@ -37,11 +37,11 @@
 
 | Name | Type |
 | :------ | :------ |
-| `settings` | `AxiosRequestConfig` |
+| `settings` | `AxiosRequestConfig`<`any`\> |
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:25](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client_storage_service.ts#L25)
+[src/service/Client_storage_service.ts:25](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client_storage_service.ts#L25)
 
 ## Properties
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:21](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client_storage_service.ts#L21)
+[src/service/Client_storage_service.ts:21](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client_storage_service.ts#L21)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:23](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client_storage_service.ts#L23)
+[src/service/Client_storage_service.ts:23](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client_storage_service.ts#L23)
 
 ## Methods
 
@@ -73,10 +73,10 @@ Download an object using the matching secret
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `id` | `string` |
-| `secret` | `string` |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `id` | `string` | id of object stored |
+| `secret` | `string` | secret to access the object's data |
 
 #### Returns
 
@@ -88,7 +88,7 @@ Download an object using the matching secret
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:91](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client_storage_service.ts#L91)
+[src/service/Client_storage_service.ts:95](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client_storage_service.ts#L95)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:128](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client_storage_service.ts#L128)
+[src/service/Client_storage_service.ts:136](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client_storage_service.ts#L136)
 
 ___
 
@@ -122,7 +122,7 @@ Get version of conncted storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:54](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client_storage_service.ts#L54)
+[src/service/Client_storage_service.ts:54](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client_storage_service.ts#L54)
 
 ___
 
@@ -142,7 +142,7 @@ Get readiness sattus of storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:49](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client_storage_service.ts#L49)
+[src/service/Client_storage_service.ts:49](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client_storage_service.ts#L49)
 
 ___
 
@@ -154,11 +154,11 @@ Upload an object using the
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `id` | `string` |
-| `name` | `string` |
-| `data` | `string` |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `id` | `string` | id of object |
+| `name` | `string` | name of object |
+| `data` | `string` | content of uploaded object base64 encoded |
 
 #### Returns
 
@@ -170,4 +170,4 @@ Upload an object using the
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:68](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/Client_storage_service.ts#L68)
+[src/service/Client_storage_service.ts:68](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client_storage_service.ts#L68)

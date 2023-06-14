@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [AdditionalData](service_domain_additional_data.md#additionaldata)
 
@@ -12,7 +12,7 @@
 
 - [schema](service_domain_additional_data.md#schema)
 
-## Type aliases
+## Type Aliases
 
 ### AdditionalData
 
@@ -20,14 +20,14 @@
 
 #### Defined in
 
-[src/service/domain/additional_data.ts:3](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/additional_data.ts#L3)
+[src/service/domain/additional_data.ts:3](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/additional_data.ts#L3)
 
 ## Variables
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/additional_data.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/additional_data.ts#L5)
+[src/service/domain/additional_data.ts:5](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/additional_data.ts#L5)

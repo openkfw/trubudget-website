@@ -21,11 +21,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:21](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/network/node_declined.ts#L21)
+[src/service/domain/network/node_declined.ts:21](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L21)
 
 ## Functions
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:32](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/network/node_declined.ts#L32)
+[src/service/domain/network/node_declined.ts:32](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L32)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:60](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/network/node_declined.ts#L60)
+[src/service/domain/network/node_declined.ts:60](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L60)

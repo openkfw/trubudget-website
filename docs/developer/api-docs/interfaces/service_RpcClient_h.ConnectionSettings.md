@@ -24,11 +24,15 @@ Connection settings.
 
 IP address or hostname of the node to connect to.
 
-**`default`** 'localhost'
+**`Default`**
+
+```ts
+'localhost'
+```
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.h.ts#L18)
+[src/service/RpcClient.h.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.h.ts#L18)
 
 ___
 
@@ -40,7 +44,7 @@ Password to use for authentication.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:35](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.h.ts#L35)
+[src/service/RpcClient.h.ts:35](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.h.ts#L35)
 
 ___
 
@@ -50,11 +54,15 @@ ___
 
 Port number of the node to connect to.
 
-**`default`** 8570
+**`Default`**
+
+```ts
+8570
+```
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:24](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.h.ts#L24)
+[src/service/RpcClient.h.ts:24](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.h.ts#L24)
 
 ___
 
@@ -64,11 +72,15 @@ ___
 
 Protocol to use for the connection.
 
-**`default`** 'http'
+**`Default`**
+
+```ts
+'http'
+```
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:12](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.h.ts#L12)
+[src/service/RpcClient.h.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.h.ts#L12)
 
 ___
 
@@ -78,8 +90,12 @@ ___
 
 Username to use for authentication.
 
-**`default`** 'multichainrpc'
+**`Default`**
+
+```ts
+'multichainrpc'
+```
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:30](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.h.ts#L30)
+[src/service/RpcClient.h.ts:30](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.h.ts#L30)

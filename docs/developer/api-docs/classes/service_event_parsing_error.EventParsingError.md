@@ -18,6 +18,8 @@
 
 ### Properties
 
+- [error](service_event_parsing_error.EventParsingError.md#error)
+- [event](service_event_parsing_error.EventParsingError.md#event)
 - [message](service_event_parsing_error.EventParsingError.md#message)
 - [name](service_event_parsing_error.EventParsingError.md#name)
 - [stack](service_event_parsing_error.EventParsingError.md#stack)
@@ -47,9 +49,29 @@ Error.constructor
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/event_parsing_error.ts#L4)
 
 ## Properties
+
+### error
+
+• `Private` `Readonly` **error**: `string` \| `Error`
+
+#### Defined in
+
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/event_parsing_error.ts#L4)
+
+___
+
+### event
+
+• `Private` `Readonly` **event**: [`Event`](../interfaces/service_event.Event.md)
+
+#### Defined in
+
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/event_parsing_error.ts#L4)
+
+___
 
 ### message
 
@@ -61,7 +83,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1023
+node_modules/typescript/lib/lib.es5.d.ts:1055
 
 ___
 
@@ -75,7 +97,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1022
+node_modules/typescript/lib/lib.es5.d.ts:1054
 
 ___
 
@@ -89,7 +111,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1024
+node_modules/typescript/lib/lib.es5.d.ts:1056
 
 ___
 
@@ -103,7 +125,9 @@ ___
 
 Optional override for formatting stack traces
 
-**`see`** https://v8.dev/docs/stack-trace-api#customizing-stack-traces
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 ##### Parameters
 

@@ -22,11 +22,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:27](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disabled.ts#L27)
+[src/service/domain/organization/user_disabled.ts:27](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_disabled.ts#L27)
 
 ## Functions
 
@@ -49,7 +49,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:35](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disabled.ts#L35)
+[src/service/domain/organization/user_disabled.ts:35](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_disabled.ts#L35)
 
 ___
 
@@ -79,7 +79,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:72](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disabled.ts#L72)
+[src/service/domain/organization/user_disabled.ts:72](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_disabled.ts#L72)
 
 ___
 
@@ -99,4 +99,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:57](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_disabled.ts#L57)
+[src/service/domain/organization/user_disabled.ts:57](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_disabled.ts#L57)

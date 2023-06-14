@@ -22,11 +22,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:23](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_closed.ts#L23)
+[src/service/domain/workflow/workflowitem_closed.ts:23](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L23)
 
 ## Functions
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:34](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_closed.ts#L34)
+[src/service/domain/workflow/workflowitem_closed.ts:34](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L34)
 
 ___
 
@@ -82,7 +82,7 @@ workflowitem is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:75](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_closed.ts#L75)
+[src/service/domain/workflow/workflowitem_closed.ts:75](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L75)
 
 ___
 
@@ -102,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:60](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_closed.ts#L60)
+[src/service/domain/workflow/workflowitem_closed.ts:60](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L60)

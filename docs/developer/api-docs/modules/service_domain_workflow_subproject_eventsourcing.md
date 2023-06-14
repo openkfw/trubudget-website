@@ -31,7 +31,7 @@ Returns a new subproject with the given event applied, or an error.
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:130](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_eventsourcing.ts#L130)
+[src/service/domain/workflow/subproject_eventsourcing.ts:130](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_eventsourcing.ts#L130)
 
 ___
 
@@ -58,4 +58,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/subproject_eventsourcing.ts#L20)
+[src/service/domain/workflow/subproject_eventsourcing.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_eventsourcing.ts#L20)

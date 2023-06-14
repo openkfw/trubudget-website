@@ -22,11 +22,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoked.ts:22](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_revoked.ts#L22)
+[src/service/domain/organization/user_permission_revoked.ts:22](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_permission_revoked.ts#L22)
 
 ## Functions
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoked.ts:32](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_revoked.ts#L32)
+[src/service/domain/organization/user_permission_revoked.ts:32](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_permission_revoked.ts#L32)
 
 ___
 
@@ -81,7 +81,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoked.ts:73](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_revoked.ts#L73)
+[src/service/domain/organization/user_permission_revoked.ts:73](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_permission_revoked.ts#L73)
 
 ___
 
@@ -101,4 +101,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoked.ts:58](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_permission_revoked.ts#L58)
+[src/service/domain/organization/user_permission_revoked.ts:58](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_permission_revoked.ts#L58)

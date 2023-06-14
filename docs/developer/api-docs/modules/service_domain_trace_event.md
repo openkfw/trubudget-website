@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [TraceEvent](service_domain_trace_event.md#traceevent)
 
@@ -12,7 +12,7 @@
 
 - [traceEventSchema](service_domain_trace_event.md#traceeventschema)
 
-## Type aliases
+## Type Aliases
 
 ### TraceEvent
 
@@ -20,14 +20,14 @@
 
 #### Defined in
 
-[src/service/domain/trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/trace_event.ts#L14)
+[src/service/domain/trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/trace_event.ts#L14)
 
 ## Variables
 
 ### traceEventSchema
 
-• `Const` **traceEventSchema**: `AlternativesSchema`
+• `Const` **traceEventSchema**: `AlternativesSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/trace_event.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/trace_event.ts#L20)
+[src/service/domain/trace_event.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/trace_event.ts#L20)

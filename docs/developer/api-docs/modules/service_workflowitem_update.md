@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [RequestData](service_workflowitem_update.md#requestdata)
 
@@ -12,7 +12,7 @@
 
 - [updateWorkflowitem](service_workflowitem_update.md#updateworkflowitem)
 
-## Type aliases
+## Type Aliases
 
 ### RequestData
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/workflowitem_update.ts:25](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/workflowitem_update.ts#L25)
+[src/service/workflowitem_update.ts:25](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/workflowitem_update.ts#L25)
 
 ## Functions
 
@@ -47,4 +47,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_update.ts:27](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/workflowitem_update.ts#L27)
+[src/service/workflowitem_update.ts:27](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/workflowitem_update.ts#L27)

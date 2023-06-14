@@ -21,11 +21,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/global_permission_revoked.ts#L20)
+[src/service/domain/workflow/global_permission_revoked.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/global_permission_revoked.ts#L20)
 
 ## Functions
 
@@ -49,7 +49,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:29](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/global_permission_revoked.ts#L29)
+[src/service/domain/workflow/global_permission_revoked.ts:29](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/global_permission_revoked.ts#L29)
 
 ___
 
@@ -69,4 +69,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:54](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/global_permission_revoked.ts#L54)
+[src/service/domain/workflow/global_permission_revoked.ts:54](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/global_permission_revoked.ts#L54)

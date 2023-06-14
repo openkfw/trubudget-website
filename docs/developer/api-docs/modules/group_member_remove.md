@@ -22,7 +22,7 @@ Creates an http handler that handles incoming http requests for the `/group.remo
 | :------ | :------ | :------ |
 | `server` | [`AugmentedFastifyInstance`](../interfaces/types.AugmentedFastifyInstance.md) | the current fastify server instance |
 | `urlPrefix` | `string` | the prefix of the http url |
-| `service` | `Service` | the service {@link Service} object used to offer an interface to the domain logic |
+| `service` | `Service` | the service Service object used to offer an interface to the domain logic |
 
 #### Returns
 
@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/group.remo
 
 #### Defined in
 
-[src/group_member_remove.ts:120](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/group_member_remove.ts#L120)
+[src/group_member_remove.ts:120](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/group_member_remove.ts#L120)

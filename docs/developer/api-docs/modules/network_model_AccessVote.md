@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [T](network_model_AccessVote.md#t)
 
@@ -18,7 +18,7 @@
 
 - [isValid](network_model_AccessVote.md#isvalid)
 
-## Type aliases
+## Type Aliases
 
 ### T
 
@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:3](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/network/model/AccessVote.ts#L3)
+[src/network/model/AccessVote.ts:3](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/network/model/AccessVote.ts#L3)
 
 ## Variables
 
@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:14](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/network/model/AccessVote.ts#L14)
+[src/network/model/AccessVote.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/network/model/AccessVote.ts#L14)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:6](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/network/model/AccessVote.ts#L6)
+[src/network/model/AccessVote.ts:6](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/network/model/AccessVote.ts#L6)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:13](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/network/model/AccessVote.ts#L13)
+[src/network/model/AccessVote.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/network/model/AccessVote.ts#L13)
 
 ## Functions
 
@@ -76,4 +76,4 @@ ___
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:19](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/network/model/AccessVote.ts#L19)
+[src/network/model/AccessVote.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/network/model/AccessVote.ts#L19)

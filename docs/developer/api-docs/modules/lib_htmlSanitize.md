@@ -4,34 +4,28 @@
 
 ## Table of contents
 
-### Functions
+### Variables
 
 - [htmlStrip](lib_htmlSanitize.md#htmlstrip)
 
-## Functions
+## Variables
 
 ### htmlStrip
 
-▸ **htmlStrip**(`joi`): `Object`
+• `Const` **htmlStrip**: `Object`
 
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `joi` | `any` |
-
-#### Returns
-
-`Object`
+#### Type declaration
 
 | Name | Type |
 | :------ | :------ |
-| `base` | `StringSchema` |
-| `language` | { `htmlStrip`: `string` = "remove all html tags from string" } |
-| `language.htmlStrip` | `string` |
-| `name` | `string` |
-| `rules` | { `name`: `string` = "htmlStrip"; `validate`: (`params`: `any`, `value`: `any`, `state`: `any`, `options`: `any`) => `any`  }[] |
+| `base` | `StringSchema`<`string`\> |
+| `messages` | { `string.htmlStrip`: `string` = "remove all html tags from string" } |
+| `messages.string.htmlStrip` | `string` |
+| `rules` | { `htmlStrip`: { `validate`: (`value`: `any`, `helpers`: `any`) => `string`  }  } |
+| `rules.htmlStrip` | { `validate`: (`value`: `any`, `helpers`: `any`) => `string`  } |
+| `rules.htmlStrip.validate` | [object Object] |
+| `type` | `string` |
 
 #### Defined in
 
-[src/lib/htmlSanitize.ts:4](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/lib/htmlSanitize.ts#L4)
+[src/lib/htmlSanitize.ts:4](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/lib/htmlSanitize.ts#L4)

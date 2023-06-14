@@ -56,7 +56,7 @@ VError.constructor
 
 #### Defined in
 
-[src/service/errors/authentication_failed.ts:20](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/errors/authentication_failed.ts#L20)
+[src/service/errors/authentication_failed.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/errors/authentication_failed.ts#L20)
 
 ## Properties
 
@@ -92,7 +92,7 @@ VError.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1023
+node_modules/typescript/lib/lib.es5.d.ts:1055
 
 ___
 
@@ -106,7 +106,7 @@ VError.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1022
+node_modules/typescript/lib/lib.es5.d.ts:1054
 
 ___
 
@@ -120,7 +120,7 @@ VError.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1024
+node_modules/typescript/lib/lib.es5.d.ts:1056
 
 ___
 
@@ -148,7 +148,9 @@ ___
 
 Optional override for formatting stack traces
 
-**`see`** https://v8.dev/docs/stack-trace-api#customizing-stack-traces
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 ##### Parameters
 

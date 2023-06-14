@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [BusinessEvent](service_domain_business_event.md#businessevent)
 
@@ -12,7 +12,7 @@
 
 - [businessEventSchema](service_domain_business_event.md#businesseventschema)
 
-## Type aliases
+## Type Aliases
 
 ### BusinessEvent
 
@@ -20,14 +20,14 @@
 
 #### Defined in
 
-[src/service/domain/business_event.ts:50](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/business_event.ts#L50)
+[src/service/domain/business_event.ts:50](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/business_event.ts#L50)
 
 ## Variables
 
 ### businessEventSchema
 
-• `Const` **businessEventSchema**: `ObjectSchema`
+• `Const` **businessEventSchema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/business_event.ts:98](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/business_event.ts#L98)
+[src/service/domain/business_event.ts:98](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/business_event.ts#L98)

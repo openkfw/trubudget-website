@@ -10,7 +10,7 @@
 - [ErrorResponse](../interfaces/httpd_lib.ErrorResponse.md)
 - [SuccessResponse](../interfaces/httpd_lib.SuccessResponse.md)
 
-### Type aliases
+### Type Aliases
 
 - [HttpResponse](httpd_lib.md#httpresponse)
 - [HttpStatusCode](httpd_lib.md#httpstatuscode)
@@ -20,7 +20,7 @@
 - [throwParseError](httpd_lib.md#throwparseerror)
 - [throwParseErrorIfUndefined](httpd_lib.md#throwparseerrorifundefined)
 
-## Type aliases
+## Type Aliases
 
 ### HttpResponse
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/httpd/lib.ts:25](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/lib.ts#L25)
+[src/httpd/lib.ts:25](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/lib.ts#L25)
 
 ___
 
@@ -38,13 +38,13 @@ ___
 
 #### Defined in
 
-[src/httpd/lib.ts:24](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/lib.ts#L24)
+[src/httpd/lib.ts:24](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/lib.ts#L24)
 
 ## Functions
 
 ### throwParseError
 
-▸ **throwParseError**(`badKeys`, `message?`): `never`
+▸ **throwParseError**(`badKeys`, `message?`): [`TruBudgetError`](../classes/error.TruBudgetError.md)
 
 #### Parameters
 
@@ -55,11 +55,11 @@ ___
 
 #### Returns
 
-`never`
+[`TruBudgetError`](../classes/error.TruBudgetError.md)
 
 #### Defined in
 
-[src/httpd/lib.ts:27](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/lib.ts#L27)
+[src/httpd/lib.ts:27](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/lib.ts#L27)
 
 ___
 
@@ -80,4 +80,4 @@ ___
 
 #### Defined in
 
-[src/httpd/lib.ts:31](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/lib.ts#L31)
+[src/httpd/lib.ts:31](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/lib.ts#L31)

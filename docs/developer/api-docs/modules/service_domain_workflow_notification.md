@@ -8,7 +8,7 @@
 
 - [Notification](../interfaces/service_domain_workflow_notification.Notification.md)
 
-### Type aliases
+### Type Aliases
 
 - [Id](service_domain_workflow_notification.md#id)
 
@@ -20,7 +20,7 @@
 
 - [validate](service_domain_workflow_notification.md#validate)
 
-## Type aliases
+## Type Aliases
 
 ### Id
 
@@ -28,17 +28,17 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:8](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/notification.ts#L8)
+[src/service/domain/workflow/notification.ts:8](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification.ts#L8)
 
 ## Variables
 
 ### idSchema
 
-• `Const` **idSchema**: `StringSchema`
+• `Const` **idSchema**: `StringSchema`<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:10](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/notification.ts#L10)
+[src/service/domain/workflow/notification.ts:10](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification.ts#L10)
 
 ## Functions
 
@@ -58,4 +58,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:37](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/notification.ts#L37)
+[src/service/domain/workflow/notification.ts:37](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification.ts#L37)

@@ -8,7 +8,7 @@ JSON-RPC 2.0 predefined error codes.
 
 ## Table of contents
 
-### Enumeration members
+### Enumeration Members
 
 - [InternalError](service_RpcResponse_h.ErrorCode.md#internalerror)
 - [InvalidParams](service_RpcResponse_h.ErrorCode.md#invalidparams)
@@ -16,62 +16,62 @@ JSON-RPC 2.0 predefined error codes.
 - [MethodNotFound](service_RpcResponse_h.ErrorCode.md#methodnotfound)
 - [ParseError](service_RpcResponse_h.ErrorCode.md#parseerror)
 
-## Enumeration members
+## Enumeration Members
 
 ### InternalError
 
-• **InternalError** = `-32603`
+• **InternalError** = ``-32603``
 
 Internal JSON-RPC error.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:61](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcResponse.h.ts#L61)
+[src/service/RpcResponse.h.ts:61](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcResponse.h.ts#L61)
 
 ___
 
 ### InvalidParams
 
-• **InvalidParams** = `-32602`
+• **InvalidParams** = ``-32602``
 
 The method arguments are invalid.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:56](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcResponse.h.ts#L56)
+[src/service/RpcResponse.h.ts:56](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcResponse.h.ts#L56)
 
 ___
 
 ### InvalidRequest
 
-• **InvalidRequest** = `-32600`
+• **InvalidRequest** = ``-32600``
 
 The request body is an invalid JSON-RPC request.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:46](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcResponse.h.ts#L46)
+[src/service/RpcResponse.h.ts:46](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcResponse.h.ts#L46)
 
 ___
 
 ### MethodNotFound
 
-• **MethodNotFound** = `-32601`
+• **MethodNotFound** = ``-32601``
 
 The invoked method does not exist.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:51](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcResponse.h.ts#L51)
+[src/service/RpcResponse.h.ts:51](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcResponse.h.ts#L51)
 
 ___
 
 ### ParseError
 
-• **ParseError** = `-32700`
+• **ParseError** = ``-32700``
 
 The request body is an invalid JSON document.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:66](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcResponse.h.ts#L66)
+[src/service/RpcResponse.h.ts:66](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcResponse.h.ts#L66)

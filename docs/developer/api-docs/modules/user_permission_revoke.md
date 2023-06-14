@@ -22,7 +22,7 @@ Creates an http handler that handles incoming http requests for the `/user.inten
 | :------ | :------ | :------ |
 | `server` | [`AugmentedFastifyInstance`](../interfaces/types.AugmentedFastifyInstance.md) | the current fastify server instance |
 | `urlPrefix` | `string` | the prefix of the http url |
-| `service` | `Service` | the service {@link Service} object used to offer an interface to the domain logic |
+| `service` | `Service` | the service Service object used to offer an interface to the domain logic |
 
 #### Returns
 
@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/user.inten
 
 #### Defined in
 
-[src/user_permission_revoke.ts:128](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/user_permission_revoke.ts#L128)
+[src/user_permission_revoke.ts:128](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/user_permission_revoke.ts#L128)

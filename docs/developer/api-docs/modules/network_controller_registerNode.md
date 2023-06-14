@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/network/controller/registerNode.ts:9](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/network/controller/registerNode.ts#L9)
+[src/network/controller/registerNode.ts:9](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/network/controller/registerNode.ts#L9)

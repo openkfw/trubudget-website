@@ -22,11 +22,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:29](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_password_changed.ts#L29)
+[src/service/domain/organization/user_password_changed.ts:29](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_changed.ts#L29)
 
 ## Functions
 
@@ -49,7 +49,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:37](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_password_changed.ts#L37)
+[src/service/domain/organization/user_password_changed.ts:37](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_changed.ts#L37)
 
 ___
 
@@ -79,7 +79,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:74](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_password_changed.ts#L74)
+[src/service/domain/organization/user_password_changed.ts:74](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_changed.ts#L74)
 
 ___
 
@@ -99,4 +99,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:59](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/organization/user_password_changed.ts#L59)
+[src/service/domain/organization/user_password_changed.ts:59](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_changed.ts#L59)

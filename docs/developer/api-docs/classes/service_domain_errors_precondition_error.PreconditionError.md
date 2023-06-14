@@ -18,6 +18,8 @@
 
 ### Properties
 
+- [businessEvent](service_domain_errors_precondition_error.PreconditionError.md#businessevent)
+- [ctx](service_domain_errors_precondition_error.PreconditionError.md#ctx)
 - [message](service_domain_errors_precondition_error.PreconditionError.md#message)
 - [name](service_domain_errors_precondition_error.PreconditionError.md#name)
 - [stack](service_domain_errors_precondition_error.PreconditionError.md#stack)
@@ -48,9 +50,29 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/precondition_error.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/errors/precondition_error.ts#L5)
+[src/service/domain/errors/precondition_error.ts:5](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/precondition_error.ts#L5)
 
 ## Properties
+
+### businessEvent
+
+• `Private` `Readonly` **businessEvent**: [`BusinessEvent`](../modules/service_domain_business_event.md#businessevent)
+
+#### Defined in
+
+[src/service/domain/errors/precondition_error.ts:7](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/precondition_error.ts#L7)
+
+___
+
+### ctx
+
+• `Private` `Readonly` **ctx**: [`Ctx`](../interfaces/lib_ctx.Ctx.md)
+
+#### Defined in
+
+[src/service/domain/errors/precondition_error.ts:6](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/precondition_error.ts#L6)
+
+___
 
 ### message
 
@@ -62,7 +84,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1023
+node_modules/typescript/lib/lib.es5.d.ts:1055
 
 ___
 
@@ -76,7 +98,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1022
+node_modules/typescript/lib/lib.es5.d.ts:1054
 
 ___
 
@@ -90,7 +112,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1024
+node_modules/typescript/lib/lib.es5.d.ts:1056
 
 ___
 
@@ -104,7 +126,9 @@ ___
 
 Optional override for formatting stack traces
 
-**`see`** https://v8.dev/docs/stack-trace-api#customizing-stack-traces
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 ##### Parameters
 

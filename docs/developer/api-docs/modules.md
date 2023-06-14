@@ -34,6 +34,7 @@ sidebar_label: Table of Contents
 - [httpd/router](modules/httpd_router.md)
 - [httpd/schema](modules/httpd_schema.md)
 - [httpd/server](modules/httpd_server.md)
+- [index](modules/index.md)
 - [lib/assertUnreachable](modules/lib_assertUnreachable.md)
 - [lib/asymmetricCrypto](modules/lib_asymmetricCrypto.md)
 - [lib/ctx](modules/lib_ctx.md)
@@ -44,16 +45,19 @@ sidebar_label: Table of Contents
 - [lib/htmlSanitize](modules/lib_htmlSanitize.md)
 - [lib/inheritDefinedProperties](modules/lib_inheritDefinedProperties.md)
 - [lib/joiValidation](modules/lib_joiValidation.md)
+- [lib/joiValidation.spec](modules/lib_joiValidation_spec.md)
 - [lib/logger](modules/lib_logger.md)
 - [lib/readiness](modules/lib_readiness.md)
 - [lib/resourceTypes](modules/lib_resourceTypes.md)
 - [lib/symmetricCrypto](modules/lib_symmetricCrypto.md)
+- [lib/symmetricCrypto.spec](modules/lib_symmetricCrypto_spec.md)
 - [lib/test/promise](modules/lib_test_promise.md)
 - [lib/timeout](modules/lib_timeout.md)
 - [lib/validation](modules/lib_validation.md)
 - [network/controller/approveNewNodeForExistingOrganization](modules/network_controller_approveNewNodeForExistingOrganization.md)
 - [network/controller/approveNewOrganization](modules/network_controller_approveNewOrganization.md)
 - [network/controller/declineNode](modules/network_controller_declineNode.md)
+- [network/controller/decline\_node.spec](modules/network_controller_decline_node_spec.md)
 - [network/controller/list](modules/network_controller_list.md)
 - [network/controller/listActive](modules/network_controller_listActive.md)
 - [network/controller/logNodes](modules/network_controller_logNodes.md)
@@ -83,6 +87,7 @@ sidebar_label: Table of Contents
 - [provisioning\_get](modules/provisioning_get.md)
 - [provisioning\_start](modules/provisioning_start.md)
 - [result](modules/result.md)
+- [scripts/joiGenerator](modules/scripts_joiGenerator.md)
 - [service](modules/service.md)
 - [service/Client](modules/service_Client.md)
 - [service/Client.h](modules/service_Client_h.md)
@@ -96,6 +101,8 @@ sidebar_label: Table of Contents
 - [service/RpcResponse.h](modules/service_RpcResponse_h.md)
 - [service/cache](modules/service_cache.md)
 - [service/cache2](modules/service_cache2.md)
+- [service/cache2-backwards-compatibility.spec](modules/service_cache2_backwards_compatibility_spec.md)
+- [service/cache2.spec](modules/service_cache2_spec.md)
 - [service/conn](modules/service_conn.md)
 - [service/createkeypairs](modules/service_createkeypairs.md)
 - [service/document\_get](modules/service_document_get.md)
@@ -106,18 +113,28 @@ sidebar_label: Table of Contents
 - [service/domain/additional\_data](modules/service_domain_additional_data.md)
 - [service/domain/business\_event](modules/service_domain_business_event.md)
 - [service/domain/document/document](modules/service_domain_document_document.md)
+- [service/domain/document/document\_download.spec](modules/service_domain_document_document_download_spec.md)
 - [service/domain/document/document\_eventsourcing](modules/service_domain_document_document_eventsourcing.md)
+- [service/domain/document/document\_eventsourcing.spec](modules/service_domain_document_document_eventsourcing_spec.md)
 - [service/domain/document/document\_get](modules/service_domain_document_document_get.md)
+- [service/domain/document/document\_get.spec](modules/service_domain_document_document_get_spec.md)
 - [service/domain/document/document\_share](modules/service_domain_document_document_share.md)
+- [service/domain/document/document\_share.spec](modules/service_domain_document_document_share_spec.md)
 - [service/domain/document/document\_shared](modules/service_domain_document_document_shared.md)
 - [service/domain/document/document\_upload](modules/service_domain_document_document_upload.md)
+- [service/domain/document/document\_upload.spec](modules/service_domain_document_document_upload_spec.md)
 - [service/domain/document/document\_uploaded](modules/service_domain_document_document_uploaded.md)
 - [service/domain/document/document\_validate](modules/service_domain_document_document_validate.md)
+- [service/domain/document/document\_validate.spec](modules/service_domain_document_document_validate_spec.md)
 - [service/domain/document/document\_validated](modules/service_domain_document_document_validated.md)
+- [service/domain/document/secret.spec](modules/service_domain_document_secret_spec.md)
 - [service/domain/document/secret\_get](modules/service_domain_document_secret_get.md)
 - [service/domain/document/storage\_service\_url\_eventsourcing](modules/service_domain_document_storage_service_url_eventsourcing.md)
+- [service/domain/document/storage\_service\_url\_eventsourcing.spec](modules/service_domain_document_storage_service_url_eventsourcing_spec.md)
 - [service/domain/document/storage\_service\_url\_get](modules/service_domain_document_storage_service_url_get.md)
+- [service/domain/document/storage\_service\_url\_get.spec](modules/service_domain_document_storage_service_url_get_spec.md)
 - [service/domain/document/storage\_service\_url\_update](modules/service_domain_document_storage_service_url_update.md)
+- [service/domain/document/storage\_service\_url\_update.spec](modules/service_domain_document_storage_service_url_update_spec.md)
 - [service/domain/document/storage\_service\_url\_updated](modules/service_domain_document_storage_service_url_updated.md)
 - [service/domain/document/workflowitem\_document\_download](modules/service_domain_document_workflowitem_document_download.md)
 - [service/domain/errors/already\_exists](modules/service_domain_errors_already_exists.md)
@@ -133,40 +150,53 @@ sidebar_label: Table of Contents
 - [service/domain/organization/auth\_token](modules/service_domain_organization_auth_token.md)
 - [service/domain/organization/group](modules/service_domain_organization_group.md)
 - [service/domain/organization/group\_create](modules/service_domain_organization_group_create.md)
+- [service/domain/organization/group\_create.spec](modules/service_domain_organization_group_create_spec.md)
 - [service/domain/organization/group\_created](modules/service_domain_organization_group_created.md)
 - [service/domain/organization/group\_eventsourcing](modules/service_domain_organization_group_eventsourcing.md)
 - [service/domain/organization/group\_get](modules/service_domain_organization_group_get.md)
 - [service/domain/organization/group\_member\_add](modules/service_domain_organization_group_member_add.md)
+- [service/domain/organization/group\_member\_add.spec](modules/service_domain_organization_group_member_add_spec.md)
 - [service/domain/organization/group\_member\_added](modules/service_domain_organization_group_member_added.md)
 - [service/domain/organization/group\_member\_remove](modules/service_domain_organization_group_member_remove.md)
+- [service/domain/organization/group\_member\_remove.spec](modules/service_domain_organization_group_member_remove_spec.md)
 - [service/domain/organization/group\_member\_removed](modules/service_domain_organization_group_member_removed.md)
 - [service/domain/organization/group\_permissions\_granted](modules/service_domain_organization_group_permissions_granted.md)
 - [service/domain/organization/group\_permissions\_revoked](modules/service_domain_organization_group_permissions_revoked.md)
 - [service/domain/organization/group\_query](modules/service_domain_organization_group_query.md)
+- [service/domain/organization/group\_query.spec](modules/service_domain_organization_group_query_spec.md)
 - [service/domain/organization/group\_trace\_event](modules/service_domain_organization_group_trace_event.md)
 - [service/domain/organization/identity](modules/service_domain_organization_identity.md)
 - [service/domain/organization/key\_pair](modules/service_domain_organization_key_pair.md)
 - [service/domain/organization/public\_key](modules/service_domain_organization_public_key.md)
 - [service/domain/organization/public\_key\_eventsourcing](modules/service_domain_organization_public_key_eventsourcing.md)
 - [service/domain/organization/public\_key\_get](modules/service_domain_organization_public_key_get.md)
+- [service/domain/organization/public\_key\_get.spec](modules/service_domain_organization_public_key_get_spec.md)
 - [service/domain/organization/public\_key\_publish](modules/service_domain_organization_public_key_publish.md)
+- [service/domain/organization/public\_key\_publish.spec](modules/service_domain_organization_public_key_publish_spec.md)
 - [service/domain/organization/public\_key\_published](modules/service_domain_organization_public_key_published.md)
 - [service/domain/organization/public\_key\_update](modules/service_domain_organization_public_key_update.md)
+- [service/domain/organization/public\_key\_update.spec](modules/service_domain_organization_public_key_update_spec.md)
 - [service/domain/organization/public\_key\_updated](modules/service_domain_organization_public_key_updated.md)
 - [service/domain/organization/service\_user](modules/service_domain_organization_service_user.md)
 - [service/domain/organization/user\_create](modules/service_domain_organization_user_create.md)
+- [service/domain/organization/user\_create.spec](modules/service_domain_organization_user_create_spec.md)
 - [service/domain/organization/user\_created](modules/service_domain_organization_user_created.md)
 - [service/domain/organization/user\_disable](modules/service_domain_organization_user_disable.md)
+- [service/domain/organization/user\_disable.spec](modules/service_domain_organization_user_disable_spec.md)
 - [service/domain/organization/user\_disabled](modules/service_domain_organization_user_disabled.md)
 - [service/domain/organization/user\_enable](modules/service_domain_organization_user_enable.md)
+- [service/domain/organization/user\_enable.spec](modules/service_domain_organization_user_enable_spec.md)
 - [service/domain/organization/user\_enabled](modules/service_domain_organization_user_enabled.md)
 - [service/domain/organization/user\_eventsourcing](modules/service_domain_organization_user_eventsourcing.md)
 - [service/domain/organization/user\_get](modules/service_domain_organization_user_get.md)
 - [service/domain/organization/user\_password\_change](modules/service_domain_organization_user_password_change.md)
+- [service/domain/organization/user\_password\_change.spec](modules/service_domain_organization_user_password_change_spec.md)
 - [service/domain/organization/user\_password\_changed](modules/service_domain_organization_user_password_changed.md)
 - [service/domain/organization/user\_permission\_grant](modules/service_domain_organization_user_permission_grant.md)
+- [service/domain/organization/user\_permission\_grant.spec](modules/service_domain_organization_user_permission_grant_spec.md)
 - [service/domain/organization/user\_permission\_granted](modules/service_domain_organization_user_permission_granted.md)
 - [service/domain/organization/user\_permission\_revoke](modules/service_domain_organization_user_permission_revoke.md)
+- [service/domain/organization/user\_permission\_revoke.spec](modules/service_domain_organization_user_permission_revoke_spec.md)
 - [service/domain/organization/user\_permission\_revoked](modules/service_domain_organization_user_permission_revoked.md)
 - [service/domain/organization/user\_query](modules/service_domain_organization_user_query.md)
 - [service/domain/organization/user\_record](modules/service_domain_organization_user_record.md)
@@ -187,9 +217,12 @@ sidebar_label: Table of Contents
 - [service/domain/workflow/global\_permissions](modules/service_domain_workflow_global_permissions.md)
 - [service/domain/workflow/global\_permissions\_eventsourcing](modules/service_domain_workflow_global_permissions_eventsourcing.md)
 - [service/domain/workflow/global\_permissions\_get](modules/service_domain_workflow_global_permissions_get.md)
+- [service/domain/workflow/global\_permissions\_grant.spec](modules/service_domain_workflow_global_permissions_grant_spec.md)
+- [service/domain/workflow/global\_permissions\_revoke.spec](modules/service_domain_workflow_global_permissions_revoke_spec.md)
 - [service/domain/workflow/global\_permissions\_trace\_event](modules/service_domain_workflow_global_permissions_trace_event.md)
 - [service/domain/workflow/historyFilter](modules/service_domain_workflow_historyFilter.md)
 - [service/domain/workflow/money](modules/service_domain_workflow_money.md)
+- [service/domain/workflow/money.spec](modules/service_domain_workflow_money_spec.md)
 - [service/domain/workflow/notification](modules/service_domain_workflow_notification.md)
 - [service/domain/workflow/notification\_created](modules/service_domain_workflow_notification_created.md)
 - [service/domain/workflow/notification\_eventsourcing](modules/service_domain_workflow_notification_eventsourcing.md)
@@ -199,79 +232,117 @@ sidebar_label: Table of Contents
 - [service/domain/workflow/notification\_trace\_event](modules/service_domain_workflow_notification_trace_event.md)
 - [service/domain/workflow/project](modules/service_domain_workflow_project.md)
 - [service/domain/workflow/project\_assign](modules/service_domain_workflow_project_assign.md)
+- [service/domain/workflow/project\_assign.spec](modules/service_domain_workflow_project_assign_spec.md)
 - [service/domain/workflow/project\_assigned](modules/service_domain_workflow_project_assigned.md)
 - [service/domain/workflow/project\_close](modules/service_domain_workflow_project_close.md)
+- [service/domain/workflow/project\_close.spec](modules/service_domain_workflow_project_close_spec.md)
 - [service/domain/workflow/project\_closed](modules/service_domain_workflow_project_closed.md)
 - [service/domain/workflow/project\_create](modules/service_domain_workflow_project_create.md)
+- [service/domain/workflow/project\_create.spec](modules/service_domain_workflow_project_create_spec.md)
 - [service/domain/workflow/project\_created](modules/service_domain_workflow_project_created.md)
 - [service/domain/workflow/project\_eventsourcing](modules/service_domain_workflow_project_eventsourcing.md)
 - [service/domain/workflow/project\_get](modules/service_domain_workflow_project_get.md)
+- [service/domain/workflow/project\_get.spec](modules/service_domain_workflow_project_get_spec.md)
 - [service/domain/workflow/project\_history\_get](modules/service_domain_workflow_project_history_get.md)
+- [service/domain/workflow/project\_history\_get.spec](modules/service_domain_workflow_project_history_get_spec.md)
 - [service/domain/workflow/project\_list](modules/service_domain_workflow_project_list.md)
+- [service/domain/workflow/project\_list.spec](modules/service_domain_workflow_project_list_spec.md)
 - [service/domain/workflow/project\_permission\_grant](modules/service_domain_workflow_project_permission_grant.md)
+- [service/domain/workflow/project\_permission\_grant.spec](modules/service_domain_workflow_project_permission_grant_spec.md)
 - [service/domain/workflow/project\_permission\_granted](modules/service_domain_workflow_project_permission_granted.md)
 - [service/domain/workflow/project\_permission\_revoke](modules/service_domain_workflow_project_permission_revoke.md)
+- [service/domain/workflow/project\_permission\_revoke.spec](modules/service_domain_workflow_project_permission_revoke_spec.md)
 - [service/domain/workflow/project\_permission\_revoked](modules/service_domain_workflow_project_permission_revoked.md)
 - [service/domain/workflow/project\_permissions\_list](modules/service_domain_workflow_project_permissions_list.md)
+- [service/domain/workflow/project\_permissions\_list.spec](modules/service_domain_workflow_project_permissions_list_spec.md)
 - [service/domain/workflow/project\_projected\_budget\_delete](modules/service_domain_workflow_project_projected_budget_delete.md)
+- [service/domain/workflow/project\_projected\_budget\_delete.spec](modules/service_domain_workflow_project_projected_budget_delete_spec.md)
 - [service/domain/workflow/project\_projected\_budget\_deleted](modules/service_domain_workflow_project_projected_budget_deleted.md)
 - [service/domain/workflow/project\_projected\_budget\_update](modules/service_domain_workflow_project_projected_budget_update.md)
+- [service/domain/workflow/project\_projected\_budget\_update.spec](modules/service_domain_workflow_project_projected_budget_update_spec.md)
 - [service/domain/workflow/project\_projected\_budget\_updated](modules/service_domain_workflow_project_projected_budget_updated.md)
 - [service/domain/workflow/project\_trace\_event](modules/service_domain_workflow_project_trace_event.md)
 - [service/domain/workflow/project\_update](modules/service_domain_workflow_project_update.md)
+- [service/domain/workflow/project\_update.spec](modules/service_domain_workflow_project_update_spec.md)
 - [service/domain/workflow/project\_updated](modules/service_domain_workflow_project_updated.md)
 - [service/domain/workflow/projected\_budget](modules/service_domain_workflow_projected_budget.md)
 - [service/domain/workflow/subproject](modules/service_domain_workflow_subproject.md)
 - [service/domain/workflow/subproject\_assign](modules/service_domain_workflow_subproject_assign.md)
+- [service/domain/workflow/subproject\_assign.spec](modules/service_domain_workflow_subproject_assign_spec.md)
 - [service/domain/workflow/subproject\_assigned](modules/service_domain_workflow_subproject_assigned.md)
 - [service/domain/workflow/subproject\_close](modules/service_domain_workflow_subproject_close.md)
+- [service/domain/workflow/subproject\_close.spec](modules/service_domain_workflow_subproject_close_spec.md)
 - [service/domain/workflow/subproject\_closed](modules/service_domain_workflow_subproject_closed.md)
 - [service/domain/workflow/subproject\_create](modules/service_domain_workflow_subproject_create.md)
+- [service/domain/workflow/subproject\_create.spec](modules/service_domain_workflow_subproject_create_spec.md)
 - [service/domain/workflow/subproject\_created](modules/service_domain_workflow_subproject_created.md)
 - [service/domain/workflow/subproject\_eventsourcing](modules/service_domain_workflow_subproject_eventsourcing.md)
 - [service/domain/workflow/subproject\_get](modules/service_domain_workflow_subproject_get.md)
+- [service/domain/workflow/subproject\_get.spec](modules/service_domain_workflow_subproject_get_spec.md)
 - [service/domain/workflow/subproject\_history\_get](modules/service_domain_workflow_subproject_history_get.md)
+- [service/domain/workflow/subproject\_history\_get.spec](modules/service_domain_workflow_subproject_history_get_spec.md)
 - [service/domain/workflow/subproject\_list](modules/service_domain_workflow_subproject_list.md)
+- [service/domain/workflow/subproject\_list.spec](modules/service_domain_workflow_subproject_list_spec.md)
 - [service/domain/workflow/subproject\_permission\_grant](modules/service_domain_workflow_subproject_permission_grant.md)
+- [service/domain/workflow/subproject\_permission\_grant.spec](modules/service_domain_workflow_subproject_permission_grant_spec.md)
 - [service/domain/workflow/subproject\_permission\_granted](modules/service_domain_workflow_subproject_permission_granted.md)
 - [service/domain/workflow/subproject\_permission\_revoke](modules/service_domain_workflow_subproject_permission_revoke.md)
+- [service/domain/workflow/subproject\_permission\_revoke.spec](modules/service_domain_workflow_subproject_permission_revoke_spec.md)
 - [service/domain/workflow/subproject\_permission\_revoked](modules/service_domain_workflow_subproject_permission_revoked.md)
 - [service/domain/workflow/subproject\_permissions\_list](modules/service_domain_workflow_subproject_permissions_list.md)
+- [service/domain/workflow/subproject\_permissions\_list.spec](modules/service_domain_workflow_subproject_permissions_list_spec.md)
 - [service/domain/workflow/subproject\_projected\_budget\_delete](modules/service_domain_workflow_subproject_projected_budget_delete.md)
+- [service/domain/workflow/subproject\_projected\_budget\_delete.spec](modules/service_domain_workflow_subproject_projected_budget_delete_spec.md)
 - [service/domain/workflow/subproject\_projected\_budget\_deleted](modules/service_domain_workflow_subproject_projected_budget_deleted.md)
 - [service/domain/workflow/subproject\_projected\_budget\_update](modules/service_domain_workflow_subproject_projected_budget_update.md)
+- [service/domain/workflow/subproject\_projected\_budget\_update.spec](modules/service_domain_workflow_subproject_projected_budget_update_spec.md)
 - [service/domain/workflow/subproject\_projected\_budget\_updated](modules/service_domain_workflow_subproject_projected_budget_updated.md)
 - [service/domain/workflow/subproject\_trace\_event](modules/service_domain_workflow_subproject_trace_event.md)
 - [service/domain/workflow/subproject\_update](modules/service_domain_workflow_subproject_update.md)
+- [service/domain/workflow/subproject\_update.spec](modules/service_domain_workflow_subproject_update_spec.md)
 - [service/domain/workflow/subproject\_updated](modules/service_domain_workflow_subproject_updated.md)
+- [service/domain/workflow/user\_assignment\_get.spec](modules/service_domain_workflow_user_assignment_get_spec.md)
 - [service/domain/workflow/user\_assignments](modules/service_domain_workflow_user_assignments.md)
 - [service/domain/workflow/user\_assignments\_get](modules/service_domain_workflow_user_assignments_get.md)
 - [service/domain/workflow/workflowitem](modules/service_domain_workflow_workflowitem.md)
 - [service/domain/workflow/workflowitem\_assign](modules/service_domain_workflow_workflowitem_assign.md)
+- [service/domain/workflow/workflowitem\_assign.spec](modules/service_domain_workflow_workflowitem_assign_spec.md)
 - [service/domain/workflow/workflowitem\_assigned](modules/service_domain_workflow_workflowitem_assigned.md)
 - [service/domain/workflow/workflowitem\_close](modules/service_domain_workflow_workflowitem_close.md)
+- [service/domain/workflow/workflowitem\_close.spec](modules/service_domain_workflow_workflowitem_close_spec.md)
 - [service/domain/workflow/workflowitem\_closed](modules/service_domain_workflow_workflowitem_closed.md)
 - [service/domain/workflow/workflowitem\_create](modules/service_domain_workflow_workflowitem_create.md)
+- [service/domain/workflow/workflowitem\_create.spec](modules/service_domain_workflow_workflowitem_create_spec.md)
 - [service/domain/workflow/workflowitem\_created](modules/service_domain_workflow_workflowitem_created.md)
 - [service/domain/workflow/workflowitem\_eventsourcing](modules/service_domain_workflow_workflowitem_eventsourcing.md)
 - [service/domain/workflow/workflowitem\_get](modules/service_domain_workflow_workflowitem_get.md)
+- [service/domain/workflow/workflowitem\_get.spec](modules/service_domain_workflow_workflowitem_get_spec.md)
 - [service/domain/workflow/workflowitem\_get\_details](modules/service_domain_workflow_workflowitem_get_details.md)
+- [service/domain/workflow/workflowitem\_get\_details.spec](modules/service_domain_workflow_workflowitem_get_details_spec.md)
 - [service/domain/workflow/workflowitem\_history\_get](modules/service_domain_workflow_workflowitem_history_get.md)
+- [service/domain/workflow/workflowitem\_history\_get.spec](modules/service_domain_workflow_workflowitem_history_get_spec.md)
 - [service/domain/workflow/workflowitem\_list](modules/service_domain_workflow_workflowitem_list.md)
+- [service/domain/workflow/workflowitem\_list.spec](modules/service_domain_workflow_workflowitem_list_spec.md)
 - [service/domain/workflow/workflowitem\_ordering](modules/service_domain_workflow_workflowitem_ordering.md)
+- [service/domain/workflow/workflowitem\_ordering.spec](modules/service_domain_workflow_workflowitem_ordering_spec.md)
 - [service/domain/workflow/workflowitem\_permission\_grant](modules/service_domain_workflow_workflowitem_permission_grant.md)
+- [service/domain/workflow/workflowitem\_permission\_grant.spec](modules/service_domain_workflow_workflowitem_permission_grant_spec.md)
 - [service/domain/workflow/workflowitem\_permission\_granted](modules/service_domain_workflow_workflowitem_permission_granted.md)
 - [service/domain/workflow/workflowitem\_permission\_revoke](modules/service_domain_workflow_workflowitem_permission_revoke.md)
+- [service/domain/workflow/workflowitem\_permission\_revoke.spec](modules/service_domain_workflow_workflowitem_permission_revoke_spec.md)
 - [service/domain/workflow/workflowitem\_permission\_revoked](modules/service_domain_workflow_workflowitem_permission_revoked.md)
 - [service/domain/workflow/workflowitem\_permissions\_list](modules/service_domain_workflow_workflowitem_permissions_list.md)
+- [service/domain/workflow/workflowitem\_permissions\_list.spec](modules/service_domain_workflow_workflowitem_permissions_list_spec.md)
 - [service/domain/workflow/workflowitem\_trace\_event](modules/service_domain_workflow_workflowitem_trace_event.md)
 - [service/domain/workflow/workflowitem\_update](modules/service_domain_workflow_workflowitem_update.md)
+- [service/domain/workflow/workflowitem\_update.spec](modules/service_domain_workflow_workflowitem_update_spec.md)
 - [service/domain/workflow/workflowitem\_updated](modules/service_domain_workflow_workflowitem_updated.md)
 - [service/domain/workflow/workflowitems\_reorder](modules/service_domain_workflow_workflowitems_reorder.md)
 - [service/domain/workflow/workflowitems\_reordered](modules/service_domain_workflow_workflowitems_reordered.md)
 - [service/domain/workflowitem\_types/apply\_workflowitem\_type](modules/service_domain_workflowitem_types_apply_workflowitem_type.md)
 - [service/domain/workflowitem\_types/restricted](modules/service_domain_workflowitem_types_restricted.md)
 - [service/domain/workflowitem\_types/types](modules/service_domain_workflowitem_types_types.md)
+- [service/domain/workflowitem\_types/workflowitem\_type.spec](modules/service_domain_workflowitem_types_workflowitem_type_spec.md)
 - [service/errors/authentication\_failed](modules/service_errors_authentication_failed.md)
 - [service/event](modules/service_event.md)
 - [service/event\_parsing\_error](modules/service_event_parsing_error.md)
@@ -391,189 +462,3 @@ sidebar_label: Table of Contents
 - [workflowitem\_view\_details](modules/workflowitem_view_details.md)
 - [workflowitem\_view\_history](modules/workflowitem_view_history.md)
 - [workflowitems\_reorder](modules/workflowitems_reorder.md)
-
-### Interfaces
-
-- [Config](interfaces/Config.md)
-- [ExposedGroup](interfaces/ExposedGroup.md)
-- [ExposedNotification](interfaces/ExposedNotification.md)
-- [Group](interfaces/Group.md)
-- [ProcessEnvVars](interfaces/ProcessEnvVars.md)
-- [ProjectNotificationMetadata](interfaces/ProjectNotificationMetadata.md)
-- [ProjectWithViewPermissions](interfaces/ProjectWithViewPermissions.md)
-- [ProjectWithoutViewPermissions](interfaces/ProjectWithoutViewPermissions.md)
-- [SubprojectNotificationMetadata](interfaces/SubprojectNotificationMetadata.md)
-- [SubprojectWithViewPermissions](interfaces/SubprojectWithViewPermissions.md)
-- [SubprojectWithoutViewPermissions](interfaces/SubprojectWithoutViewPermissions.md)
-- [WorkflowitemNotificationMetadata](interfaces/WorkflowitemNotificationMetadata.md)
-- [WorkflowitemWithViewPermissions](interfaces/WorkflowitemWithViewPermissions.md)
-- [WorkflowitemWithoutViewPermissions](interfaces/WorkflowitemWithoutViewPermissions.md)
-
-### Type aliases
-
-- [NotificationMetadata](modules.md#notificationmetadata)
-
-### Functions
-
-- [exitIfMissing](modules.md#exitifmissing)
-- [getMetadata](modules.md#getmetadata)
-- [getProjectMetadata](modules.md#getprojectmetadata)
-- [getSubprojectMetadata](modules.md#getsubprojectmetadata)
-- [getWorkflowitemMetadata](modules.md#getworkflowitemmetadata)
-
-## Type aliases
-
-### NotificationMetadata
-
-Ƭ **NotificationMetadata**: [`ProjectNotificationMetadata`](interfaces/ProjectNotificationMetadata.md) \| [`SubprojectNotificationMetadata`](interfaces/SubprojectNotificationMetadata.md) \| [`WorkflowitemNotificationMetadata`](interfaces/WorkflowitemNotificationMetadata.md)
-
-Type representing the notification metadata
-
-**`notexported`**
-
-#### Defined in
-
-[src/notification_list.ts:201](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L201)
-
-## Functions
-
-### exitIfMissing
-
-▸ **exitIfMissing**(`requiredEnvVars`): `void`
-
-Checks if required environment variables are set, stops the process otherwise
-
-**`notexported`**
-
-#### Parameters
-
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `requiredEnvVars` | `any` | environment variables required for the API to run |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/config.ts:121](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/config.ts#L121)
-
-___
-
-### getMetadata
-
-▸ **getMetadata**(`ctx`, `user`, `notification`, `service`): `Promise`<[`NotificationMetadata`](modules.md#notificationmetadata) \| `undefined`\>
-
-Retrieves the metadata for a specific notification
-
-**`notexported`**
-
-#### Parameters
-
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `ctx` | [`Ctx`](interfaces/lib_ctx.Ctx.md) | the current context [Ctx](interfaces/lib_ctx.Ctx.md) |
-| `user` | [`ServiceUser`](interfaces/service_domain_organization_service_user.ServiceUser.md) | the [ServiceUser](interfaces/service_domain_organization_service_user.ServiceUser.md) performing the request |
-| `notification` | [`Notification`](interfaces/service_domain_workflow_notification.Notification.md) | the {@link Notification.Notification} for which the metadata should be retrieved |
-| `service` | `Service` | the {@link Service} object used to offer an interface to the domain logic |
-
-#### Returns
-
-`Promise`<[`NotificationMetadata`](modules.md#notificationmetadata) \| `undefined`\>
-
-the notification metadata as a [NotificationMetadata](modules.md#notificationmetadata) or undefined if no project and subproject id is provided in the {@link Notification.Notification}
-
-#### Defined in
-
-[src/notification_list.ts:353](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L353)
-
-___
-
-### getProjectMetadata
-
-▸ **getProjectMetadata**(`ctx`, `user`, `service`, `projectId`): `Promise`<[`ProjectWithViewPermissions`](interfaces/ProjectWithViewPermissions.md) \| [`ProjectWithoutViewPermissions`](interfaces/ProjectWithoutViewPermissions.md)\>
-
-Get the metadata of a project to show in the notification
-
-**`notexported`**
-
-#### Parameters
-
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `ctx` | [`Ctx`](interfaces/lib_ctx.Ctx.md) | the current context [Ctx](interfaces/lib_ctx.Ctx.md) |
-| `user` | [`ServiceUser`](interfaces/service_domain_organization_service_user.ServiceUser.md) | the [ServiceUser](interfaces/service_domain_organization_service_user.ServiceUser.md) performing the request |
-| `service` | `Service` | the {@link Service} object used to offer an interface to the domain logic |
-| `projectId` | `string` | the id of the project to be returned |
-
-#### Returns
-
-`Promise`<[`ProjectWithViewPermissions`](interfaces/ProjectWithViewPermissions.md) \| [`ProjectWithoutViewPermissions`](interfaces/ProjectWithoutViewPermissions.md)\>
-
-a promise containing the metadata visible to a user either with or without permissions
-
-#### Defined in
-
-[src/notification_list.ts:260](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L260)
-
-___
-
-### getSubprojectMetadata
-
-▸ **getSubprojectMetadata**(`ctx`, `user`, `service`, `projectId`, `subprojectId`): `Promise`<[`SubprojectWithViewPermissions`](interfaces/SubprojectWithViewPermissions.md) \| [`SubprojectWithoutViewPermissions`](interfaces/SubprojectWithoutViewPermissions.md)\>
-
-Get the metadata of a subproject to show in the notification
-
-**`notexported`**
-
-#### Parameters
-
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `ctx` | [`Ctx`](interfaces/lib_ctx.Ctx.md) | the current context [Ctx](interfaces/lib_ctx.Ctx.md) |
-| `user` | [`ServiceUser`](interfaces/service_domain_organization_service_user.ServiceUser.md) | the [ServiceUser](interfaces/service_domain_organization_service_user.ServiceUser.md) performing the request |
-| `service` | `Service` | the {@link Service} object used to offer an interface to the domain logic |
-| `projectId` | `string` | the id of the project which contains the subproject |
-| `subprojectId` | `string` | the id of the subproject to be returned |
-
-#### Returns
-
-`Promise`<[`SubprojectWithViewPermissions`](interfaces/SubprojectWithViewPermissions.md) \| [`SubprojectWithoutViewPermissions`](interfaces/SubprojectWithoutViewPermissions.md)\>
-
-a promise containing the metadata visible to a user either with or without permissions
-
-#### Defined in
-
-[src/notification_list.ts:288](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L288)
-
-___
-
-### getWorkflowitemMetadata
-
-▸ **getWorkflowitemMetadata**(`ctx`, `user`, `service`, `projectId`, `subprojectId`, `workflowitemId`): `Promise`<[`WorkflowitemWithViewPermissions`](interfaces/WorkflowitemWithViewPermissions.md) \| [`WorkflowitemWithoutViewPermissions`](interfaces/WorkflowitemWithoutViewPermissions.md)\>
-
-Get the metadata of a workflowitem to show in the notification
-
-**`notexported`**
-
-#### Parameters
-
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `ctx` | [`Ctx`](interfaces/lib_ctx.Ctx.md) | the current context [Ctx](interfaces/lib_ctx.Ctx.md) |
-| `user` | [`ServiceUser`](interfaces/service_domain_organization_service_user.ServiceUser.md) | the [ServiceUser](interfaces/service_domain_organization_service_user.ServiceUser.md) performing the request |
-| `service` | `Service` | the {@link Service} object used to offer an interface to the domain logic |
-| `projectId` | `string` | the id of the project which contains the workflowitem |
-| `subprojectId` | `string` | the id of the subproject which contains the workflowitem |
-| `workflowitemId` | `string` | the id of the workflowitem to be returned |
-
-#### Returns
-
-`Promise`<[`WorkflowitemWithViewPermissions`](interfaces/WorkflowitemWithViewPermissions.md) \| [`WorkflowitemWithoutViewPermissions`](interfaces/WorkflowitemWithoutViewPermissions.md)\>
-
-a promise containing the metadata visible to a user either with or without permissions
-
-#### Defined in
-
-[src/notification_list.ts:318](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/notification_list.ts#L318)

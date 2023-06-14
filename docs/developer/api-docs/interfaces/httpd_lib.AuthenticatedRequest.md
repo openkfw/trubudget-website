@@ -17,6 +17,7 @@
 - [body](httpd_lib.AuthenticatedRequest.md#body)
 - [connection](httpd_lib.AuthenticatedRequest.md#connection)
 - [context](httpd_lib.AuthenticatedRequest.md#context)
+- [cookies](httpd_lib.AuthenticatedRequest.md#cookies)
 - [headers](httpd_lib.AuthenticatedRequest.md#headers)
 - [hostname](httpd_lib.AuthenticatedRequest.md#hostname)
 - [id](httpd_lib.AuthenticatedRequest.md#id)
@@ -25,12 +26,14 @@
 - [is404](httpd_lib.AuthenticatedRequest.md#is404)
 - [log](httpd_lib.AuthenticatedRequest.md#log)
 - [method](httpd_lib.AuthenticatedRequest.md#method)
-- [metrics](httpd_lib.AuthenticatedRequest.md#metrics)
 - [params](httpd_lib.AuthenticatedRequest.md#params)
 - [protocol](httpd_lib.AuthenticatedRequest.md#protocol)
 - [query](httpd_lib.AuthenticatedRequest.md#query)
 - [raw](httpd_lib.AuthenticatedRequest.md#raw)
 - [req](httpd_lib.AuthenticatedRequest.md#req)
+- [routeConfig](httpd_lib.AuthenticatedRequest.md#routeconfig)
+- [routeOptions](httpd_lib.AuthenticatedRequest.md#routeoptions)
+- [routeSchema](httpd_lib.AuthenticatedRequest.md#routeschema)
 - [routerMethod](httpd_lib.AuthenticatedRequest.md#routermethod)
 - [routerPath](httpd_lib.AuthenticatedRequest.md#routerpath)
 - [server](httpd_lib.AuthenticatedRequest.md#server)
@@ -38,6 +41,16 @@
 - [url](httpd_lib.AuthenticatedRequest.md#url)
 - [user](httpd_lib.AuthenticatedRequest.md#user)
 - [validationError](httpd_lib.AuthenticatedRequest.md#validationerror)
+
+### Methods
+
+- [compileValidationSchema](httpd_lib.AuthenticatedRequest.md#compilevalidationschema)
+- [getValidationFunction](httpd_lib.AuthenticatedRequest.md#getvalidationfunction)
+- [jwtDecode](httpd_lib.AuthenticatedRequest.md#jwtdecode)
+- [jwtVerify](httpd_lib.AuthenticatedRequest.md#jwtverify)
+- [signCookie](httpd_lib.AuthenticatedRequest.md#signcookie)
+- [unsignCookie](httpd_lib.AuthenticatedRequest.md#unsigncookie)
+- [validateInput](httpd_lib.AuthenticatedRequest.md#validateinput)
 
 ## Properties
 
@@ -51,7 +64,7 @@ FastifyRequest.body
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:32
+node_modules/fastify/types/request.d.ts:60
 
 ___
 
@@ -65,7 +78,7 @@ FastifyRequest.connection
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:55
+node_modules/fastify/types/request.d.ts:92
 
 ___
 
@@ -79,7 +92,27 @@ FastifyRequest.context
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:33
+node_modules/fastify/types/request.d.ts:61
+
+___
+
+### cookies
+
+• **cookies**: `Object`
+
+Request cookies
+
+#### Index signature
+
+▪ [cookieName: `string`]: `string` \| `undefined`
+
+#### Inherited from
+
+FastifyRequest.cookies
+
+#### Defined in
+
+node_modules/@fastify/cookie/types/plugin.d.ts:21
 
 ___
 
@@ -93,7 +126,7 @@ FastifyRequest.headers
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:29
+node_modules/fastify/types/request.d.ts:57
 
 ___
 
@@ -107,7 +140,7 @@ FastifyRequest.hostname
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:44
+node_modules/fastify/types/request.d.ts:74
 
 ___
 
@@ -121,7 +154,7 @@ FastifyRequest.id
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:25
+node_modules/fastify/types/request.d.ts:53
 
 ___
 
@@ -135,7 +168,7 @@ FastifyRequest.ip
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:42
+node_modules/fastify/types/request.d.ts:72
 
 ___
 
@@ -149,7 +182,7 @@ FastifyRequest.ips
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:43
+node_modules/fastify/types/request.d.ts:73
 
 ___
 
@@ -163,13 +196,13 @@ FastifyRequest.is404
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:50
+node_modules/fastify/types/request.d.ts:81
 
 ___
 
 ### log
 
-• **log**: `FastifyLoggerInstance`
+• **log**: `FastifyBaseLogger`
 
 #### Inherited from
 
@@ -177,7 +210,7 @@ FastifyRequest.log
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:30
+node_modules/fastify/types/request.d.ts:58
 
 ___
 
@@ -191,28 +224,7 @@ FastifyRequest.method
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:47
-
-___
-
-### metrics
-
-• `Optional` **metrics**: `Object`
-
-#### Type declaration
-
-| Name | Type |
-| :------ | :------ |
-| `hist` | (`labels?`: `Partial`<`Record`<`string`, `string` \| `number`\>\>) => `void` |
-| `sum` | (`labels?`: `Partial`<`Record`<`string`, `string` \| `number`\>\>) => `void` |
-
-#### Inherited from
-
-FastifyRequest.metrics
-
-#### Defined in
-
-node_modules/fastify-metrics/dist/index.d.ts:18
+node_modules/fastify/types/request.d.ts:77
 
 ___
 
@@ -226,7 +238,7 @@ FastifyRequest.params
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:26
+node_modules/fastify/types/request.d.ts:54
 
 ___
 
@@ -240,7 +252,7 @@ FastifyRequest.protocol
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:46
+node_modules/fastify/types/request.d.ts:76
 
 ___
 
@@ -254,7 +266,7 @@ FastifyRequest.query
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:28
+node_modules/fastify/types/request.d.ts:56
 
 ___
 
@@ -268,7 +280,7 @@ FastifyRequest.raw
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:27
+node_modules/fastify/types/request.d.ts:55
 
 ___
 
@@ -276,7 +288,9 @@ ___
 
 • `Readonly` **req**: `IncomingMessage`
 
-**`deprecated`** Use `raw` property
+**`Deprecated`**
+
+Use `raw` property
 
 #### Inherited from
 
@@ -284,7 +298,49 @@ FastifyRequest.req
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:41
+node_modules/fastify/types/request.d.ts:71
+
+___
+
+### routeConfig
+
+• **routeConfig**: `FastifyContextConfig`
+
+#### Inherited from
+
+FastifyRequest.routeConfig
+
+#### Defined in
+
+node_modules/fastify/types/request.d.ts:62
+
+___
+
+### routeOptions
+
+• `Readonly` **routeOptions**: `Readonly`<`RequestRouteOptions`\>
+
+#### Inherited from
+
+FastifyRequest.routeOptions
+
+#### Defined in
+
+node_modules/fastify/types/request.d.ts:80
+
+___
+
+### routeSchema
+
+• **routeSchema**: `FastifySchema`
+
+#### Inherited from
+
+FastifyRequest.routeSchema
+
+#### Defined in
+
+node_modules/fastify/types/request.d.ts:63
 
 ___
 
@@ -298,7 +354,7 @@ FastifyRequest.routerMethod
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:49
+node_modules/fastify/types/request.d.ts:79
 
 ___
 
@@ -312,13 +368,13 @@ FastifyRequest.routerPath
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:48
+node_modules/fastify/types/request.d.ts:78
 
 ___
 
 ### server
 
-• **server**: `FastifyInstance`<`Server`, `IncomingMessage`, `ServerResponse`, `FastifyLoggerInstance`\>
+• **server**: `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -326,7 +382,7 @@ FastifyRequest.server
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:31
+node_modules/fastify/types/request.d.ts:59
 
 ___
 
@@ -340,7 +396,7 @@ FastifyRequest.socket
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:51
+node_modules/fastify/types/request.d.ts:82
 
 ___
 
@@ -354,7 +410,7 @@ FastifyRequest.url
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:45
+node_modules/fastify/types/request.d.ts:75
 
 ___
 
@@ -362,9 +418,13 @@ ___
 
 • **user**: [`AuthToken`](authz_token.AuthToken.md)
 
+#### Overrides
+
+FastifyRequest.user
+
 #### Defined in
 
-[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/httpd/lib.ts#L7)
+[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/lib.ts#L7)
 
 ___
 
@@ -380,4 +440,391 @@ FastifyRequest.validationError
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:36
+node_modules/fastify/types/request.d.ts:66
+
+## Methods
+
+### compileValidationSchema
+
+▸ **compileValidationSchema**(`schema`, `httpPart?`): `ValidationFunction`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `schema` | `Object` |
+| `httpPart?` | `HTTPRequestPart` |
+
+#### Returns
+
+`ValidationFunction`
+
+#### Inherited from
+
+FastifyRequest.compileValidationSchema
+
+#### Defined in
+
+node_modules/fastify/types/request.d.ts:86
+
+___
+
+### getValidationFunction
+
+▸ **getValidationFunction**(`httpPart`): `ValidationFunction`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `httpPart` | `HTTPRequestPart` |
+
+#### Returns
+
+`ValidationFunction`
+
+#### Inherited from
+
+FastifyRequest.getValidationFunction
+
+#### Defined in
+
+node_modules/fastify/types/request.d.ts:84
+
+▸ **getValidationFunction**(`schema`): `ValidationFunction`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `schema` | `Object` |
+
+#### Returns
+
+`ValidationFunction`
+
+#### Inherited from
+
+FastifyRequest.getValidationFunction
+
+#### Defined in
+
+node_modules/fastify/types/request.d.ts:85
+
+___
+
+### jwtDecode
+
+▸ **jwtDecode**<`Decoded`\>(`options?`): `Promise`<`Decoded`\>
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Decoded` | extends `DecodePayloadType` |
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options?` | `FastifyJwtDecodeOptions` |
+
+#### Returns
+
+`Promise`<`Decoded`\>
+
+#### Inherited from
+
+FastifyRequest.jwtDecode
+
+#### Defined in
+
+node_modules/@fastify/jwt/jwt.d.ts:34
+
+▸ **jwtDecode**<`Decoded`\>(`callback`): `void`
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Decoded` | extends `DecodePayloadType` |
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `callback` | `DecodeCallback`<`Decoded`\> |
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+FastifyRequest.jwtDecode
+
+#### Defined in
+
+node_modules/@fastify/jwt/jwt.d.ts:35
+
+▸ **jwtDecode**<`Decoded`\>(`options`, `callback`): `void`
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Decoded` | extends `DecodePayloadType` |
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options` | `FastifyJwtDecodeOptions` |
+| `callback` | `DecodeCallback`<`Decoded`\> |
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+FastifyRequest.jwtDecode
+
+#### Defined in
+
+node_modules/@fastify/jwt/jwt.d.ts:36
+
+___
+
+### jwtVerify
+
+▸ **jwtVerify**<`Decoded`\>(`options?`): `Promise`<`Decoded`\>
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Decoded` | extends `VerifyPayloadType` |
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options?` | `FastifyJwtVerifyOptions` |
+
+#### Returns
+
+`Promise`<`Decoded`\>
+
+#### Inherited from
+
+FastifyRequest.jwtVerify
+
+#### Defined in
+
+node_modules/@fastify/jwt/jwt.d.ts:29
+
+▸ **jwtVerify**<`Decoded`\>(`callback`): `void`
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Decoded` | extends `VerifyPayloadType` |
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `callback` | `VerifierCallback` |
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+FastifyRequest.jwtVerify
+
+#### Defined in
+
+node_modules/@fastify/jwt/jwt.d.ts:30
+
+▸ **jwtVerify**<`Decoded`\>(`options`, `callback`): `void`
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Decoded` | extends `VerifyPayloadType` |
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options` | `FastifyJwtVerifyOptions` |
+| `callback` | `VerifierCallback` |
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+FastifyRequest.jwtVerify
+
+#### Defined in
+
+node_modules/@fastify/jwt/jwt.d.ts:31
+
+▸ **jwtVerify**<`Decoded`\>(`options?`): `Promise`<`Decoded`\>
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Decoded` | extends `VerifyPayloadType` |
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options?` | `Partial`<`VerifyOptions`\> |
+
+#### Returns
+
+`Promise`<`Decoded`\>
+
+#### Inherited from
+
+FastifyRequest.jwtVerify
+
+#### Defined in
+
+node_modules/@fastify/jwt/jwt.d.ts:32
+
+▸ **jwtVerify**<`Decoded`\>(`options`, `callback`): `void`
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Decoded` | extends `VerifyPayloadType` |
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options` | `Partial`<`VerifyOptions`\> |
+| `callback` | `VerifierCallback` |
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+FastifyRequest.jwtVerify
+
+#### Defined in
+
+node_modules/@fastify/jwt/jwt.d.ts:33
+
+___
+
+### signCookie
+
+▸ **signCookie**(`value`): `string`
+
+Signs the specified cookie using the secret/signer provided.
+
+#### Parameters
+
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `value` | `string` | cookie value |
+
+#### Returns
+
+`string`
+
+#### Inherited from
+
+FastifyRequest.signCookie
+
+#### Defined in
+
+node_modules/@fastify/cookie/types/plugin.d.ts:36
+
+___
+
+### unsignCookie
+
+▸ **unsignCookie**(`value`): `UnsignResult`
+
+Unsigns the specified cookie using the secret/signer provided.
+
+#### Parameters
+
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `value` | `string` | Cookie value |
+
+#### Returns
+
+`UnsignResult`
+
+#### Inherited from
+
+FastifyRequest.unsignCookie
+
+#### Defined in
+
+node_modules/@fastify/cookie/types/plugin.d.ts:42
+
+___
+
+### validateInput
+
+▸ **validateInput**(`input`, `schema`, `httpPart?`): `boolean`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `input` | `any` |
+| `schema` | `Object` |
+| `httpPart?` | `HTTPRequestPart` |
+
+#### Returns
+
+`boolean`
+
+#### Inherited from
+
+FastifyRequest.validateInput
+
+#### Defined in
+
+node_modules/fastify/types/request.d.ts:87
+
+▸ **validateInput**(`input`, `httpPart?`): `boolean`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `input` | `any` |
+| `httpPart?` | `HTTPRequestPart` |
+
+#### Returns
+
+`boolean`
+
+#### Inherited from
+
+FastifyRequest.validateInput
+
+#### Defined in
+
+node_modules/fastify/types/request.d.ts:88

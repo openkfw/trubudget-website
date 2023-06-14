@@ -8,12 +8,12 @@
 
 - [Document](../interfaces/service_domain_ResourceMap.Document.md)
 
-### Type aliases
+### Type Aliases
 
 - [Resource](service_domain_ResourceMap.md#resource)
 - [ResourceMap](service_domain_ResourceMap.md#resourcemap)
 
-## Type aliases
+## Type Aliases
 
 ### Resource
 
@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:1](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/ResourceMap.ts#L1)
+[src/service/domain/ResourceMap.ts:1](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/ResourceMap.ts#L1)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:8](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/ResourceMap.ts#L8)
+[src/service/domain/ResourceMap.ts:8](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/ResourceMap.ts#L8)

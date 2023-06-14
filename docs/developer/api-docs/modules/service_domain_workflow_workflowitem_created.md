@@ -22,11 +22,11 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`
+• `Const` **schema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_created.ts:65](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_created.ts#L65)
+[src/service/domain/workflow/workflowitem_created.ts:65](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_created.ts#L65)
 
 ## Functions
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_created.ts:75](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_created.ts#L75)
+[src/service/domain/workflow/workflowitem_created.ts:75](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_created.ts#L75)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_created.ts:105](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_created.ts#L105)
+[src/service/domain/workflow/workflowitem_created.ts:105](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_created.ts#L105)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_created.ts:100](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/workflow/workflowitem_created.ts#L100)
+[src/service/domain/workflow/workflowitem_created.ts:100](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_created.ts#L100)

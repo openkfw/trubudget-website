@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-### Type aliases
+### Type Aliases
 
 - [ExposablePermissions](service_domain_permissions.md#exposablepermissions)
 - [Permissions](service_domain_permissions.md#permissions)
@@ -17,7 +17,7 @@
 
 - [getExposablePermissions](service_domain_permissions.md#getexposablepermissions)
 
-## Type aliases
+## Type Aliases
 
 ### ExposablePermissions
 
@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/permissions.ts:6](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/permissions.ts#L6)
+[src/service/domain/permissions.ts:6](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/permissions.ts#L6)
 
 ___
 
@@ -35,17 +35,17 @@ ___
 
 #### Defined in
 
-[src/service/domain/permissions.ts:5](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/permissions.ts#L5)
+[src/service/domain/permissions.ts:5](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/permissions.ts#L5)
 
 ## Variables
 
 ### permissionsSchema
 
-• `Const` **permissionsSchema**: `ObjectSchema`
+• `Const` **permissionsSchema**: `ObjectSchema`<`any`\>
 
 #### Defined in
 
-[src/service/domain/permissions.ts:8](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/permissions.ts#L8)
+[src/service/domain/permissions.ts:8](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/permissions.ts#L8)
 
 ## Functions
 
@@ -68,4 +68,4 @@ Removes permissions which should not be returned to the user
 
 #### Defined in
 
-[src/service/domain/permissions.ts:18](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/domain/permissions.ts#L18)
+[src/service/domain/permissions.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/permissions.ts#L18)

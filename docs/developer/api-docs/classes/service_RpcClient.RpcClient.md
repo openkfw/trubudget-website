@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[src/service/RpcClient.ts:71](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L71)
+[src/service/RpcClient.ts:71](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L71)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[src/service/RpcClient.ts:67](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L67)
+[src/service/RpcClient.ts:67](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L67)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:69](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L69)
+[src/service/RpcClient.ts:69](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L69)
 
 ## Methods
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:341](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L341)
+[src/service/RpcClient.ts:352](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L352)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:290](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L290)
+[src/service/RpcClient.ts:301](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L301)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:104](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L104)
+[src/service/RpcClient.ts:104](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L104)
 
 ___
 
@@ -144,13 +144,13 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:299](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L299)
+[src/service/RpcClient.ts:310](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L310)
 
 ___
 
 ### handleError
 
-▸ `Private` **handleError**(`error`, `method`, `params`): `any`
+▸ `Private` **handleError**(`error`, `method`, `params`): `undefined` \| [`default`](service_RpcError.default.md)
 
 #### Parameters
 
@@ -162,17 +162,17 @@ ___
 
 #### Returns
 
-`any`
+`undefined` \| [`default`](service_RpcError.default.md)
 
 #### Defined in
 
-[src/service/RpcClient.ts:250](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L250)
+[src/service/RpcClient.ts:254](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L254)
 
 ___
 
 ### invoke
 
-▸ **invoke**(`method`, ...`params`): `any`
+▸ **invoke**(`method`, `...params`): `any`
 
 Used to invoke MultiChain RPC-Commands. For publishing an event to the chain the invokePublish function should be used
 
@@ -191,7 +191,7 @@ return value also depends on the speicific method, can be listitems, permissions
 
 #### Defined in
 
-[src/service/RpcClient.ts:194](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L194)
+[src/service/RpcClient.ts:198](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L198)
 
 ___
 
@@ -217,7 +217,7 @@ Used to publish a stream item on the chain
 
 #### Defined in
 
-[src/service/RpcClient.ts:140](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L140)
+[src/service/RpcClient.ts:140](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L140)
 
 ___
 
@@ -239,4 +239,4 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:336](https://github.com/openkfw/TruBudget/blob/f6ee764/api/src/service/RpcClient.ts#L336)
+[src/service/RpcClient.ts:347](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/RpcClient.ts#L347)
