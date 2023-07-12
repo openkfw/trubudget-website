@@ -19,6 +19,9 @@ Interface representing an extended fastify instance
 - [addContentTypeParser](types.AugmentedFastifyInstance.md#addcontenttypeparser)
 - [all](types.AugmentedFastifyInstance.md#all)
 - [authenticate](types.AugmentedFastifyInstance.md#authenticate)
+- [decorate](types.AugmentedFastifyInstance.md#decorate)
+- [decorateReply](types.AugmentedFastifyInstance.md#decoratereply)
+- [decorateRequest](types.AugmentedFastifyInstance.md#decoraterequest)
 - [defaultTextParser](types.AugmentedFastifyInstance.md#defaulttextparser)
 - [delete](types.AugmentedFastifyInstance.md#delete)
 - [errorHandler](types.AugmentedFastifyInstance.md#errorhandler)
@@ -28,10 +31,12 @@ Interface representing an extended fastify instance
 - [head](types.AugmentedFastifyInstance.md#head)
 - [initialConfig](types.AugmentedFastifyInstance.md#initialconfig)
 - [jwt](types.AugmentedFastifyInstance.md#jwt)
+- [listeningOrigin](types.AugmentedFastifyInstance.md#listeningorigin)
 - [log](types.AugmentedFastifyInstance.md#log)
 - [metrics](types.AugmentedFastifyInstance.md#metrics)
 - [options](types.AugmentedFastifyInstance.md#options)
 - [patch](types.AugmentedFastifyInstance.md#patch)
+- [pluginName](types.AugmentedFastifyInstance.md#pluginname)
 - [post](types.AugmentedFastifyInstance.md#post)
 - [prefix](types.AugmentedFastifyInstance.md#prefix)
 - [put](types.AugmentedFastifyInstance.md#put)
@@ -53,9 +58,6 @@ Interface representing an extended fastify instance
 - [addresses](types.AugmentedFastifyInstance.md#addresses)
 - [after](types.AugmentedFastifyInstance.md#after)
 - [close](types.AugmentedFastifyInstance.md#close)
-- [decorate](types.AugmentedFastifyInstance.md#decorate)
-- [decorateReply](types.AugmentedFastifyInstance.md#decoratereply)
-- [decorateRequest](types.AugmentedFastifyInstance.md#decoraterequest)
 - [getDefaultRoute](types.AugmentedFastifyInstance.md#getdefaultroute)
 - [getSchema](types.AugmentedFastifyInstance.md#getschema)
 - [getSchemas](types.AugmentedFastifyInstance.md#getschemas)
@@ -99,7 +101,7 @@ FastifyInstance.addContentTypeParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:563
+node_modules/fastify/types/instance.d.ts:586
 
 ___
 
@@ -113,7 +115,7 @@ FastifyInstance.all
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:191
+node_modules/fastify/types/instance.d.ts:201
 
 ___
 
@@ -123,7 +125,49 @@ ___
 
 #### Defined in
 
-[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/types.ts#L8)
+[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/0804644/api/src/types.ts#L8)
+
+___
+
+### decorate
+
+• **decorate**: `DecorationMethod`<`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>, `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>\>
+
+#### Inherited from
+
+FastifyInstance.decorate
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:138
+
+___
+
+### decorateReply
+
+• **decorateReply**: `DecorationMethod`<`FastifyReply`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`\>, `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>\>
+
+#### Inherited from
+
+FastifyInstance.decorateReply
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:140
+
+___
+
+### decorateRequest
+
+• **decorateRequest**: `DecorationMethod`<`FastifyRequest`<`RouteGenericInterface`, `RawServerDefault`, `IncomingMessage`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`<`FastifyTypeProviderDefault`, `FastifySchema`, `RouteGenericInterface`\>\>, `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>\>
+
+#### Inherited from
+
+FastifyInstance.decorateRequest
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:139
 
 ___
 
@@ -139,7 +183,7 @@ FastifyInstance.defaultTextParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:580
+node_modules/fastify/types/instance.d.ts:603
 
 ___
 
@@ -153,7 +197,7 @@ FastifyInstance.delete
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:188
+node_modules/fastify/types/instance.d.ts:198
 
 ___
 
@@ -185,7 +229,7 @@ FastifyInstance.errorHandler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:517
+node_modules/fastify/types/instance.d.ts:540
 
 ___
 
@@ -199,7 +243,7 @@ FastifyInstance.get
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:184
+node_modules/fastify/types/instance.d.ts:194
 
 ___
 
@@ -215,7 +259,7 @@ FastifyInstance.getDefaultJsonParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:576
+node_modules/fastify/types/instance.d.ts:599
 
 ___
 
@@ -229,7 +273,7 @@ FastifyInstance.hasContentTypeParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:564
+node_modules/fastify/types/instance.d.ts:587
 
 ___
 
@@ -243,7 +287,7 @@ FastifyInstance.head
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:185
+node_modules/fastify/types/instance.d.ts:195
 
 ___
 
@@ -259,7 +303,7 @@ FastifyInstance.initialConfig
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:595
+node_modules/fastify/types/instance.d.ts:618
 
 ___
 
@@ -277,6 +321,20 @@ node_modules/@fastify/jwt/jwt.d.ts:17
 
 ___
 
+### listeningOrigin
+
+• **listeningOrigin**: `string`
+
+#### Inherited from
+
+FastifyInstance.listeningOrigin
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:123
+
+___
+
 ### log
 
 • **log**: `FastifyBaseLogger`
@@ -287,7 +345,7 @@ FastifyInstance.log
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:95
+node_modules/fastify/types/instance.d.ts:122
 
 ___
 
@@ -317,7 +375,7 @@ FastifyInstance.options
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:189
+node_modules/fastify/types/instance.d.ts:199
 
 ___
 
@@ -331,7 +389,21 @@ FastifyInstance.patch
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:190
+node_modules/fastify/types/instance.d.ts:200
+
+___
+
+### pluginName
+
+• **pluginName**: `string`
+
+#### Inherited from
+
+FastifyInstance.pluginName
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:119
 
 ___
 
@@ -345,7 +417,7 @@ FastifyInstance.post
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:186
+node_modules/fastify/types/instance.d.ts:196
 
 ___
 
@@ -359,7 +431,7 @@ FastifyInstance.prefix
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:93
+node_modules/fastify/types/instance.d.ts:120
 
 ___
 
@@ -373,7 +445,7 @@ FastifyInstance.put
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:187
+node_modules/fastify/types/instance.d.ts:197
 
 ___
 
@@ -387,7 +459,7 @@ FastifyInstance.register
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:172
+node_modules/fastify/types/instance.d.ts:182
 
 ___
 
@@ -403,7 +475,7 @@ FastifyInstance.removeAllContentTypeParsers
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:572
+node_modules/fastify/types/instance.d.ts:595
 
 ___
 
@@ -419,7 +491,7 @@ FastifyInstance.removeContentTypeParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:568
+node_modules/fastify/types/instance.d.ts:591
 
 ___
 
@@ -435,7 +507,7 @@ FastifyInstance.serializerCompiler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:539
+node_modules/fastify/types/instance.d.ts:562
 
 ___
 
@@ -449,7 +521,7 @@ FastifyInstance.server
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:92
+node_modules/fastify/types/instance.d.ts:118
 
 ___
 
@@ -477,7 +549,7 @@ FastifyInstance.swaggerCSP
 
 #### Defined in
 
-[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/types.ts#L9)
+[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/0804644/api/src/types.ts#L9)
 
 ___
 
@@ -493,7 +565,7 @@ FastifyInstance.validatorCompiler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:529
+node_modules/fastify/types/instance.d.ts:552
 
 ___
 
@@ -507,7 +579,7 @@ FastifyInstance.version
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:94
+node_modules/fastify/types/instance.d.ts:121
 
 ## Methods
 
@@ -531,7 +603,7 @@ FastifyInstance.addConstraintStrategy
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:137
+node_modules/fastify/types/instance.d.ts:147
 
 ___
 
@@ -568,7 +640,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:207
+node_modules/fastify/types/instance.d.ts:217
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -598,7 +670,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:217
+node_modules/fastify/types/instance.d.ts:227
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -631,7 +703,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:231
+node_modules/fastify/types/instance.d.ts:241
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -661,7 +733,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:241
+node_modules/fastify/types/instance.d.ts:251
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -693,7 +765,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:254
+node_modules/fastify/types/instance.d.ts:264
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -723,7 +795,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:264
+node_modules/fastify/types/instance.d.ts:274
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -755,7 +827,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:277
+node_modules/fastify/types/instance.d.ts:287
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -785,7 +857,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:287
+node_modules/fastify/types/instance.d.ts:297
 
 ▸ **addHook**<`PreSerializationPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -819,7 +891,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:301
+node_modules/fastify/types/instance.d.ts:311
 
 ▸ **addHook**<`PreSerializationPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -850,7 +922,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:312
+node_modules/fastify/types/instance.d.ts:322
 
 ▸ **addHook**<`OnSendPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -884,7 +956,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:327
+node_modules/fastify/types/instance.d.ts:337
 
 ▸ **addHook**<`OnSendPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -915,7 +987,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:338
+node_modules/fastify/types/instance.d.ts:348
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -948,7 +1020,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:353
+node_modules/fastify/types/instance.d.ts:363
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -978,7 +1050,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:363
+node_modules/fastify/types/instance.d.ts:373
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -1011,7 +1083,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:377
+node_modules/fastify/types/instance.d.ts:387
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -1041,7 +1113,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:387
+node_modules/fastify/types/instance.d.ts:397
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -1075,7 +1147,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:402
+node_modules/fastify/types/instance.d.ts:412
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -1105,7 +1177,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:412
+node_modules/fastify/types/instance.d.ts:422
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -1140,7 +1212,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:428
+node_modules/fastify/types/instance.d.ts:438
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -1170,7 +1242,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:438
+node_modules/fastify/types/instance.d.ts:448
 
 ▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
@@ -1202,7 +1274,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:453
+node_modules/fastify/types/instance.d.ts:463
 
 ▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
@@ -1227,7 +1299,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:468
+node_modules/fastify/types/instance.d.ts:478
 
 ▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
@@ -1250,7 +1322,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:476
+node_modules/fastify/types/instance.d.ts:486
 
 ▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
@@ -1271,7 +1343,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:481
+node_modules/fastify/types/instance.d.ts:491
 
 ▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
@@ -1294,7 +1366,7 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:489
+node_modules/fastify/types/instance.d.ts:499
 
 ▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
@@ -1315,7 +1387,51 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:494
+node_modules/fastify/types/instance.d.ts:504
+
+▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+Triggered when fastify.close() is invoked to stop the server. It is useful when plugins need to cancel some state to allow the server to close successfully.
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `name` | ``"preClose"`` |
+| `hook` | `preCloseHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+
+#### Returns
+
+`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+#### Inherited from
+
+FastifyInstance.addHook
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:512
+
+▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `name` | ``"preClose"`` |
+| `hook` | `preCloseAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+
+#### Returns
+
+`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+#### Inherited from
+
+FastifyInstance.addHook
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:517
 
 ___
 
@@ -1339,7 +1455,7 @@ FastifyInstance.addSchema
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:100
+node_modules/fastify/types/instance.d.ts:127
 
 ___
 
@@ -1357,7 +1473,7 @@ FastifyInstance.addresses
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:97
+node_modules/fastify/types/instance.d.ts:124
 
 ___
 
@@ -1375,7 +1491,7 @@ FastifyInstance.after
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:104
+node_modules/fastify/types/instance.d.ts:131
 
 ▸ **after**(`afterListener`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
@@ -1395,7 +1511,7 @@ FastifyInstance.after
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:105
+node_modules/fastify/types/instance.d.ts:132
 
 ___
 
@@ -1413,7 +1529,7 @@ FastifyInstance.close
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:107
+node_modules/fastify/types/instance.d.ts:134
 
 ▸ **close**(`closeListener`): `undefined`
 
@@ -1433,103 +1549,7 @@ FastifyInstance.close
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:108
-
-___
-
-### decorate
-
-▸ **decorate**<`T`\>(`property`, `value`, `dependencies?`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name |
-| :------ |
-| `T` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `property` | `string` \| `symbol` |
-| `value` | `T` extends (...`args`: `any`[]) => `any` ? (`this`: `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>, ...`args`: `Parameters`<`T`\>) => `ReturnType`<`T`\> : `T` |
-| `dependencies?` | `string`[] |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.decorate
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:111
-
-___
-
-### decorateReply
-
-▸ **decorateReply**<`T`\>(`property`, `value`, `dependencies?`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name |
-| :------ |
-| `T` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `property` | `string` \| `symbol` |
-| `value` | `T` extends (...`args`: `any`[]) => `any` ? (`this`: `FastifyReply`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`\>, ...`args`: `Parameters`<`T`\>) => `ReturnType`<`T`\> : `T` |
-| `dependencies?` | `string`[] |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.decorateReply
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:125
-
-___
-
-### decorateRequest
-
-▸ **decorateRequest**<`T`\>(`property`, `value`, `dependencies?`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name |
-| :------ |
-| `T` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `property` | `string` \| `symbol` |
-| `value` | `T` extends (...`args`: `any`[]) => `any` ? (`this`: `FastifyRequest`<`RouteGenericInterface`, `RawServerDefault`, `IncomingMessage`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`<`FastifyTypeProviderDefault`, `FastifySchema`, `RouteGenericInterface`\>\>, ...`args`: `Parameters`<`T`\>) => `ReturnType`<`T`\> : `T` |
-| `dependencies?` | `string`[] |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.decorateRequest
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:118
+node_modules/fastify/types/instance.d.ts:135
 
 ___
 
@@ -1547,7 +1567,7 @@ FastifyInstance.getDefaultRoute
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:175
+node_modules/fastify/types/instance.d.ts:185
 
 ___
 
@@ -1571,7 +1591,7 @@ FastifyInstance.getSchema
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:101
+node_modules/fastify/types/instance.d.ts:128
 
 ___
 
@@ -1589,7 +1609,7 @@ FastifyInstance.getSchemas
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:102
+node_modules/fastify/types/instance.d.ts:129
 
 ___
 
@@ -1613,7 +1633,7 @@ FastifyInstance.hasConstraintStrategy
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:138
+node_modules/fastify/types/instance.d.ts:148
 
 ___
 
@@ -1637,7 +1657,7 @@ FastifyInstance.hasDecorator
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:132
+node_modules/fastify/types/instance.d.ts:142
 
 ___
 
@@ -1661,7 +1681,7 @@ FastifyInstance.hasPlugin
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:135
+node_modules/fastify/types/instance.d.ts:145
 
 ___
 
@@ -1685,7 +1705,7 @@ FastifyInstance.hasReplyDecorator
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:134
+node_modules/fastify/types/instance.d.ts:144
 
 ___
 
@@ -1709,7 +1729,7 @@ FastifyInstance.hasRequestDecorator
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:133
+node_modules/fastify/types/instance.d.ts:143
 
 ___
 
@@ -1741,7 +1761,7 @@ FastifyInstance.hasRoute
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:193
+node_modules/fastify/types/instance.d.ts:203
 
 ___
 
@@ -1766,7 +1786,7 @@ FastifyInstance.inject
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:140
+node_modules/fastify/types/instance.d.ts:150
 
 ▸ **inject**(`opts`): `Promise`<`Response`\>
 
@@ -1786,7 +1806,7 @@ FastifyInstance.inject
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:141
+node_modules/fastify/types/instance.d.ts:151
 
 ▸ **inject**(): `Chain`
 
@@ -1800,7 +1820,7 @@ FastifyInstance.inject
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:142
+node_modules/fastify/types/instance.d.ts:152
 
 ___
 
@@ -1825,7 +1845,7 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:144
+node_modules/fastify/types/instance.d.ts:154
 
 ▸ **listen**(`opts?`): `Promise`<`string`\>
 
@@ -1845,7 +1865,7 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:145
+node_modules/fastify/types/instance.d.ts:155
 
 ▸ **listen**(`callback`): `void`
 
@@ -1865,7 +1885,7 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:146
+node_modules/fastify/types/instance.d.ts:156
 
 ▸ **listen**(`port`, `address`, `backlog`, `callback`): `void`
 
@@ -1896,7 +1916,7 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:152
+node_modules/fastify/types/instance.d.ts:162
 
 ▸ **listen**(`port`, `address`, `callback`): `void`
 
@@ -1926,7 +1946,7 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:157
+node_modules/fastify/types/instance.d.ts:167
 
 ▸ **listen**(`port`, `callback`): `void`
 
@@ -1955,7 +1975,7 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:162
+node_modules/fastify/types/instance.d.ts:172
 
 ▸ **listen**(`port`, `address?`, `backlog?`): `Promise`<`string`\>
 
@@ -1985,7 +2005,7 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:167
+node_modules/fastify/types/instance.d.ts:177
 
 ___
 
@@ -2035,7 +2055,7 @@ FastifyInstance.printPlugins
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:590
+node_modules/fastify/types/instance.d.ts:613
 
 ___
 
@@ -2061,7 +2081,7 @@ FastifyInstance.printRoutes
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:585
+node_modules/fastify/types/instance.d.ts:608
 
 ___
 
@@ -2079,7 +2099,7 @@ FastifyInstance.ready
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:169
+node_modules/fastify/types/instance.d.ts:179
 
 ▸ **ready**(`readyListener`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
@@ -2099,7 +2119,7 @@ FastifyInstance.ready
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:170
+node_modules/fastify/types/instance.d.ts:180
 
 ___
 
@@ -2131,7 +2151,7 @@ FastifyInstance.route
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:178
+node_modules/fastify/types/instance.d.ts:188
 
 ___
 
@@ -2156,7 +2176,7 @@ FastifyInstance.routing
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:174
+node_modules/fastify/types/instance.d.ts:184
 
 ___
 
@@ -2180,7 +2200,7 @@ FastifyInstance.setDefaultRoute
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:176
+node_modules/fastify/types/instance.d.ts:186
 
 ___
 
@@ -2215,7 +2235,7 @@ FastifyInstance.setErrorHandler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:522
+node_modules/fastify/types/instance.d.ts:545
 
 ___
 
@@ -2249,7 +2269,7 @@ FastifyInstance.setNotFoundHandler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:502
+node_modules/fastify/types/instance.d.ts:525
 
 ▸ **setNotFoundHandler**<`RouteGeneric`, `ContextConfig`, `TypeProvider`, `SchemaCompiler`\>(`opts`, `handler`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
 
@@ -2281,7 +2301,7 @@ FastifyInstance.setNotFoundHandler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:506
+node_modules/fastify/types/instance.d.ts:529
 
 ___
 
@@ -2307,7 +2327,7 @@ FastifyInstance.setReplySerializer
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:554
+node_modules/fastify/types/instance.d.ts:577
 
 ___
 
@@ -2333,7 +2353,7 @@ FastifyInstance.setSchemaController
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:549
+node_modules/fastify/types/instance.d.ts:572
 
 ___
 
@@ -2357,7 +2377,7 @@ FastifyInstance.setSchemaErrorFormatter
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:559
+node_modules/fastify/types/instance.d.ts:582
 
 ___
 
@@ -2389,7 +2409,7 @@ FastifyInstance.setSerializerCompiler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:544
+node_modules/fastify/types/instance.d.ts:567
 
 ___
 
@@ -2421,7 +2441,7 @@ FastifyInstance.setValidatorCompiler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:534
+node_modules/fastify/types/instance.d.ts:557
 
 ___
 
@@ -2497,4 +2517,4 @@ FastifyInstance.withTypeProvider
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:98
+node_modules/fastify/types/instance.d.ts:125

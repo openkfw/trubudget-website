@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/config.ts:77](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/config.ts#L77)
+[src/config.ts:77](https://github.com/openkfw/TruBudget/blob/0804644/api/src/config.ts#L77)
 
 ## Functions
 
@@ -41,7 +41,7 @@ the configuration Config
 
 #### Defined in
 
-[src/config.ts:166](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/config.ts#L166)
+[src/config.ts:166](https://github.com/openkfw/TruBudget/blob/0804644/api/src/config.ts#L166)
 
 ___
 
@@ -59,4 +59,4 @@ true if the current environment is a production environment. otherwise false
 
 #### Defined in
 
-[src/config.ts:192](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/config.ts#L192)
+[src/config.ts:192](https://github.com/openkfw/TruBudget/blob/0804644/api/src/config.ts#L192)

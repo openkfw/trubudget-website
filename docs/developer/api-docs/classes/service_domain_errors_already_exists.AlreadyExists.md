@@ -59,7 +59,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:9](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/already_exists.ts#L9)
+[src/service/domain/errors/already_exists.ts:9](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/errors/already_exists.ts#L9)
 
 ## Properties
 
@@ -69,7 +69,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:11](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/already_exists.ts#L11)
+[src/service/domain/errors/already_exists.ts:11](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/errors/already_exists.ts#L11)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:10](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/errors/already_exists.ts#L10)
+[src/service/domain/errors/already_exists.ts:10](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/errors/already_exists.ts#L10)
 
 ___
 

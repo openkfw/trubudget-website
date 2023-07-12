@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/service/Client.h.ts:84](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L84)
+[src/service/Client.h.ts:84](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/Client.h.ts#L84)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:81](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L81)
+[src/service/Client.h.ts:81](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/Client.h.ts#L81)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:83](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L83)
+[src/service/Client.h.ts:83](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/Client.h.ts#L83)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:82](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L82)
+[src/service/Client.h.ts:82](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/Client.h.ts#L82)

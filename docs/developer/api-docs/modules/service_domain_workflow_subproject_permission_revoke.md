@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_revoke.ts:27](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_permission_revoke.ts#L27)
+[src/service/domain/workflow/subproject_permission_revoke.ts:27](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/subproject_permission_revoke.ts#L27)

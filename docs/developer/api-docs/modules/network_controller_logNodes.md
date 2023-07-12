@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[src/network/controller/logNodes.ts:24](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/network/controller/logNodes.ts#L24)
+[src/network/controller/logNodes.ts:24](https://github.com/openkfw/TruBudget/blob/0804644/api/src/network/controller/logNodes.ts#L24)
 
 ___
 
@@ -48,4 +48,4 @@ ___
 
 #### Defined in
 
-[src/network/controller/logNodes.ts:9](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/network/controller/logNodes.ts#L9)
+[src/network/controller/logNodes.ts:9](https://github.com/openkfw/TruBudget/blob/0804644/api/src/network/controller/logNodes.ts#L9)

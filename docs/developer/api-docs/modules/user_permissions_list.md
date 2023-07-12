@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/user.inten
 
 #### Defined in
 
-[src/user_permissions_list.ts:84](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/user_permissions_list.ts#L84)
+[src/user_permissions_list.ts:84](https://github.com/openkfw/TruBudget/blob/0804644/api/src/user_permissions_list.ts#L84)

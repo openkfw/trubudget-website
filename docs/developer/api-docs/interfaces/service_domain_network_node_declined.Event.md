@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L15)
+[src/service/domain/network/node_declined.ts:15](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/network/node_declined.ts#L15)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L17)
+[src/service/domain/network/node_declined.ts:17](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/network/node_declined.ts#L17)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L18)
+[src/service/domain/network/node_declined.ts:18](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/network/node_declined.ts#L18)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L16)
+[src/service/domain/network/node_declined.ts:16](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/network/node_declined.ts#L16)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L14)
+[src/service/domain/network/node_declined.ts:14](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/network/node_declined.ts#L14)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L12)
+[src/service/domain/network/node_declined.ts:12](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/network/node_declined.ts#L12)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L13)
+[src/service/domain/network/node_declined.ts:13](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/network/node_declined.ts#L13)
 
 ___
 
@@ -95,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:11](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_declined.ts#L11)
+[src/service/domain/network/node_declined.ts:11](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/network/node_declined.ts#L11)

@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.gra
 
 #### Defined in
 
-[src/global_permission_grant.ts:116](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/global_permission_grant.ts#L116)
+[src/global_permission_grant.ts:116](https://github.com/openkfw/TruBudget/blob/0804644/api/src/global_permission_grant.ts#L116)

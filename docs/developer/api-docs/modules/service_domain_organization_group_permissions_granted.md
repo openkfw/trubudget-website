@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:22](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L22)
+[src/service/domain/organization/group_permissions_granted.ts:22](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group_permissions_granted.ts#L22)
 
 ## Functions
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:32](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L32)
+[src/service/domain/organization/group_permissions_granted.ts:32](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group_permissions_granted.ts#L32)
 
 ___
 
@@ -70,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:59](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L59)
+[src/service/domain/organization/group_permissions_granted.ts:59](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group_permissions_granted.ts#L59)

@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/notification_mark_read.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/notification_mark_read.ts#L14)
+[src/service/notification_mark_read.ts:14](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/notification_mark_read.ts#L14)

@@ -43,7 +43,7 @@ Re-exports [RpcMultichainClient](../classes/service_Client.RpcMultichainClient.m
 
 #### Defined in
 
-[src/service/Client.h.ts:103](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L103)
+[src/service/Client.h.ts:103](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/Client.h.ts#L103)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:8](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L8)
+[src/service/Client.h.ts:8](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/Client.h.ts#L8)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:27](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L27)
+[src/service/Client.h.ts:27](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/Client.h.ts#L27)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:28](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L28)
+[src/service/Client.h.ts:28](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/Client.h.ts#L28)
 
 ___
 
@@ -83,4 +83,4 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:25](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/Client.h.ts#L25)
+[src/service/Client.h.ts:25](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/Client.h.ts#L25)

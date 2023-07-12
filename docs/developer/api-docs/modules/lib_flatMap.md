@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/lib/flatMap.ts:1](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/lib/flatMap.ts#L1)
+[src/lib/flatMap.ts:1](https://github.com/openkfw/TruBudget/blob/0804644/api/src/lib/flatMap.ts#L1)

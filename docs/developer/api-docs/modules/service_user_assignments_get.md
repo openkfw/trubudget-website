@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/user_assignments_get.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/user_assignments_get.ts#L12)
+[src/service/user_assignments_get.ts:12](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/user_assignments_get.ts#L12)

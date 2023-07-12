@@ -30,7 +30,7 @@ Decrypts a hex-encoded ciphertext and returns the resulting string.
 
 #### Defined in
 
-[src/lib/symmetricCrypto.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/lib/symmetricCrypto.ts#L13)
+[src/lib/symmetricCrypto.ts:13](https://github.com/openkfw/TruBudget/blob/0804644/api/src/lib/symmetricCrypto.ts#L13)
 
 ___
 
@@ -53,4 +53,4 @@ Encrypts a string and returns resulting hex-encoded ciphertext.
 
 #### Defined in
 
-[src/lib/symmetricCrypto.ts:33](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/lib/symmetricCrypto.ts#L33)
+[src/lib/symmetricCrypto.ts:33](https://github.com/openkfw/TruBudget/blob/0804644/api/src/lib/symmetricCrypto.ts#L33)

@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[src/authz/index.ts:68](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/authz/index.ts#L68)
+[src/authz/index.ts:68](https://github.com/openkfw/TruBudget/blob/0804644/api/src/authz/index.ts#L68)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/authz/index.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/authz/index.ts#L20)
+[src/authz/index.ts:20](https://github.com/openkfw/TruBudget/blob/0804644/api/src/authz/index.ts#L20)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/authz/index.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/authz/index.ts#L16)
+[src/authz/index.ts:16](https://github.com/openkfw/TruBudget/blob/0804644/api/src/authz/index.ts#L16)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[src/authz/index.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/authz/index.ts#L13)
+[src/authz/index.ts:13](https://github.com/openkfw/TruBudget/blob/0804644/api/src/authz/index.ts#L13)
 
 ___
 
@@ -129,4 +129,4 @@ ___
 
 #### Defined in
 
-[src/authz/index.ts:77](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/authz/index.ts#L77)
+[src/authz/index.ts:77](https://github.com/openkfw/TruBudget/blob/0804644/api/src/authz/index.ts#L77)

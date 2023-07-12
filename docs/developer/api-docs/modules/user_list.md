@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/user.list`
 
 #### Defined in
 
-[src/user_list.ts:89](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/user_list.ts#L89)
+[src/user_list.ts:89](https://github.com/openkfw/TruBudget/blob/0804644/api/src/user_list.ts#L89)

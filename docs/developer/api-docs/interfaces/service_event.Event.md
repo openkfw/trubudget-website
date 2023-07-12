@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[src/service/event.ts:9](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/event.ts#L9)
+[src/service/event.ts:9](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/event.ts#L9)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:8](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/event.ts#L8)
+[src/service/event.ts:8](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/event.ts#L8)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:11](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/event.ts#L11)
+[src/service/event.ts:11](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/event.ts#L11)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:10](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/event.ts#L10)
+[src/service/event.ts:10](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/event.ts#L10)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:7](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/event.ts#L7)
+[src/service/event.ts:7](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/event.ts#L7)
 
 ___
 
@@ -73,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:6](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/event.ts#L6)
+[src/service/event.ts:6](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/event.ts#L6)

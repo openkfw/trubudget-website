@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/subproject_projected_budget_delete.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/subproject_projected_budget_delete.ts#L16)
+[src/service/subproject_projected_budget_delete.ts:16](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/subproject_projected_budget_delete.ts#L16)

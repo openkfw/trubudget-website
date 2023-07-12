@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/notification_list.ts:11](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/notification_list.ts#L11)
+[src/service/notification_list.ts:11](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/notification_list.ts#L11)

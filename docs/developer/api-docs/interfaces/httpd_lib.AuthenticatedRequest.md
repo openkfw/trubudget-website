@@ -26,6 +26,7 @@
 - [is404](httpd_lib.AuthenticatedRequest.md#is404)
 - [log](httpd_lib.AuthenticatedRequest.md#log)
 - [method](httpd_lib.AuthenticatedRequest.md#method)
+- [originalUrl](httpd_lib.AuthenticatedRequest.md#originalurl)
 - [params](httpd_lib.AuthenticatedRequest.md#params)
 - [protocol](httpd_lib.AuthenticatedRequest.md#protocol)
 - [query](httpd_lib.AuthenticatedRequest.md#query)
@@ -78,7 +79,7 @@ FastifyRequest.connection
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:92
+node_modules/fastify/types/request.d.ts:93
 
 ___
 
@@ -196,7 +197,7 @@ FastifyRequest.is404
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:81
+node_modules/fastify/types/request.d.ts:82
 
 ___
 
@@ -224,7 +225,21 @@ FastifyRequest.method
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:77
+node_modules/fastify/types/request.d.ts:78
+
+___
+
+### originalUrl
+
+• `Readonly` **originalUrl**: `string`
+
+#### Inherited from
+
+FastifyRequest.originalUrl
+
+#### Defined in
+
+node_modules/fastify/types/request.d.ts:76
 
 ___
 
@@ -252,7 +267,7 @@ FastifyRequest.protocol
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:76
+node_modules/fastify/types/request.d.ts:77
 
 ___
 
@@ -326,7 +341,7 @@ FastifyRequest.routeOptions
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:80
+node_modules/fastify/types/request.d.ts:81
 
 ___
 
@@ -354,7 +369,7 @@ FastifyRequest.routerMethod
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:79
+node_modules/fastify/types/request.d.ts:80
 
 ___
 
@@ -368,7 +383,7 @@ FastifyRequest.routerPath
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:78
+node_modules/fastify/types/request.d.ts:79
 
 ___
 
@@ -396,7 +411,7 @@ FastifyRequest.socket
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:82
+node_modules/fastify/types/request.d.ts:83
 
 ___
 
@@ -424,7 +439,7 @@ FastifyRequest.user
 
 #### Defined in
 
-[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/lib.ts#L7)
+[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/0804644/api/src/httpd/lib.ts#L7)
 
 ___
 
@@ -465,7 +480,7 @@ FastifyRequest.compileValidationSchema
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:86
+node_modules/fastify/types/request.d.ts:87
 
 ___
 
@@ -489,7 +504,7 @@ FastifyRequest.getValidationFunction
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:84
+node_modules/fastify/types/request.d.ts:85
 
 ▸ **getValidationFunction**(`schema`): `ValidationFunction`
 
@@ -509,7 +524,7 @@ FastifyRequest.getValidationFunction
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:85
+node_modules/fastify/types/request.d.ts:86
 
 ___
 
@@ -806,7 +821,7 @@ FastifyRequest.validateInput
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:87
+node_modules/fastify/types/request.d.ts:88
 
 ▸ **validateInput**(`input`, `httpPart?`): `boolean`
 
@@ -827,4 +842,4 @@ FastifyRequest.validateInput
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:88
+node_modules/fastify/types/request.d.ts:89

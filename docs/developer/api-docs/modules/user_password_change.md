@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/user.chang
 
 #### Defined in
 
-[src/user_password_change.ts:115](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/user_password_change.ts#L115)
+[src/user_password_change.ts:115](https://github.com/openkfw/TruBudget/blob/0804644/api/src/user_password_change.ts#L115)
