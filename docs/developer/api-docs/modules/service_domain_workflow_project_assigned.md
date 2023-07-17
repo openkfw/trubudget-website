@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:19](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/project_assigned.ts#L19)
+[src/service/domain/workflow/project_assigned.ts:19](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_assigned.ts#L19)
 
 ## Functions
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:28](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/project_assigned.ts#L28)
+[src/service/domain/workflow/project_assigned.ts:28](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_assigned.ts#L28)
 
 ___
 
@@ -80,7 +80,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:65](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/project_assigned.ts#L65)
+[src/service/domain/workflow/project_assigned.ts:65](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_assigned.ts#L65)
 
 ___
 
@@ -100,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:50](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/project_assigned.ts#L50)
+[src/service/domain/workflow/project_assigned.ts:50](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_assigned.ts#L50)

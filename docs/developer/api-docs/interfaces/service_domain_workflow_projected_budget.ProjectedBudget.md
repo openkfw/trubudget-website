@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/projected_budget.ts:8](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/projected_budget.ts#L8)
+[src/service/domain/workflow/projected_budget.ts:8](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/projected_budget.ts#L8)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/projected_budget.ts:6](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/projected_budget.ts#L6)
+[src/service/domain/workflow/projected_budget.ts:6](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/projected_budget.ts#L6)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/projected_budget.ts:7](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/projected_budget.ts#L7)
+[src/service/domain/workflow/projected_budget.ts:7](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/projected_budget.ts#L7)

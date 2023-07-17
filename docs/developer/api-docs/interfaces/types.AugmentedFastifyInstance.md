@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/0804644/api/src/types.ts#L8)
+[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/types.ts#L8)
 
 ___
 
@@ -549,7 +549,7 @@ FastifyInstance.swaggerCSP
 
 #### Defined in
 
-[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/0804644/api/src/types.ts#L9)
+[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/types.ts#L9)
 
 ___
 

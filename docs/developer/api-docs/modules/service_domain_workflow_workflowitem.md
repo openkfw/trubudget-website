@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:17](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/workflowitem.ts#L17)
+[src/service/domain/workflow/workflowitem.ts:17](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem.ts#L17)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:68](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/workflowitem.ts#L68)
+[src/service/domain/workflow/workflowitem.ts:68](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem.ts#L68)
 
 ## Variables
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:19](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/workflowitem.ts#L19)
+[src/service/domain/workflow/workflowitem.ts:19](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem.ts#L19)
 
 ## Functions
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:139](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/workflowitem.ts#L139)
+[src/service/domain/workflow/workflowitem.ts:139](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem.ts#L139)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:154](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/workflowitem.ts#L154)
+[src/service/domain/workflow/workflowitem.ts:154](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem.ts#L154)
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:134](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/workflowitem.ts#L134)
+[src/service/domain/workflow/workflowitem.ts:134](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem.ts#L134)

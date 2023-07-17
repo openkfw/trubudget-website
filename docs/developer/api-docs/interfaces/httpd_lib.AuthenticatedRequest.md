@@ -439,7 +439,7 @@ FastifyRequest.user
 
 #### Defined in
 
-[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/0804644/api/src/httpd/lib.ts#L7)
+[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/httpd/lib.ts#L7)
 
 ___
 

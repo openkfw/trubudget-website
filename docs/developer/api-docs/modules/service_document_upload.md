@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/document_upload.ts:18](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/document_upload.ts#L18)
+[src/service/document_upload.ts:18](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/document_upload.ts#L18)

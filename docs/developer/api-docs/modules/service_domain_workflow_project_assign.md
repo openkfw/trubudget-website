@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_assign.ts:23](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/project_assign.ts#L23)
+[src/service/domain/workflow/project_assign.ts:23](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_assign.ts#L23)

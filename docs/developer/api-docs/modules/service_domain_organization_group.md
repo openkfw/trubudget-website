@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:12](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group.ts#L12)
+[src/service/domain/organization/group.ts:12](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group.ts#L12)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:15](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group.ts#L15)
+[src/service/domain/organization/group.ts:15](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group.ts#L15)
 
 ## Variables
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:13](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group.ts#L13)
+[src/service/domain/organization/group.ts:13](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group.ts#L13)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:16](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group.ts#L16)
+[src/service/domain/organization/group.ts:16](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group.ts#L16)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:17](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group.ts#L17)
+[src/service/domain/organization/group.ts:17](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group.ts#L17)
 
 ## Functions
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:47](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group.ts#L47)
+[src/service/domain/organization/group.ts:47](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group.ts#L47)
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:42](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/organization/group.ts#L42)
+[src/service/domain/organization/group.ts:42](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group.ts#L42)

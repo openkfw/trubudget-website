@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:22](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/project_permission_granted.ts#L22)
+[src/service/domain/workflow/project_permission_granted.ts:22](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_permission_granted.ts#L22)
 
 ## Functions
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:32](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/project_permission_granted.ts#L32)
+[src/service/domain/workflow/project_permission_granted.ts:32](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_permission_granted.ts#L32)
 
 ___
 
@@ -81,7 +81,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:73](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/project_permission_granted.ts#L73)
+[src/service/domain/workflow/project_permission_granted.ts:73](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_permission_granted.ts#L73)
 
 ___
 
@@ -101,4 +101,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:58](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/workflow/project_permission_granted.ts#L58)
+[src/service/domain/workflow/project_permission_granted.ts:58](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_permission_granted.ts#L58)

@@ -24,4 +24,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:51](https://github.com/openkfw/TruBudget/blob/0804644/api/src/service/domain/document/document.ts#L51)
+[src/service/domain/document/document.ts:51](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document.ts#L51)
