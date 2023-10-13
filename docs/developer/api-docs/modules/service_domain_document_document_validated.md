@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:24](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L24)
+[src/service/domain/document/document_validated.ts:26](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L26)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`isDocumentValid`, `documentId`, `source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
+▸ **createEvent**(`isDocumentValid`, `documentId`, `source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
 
 #### Parameters
 
@@ -46,6 +46,7 @@
 | `subprojectId` | `string` |
 | `workflowitemId` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -53,7 +54,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:36](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L36)
+[src/service/domain/document/document_validated.ts:39](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L39)
 
 ___
 
@@ -83,7 +84,7 @@ workflowitem is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:79](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L79)
+[src/service/domain/document/document_validated.ts:84](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L84)
 
 ___
 
@@ -103,4 +104,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:64](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L64)
+[src/service/domain/document/document_validated.ts:69](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L69)

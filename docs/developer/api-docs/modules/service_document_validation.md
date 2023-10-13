@@ -36,4 +36,4 @@ Returns true if the given hash matches the given document.
 
 #### Defined in
 
-[src/service/document_validation.ts:22](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/document_validation.ts#L22)
+[src/service/document_validation.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/document_validation.ts#L22)

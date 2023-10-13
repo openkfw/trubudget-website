@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_disable.ts:21](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/user_disable.ts#L21)
+[src/service/domain/organization/user_disable.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_disable.ts#L21)

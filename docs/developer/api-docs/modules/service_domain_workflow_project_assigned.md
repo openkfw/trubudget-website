@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:19](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_assigned.ts#L19)
+[src/service/domain/workflow/project_assigned.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_assigned.ts#L21)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `assignee`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `assignee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
 
 #### Parameters
 
@@ -43,6 +43,7 @@
 | `projectId` | `string` |
 | `assignee` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -50,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:28](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_assigned.ts#L28)
+[src/service/domain/workflow/project_assigned.ts:31](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_assigned.ts#L31)
 
 ___
 
@@ -80,7 +81,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:65](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_assigned.ts#L65)
+[src/service/domain/workflow/project_assigned.ts:70](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_assigned.ts#L70)
 
 ___
 
@@ -100,4 +101,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:50](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_assigned.ts#L50)
+[src/service/domain/workflow/project_assigned.ts:55](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_assigned.ts#L55)

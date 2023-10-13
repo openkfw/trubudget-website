@@ -10,6 +10,7 @@
 
 - [docId](service_domain_document_document_shared.Event.md#docid)
 - [encryptedSecret](service_domain_document_document_shared.Event.md#encryptedsecret)
+- [metadata](service_domain_document_document_shared.Event.md#metadata)
 - [organization](service_domain_document_document_shared.Event.md#organization)
 - [publisher](service_domain_document_document_shared.Event.md#publisher)
 - [source](service_domain_document_document_shared.Event.md#source)
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:21](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_shared.ts#L21)
+[src/service/domain/document/document_shared.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L22)
 
 ___
 
@@ -34,7 +35,17 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:23](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_shared.ts#L23)
+[src/service/domain/document/document_shared.ts:24](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L24)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/document/document_shared.ts:25](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L25)
 
 ___
 
@@ -44,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:22](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_shared.ts#L22)
+[src/service/domain/document/document_shared.ts:23](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L23)
 
 ___
 
@@ -54,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:20](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_shared.ts#L20)
+[src/service/domain/document/document_shared.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L21)
 
 ___
 
@@ -64,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:18](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_shared.ts#L18)
+[src/service/domain/document/document_shared.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L19)
 
 ___
 
@@ -74,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:19](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_shared.ts#L19)
+[src/service/domain/document/document_shared.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L20)
 
 ___
 
@@ -84,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:17](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_shared.ts#L17)
+[src/service/domain/document/document_shared.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L18)

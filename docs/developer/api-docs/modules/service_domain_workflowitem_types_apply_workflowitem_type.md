@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/domain/workflowitem_types/apply_workflowitem_type.ts:8](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflowitem_types/apply_workflowitem_type.ts#L8)
+[src/service/domain/workflowitem_types/apply_workflowitem_type.ts:8](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflowitem_types/apply_workflowitem_type.ts#L8)

@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/network/model/Nodes.ts:25](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/network/model/Nodes.ts#L25)
+[src/network/model/Nodes.ts:25](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/network/model/Nodes.ts#L25)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:26](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/network/model/Nodes.ts#L26)
+[src/network/model/Nodes.ts:26](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/network/model/Nodes.ts#L26)

@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:22](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group_permissions_revoked.ts#L22)
+[src/service/domain/organization/group_permissions_revoked.ts:24](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L24)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `groupId`, `permission`, `revokee`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_permissions_revoked.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `groupId`, `permission`, `revokee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_permissions_revoked.Event.md)\>
 
 #### Parameters
 
@@ -43,6 +43,7 @@
 | `permission` | [`default`](authz_intents.md#default) |
 | `revokee` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -50,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:32](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group_permissions_revoked.ts#L32)
+[src/service/domain/organization/group_permissions_revoked.ts:35](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L35)
 
 ___
 
@@ -70,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:59](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group_permissions_revoked.ts#L59)
+[src/service/domain/organization/group_permissions_revoked.ts:64](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L64)

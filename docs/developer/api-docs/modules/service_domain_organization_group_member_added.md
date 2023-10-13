@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:20](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group_member_added.ts#L20)
+[src/service/domain/organization/group_member_added.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_member_added.ts#L22)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `groupId`, `newMembers`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_member_added.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `groupId`, `newMembers`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_member_added.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `groupId` | `string` |
 | `newMembers` | `string`[] |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:29](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group_member_added.ts#L29)
+[src/service/domain/organization/group_member_added.ts:32](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_member_added.ts#L32)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:53](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/group_member_added.ts#L53)
+[src/service/domain/organization/group_member_added.ts:58](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_member_added.ts#L58)

@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:4](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/ResourceMap.ts#L4)
+[src/service/domain/ResourceMap.ts:4](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/ResourceMap.ts#L4)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:5](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/ResourceMap.ts#L5)
+[src/service/domain/ResourceMap.ts:5](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/ResourceMap.ts#L5)

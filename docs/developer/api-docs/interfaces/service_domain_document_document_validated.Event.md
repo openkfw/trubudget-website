@@ -10,6 +10,7 @@
 
 - [documentId](service_domain_document_document_validated.Event.md#documentid)
 - [isDocumentValid](service_domain_document_document_validated.Event.md#isdocumentvalid)
+- [metadata](service_domain_document_document_validated.Event.md#metadata)
 - [projectId](service_domain_document_document_validated.Event.md#projectid)
 - [publisher](service_domain_document_document_validated.Event.md#publisher)
 - [source](service_domain_document_document_validated.Event.md#source)
@@ -26,7 +27,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:15](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L15)
+[src/service/domain/document/document_validated.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L16)
 
 ___
 
@@ -36,7 +37,17 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:14](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L14)
+[src/service/domain/document/document_validated.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L15)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/document/document_validated.ts:23](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L23)
 
 ___
 
@@ -46,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:19](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L19)
+[src/service/domain/document/document_validated.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L20)
 
 ___
 
@@ -56,7 +67,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:18](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L18)
+[src/service/domain/document/document_validated.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L19)
 
 ___
 
@@ -66,7 +77,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:16](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L16)
+[src/service/domain/document/document_validated.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L17)
 
 ___
 
@@ -76,7 +87,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:20](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L20)
+[src/service/domain/document/document_validated.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L21)
 
 ___
 
@@ -86,7 +97,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:17](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L17)
+[src/service/domain/document/document_validated.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L18)
 
 ___
 
@@ -96,7 +107,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:13](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L13)
+[src/service/domain/document/document_validated.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L14)
 
 ___
 
@@ -106,4 +117,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:21](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/document/document_validated.ts#L21)
+[src/service/domain/document/document_validated.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_validated.ts#L22)

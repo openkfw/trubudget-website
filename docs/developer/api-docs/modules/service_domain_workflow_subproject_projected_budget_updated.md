@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_updated.ts:24](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_projected_budget_updated.ts#L24)
+[src/service/domain/workflow/subproject_projected_budget_updated.ts:26](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_projected_budget_updated.ts#L26)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `organization`, `value`, `currencyCode`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_updated.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `organization`, `value`, `currencyCode`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_updated.Event.md)\>
 
 #### Parameters
 
@@ -46,6 +46,7 @@
 | `value` | `string` |
 | `currencyCode` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -53,7 +54,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_updated.ts:36](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_projected_budget_updated.ts#L36)
+[src/service/domain/workflow/subproject_projected_budget_updated.ts:39](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_projected_budget_updated.ts#L39)
 
 ___
 
@@ -83,7 +84,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_updated.ts:79](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_projected_budget_updated.ts#L79)
+[src/service/domain/workflow/subproject_projected_budget_updated.ts:84](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_projected_budget_updated.ts#L84)
 
 ___
 
@@ -103,4 +104,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_updated.ts:64](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_projected_budget_updated.ts#L64)
+[src/service/domain/workflow/subproject_projected_budget_updated.ts:69](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_projected_budget_updated.ts#L69)

@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:29](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/user_password_changed.ts#L29)
+[src/service/domain/organization/user_password_changed.ts:31](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L31)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `user`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `user`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `publisher` | `string` |
 | `user` | `InitialData` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:37](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/user_password_changed.ts#L37)
+[src/service/domain/organization/user_password_changed.ts:40](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L40)
 
 ___
 
@@ -79,7 +80,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:74](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/user_password_changed.ts#L74)
+[src/service/domain/organization/user_password_changed.ts:79](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L79)
 
 ___
 
@@ -99,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:59](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/user_password_changed.ts#L59)
+[src/service/domain/organization/user_password_changed.ts:64](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L64)

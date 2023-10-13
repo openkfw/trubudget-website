@@ -9,6 +9,7 @@
 ### Properties
 
 - [businessEvent](service_domain_workflow_notification_created.Event.md#businessevent)
+- [metadata](service_domain_workflow_notification_created.Event.md#metadata)
 - [notificationId](service_domain_workflow_notification_created.Event.md#notificationid)
 - [projectId](service_domain_workflow_notification_created.Event.md#projectid)
 - [publisher](service_domain_workflow_notification_created.Event.md#publisher)
@@ -27,7 +28,17 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:24](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L24)
+[src/service/domain/workflow/notification_created.ts:25](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L25)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/workflow/notification_created.ts:29](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L29)
 
 ___
 
@@ -37,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:22](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L22)
+[src/service/domain/workflow/notification_created.ts:23](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L23)
 
 ___
 
@@ -47,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:25](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L25)
+[src/service/domain/workflow/notification_created.ts:26](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L26)
 
 ___
 
@@ -57,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:21](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L21)
+[src/service/domain/workflow/notification_created.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L22)
 
 ___
 
@@ -67,7 +78,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:23](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L23)
+[src/service/domain/workflow/notification_created.ts:24](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L24)
 
 ___
 
@@ -77,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:19](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L19)
+[src/service/domain/workflow/notification_created.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L20)
 
 ___
 
@@ -87,7 +98,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:26](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L26)
+[src/service/domain/workflow/notification_created.ts:27](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L27)
 
 ___
 
@@ -97,7 +108,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:20](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L20)
+[src/service/domain/workflow/notification_created.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L21)
 
 ___
 
@@ -107,7 +118,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:18](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L18)
+[src/service/domain/workflow/notification_created.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L19)
 
 ___
 
@@ -117,4 +128,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:27](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/notification_created.ts#L27)
+[src/service/domain/workflow/notification_created.ts:28](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L28)

@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_created.ts:65](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_created.ts#L65)
+[src/service/domain/workflow/workflowitem_created.ts:67](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_created.ts#L67)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitem`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_created.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitem`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_created.Event.md)\>
 
 #### Parameters
 
@@ -44,6 +44,7 @@
 | `subprojectId` | `string` |
 | `workflowitem` | `InitialData` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -51,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_created.ts:75](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_created.ts#L75)
+[src/service/domain/workflow/workflowitem_created.ts:78](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_created.ts#L78)
 
 ___
 
@@ -72,7 +73,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_created.ts:105](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_created.ts#L105)
+[src/service/domain/workflow/workflowitem_created.ts:110](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_created.ts#L110)
 
 ___
 
@@ -92,4 +93,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_created.ts:100](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_created.ts#L100)
+[src/service/domain/workflow/workflowitem_created.ts:105](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_created.ts#L105)

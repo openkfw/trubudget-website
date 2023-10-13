@@ -8,6 +8,7 @@
 
 ### Properties
 
+- [metadata](service_domain_workflow_subproject_updated.Event.md#metadata)
 - [projectId](service_domain_workflow_subproject_updated.Event.md#projectid)
 - [publisher](service_domain_workflow_subproject_updated.Event.md#publisher)
 - [source](service_domain_workflow_subproject_updated.Event.md#source)
@@ -18,13 +19,23 @@
 
 ## Properties
 
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/workflow/subproject_updated.ts:28](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_updated.ts#L28)
+
+___
+
 ### projectId
 
 • **projectId**: `string`
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:24](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_updated.ts#L24)
+[src/service/domain/workflow/subproject_updated.ts:25](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_updated.ts#L25)
 
 ___
 
@@ -34,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:23](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_updated.ts#L23)
+[src/service/domain/workflow/subproject_updated.ts:24](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_updated.ts#L24)
 
 ___
 
@@ -44,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:21](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_updated.ts#L21)
+[src/service/domain/workflow/subproject_updated.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_updated.ts#L22)
 
 ___
 
@@ -54,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:25](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_updated.ts#L25)
+[src/service/domain/workflow/subproject_updated.ts:26](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_updated.ts#L26)
 
 ___
 
@@ -64,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:22](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_updated.ts#L22)
+[src/service/domain/workflow/subproject_updated.ts:23](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_updated.ts#L23)
 
 ___
 
@@ -74,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:20](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_updated.ts#L20)
+[src/service/domain/workflow/subproject_updated.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_updated.ts#L21)
 
 ___
 
@@ -84,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:26](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/subproject_updated.ts#L26)
+[src/service/domain/workflow/subproject_updated.ts:27](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_updated.ts#L27)

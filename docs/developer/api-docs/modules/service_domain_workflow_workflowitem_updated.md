@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:29](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_updated.ts#L29)
+[src/service/domain/workflow/workflowitem_updated.ts:30](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_updated.ts#L30)
 
 ___
 
@@ -38,13 +38,13 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:53](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_updated.ts#L53)
+[src/service/domain/workflow/workflowitem_updated.ts:55](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_updated.ts#L55)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `update`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_updated.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `update`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_updated.Event.md)\>
 
 #### Parameters
 
@@ -57,6 +57,7 @@ ___
 | `workflowitemId` | `string` |
 | `update` | [`Modification`](../interfaces/service_domain_workflow_workflowitem_updated.Modification.md) |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -64,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:64](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_updated.ts#L64)
+[src/service/domain/workflow/workflowitem_updated.ts:67](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_updated.ts#L67)
 
 ___
 
@@ -94,7 +95,7 @@ workflowitem is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:108](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_updated.ts#L108)
+[src/service/domain/workflow/workflowitem_updated.ts:113](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_updated.ts#L113)
 
 ___
 
@@ -114,4 +115,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:93](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_updated.ts#L93)
+[src/service/domain/workflow/workflowitem_updated.ts:98](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_updated.ts#L98)

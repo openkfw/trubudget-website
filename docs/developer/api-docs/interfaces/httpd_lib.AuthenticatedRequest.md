@@ -113,7 +113,7 @@ FastifyRequest.cookies
 
 #### Defined in
 
-node_modules/@fastify/cookie/types/plugin.d.ts:21
+node_modules/@fastify/cookie/types/plugin.d.ts:30
 
 ___
 
@@ -319,7 +319,7 @@ ___
 
 ### routeConfig
 
-• **routeConfig**: `FastifyContextConfig`
+• **routeConfig**: `FastifyContextConfig` & `FastifyRouteConfig`
 
 #### Inherited from
 
@@ -439,7 +439,7 @@ FastifyRequest.user
 
 #### Defined in
 
-[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/httpd/lib.ts#L7)
+[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/httpd/lib.ts#L7)
 
 ___
 
@@ -769,7 +769,7 @@ FastifyRequest.signCookie
 
 #### Defined in
 
-node_modules/@fastify/cookie/types/plugin.d.ts:36
+node_modules/@fastify/cookie/types/plugin.d.ts:45
 
 ___
 
@@ -795,7 +795,7 @@ FastifyRequest.unsignCookie
 
 #### Defined in
 
-node_modules/@fastify/cookie/types/plugin.d.ts:42
+node_modules/@fastify/cookie/types/plugin.d.ts:51
 
 ___
 

@@ -11,6 +11,7 @@
 - [address](service_domain_organization_service_user.ServiceUser.md#address)
 - [groups](service_domain_organization_service_user.ServiceUser.md#groups)
 - [id](service_domain_organization_service_user.ServiceUser.md#id)
+- [metadata](service_domain_organization_service_user.ServiceUser.md#metadata)
 
 ## Properties
 
@@ -20,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/service_user.ts:4](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/service_user.ts#L4)
+[src/service/domain/organization/service_user.ts:6](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/service_user.ts#L6)
 
 ___
 
@@ -30,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/service_user.ts:3](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/service_user.ts#L3)
+[src/service/domain/organization/service_user.ts:5](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/service_user.ts#L5)
 
 ___
 
@@ -40,4 +41,14 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/service_user.ts:2](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/organization/service_user.ts#L2)
+[src/service/domain/organization/service_user.ts:4](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/service_user.ts#L4)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/organization/service_user.ts:7](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/service_user.ts#L7)

@@ -8,6 +8,7 @@
 
 ### Properties
 
+- [metadata](service_domain_workflow_project_created.Event.md#metadata)
 - [project](service_domain_workflow_project_created.Event.md#project)
 - [publisher](service_domain_workflow_project_created.Event.md#publisher)
 - [source](service_domain_workflow_project_created.Event.md#source)
@@ -16,13 +17,23 @@
 
 ## Properties
 
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/workflow/project_created.ts:50](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L50)
+
+___
+
 ### project
 
 • **project**: `InitialData`
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:48](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_created.ts#L48)
+[src/service/domain/workflow/project_created.ts:49](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L49)
 
 ___
 
@@ -32,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:47](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_created.ts#L47)
+[src/service/domain/workflow/project_created.ts:48](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L48)
 
 ___
 
@@ -42,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:45](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_created.ts#L45)
+[src/service/domain/workflow/project_created.ts:46](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L46)
 
 ___
 
@@ -52,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:46](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_created.ts#L46)
+[src/service/domain/workflow/project_created.ts:47](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L47)
 
 ___
 
@@ -62,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:44](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/project_created.ts#L44)
+[src/service/domain/workflow/project_created.ts:45](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L45)

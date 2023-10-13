@@ -12,14 +12,14 @@
 
 ### closeWorkflowitem
 
-▸ **closeWorkflowitem**(`ctx`, `closingUser`, `projectId`, `subprojectId`, `workflowitemId`, `repository`, `rejectReason?`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **closeWorkflowitem**(`ctx`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `repository`, `rejectReason?`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
-| `closingUser` | [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md) |
+| `issuer` | [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md) |
 | `projectId` | `string` |
 | `subprojectId` | `string` |
 | `workflowitemId` | `string` |
@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_close.ts:37](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/workflowitem_close.ts#L37)
+[src/service/domain/workflow/workflowitem_close.ts:37](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_close.ts#L37)

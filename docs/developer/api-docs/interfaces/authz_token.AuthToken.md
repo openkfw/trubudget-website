@@ -10,6 +10,7 @@
 
 - [address](authz_token.AuthToken.md#address)
 - [groups](authz_token.AuthToken.md#groups)
+- [metadata](authz_token.AuthToken.md#metadata)
 - [organization](authz_token.AuthToken.md#organization)
 - [organizationAddress](authz_token.AuthToken.md#organizationaddress)
 - [userId](authz_token.AuthToken.md#userid)
@@ -22,7 +23,7 @@
 
 #### Defined in
 
-[src/authz/token.ts:3](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/authz/token.ts#L3)
+[src/authz/token.ts:5](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/authz/token.ts#L5)
 
 ___
 
@@ -32,7 +33,17 @@ ___
 
 #### Defined in
 
-[src/authz/token.ts:4](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/authz/token.ts#L4)
+[src/authz/token.ts:6](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/authz/token.ts#L6)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/authz/token.ts:9](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/authz/token.ts#L9)
 
 ___
 
@@ -42,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/authz/token.ts:5](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/authz/token.ts#L5)
+[src/authz/token.ts:7](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/authz/token.ts#L7)
 
 ___
 
@@ -52,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/authz/token.ts:6](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/authz/token.ts#L6)
+[src/authz/token.ts:8](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/authz/token.ts#L8)
 
 ___
 
@@ -62,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/authz/token.ts:2](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/authz/token.ts#L2)
+[src/authz/token.ts:4](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/authz/token.ts#L4)

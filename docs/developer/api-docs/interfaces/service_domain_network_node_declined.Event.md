@@ -11,6 +11,7 @@
 - [address](service_domain_network_node_declined.Event.md#address)
 - [declinerAddress](service_domain_network_node_declined.Event.md#declineraddress)
 - [declinerOrganization](service_domain_network_node_declined.Event.md#declinerorganization)
+- [metadata](service_domain_network_node_declined.Event.md#metadata)
 - [organization](service_domain_network_node_declined.Event.md#organization)
 - [publisher](service_domain_network_node_declined.Event.md#publisher)
 - [source](service_domain_network_node_declined.Event.md#source)
@@ -25,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:15](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L15)
+[src/service/domain/network/node_declined.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L17)
 
 ___
 
@@ -35,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:17](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L17)
+[src/service/domain/network/node_declined.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L19)
 
 ___
 
@@ -45,7 +46,17 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:18](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L18)
+[src/service/domain/network/node_declined.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L20)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/network/node_declined.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L21)
 
 ___
 
@@ -55,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:16](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L16)
+[src/service/domain/network/node_declined.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L18)
 
 ___
 
@@ -65,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:14](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L14)
+[src/service/domain/network/node_declined.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L16)
 
 ___
 
@@ -75,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:12](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L12)
+[src/service/domain/network/node_declined.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L14)
 
 ___
 
@@ -85,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:13](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L13)
+[src/service/domain/network/node_declined.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L15)
 
 ___
 
@@ -95,4 +106,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:11](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L11)
+[src/service/domain/network/node_declined.ts:13](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L13)

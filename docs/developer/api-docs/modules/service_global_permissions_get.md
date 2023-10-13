@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/global_permissions_get.ts:10](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/global_permissions_get.ts#L10)
+[src/service/global_permissions_get.ts:10](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/global_permissions_get.ts#L10)

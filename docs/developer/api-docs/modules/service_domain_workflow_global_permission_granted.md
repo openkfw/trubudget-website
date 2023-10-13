@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:20](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/global_permission_granted.ts#L20)
+[src/service/domain/workflow/global_permission_granted.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L22)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `permission`, `grantee`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `permission`, `grantee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `permission` | [`default`](authz_intents.md#default) |
 | `grantee` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:29](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/global_permission_granted.ts#L29)
+[src/service/domain/workflow/global_permission_granted.ts:32](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L32)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:52](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/workflow/global_permission_granted.ts#L52)
+[src/service/domain/workflow/global_permission_granted.ts:57](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L57)

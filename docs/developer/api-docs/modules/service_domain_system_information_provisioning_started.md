@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:17](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/system_information/provisioning_started.ts#L17)
+[src/service/domain/system_information/provisioning_started.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/system_information/provisioning_started.ts#L19)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_system_information_provisioning_started.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_system_information_provisioning_started.Event.md)\>
 
 #### Parameters
 
@@ -40,6 +40,7 @@
 | `source` | `string` |
 | `publisher` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -47,7 +48,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:24](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/system_information/provisioning_started.ts#L24)
+[src/service/domain/system_information/provisioning_started.ts:27](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/system_information/provisioning_started.ts#L27)
 
 ___
 
@@ -67,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:45](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/system_information/provisioning_started.ts#L45)
+[src/service/domain/system_information/provisioning_started.ts:50](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/system_information/provisioning_started.ts#L50)

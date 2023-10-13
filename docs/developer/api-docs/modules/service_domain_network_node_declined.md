@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:21](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L21)
+[src/service/domain/network/node_declined.ts:24](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L24)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `address`, `organization`, `declinerAddress`, `declinerOrganization`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `address`, `organization`, `declinerAddress`, `declinerOrganization`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
 
 #### Parameters
 
@@ -44,6 +44,7 @@
 | `declinerAddress` | `string` |
 | `declinerOrganization` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -51,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:32](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L32)
+[src/service/domain/network/node_declined.ts:36](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L36)
 
 ___
 
@@ -71,4 +72,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:60](https://github.com/openkfw/TruBudget/blob/95e6f8a/api/src/service/domain/network/node_declined.ts#L60)
+[src/service/domain/network/node_declined.ts:66](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_declined.ts#L66)
