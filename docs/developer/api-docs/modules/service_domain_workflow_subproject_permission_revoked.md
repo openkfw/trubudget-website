@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_revoked.ts:23](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_permission_revoked.ts#L23)
+[src/service/domain/workflow/subproject_permission_revoked.ts:25](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_permission_revoked.ts#L25)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `permission`, `revokee`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_permission_revoked.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `permission`, `revokee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_permission_revoked.Event.md)\>
 
 #### Parameters
 
@@ -45,6 +45,7 @@
 | `permission` | [`default`](authz_intents.md#default) |
 | `revokee` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -52,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_revoked.ts:34](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_permission_revoked.ts#L34)
+[src/service/domain/workflow/subproject_permission_revoked.ts:37](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_permission_revoked.ts#L37)
 
 ___
 
@@ -82,7 +83,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_revoked.ts:76](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_permission_revoked.ts#L76)
+[src/service/domain/workflow/subproject_permission_revoked.ts:81](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_permission_revoked.ts#L81)
 
 ___
 
@@ -102,4 +103,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_revoked.ts:61](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_permission_revoked.ts#L61)
+[src/service/domain/workflow/subproject_permission_revoked.ts:66](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_permission_revoked.ts#L66)

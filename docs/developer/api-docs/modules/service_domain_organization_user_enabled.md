@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:27](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_enabled.ts#L27)
+[src/service/domain/organization/user_enabled.ts:29](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_enabled.ts#L29)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `user`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_enabled.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `user`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_enabled.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `publisher` | `string` |
 | `user` | `InitialData` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:35](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_enabled.ts#L35)
+[src/service/domain/organization/user_enabled.ts:38](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_enabled.ts#L38)
 
 ___
 
@@ -79,7 +80,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:72](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_enabled.ts#L72)
+[src/service/domain/organization/user_enabled.ts:77](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_enabled.ts#L77)
 
 ___
 
@@ -99,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:57](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_enabled.ts#L57)
+[src/service/domain/organization/user_enabled.ts:62](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_enabled.ts#L62)

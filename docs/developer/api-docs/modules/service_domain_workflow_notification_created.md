@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:30](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification_created.ts#L30)
+[src/service/domain/workflow/notification_created.ts:32](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L32)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `recipient`, `businessEvent`, `projectId?`, `subprojectId?`, `workflowitemId?`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `recipient`, `businessEvent`, `projectId?`, `subprojectId?`, `workflowitemId?`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
 
 #### Parameters
 
@@ -45,6 +45,7 @@
 | `subprojectId?` | `string` |
 | `workflowitemId?` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -52,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:44](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification_created.ts#L44)
+[src/service/domain/workflow/notification_created.ts:47](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L47)
 
 ___
 
@@ -72,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:75](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification_created.ts#L75)
+[src/service/domain/workflow/notification_created.ts:80](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_created.ts#L80)

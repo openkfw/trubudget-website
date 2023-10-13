@@ -8,6 +8,7 @@
 
 ### Properties
 
+- [metadata](service_domain_organization_user_created.Event.md#metadata)
 - [publisher](service_domain_organization_user_created.Event.md#publisher)
 - [source](service_domain_organization_user_created.Event.md#source)
 - [time](service_domain_organization_user_created.Event.md#time)
@@ -16,13 +17,23 @@
 
 ## Properties
 
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/organization/user_created.ts:45](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_created.ts#L45)
+
+___
+
 ### publisher
 
 • **publisher**: `string`
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:42](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_created.ts#L42)
+[src/service/domain/organization/user_created.ts:43](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_created.ts#L43)
 
 ___
 
@@ -32,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:40](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_created.ts#L40)
+[src/service/domain/organization/user_created.ts:41](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_created.ts#L41)
 
 ___
 
@@ -42,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:41](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_created.ts#L41)
+[src/service/domain/organization/user_created.ts:42](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_created.ts#L42)
 
 ___
 
@@ -52,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:39](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_created.ts#L39)
+[src/service/domain/organization/user_created.ts:40](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_created.ts#L40)
 
 ___
 
@@ -62,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:43](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_created.ts#L43)
+[src/service/domain/organization/user_created.ts:44](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_created.ts#L44)

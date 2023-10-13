@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.rev
 
 #### Defined in
 
-[src/global_permission_revoke.ts:116](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/global_permission_revoke.ts#L116)
+[src/global_permission_revoke.ts:117](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/global_permission_revoke.ts#L117)

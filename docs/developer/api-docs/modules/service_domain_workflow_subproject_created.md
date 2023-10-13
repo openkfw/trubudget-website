@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_created.ts:57](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_created.ts#L57)
+[src/service/domain/workflow/subproject_created.ts:59](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_created.ts#L59)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subproject`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_created.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subproject`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_created.Event.md)\>
 
 #### Parameters
 
@@ -43,6 +43,7 @@
 | `projectId` | `string` |
 | `subproject` | `InitialData` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -50,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_created.ts:66](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_created.ts#L66)
+[src/service/domain/workflow/subproject_created.ts:69](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_created.ts#L69)
 
 ___
 
@@ -71,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_created.ts:95](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_created.ts#L95)
+[src/service/domain/workflow/subproject_created.ts:100](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_created.ts#L100)
 
 ___
 
@@ -91,4 +92,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_created.ts:90](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_created.ts#L90)
+[src/service/domain/workflow/subproject_created.ts:95](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_created.ts#L95)

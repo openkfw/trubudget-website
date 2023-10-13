@@ -35,13 +35,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:21](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L21)
+[src/service/domain/organization/auth_token.ts:23](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L23)
 
 ___
 
 ### fromUserRecord
 
-▸ **fromUserRecord**(`user`, `repository`): `Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+▸ **fromUserRecord**(`user`, `repository`, `metadata?`): `Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Parameters
 
@@ -49,6 +49,7 @@ ___
 | :------ | :------ |
 | `user` | [`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md) |
 | `repository` | `Repository` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -56,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:36](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L36)
+[src/service/domain/organization/auth_token.ts:38](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L38)
 
 ___
 
@@ -78,4 +79,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:80](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L80)
+[src/service/domain/organization/auth_token.ts:84](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L84)

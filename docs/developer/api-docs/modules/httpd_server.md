@@ -12,7 +12,7 @@
 
 ### createBasicApp
 
-▸ **createBasicApp**(`jwtSecret`, `urlPrefix`, `apiPort`, `accessControlAllowOrigin`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **createBasicApp**(`jwtSecret`, `urlPrefix`, `apiPort`, `accessControlAllowOrigin`, `rateLimit`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Parameters
 
@@ -22,6 +22,7 @@
 | `urlPrefix` | `string` |
 | `apiPort` | `number` |
 | `accessControlAllowOrigin` | `string` |
+| `rateLimit` | `undefined` \| `number` |
 
 #### Returns
 
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/httpd/server.ts:133](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/httpd/server.ts#L133)
+[src/httpd/server.ts:136](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/httpd/server.ts#L136)

@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document_upload.ts:34](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_upload.ts#L34)
+[src/service/domain/document/document_upload.ts:34](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_upload.ts#L34)

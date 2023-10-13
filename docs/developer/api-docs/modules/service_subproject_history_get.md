@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/subproject_history_get.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/subproject_history_get.ts#L15)
+[src/service/subproject_history_get.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/subproject_history_get.ts#L15)

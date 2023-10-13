@@ -9,6 +9,7 @@
 ### Properties
 
 - [currencyCode](service_domain_workflow_project_projected_budget_updated.Event.md#currencycode)
+- [metadata](service_domain_workflow_project_projected_budget_updated.Event.md#metadata)
 - [organization](service_domain_workflow_project_projected_budget_updated.Event.md#organization)
 - [projectId](service_domain_workflow_project_projected_budget_updated.Event.md#projectid)
 - [publisher](service_domain_workflow_project_projected_budget_updated.Event.md#publisher)
@@ -25,7 +26,17 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_updated.ts#L19)
+[src/service/domain/workflow/project_projected_budget_updated.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_updated.ts#L20)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/workflow/project_projected_budget_updated.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_updated.ts#L21)
 
 ___
 
@@ -35,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_updated.ts#L17)
+[src/service/domain/workflow/project_projected_budget_updated.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_updated.ts#L18)
 
 ___
 
@@ -45,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_updated.ts#L16)
+[src/service/domain/workflow/project_projected_budget_updated.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_updated.ts#L17)
 
 ___
 
@@ -55,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_updated.ts#L15)
+[src/service/domain/workflow/project_projected_budget_updated.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_updated.ts#L16)
 
 ___
 
@@ -65,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_updated.ts#L13)
+[src/service/domain/workflow/project_projected_budget_updated.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_updated.ts#L14)
 
 ___
 
@@ -75,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_updated.ts#L14)
+[src/service/domain/workflow/project_projected_budget_updated.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_updated.ts#L15)
 
 ___
 
@@ -85,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_updated.ts#L12)
+[src/service/domain/workflow/project_projected_budget_updated.ts:13](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_updated.ts#L13)
 
 ___
 
@@ -95,4 +106,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_updated.ts#L18)
+[src/service/domain/workflow/project_projected_budget_updated.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_updated.ts#L19)

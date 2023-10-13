@@ -27,7 +27,7 @@ dedicated event.
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:21](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L21)
+[src/service/domain/workflow/project_updated.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L22)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L19)
+[src/service/domain/workflow/project_updated.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L20)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L18)
+[src/service/domain/workflow/project_updated.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L19)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:22](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L22)
+[src/service/domain/workflow/project_updated.ts:23](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L23)
 
 ___
 
@@ -67,4 +67,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L20)
+[src/service/domain/workflow/project_updated.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L21)

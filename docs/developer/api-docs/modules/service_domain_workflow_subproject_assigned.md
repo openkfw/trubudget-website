@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:21](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_assigned.ts#L21)
+[src/service/domain/workflow/subproject_assigned.ts:23](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_assigned.ts#L23)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `assignee`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_assigned.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `assignee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_assigned.Event.md)\>
 
 #### Parameters
 
@@ -44,6 +44,7 @@
 | `subprojectId` | `string` |
 | `assignee` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -51,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:31](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_assigned.ts#L31)
+[src/service/domain/workflow/subproject_assigned.ts:34](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_assigned.ts#L34)
 
 ___
 
@@ -81,7 +82,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:71](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_assigned.ts#L71)
+[src/service/domain/workflow/subproject_assigned.ts:76](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_assigned.ts#L76)
 
 ___
 
@@ -101,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:56](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_assigned.ts#L56)
+[src/service/domain/workflow/subproject_assigned.ts:61](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_assigned.ts#L61)

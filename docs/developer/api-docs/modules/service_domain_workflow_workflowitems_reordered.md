@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:22](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitems_reordered.ts#L22)
+[src/service/domain/workflow/workflowitems_reordered.ts:24](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitems_reordered.ts#L24)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `ordering`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `ordering`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
 
 #### Parameters
 
@@ -44,6 +44,7 @@
 | `subprojectId` | `string` |
 | `ordering` | `string`[] |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -51,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:32](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitems_reordered.ts#L32)
+[src/service/domain/workflow/workflowitems_reordered.ts:35](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitems_reordered.ts#L35)
 
 ___
 
@@ -81,7 +82,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:72](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitems_reordered.ts#L72)
+[src/service/domain/workflow/workflowitems_reordered.ts:77](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitems_reordered.ts#L77)
 
 ___
 
@@ -101,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:57](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitems_reordered.ts#L57)
+[src/service/domain/workflow/workflowitems_reordered.ts:62](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitems_reordered.ts#L62)

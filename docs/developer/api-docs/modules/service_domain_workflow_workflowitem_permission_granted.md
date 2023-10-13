@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:25](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L25)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:27](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L27)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `permission`, `grantee`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `permission`, `grantee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
 
 #### Parameters
 
@@ -46,6 +46,7 @@
 | `permission` | [`default`](authz_intents.md#default) |
 | `grantee` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -53,7 +54,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:37](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L37)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:40](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L40)
 
 ___
 
@@ -83,7 +84,7 @@ workflowitem is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:81](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L81)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:86](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L86)
 
 ___
 
@@ -103,4 +104,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:66](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L66)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:71](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L71)

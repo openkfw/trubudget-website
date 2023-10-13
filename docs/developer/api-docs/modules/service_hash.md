@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/service/hash.ts:3](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/hash.ts#L3)
+[src/service/hash.ts:3](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/hash.ts#L3)

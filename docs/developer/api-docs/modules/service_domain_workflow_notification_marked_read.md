@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:23](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification_marked_read.ts#L23)
+[src/service/domain/workflow/notification_marked_read.ts:25](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_marked_read.ts#L25)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `notificationId`, `recipient`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `notificationId`, `recipient`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `notificationId` | `string` |
 | `recipient` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:32](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification_marked_read.ts#L32)
+[src/service/domain/workflow/notification_marked_read.ts:35](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_marked_read.ts#L35)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:56](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/notification_marked_read.ts#L56)
+[src/service/domain/workflow/notification_marked_read.ts:61](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/notification_marked_read.ts#L61)

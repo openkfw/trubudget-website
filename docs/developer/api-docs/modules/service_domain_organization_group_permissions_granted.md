@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:22](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L22)
+[src/service/domain/organization/group_permissions_granted.ts:24](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L24)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `groupId`, `permission`, `grantee`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_permissions_granted.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `groupId`, `permission`, `grantee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_permissions_granted.Event.md)\>
 
 #### Parameters
 
@@ -43,6 +43,7 @@
 | `permission` | [`default`](authz_intents.md#default) |
 | `grantee` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -50,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:32](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L32)
+[src/service/domain/organization/group_permissions_granted.ts:35](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L35)
 
 ___
 
@@ -70,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:59](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L59)
+[src/service/domain/organization/group_permissions_granted.ts:64](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L64)

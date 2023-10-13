@@ -8,6 +8,7 @@
 
 ### Properties
 
+- [metadata](service_domain_organization_public_key_published.Event.md#metadata)
 - [organization](service_domain_organization_public_key_published.Event.md#organization)
 - [publicKey](service_domain_organization_public_key_published.Event.md#publickey)
 - [publisher](service_domain_organization_public_key_published.Event.md#publisher)
@@ -17,13 +18,23 @@
 
 ## Properties
 
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/organization/public_key_published.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_published.ts#L18)
+
+___
+
 ### organization
 
 • **organization**: `string`
 
 #### Defined in
 
-[src/service/domain/organization/public_key_published.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key_published.ts#L15)
+[src/service/domain/organization/public_key_published.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_published.ts#L16)
 
 ___
 
@@ -33,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_published.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key_published.ts#L16)
+[src/service/domain/organization/public_key_published.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_published.ts#L17)
 
 ___
 
@@ -43,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_published.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key_published.ts#L14)
+[src/service/domain/organization/public_key_published.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_published.ts#L15)
 
 ___
 
@@ -53,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_published.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key_published.ts#L12)
+[src/service/domain/organization/public_key_published.ts:13](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_published.ts#L13)
 
 ___
 
@@ -63,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_published.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key_published.ts#L13)
+[src/service/domain/organization/public_key_published.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_published.ts#L14)
 
 ___
 
@@ -73,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_published.ts:11](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key_published.ts#L11)
+[src/service/domain/organization/public_key_published.ts:12](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_published.ts#L12)

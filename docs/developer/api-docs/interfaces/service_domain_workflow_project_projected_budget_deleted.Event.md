@@ -9,6 +9,7 @@
 ### Properties
 
 - [currencyCode](service_domain_workflow_project_projected_budget_deleted.Event.md#currencycode)
+- [metadata](service_domain_workflow_project_projected_budget_deleted.Event.md#metadata)
 - [organization](service_domain_workflow_project_projected_budget_deleted.Event.md#organization)
 - [projectId](service_domain_workflow_project_projected_budget_deleted.Event.md#projectid)
 - [publisher](service_domain_workflow_project_projected_budget_deleted.Event.md#publisher)
@@ -24,7 +25,17 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L18)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L19)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/workflow/project_projected_budget_deleted.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L20)
 
 ___
 
@@ -34,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L17)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L18)
 
 ___
 
@@ -44,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L16)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L17)
 
 ___
 
@@ -54,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L15)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L16)
 
 ___
 
@@ -64,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L13)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L14)
 
 ___
 
@@ -74,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L14)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L15)
 
 ___
 
@@ -84,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_deleted.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L12)
+[src/service/domain/workflow/project_projected_budget_deleted.ts:13](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_projected_budget_deleted.ts#L13)

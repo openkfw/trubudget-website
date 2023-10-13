@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/network/node_registered.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_registered.ts#L19)
+[src/service/domain/network/node_registered.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_registered.ts#L21)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `address`, `organization`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_network_node_registered.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `address`, `organization`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_network_node_registered.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `address` | `string` |
 | `organization` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/network/node_registered.ts:28](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_registered.ts#L28)
+[src/service/domain/network/node_registered.ts:31](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_registered.ts#L31)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_registered.ts:52](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/network/node_registered.ts#L52)
+[src/service/domain/network/node_registered.ts:57](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/network/node_registered.ts#L57)

@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/lib/resourceTypes.ts:1](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/lib/resourceTypes.ts#L1)
+[src/lib/resourceTypes.ts:1](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/lib/resourceTypes.ts#L1)

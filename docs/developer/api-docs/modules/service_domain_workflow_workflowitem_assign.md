@@ -12,14 +12,14 @@
 
 ### assignWorkflowitem
 
-▸ **assignWorkflowitem**(`ctx`, `publisher`, `assignee`, `projectId`, `subprojectId`, `workflowitemId`, `repository`): `Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
+▸ **assignWorkflowitem**(`ctx`, `issuer`, `assignee`, `projectId`, `subprojectId`, `workflowitemId`, `repository`): `Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
-| `publisher` | [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md) |
+| `issuer` | [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md) |
 | `assignee` | `string` |
 | `projectId` | `string` |
 | `subprojectId` | `string` |
@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assign.ts:28](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_assign.ts#L28)
+[src/service/domain/workflow/workflowitem_assign.ts:28](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_assign.ts#L28)

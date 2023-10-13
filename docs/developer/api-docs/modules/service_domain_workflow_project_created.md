@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:51](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_created.ts#L51)
+[src/service/domain/workflow/project_created.ts:53](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L53)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `project`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `project`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `publisher` | `string` |
 | `project` | `InitialData` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:59](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_created.ts#L59)
+[src/service/domain/workflow/project_created.ts:62](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L62)
 
 ___
 
@@ -70,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:86](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_created.ts#L86)
+[src/service/domain/workflow/project_created.ts:91](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L91)
 
 ___
 
@@ -90,4 +91,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:81](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_created.ts#L81)
+[src/service/domain/workflow/project_created.ts:86](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_created.ts#L86)

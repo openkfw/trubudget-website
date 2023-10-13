@@ -9,6 +9,7 @@
 ### Properties
 
 - [groupId](service_domain_organization_group_permissions_revoked.Event.md#groupid)
+- [metadata](service_domain_organization_group_permissions_revoked.Event.md#metadata)
 - [permission](service_domain_organization_group_permissions_revoked.Event.md#permission)
 - [publisher](service_domain_organization_group_permissions_revoked.Event.md#publisher)
 - [revokee](service_domain_organization_group_permissions_revoked.Event.md#revokee)
@@ -24,7 +25,17 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_revoked.ts#L17)
+[src/service/domain/organization/group_permissions_revoked.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L18)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/organization/group_permissions_revoked.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L21)
 
 ___
 
@@ -34,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_revoked.ts#L18)
+[src/service/domain/organization/group_permissions_revoked.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L19)
 
 ___
 
@@ -44,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_revoked.ts#L16)
+[src/service/domain/organization/group_permissions_revoked.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L17)
 
 ___
 
@@ -54,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_revoked.ts#L19)
+[src/service/domain/organization/group_permissions_revoked.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L20)
 
 ___
 
@@ -64,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_revoked.ts#L14)
+[src/service/domain/organization/group_permissions_revoked.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L15)
 
 ___
 
@@ -74,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_revoked.ts#L15)
+[src/service/domain/organization/group_permissions_revoked.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L16)
 
 ___
 
@@ -84,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_revoked.ts#L13)
+[src/service/domain/organization/group_permissions_revoked.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_revoked.ts#L14)

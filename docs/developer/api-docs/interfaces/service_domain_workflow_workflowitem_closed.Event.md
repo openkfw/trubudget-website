@@ -8,6 +8,7 @@
 
 ### Properties
 
+- [metadata](service_domain_workflow_workflowitem_closed.Event.md#metadata)
 - [projectId](service_domain_workflow_workflowitem_closed.Event.md#projectid)
 - [publisher](service_domain_workflow_workflowitem_closed.Event.md#publisher)
 - [rejectReason](service_domain_workflow_workflowitem_closed.Event.md#rejectreason)
@@ -19,13 +20,23 @@
 
 ## Properties
 
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/workflow/workflowitem_closed.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_closed.ts#L22)
+
+___
+
 ### projectId
 
 • **projectId**: `string`
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L17)
+[src/service/domain/workflow/workflowitem_closed.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_closed.ts#L18)
 
 ___
 
@@ -35,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L16)
+[src/service/domain/workflow/workflowitem_closed.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_closed.ts#L17)
 
 ___
 
@@ -45,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L20)
+[src/service/domain/workflow/workflowitem_closed.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_closed.ts#L21)
 
 ___
 
@@ -55,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L14)
+[src/service/domain/workflow/workflowitem_closed.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_closed.ts#L15)
 
 ___
 
@@ -65,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L18)
+[src/service/domain/workflow/workflowitem_closed.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_closed.ts#L19)
 
 ___
 
@@ -75,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L15)
+[src/service/domain/workflow/workflowitem_closed.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_closed.ts#L16)
 
 ___
 
@@ -85,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L13)
+[src/service/domain/workflow/workflowitem_closed.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_closed.ts#L14)
 
 ___
 
@@ -95,4 +106,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_closed.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/workflowitem_closed.ts#L19)
+[src/service/domain/workflow/workflowitem_closed.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/workflowitem_closed.ts#L20)

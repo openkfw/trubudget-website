@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_closed.ts#L20)
+[src/service/domain/workflow/subproject_closed.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_closed.ts#L22)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
 
 #### Parameters
 
@@ -43,6 +43,7 @@
 | `projectId` | `string` |
 | `subprojectId` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -50,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:29](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_closed.ts#L29)
+[src/service/domain/workflow/subproject_closed.ts:32](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_closed.ts#L32)
 
 ___
 
@@ -80,7 +81,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:66](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_closed.ts#L66)
+[src/service/domain/workflow/subproject_closed.ts:71](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_closed.ts#L71)
 
 ___
 
@@ -100,4 +101,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:51](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/subproject_closed.ts#L51)
+[src/service/domain/workflow/subproject_closed.ts:56](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/subproject_closed.ts#L56)

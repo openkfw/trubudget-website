@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_closed.ts#L18)
+[src/service/domain/workflow/project_closed.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_closed.ts#L20)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_closed.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_closed.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `publisher` | `string` |
 | `projectId` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:26](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_closed.ts#L26)
+[src/service/domain/workflow/project_closed.ts:29](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_closed.ts#L29)
 
 ___
 
@@ -79,7 +80,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:61](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_closed.ts#L61)
+[src/service/domain/workflow/project_closed.ts:66](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_closed.ts#L66)
 
 ___
 
@@ -99,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:46](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_closed.ts#L46)
+[src/service/domain/workflow/project_closed.ts:51](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_closed.ts#L51)

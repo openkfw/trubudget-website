@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_updated.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key_updated.ts#L19)
+[src/service/domain/organization/public_key_updated.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_updated.ts#L21)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `organization`, `publicKey`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_public_key_updated.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `organization`, `publicKey`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_public_key_updated.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `organization` | `string` |
 | `publicKey` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_updated.ts:28](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key_updated.ts#L28)
+[src/service/domain/organization/public_key_updated.ts:31](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_updated.ts#L31)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_updated.ts:52](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/public_key_updated.ts#L52)
+[src/service/domain/organization/public_key_updated.ts:57](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/public_key_updated.ts#L57)

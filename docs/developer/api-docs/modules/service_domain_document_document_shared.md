@@ -27,13 +27,13 @@
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:26](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_shared.ts#L26)
+[src/service/domain/document/document_shared.ts:28](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L28)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `docId`, `organization`, `encryptedSecret`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `docId`, `organization`, `encryptedSecret`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
 
 #### Parameters
 
@@ -45,6 +45,7 @@
 | `organization` | `string` |
 | `encryptedSecret` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -52,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:41](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_shared.ts#L41)
+[src/service/domain/document/document_shared.ts:44](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L44)
 
 ___
 
@@ -72,7 +73,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:36](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_shared.ts#L36)
+[src/service/domain/document/document_shared.ts:39](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L39)
 
 ___
 
@@ -92,4 +93,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:74](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_shared.ts#L74)
+[src/service/domain/document/document_shared.ts:79](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_shared.ts#L79)

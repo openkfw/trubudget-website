@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/storage_service_url_get.ts:9](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/storage_service_url_get.ts#L9)
+[src/service/storage_service_url_get.ts:9](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/storage_service_url_get.ts#L9)

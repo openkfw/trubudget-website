@@ -8,6 +8,7 @@
 
 ### Properties
 
+- [metadata](service_domain_organization_user_password_changed.Event.md#metadata)
 - [publisher](service_domain_organization_user_password_changed.Event.md#publisher)
 - [source](service_domain_organization_user_password_changed.Event.md#source)
 - [time](service_domain_organization_user_password_changed.Event.md#time)
@@ -16,13 +17,23 @@
 
 ## Properties
 
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/organization/user_password_changed.ts:28](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L28)
+
+___
+
 ### publisher
 
 • **publisher**: `string`
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:25](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_changed.ts#L25)
+[src/service/domain/organization/user_password_changed.ts:26](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L26)
 
 ___
 
@@ -32,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:23](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_changed.ts#L23)
+[src/service/domain/organization/user_password_changed.ts:24](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L24)
 
 ___
 
@@ -42,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:24](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_changed.ts#L24)
+[src/service/domain/organization/user_password_changed.ts:25](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L25)
 
 ___
 
@@ -52,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:22](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_changed.ts#L22)
+[src/service/domain/organization/user_password_changed.ts:23](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L23)
 
 ___
 
@@ -62,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:26](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/user_password_changed.ts#L26)
+[src/service/domain/organization/user_password_changed.ts:27](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/user_password_changed.ts#L27)

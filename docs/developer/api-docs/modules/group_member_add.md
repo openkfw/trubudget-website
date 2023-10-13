@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/group.addU
 
 #### Defined in
 
-[src/group_member_add.ts:121](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/group_member_add.ts#L121)
+[src/group_member_add.ts:122](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/group_member_add.ts#L122)

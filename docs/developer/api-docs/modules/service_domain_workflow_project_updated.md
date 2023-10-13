@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:25](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L25)
+[src/service/domain/workflow/project_updated.ts:26](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L26)
 
 ___
 
@@ -38,13 +38,13 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:42](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L42)
+[src/service/domain/workflow/project_updated.ts:44](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L44)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `modification`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `modification`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
 
 #### Parameters
 
@@ -55,6 +55,7 @@ ___
 | `projectId` | `string` |
 | `modification` | [`Modification`](../interfaces/service_domain_workflow_project_updated.Modification.md) |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -62,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:51](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L51)
+[src/service/domain/workflow/project_updated.ts:54](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L54)
 
 ___
 
@@ -92,7 +93,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:90](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L90)
+[src/service/domain/workflow/project_updated.ts:95](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L95)
 
 ___
 
@@ -112,4 +113,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:75](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_updated.ts#L75)
+[src/service/domain/workflow/project_updated.ts:80](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_updated.ts#L80)

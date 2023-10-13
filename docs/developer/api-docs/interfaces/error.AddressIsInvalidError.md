@@ -21,7 +21,7 @@ Error type thrown when an address is invalid
 
 #### Defined in
 
-[src/error.ts:42](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L42)
+[src/error.ts:42](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/error.ts#L42)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:41](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/error.ts#L41)
+[src/error.ts:41](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/error.ts#L41)

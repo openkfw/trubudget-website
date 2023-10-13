@@ -10,6 +10,7 @@
 
 - [grantee](service_domain_organization_group_permissions_granted.Event.md#grantee)
 - [groupId](service_domain_organization_group_permissions_granted.Event.md#groupid)
+- [metadata](service_domain_organization_group_permissions_granted.Event.md#metadata)
 - [permission](service_domain_organization_group_permissions_granted.Event.md#permission)
 - [publisher](service_domain_organization_group_permissions_granted.Event.md#publisher)
 - [source](service_domain_organization_group_permissions_granted.Event.md#source)
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:19](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L19)
+[src/service/domain/organization/group_permissions_granted.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L20)
 
 ___
 
@@ -34,7 +35,17 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L17)
+[src/service/domain/organization/group_permissions_granted.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L18)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/organization/group_permissions_granted.ts:21](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L21)
 
 ___
 
@@ -44,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L18)
+[src/service/domain/organization/group_permissions_granted.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L19)
 
 ___
 
@@ -54,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L16)
+[src/service/domain/organization/group_permissions_granted.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L17)
 
 ___
 
@@ -64,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L14)
+[src/service/domain/organization/group_permissions_granted.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L15)
 
 ___
 
@@ -74,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L15)
+[src/service/domain/organization/group_permissions_granted.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L16)
 
 ___
 
@@ -84,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_granted.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_permissions_granted.ts#L13)
+[src/service/domain/organization/group_permissions_granted.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_permissions_granted.ts#L14)

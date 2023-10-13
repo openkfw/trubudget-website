@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_updated.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/storage_service_url_updated.ts#L18)
+[src/service/domain/document/storage_service_url_updated.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/storage_service_url_updated.ts#L20)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `organization`, `organizationUrl`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `organization`, `organizationUrl`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `organization` | `string` |
 | `organizationUrl` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_updated.ts:27](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/storage_service_url_updated.ts#L27)
+[src/service/domain/document/storage_service_url_updated.ts:30](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/storage_service_url_updated.ts#L30)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_updated.ts:49](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/storage_service_url_updated.ts#L49)
+[src/service/domain/document/storage_service_url_updated.ts:54](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/storage_service_url_updated.ts#L54)

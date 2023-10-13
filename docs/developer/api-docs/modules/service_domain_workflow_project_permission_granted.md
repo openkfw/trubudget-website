@@ -26,13 +26,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:22](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_permission_granted.ts#L22)
+[src/service/domain/workflow/project_permission_granted.ts:24](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_permission_granted.ts#L24)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `permission`, `grantee`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_permission_granted.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `permission`, `grantee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_permission_granted.Event.md)\>
 
 #### Parameters
 
@@ -44,6 +44,7 @@
 | `permission` | [`default`](authz_intents.md#default) |
 | `grantee` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -51,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:32](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_permission_granted.ts#L32)
+[src/service/domain/workflow/project_permission_granted.ts:35](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_permission_granted.ts#L35)
 
 ___
 
@@ -81,7 +82,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:73](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_permission_granted.ts#L73)
+[src/service/domain/workflow/project_permission_granted.ts:78](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_permission_granted.ts#L78)
 
 ___
 
@@ -101,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:58](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/project_permission_granted.ts#L58)
+[src/service/domain/workflow/project_permission_granted.ts:63](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_permission_granted.ts#L63)

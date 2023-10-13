@@ -12,6 +12,7 @@
 - [allowedIntents](service_domain_organization_auth_token.AuthToken.md#allowedintents)
 - [displayName](service_domain_organization_auth_token.AuthToken.md#displayname)
 - [groups](service_domain_organization_auth_token.AuthToken.md#groups)
+- [metadata](service_domain_organization_auth_token.AuthToken.md#metadata)
 - [organization](service_domain_organization_auth_token.AuthToken.md#organization)
 - [organizationAddress](service_domain_organization_auth_token.AuthToken.md#organizationaddress)
 - [userId](service_domain_organization_auth_token.AuthToken.md#userid)
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L14)
+[src/service/domain/organization/auth_token.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L15)
 
 ___
 
@@ -34,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:18](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L18)
+[src/service/domain/organization/auth_token.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L19)
 
 ___
 
@@ -44,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L13)
+[src/service/domain/organization/auth_token.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L14)
 
 ___
 
@@ -54,7 +55,17 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L15)
+[src/service/domain/organization/auth_token.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L16)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/organization/auth_token.ts:20](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L20)
 
 ___
 
@@ -64,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L16)
+[src/service/domain/organization/auth_token.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L17)
 
 ___
 
@@ -74,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L17)
+[src/service/domain/organization/auth_token.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L18)
 
 ___
 
@@ -84,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/auth_token.ts#L12)
+[src/service/domain/organization/auth_token.ts:13](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/auth_token.ts#L13)

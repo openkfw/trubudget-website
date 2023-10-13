@@ -9,6 +9,7 @@
 ### Properties
 
 - [grantee](service_domain_workflow_global_permission_granted.Event.md#grantee)
+- [metadata](service_domain_workflow_global_permission_granted.Event.md#metadata)
 - [permission](service_domain_workflow_global_permission_granted.Event.md#permission)
 - [publisher](service_domain_workflow_global_permission_granted.Event.md#publisher)
 - [source](service_domain_workflow_global_permission_granted.Event.md#source)
@@ -23,7 +24,17 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:17](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/global_permission_granted.ts#L17)
+[src/service/domain/workflow/global_permission_granted.ts:18](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L18)
+
+___
+
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/workflow/global_permission_granted.ts:19](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L19)
 
 ___
 
@@ -33,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:16](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/global_permission_granted.ts#L16)
+[src/service/domain/workflow/global_permission_granted.ts:17](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L17)
 
 ___
 
@@ -43,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:15](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/global_permission_granted.ts#L15)
+[src/service/domain/workflow/global_permission_granted.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L16)
 
 ___
 
@@ -53,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/global_permission_granted.ts#L13)
+[src/service/domain/workflow/global_permission_granted.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L14)
 
 ___
 
@@ -63,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/global_permission_granted.ts#L14)
+[src/service/domain/workflow/global_permission_granted.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L15)
 
 ___
 
@@ -73,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/workflow/global_permission_granted.ts#L12)
+[src/service/domain/workflow/global_permission_granted.ts:13](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/global_permission_granted.ts#L13)

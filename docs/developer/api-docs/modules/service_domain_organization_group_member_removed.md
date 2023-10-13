@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_member_removed.ts:20](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_member_removed.ts#L20)
+[src/service/domain/organization/group_member_removed.ts:22](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_member_removed.ts#L22)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `groupId`, `members`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `groupId`, `members`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
 
 #### Parameters
 
@@ -42,6 +42,7 @@
 | `groupId` | `string` |
 | `members` | `string`[] |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_member_removed.ts:29](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_member_removed.ts#L29)
+[src/service/domain/organization/group_member_removed.ts:32](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_member_removed.ts#L32)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_removed.ts:53](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_member_removed.ts#L53)
+[src/service/domain/organization/group_member_removed.ts:58](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_member_removed.ts#L58)

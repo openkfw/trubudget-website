@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/service/document_get.ts:8](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/document_get.ts#L8)
+[src/service/document_get.ts:8](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/document_get.ts#L8)

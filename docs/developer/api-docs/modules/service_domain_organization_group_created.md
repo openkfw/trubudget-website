@@ -25,13 +25,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_created.ts:40](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_created.ts#L40)
+[src/service/domain/organization/group_created.ts:42](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_created.ts#L42)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `group`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `group`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
 
 #### Parameters
 
@@ -41,6 +41,7 @@
 | `publisher` | `string` |
 | `group` | `InitialData` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -48,7 +49,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_created.ts:48](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_created.ts#L48)
+[src/service/domain/organization/group_created.ts:51](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_created.ts#L51)
 
 ___
 
@@ -68,4 +69,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_created.ts:70](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/organization/group_created.ts#L70)
+[src/service/domain/organization/group_created.ts:75](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/organization/group_created.ts#L75)

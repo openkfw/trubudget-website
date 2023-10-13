@@ -8,6 +8,7 @@
 
 ### Properties
 
+- [metadata](service_domain_system_information_provisioning_ended.Event.md#metadata)
 - [publisher](service_domain_system_information_provisioning_ended.Event.md#publisher)
 - [source](service_domain_system_information_provisioning_ended.Event.md#source)
 - [time](service_domain_system_information_provisioning_ended.Event.md#time)
@@ -15,13 +16,23 @@
 
 ## Properties
 
+### metadata
+
+• `Optional` **metadata**: [`UserMetadata`](../modules/service_domain_metadata.md#usermetadata)
+
+#### Defined in
+
+[src/service/domain/system_information/provisioning_ended.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/system_information/provisioning_ended.ts#L16)
+
+___
+
 ### publisher
 
 • **publisher**: `string`
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:14](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/system_information/provisioning_ended.ts#L14)
+[src/service/domain/system_information/provisioning_ended.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/system_information/provisioning_ended.ts#L15)
 
 ___
 
@@ -31,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:12](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/system_information/provisioning_ended.ts#L12)
+[src/service/domain/system_information/provisioning_ended.ts:13](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/system_information/provisioning_ended.ts#L13)
 
 ___
 
@@ -41,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:13](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/system_information/provisioning_ended.ts#L13)
+[src/service/domain/system_information/provisioning_ended.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/system_information/provisioning_ended.ts#L14)
 
 ___
 
@@ -51,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:11](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/system_information/provisioning_ended.ts#L11)
+[src/service/domain/system_information/provisioning_ended.ts:12](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/system_information/provisioning_ended.ts#L12)

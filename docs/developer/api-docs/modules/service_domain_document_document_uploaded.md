@@ -27,13 +27,13 @@
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:25](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_uploaded.ts#L25)
+[src/service/domain/document/document_uploaded.ts:26](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_uploaded.ts#L26)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `docId`, `fileName`, `organization`, `time?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_uploaded.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `docId`, `fileName`, `organization`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_uploaded.Event.md)\>
 
 #### Parameters
 
@@ -45,6 +45,7 @@
 | `fileName` | `string` |
 | `organization` | `string` |
 | `time` | `string` |
+| `metadata?` | [`UserMetadata`](service_domain_metadata.md#usermetadata) |
 
 #### Returns
 
@@ -52,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:41](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_uploaded.ts#L41)
+[src/service/domain/document/document_uploaded.ts:43](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_uploaded.ts#L43)
 
 ___
 
@@ -73,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:82](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_uploaded.ts#L82)
+[src/service/domain/document/document_uploaded.ts:86](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_uploaded.ts#L86)
 
 ___
 
@@ -93,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:36](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_uploaded.ts#L36)
+[src/service/domain/document/document_uploaded.ts:38](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_uploaded.ts#L38)
 
 ___
 
@@ -113,4 +114,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:77](https://github.com/openkfw/TruBudget/blob/4d7fd4be/api/src/service/domain/document/document_uploaded.ts#L77)
+[src/service/domain/document/document_uploaded.ts:81](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_uploaded.ts#L81)
