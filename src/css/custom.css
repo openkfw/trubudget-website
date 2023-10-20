@@ -400,3 +400,30 @@ header.masthead p {
   width: 100%;
   height: 100%;
 }
+
+
+
+/* Set text color to black when light theme is active */
+:root[data-theme='dark'] .section-heading {
+  color: #ffffff;
+}
+
+:root[data-theme='dark'] .clean-btn {
+  color: #ffffff;
+}
+
+:root[data-theme='dark'] .mb-0 {
+  color: #ffffff;
+}
+
+:root[data-theme='dark'] .mb-3 {
+  color: #ffffff;
+}
+
+:root[data-theme='dark'] .mb-4 {
+  color: #ffffff;
+}
+
+:root[data-theme='dark'] .mb-5 {
+  color: #ffffff;
+}
