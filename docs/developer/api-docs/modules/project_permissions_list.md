@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.in
 
 #### Defined in
 
-[src/project_permissions_list.ts:85](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/project_permissions_list.ts#L85)
+[src/project_permissions_list.ts:85](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/project_permissions_list.ts#L85)

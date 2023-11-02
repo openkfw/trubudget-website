@@ -21,7 +21,7 @@ Error type thrown when a project id already exists
 
 #### Defined in
 
-[src/error.ts:65](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/error.ts#L65)
+[src/error.ts:65](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/error.ts#L65)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:66](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/error.ts#L66)
+[src/error.ts:66](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/error.ts#L66)

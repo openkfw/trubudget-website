@@ -33,7 +33,7 @@ value is undefined \| null
 
 #### Defined in
 
-[src/lib/emptyChecks.ts:1](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/lib/emptyChecks.ts#L1)
+[src/lib/emptyChecks.ts:1](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/emptyChecks.ts#L1)
 
 ___
 
@@ -59,4 +59,4 @@ value is T
 
 #### Defined in
 
-[src/lib/emptyChecks.ts:7](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/lib/emptyChecks.ts#L7)
+[src/lib/emptyChecks.ts:7](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/emptyChecks.ts#L7)

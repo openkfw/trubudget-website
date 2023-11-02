@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/service/hexconverter.ts:50](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/hexconverter.ts#L50)
+[src/service/hexconverter.ts:50](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/hexconverter.ts#L50)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/service/hexconverter.ts:23](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/hexconverter.ts#L23)
+[src/service/hexconverter.ts:23](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/hexconverter.ts#L23)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[src/service/hexconverter.ts:38](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/hexconverter.ts#L38)
+[src/service/hexconverter.ts:38](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/hexconverter.ts#L38)
 
 ___
 
@@ -89,4 +89,4 @@ ___
 
 #### Defined in
 
-[src/service/hexconverter.ts:9](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/hexconverter.ts#L9)
+[src/service/hexconverter.ts:9](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/hexconverter.ts#L9)

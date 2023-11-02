@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document_share.ts:39](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/document/document_share.ts#L39)
+[src/service/domain/document/document_share.ts:39](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_share.ts#L39)

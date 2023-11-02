@@ -39,4 +39,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_subproject_create
 
 #### Defined in
 
-[src/service/subproject_create.ts:14](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/subproject_create.ts#L14)
+[src/service/subproject_create.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/subproject_create.ts#L14)
