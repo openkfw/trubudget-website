@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/notificati
 
 #### Defined in
 
-[src/notification_count.ts:75](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/notification_count.ts#L75)
+[src/notification_count.ts:75](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/notification_count.ts#L75)

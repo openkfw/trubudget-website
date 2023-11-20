@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/project_projected_budget_update.ts:15](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/project_projected_budget_update.ts#L15)
+[src/service/project_projected_budget_update.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/project_projected_budget_update.ts#L15)

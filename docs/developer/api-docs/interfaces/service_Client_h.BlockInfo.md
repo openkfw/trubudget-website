@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/service/Client.h.ts:33](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/Client.h.ts#L33)
+[src/service/Client.h.ts:33](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L33)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:34](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/Client.h.ts#L34)
+[src/service/Client.h.ts:34](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L34)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:37](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/Client.h.ts#L37)
+[src/service/Client.h.ts:37](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L37)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:35](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/Client.h.ts#L35)
+[src/service/Client.h.ts:35](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L35)
 
 ___
 
@@ -68,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:36](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/Client.h.ts#L36)
+[src/service/Client.h.ts:36](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L36)

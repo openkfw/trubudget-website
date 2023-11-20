@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/group.list
 
 #### Defined in
 
-[src/group_list.ts:88](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/group_list.ts#L88)
+[src/group_list.ts:88](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/group_list.ts#L88)

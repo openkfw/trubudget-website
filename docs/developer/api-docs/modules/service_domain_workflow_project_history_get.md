@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_history_get.ts:16](https://github.com/openkfw/TruBudget/blob/aca360d/api/src/service/domain/workflow/project_history_get.ts#L16)
+[src/service/domain/workflow/project_history_get.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_history_get.ts#L16)
