@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject
 
 ## Table of contents
@@ -15,6 +14,7 @@
 ### Variables
 
 - [idSchema](service_domain_workflow_subproject.md#idschema)
+- [schema](service_domain_workflow_subproject.md#schema)
 
 ### Functions
 
@@ -29,17 +29,27 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject.ts#L16)
+[src/service/domain/workflow/subproject.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject.ts#L16)
 
 ## Variables
 
 ### idSchema
 
-• `Const` **idSchema**: `StringSchema`<`string`\>
+• `Const` **idSchema**: `StringSchema`\<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject.ts#L18)
+[src/service/domain/workflow/subproject.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject.ts#L18)
+
+___
+
+### schema
+
+• `Const` **schema**: `ObjectSchema`\<`any`\>
+
+#### Defined in
+
+[src/service/domain/workflow/subproject.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject.ts#L41)
 
 ## Functions
 
@@ -61,13 +71,13 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:64](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject.ts#L64)
+[src/service/domain/workflow/subproject.ts:64](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject.ts#L64)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>
 
 #### Parameters
 
@@ -77,8 +87,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>
+[`Type`](result.md#type)\<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:59](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject.ts#L59)
+[src/service/domain/workflow/subproject.ts:59](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject.ts#L59)

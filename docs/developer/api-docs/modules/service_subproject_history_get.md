@@ -1,5 +1,4 @@
 # service/subproject\_history\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_history\_get
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getSubprojectHistory
 
-▸ **getSubprojectHistory**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `filter?`): `Promise`<[`Type`](result.md#type)<[`SubprojectTraceEvent`](../interfaces/service_domain_workflow_subproject_trace_event.SubprojectTraceEvent.md)[]\>\>
+▸ **getSubprojectHistory**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `filter?`): `Promise`\<[`Type`](result.md#type)\<[`SubprojectTraceEvent`](../interfaces/service_domain_workflow_subproject_trace_event.SubprojectTraceEvent.md)[]\>\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`SubprojectTraceEvent`](../interfaces/service_domain_workflow_subproject_trace_event.SubprojectTraceEvent.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`SubprojectTraceEvent`](../interfaces/service_domain_workflow_subproject_trace_event.SubprojectTraceEvent.md)[]\>\>
 
 #### Defined in
 
-[src/service/subproject_history_get.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/subproject_history_get.ts#L15)
+[src/service/subproject_history_get.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_history_get.ts#L19)

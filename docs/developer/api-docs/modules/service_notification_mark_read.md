@@ -1,5 +1,4 @@
 # service/notification\_mark\_read
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/notification\_mark\_read
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### markRead
 
-▸ **markRead**(`conn`, `ctx`, `serviceUser`, `notificationIds`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **markRead**(`conn`, `ctx`, `serviceUser`, `notificationIds`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/notification_mark_read.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/notification_mark_read.ts#L14)
+[src/service/notification_mark_read.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/notification_mark_read.ts#L14)

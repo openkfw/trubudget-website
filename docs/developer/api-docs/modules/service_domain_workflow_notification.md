@@ -1,5 +1,4 @@
 # service/domain/workflow/notification
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/notification
 
 ## Table of contents
@@ -28,23 +27,23 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification.ts#L8)
+[src/service/domain/workflow/notification.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification.ts#L8)
 
 ## Variables
 
 ### idSchema
 
-• `Const` **idSchema**: `StringSchema`<`string`\>
+• `Const` **idSchema**: `StringSchema`\<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:10](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification.ts#L10)
+[src/service/domain/workflow/notification.ts:10](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification.ts#L10)
 
 ## Functions
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Notification`](../interfaces/service_domain_workflow_notification.Notification.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Notification`](../interfaces/service_domain_workflow_notification.Notification.md)\>
 
 #### Parameters
 
@@ -54,8 +53,8 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Notification`](../interfaces/service_domain_workflow_notification.Notification.md)\>
+[`Type`](result.md#type)\<[`Notification`](../interfaces/service_domain_workflow_notification.Notification.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:37](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification.ts#L37)
+[src/service/domain/workflow/notification.ts:37](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification.ts#L37)

@@ -1,5 +1,4 @@
 # service/domain/workflow/historyFilter
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/historyFilter
 
 ## Table of contents
@@ -16,17 +15,17 @@
 
 ### Filter
 
-Ƭ **Filter**: `RequireAtLeastOne`<`FilterBase`, ``"publisher"`` \| ``"startAt"`` \| ``"endAt"`` \| ``"eventType"``\>
+Ƭ **Filter**: `RequireAtLeastOne`\<`FilterBase`, ``"publisher"`` \| ``"startAt"`` \| ``"endAt"`` \| ``"eventType"``\>
 
 #### Defined in
 
-[src/service/domain/workflow/historyFilter.ts:20](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/historyFilter.ts#L20)
+[src/service/domain/workflow/historyFilter.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/historyFilter.ts#L20)
 
 ## Functions
 
 ### filterTraceEvents
 
-▸ **filterTraceEvents**<`T`\>(`traceEvents`, `filter`): `T`[]
+▸ **filterTraceEvents**\<`T`\>(`traceEvents`, `filter`): `T`[]
 
 #### Type parameters
 
@@ -47,4 +46,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/historyFilter.ts:22](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/historyFilter.ts#L22)
+[src/service/domain/workflow/historyFilter.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/historyFilter.ts#L22)

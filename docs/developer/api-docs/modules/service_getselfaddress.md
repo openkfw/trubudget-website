@@ -1,5 +1,4 @@
 # service/getselfaddress
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/getselfaddress
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getselfaddress
 
-▸ **getselfaddress**(`multichain`): `Promise`<`string`\>
+▸ **getselfaddress**(`multichain`): `Promise`\<`string`\>
 
 #### Parameters
 
@@ -22,8 +21,8 @@
 
 #### Returns
 
-`Promise`<`string`\>
+`Promise`\<`string`\>
 
 #### Defined in
 
-[src/service/getselfaddress.ts:3](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/getselfaddress.ts#L3)
+[src/service/getselfaddress.ts:3](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/getselfaddress.ts#L3)

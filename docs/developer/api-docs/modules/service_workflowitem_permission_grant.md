@@ -1,5 +1,4 @@
 # service/workflowitem\_permission\_grant
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_permission\_grant
 
 ## Table of contents
@@ -22,7 +21,7 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 ### grantWorkflowitemPermission
 
-▸ **grantWorkflowitemPermission**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`, `grantee`, `intent`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **grantWorkflowitemPermission**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`, `grantee`, `intent`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -39,8 +38,8 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/workflowitem_permission_grant.ts:27](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/workflowitem_permission_grant.ts#L27)
+[src/service/workflowitem_permission_grant.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_permission_grant.ts#L31)

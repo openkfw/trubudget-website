@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_create
 
 ## Table of contents
@@ -17,7 +16,7 @@
 
 ### createProject
 
-▸ **createProject**(`ctx`, `creatingUser`, `data`, `repository`): `Promise`<[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>\>
+▸ **createProject**(`ctx`, `creatingUser`, `data`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>\>
 
 #### Parameters
 
@@ -30,17 +29,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_create.ts:61](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_create.ts#L61)
+[src/service/domain/workflow/project_create.ts:61](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_create.ts#L61)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_workflow_project_create.RequestData.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_workflow_project_create.RequestData.md)\>
 
 #### Parameters
 
@@ -50,8 +49,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_workflow_project_create.RequestData.md)\>
+[`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_workflow_project_create.RequestData.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_create.ts:51](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_create.ts#L51)
+[src/service/domain/workflow/project_create.ts:51](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_create.ts#L51)

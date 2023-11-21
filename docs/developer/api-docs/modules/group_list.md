@@ -1,5 +1,4 @@
 # group\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / group\_list
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/group.list
 
 #### Defined in
 
-[src/group_list.ts:88](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/group_list.ts#L88)
+[src/group_list.ts:88](https://github.com/openkfw/TruBudget/blob/92640998/api/src/group_list.ts#L88)

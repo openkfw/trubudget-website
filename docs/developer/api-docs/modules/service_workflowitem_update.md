@@ -1,5 +1,4 @@
 # service/workflowitem\_update
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_update
 
 ## Table of contents
@@ -20,13 +19,13 @@
 
 #### Defined in
 
-[src/service/workflowitem_update.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/workflowitem_update.ts#L25)
+[src/service/workflowitem_update.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_update.ts#L29)
 
 ## Functions
 
 ### updateWorkflowitem
 
-▸ **updateWorkflowitem**(`conn`, `storageServiceClient`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`, `modification`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **updateWorkflowitem**(`conn`, `storageServiceClient`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`, `modification`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -43,8 +42,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/workflowitem_update.ts:27](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/workflowitem_update.ts#L27)
+[src/service/workflowitem_update.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_update.ts#L31)

@@ -1,5 +1,4 @@
 # service/domain/workflow/notification\_marked\_read
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/notification\_marked\_read
 
 ## Table of contents
@@ -21,17 +20,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification_marked_read.ts#L25)
+[src/service/domain/workflow/notification_marked_read.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification_marked_read.ts#L25)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `notificationId`, `recipient`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `notificationId`, `recipient`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
 
 #### Parameters
 
@@ -46,17 +45,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:35](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification_marked_read.ts#L35)
+[src/service/domain/workflow/notification_marked_read.ts:35](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification_marked_read.ts#L35)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
 
 #### Parameters
 
@@ -66,8 +65,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_notification_marked_read.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:61](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification_marked_read.ts#L61)
+[src/service/domain/workflow/notification_marked_read.ts:61](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification_marked_read.ts#L61)

@@ -1,5 +1,4 @@
 # service/workflowitems\_reorder
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitems\_reorder
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### setWorkflowitemOrdering
 
-▸ **setWorkflowitemOrdering**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `ordering`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **setWorkflowitemOrdering**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `ordering`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/workflowitems_reorder.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/workflowitems_reorder.ts#L14)
+[src/service/workflowitems_reorder.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitems_reorder.ts#L15)

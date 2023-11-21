@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_list
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getAllVisible
 
-▸ **getAllVisible**(`ctx`, `user`, `projectId`, `subprojectId`, `repository`): `Promise`<[`Type`](result.md#type)<[`ScrubbedWorkflowitem`](service_domain_workflow_workflowitem.md#scrubbedworkflowitem)[]\>\>
+▸ **getAllVisible**(`ctx`, `user`, `projectId`, `subprojectId`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`ScrubbedWorkflowitem`](service_domain_workflow_workflowitem.md#scrubbedworkflowitem)[]\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`ScrubbedWorkflowitem`](service_domain_workflow_workflowitem.md#scrubbedworkflowitem)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`ScrubbedWorkflowitem`](service_domain_workflow_workflowitem.md#scrubbedworkflowitem)[]\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_list.ts:27](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_list.ts#L27)
+[src/service/domain/workflow/workflowitem_list.ts:27](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_list.ts#L27)

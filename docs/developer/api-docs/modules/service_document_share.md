@@ -1,5 +1,4 @@
 # service/document\_share
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/document\_share
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### documentShare
 
-▸ **documentShare**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **documentShare**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/document_share.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/document_share.ts#L17)
+[src/service/document_share.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/document_share.ts#L20)

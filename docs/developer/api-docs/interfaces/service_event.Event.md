@@ -1,5 +1,4 @@
-# Event: 
- 
+# Event: service/event
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/event](../modules/service_event.md) / Event
 
 [service/event](../modules/service_event.md).Event
@@ -23,7 +22,7 @@
 
 #### Defined in
 
-[src/service/event.ts:9](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event.ts#L9)
+[src/service/event.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event.ts#L9)
 
 ___
 
@@ -33,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event.ts#L8)
+[src/service/event.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event.ts#L8)
 
 ___
 
@@ -43,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event.ts#L11)
+[src/service/event.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event.ts#L11)
 
 ___
 
@@ -53,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:10](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event.ts#L10)
+[src/service/event.ts:10](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event.ts#L10)
 
 ___
 
@@ -63,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:7](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event.ts#L7)
+[src/service/event.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event.ts#L7)
 
 ___
 
@@ -73,4 +72,4 @@ ___
 
 #### Defined in
 
-[src/service/event.ts:6](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event.ts#L6)
+[src/service/event.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event.ts#L6)

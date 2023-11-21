@@ -1,5 +1,4 @@
 # service/domain/organization/user\_disable
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_disable
 
 ## Table of contents
@@ -17,7 +16,7 @@
 
 ### disableUser
 
-▸ **disableUser**(`ctx`, `issuer`, `issuerOrganization`, `data`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **disableUser**(`ctx`, `issuer`, `issuerOrganization`, `data`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -31,17 +30,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Defined in
 
-[src/service/domain/organization/user_disable.ts:39](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_disable.ts#L39)
+[src/service/domain/organization/user_disable.ts:39](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_disable.ts#L39)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_organization_user_disable.RequestData.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_organization_user_disable.RequestData.md)\>
 
 #### Parameters
 
@@ -51,8 +50,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_organization_user_disable.RequestData.md)\>
+[`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_organization_user_disable.RequestData.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/user_disable.ts:28](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_disable.ts#L28)
+[src/service/domain/organization/user_disable.ts:28](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_disable.ts#L28)

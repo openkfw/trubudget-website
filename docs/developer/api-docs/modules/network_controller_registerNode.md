@@ -1,5 +1,4 @@
 # network/controller/registerNode
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/registerNode
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### registerNode
 
-▸ **registerNode**(`multichain`, `req`): `Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **registerNode**(`multichain`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
@@ -23,8 +22,8 @@
 
 #### Returns
 
-`Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Defined in
 
-[src/network/controller/registerNode.ts:9](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/controller/registerNode.ts#L9)
+[src/network/controller/registerNode.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/registerNode.ts#L9)

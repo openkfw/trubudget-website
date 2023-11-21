@@ -1,5 +1,4 @@
 # network/voteHelper
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/voteHelper
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### voteHelper
 
-▸ **voteHelper**(`conn`, `ctx`, `issuer`, `user`, `targetAddress`, `vote`): `Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **voteHelper**(`conn`, `ctx`, `issuer`, `user`, `targetAddress`, `vote`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-`Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Defined in
 
-[src/network/voteHelper.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/voteHelper.ts#L13)
+[src/network/voteHelper.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/voteHelper.ts#L13)

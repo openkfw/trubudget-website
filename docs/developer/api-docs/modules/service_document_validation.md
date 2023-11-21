@@ -1,5 +1,4 @@
 # service/document\_validation
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/document\_validation
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### isSameDocument
 
-▸ **isSameDocument**(`documentBase64`, `expectedSHA256`, `documentId`, `conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`): `Promise`<[`Type`](result.md#type)<`boolean`\>\>
+▸ **isSameDocument**(`documentBase64`, `expectedSHA256`, `documentId`, `conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`): `Promise`\<[`Type`](result.md#type)\<`boolean`\>\>
 
 Returns true if the given hash matches the given document.
 
@@ -32,8 +31,8 @@ Returns true if the given hash matches the given document.
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`boolean`\>\>
+`Promise`\<[`Type`](result.md#type)\<`boolean`\>\>
 
 #### Defined in
 
-[src/service/document_validation.ts:22](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/document_validation.ts#L22)
+[src/service/document_validation.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/document_validation.ts#L25)

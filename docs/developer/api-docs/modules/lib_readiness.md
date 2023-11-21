@@ -1,5 +1,4 @@
 # lib/readiness
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/readiness
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### isReady
 
-▸ **isReady**(`multichain`): `Promise`<`boolean`\>
+▸ **isReady**(`multichain`): `Promise`\<`boolean`\>
 
 #### Parameters
 
@@ -22,8 +21,8 @@
 
 #### Returns
 
-`Promise`<`boolean`\>
+`Promise`\<`boolean`\>
 
 #### Defined in
 
-[src/lib/readiness.ts:4](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/readiness.ts#L4)
+[src/lib/readiness.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/readiness.ts#L4)

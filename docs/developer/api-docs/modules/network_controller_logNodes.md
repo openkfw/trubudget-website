@@ -1,5 +1,4 @@
 # network/controller/logNodes
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/logNodes
 
 ## Table of contents
@@ -13,7 +12,7 @@
 
 ### checkNodes
 
-▸ **checkNodes**(`multichain`): `Promise`<`any`\>
+▸ **checkNodes**(`multichain`): `Promise`\<`any`\>
 
 #### Parameters
 
@@ -23,17 +22,17 @@
 
 #### Returns
 
-`Promise`<`any`\>
+`Promise`\<`any`\>
 
 #### Defined in
 
-[src/network/controller/logNodes.ts:24](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/controller/logNodes.ts#L24)
+[src/network/controller/logNodes.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/logNodes.ts#L24)
 
 ___
 
 ### getLatestDateOnlineByAddress
 
-▸ **getLatestDateOnlineByAddress**(`multichainClient`, `address`): `Promise`<`any`\>
+▸ **getLatestDateOnlineByAddress**(`multichainClient`, `address`): `Promise`\<`any`\>
 
 #### Parameters
 
@@ -44,8 +43,8 @@ ___
 
 #### Returns
 
-`Promise`<`any`\>
+`Promise`\<`any`\>
 
 #### Defined in
 
-[src/network/controller/logNodes.ts:9](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/controller/logNodes.ts#L9)
+[src/network/controller/logNodes.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/logNodes.ts#L9)

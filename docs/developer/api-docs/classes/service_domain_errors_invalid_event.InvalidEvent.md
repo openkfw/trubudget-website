@@ -1,8 +1,7 @@
 # InvalidEvent
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/invalid\_event](../modules/service_domain_errors_invalid_event.md) / InvalidEvent
 
-[service/domain/errors/invalid_event](../modules/service_domain_errors_invalid_event.md).InvalidEvent
+[service/domain/errors/invalid\_event](../modules/service_domain_errors_invalid_event.md).InvalidEvent
 
 ## Hierarchy
 
@@ -51,7 +50,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:5](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/invalid_event.ts#L5)
+[src/service/domain/errors/invalid_event.ts:5](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/invalid_event.ts#L5)
 
 ## Properties
 
@@ -61,7 +60,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:7](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/invalid_event.ts#L7)
+[src/service/domain/errors/invalid_event.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/invalid_event.ts#L7)
 
 ___
 
@@ -71,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:6](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/invalid_event.ts#L6)
+[src/service/domain/errors/invalid_event.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/invalid_event.ts#L6)
 
 ___
 
@@ -85,7 +84,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1055
+node_modules/typescript/lib/lib.es5.d.ts:1068
 
 ___
 
@@ -99,7 +98,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1054
+node_modules/typescript/lib/lib.es5.d.ts:1067
 
 ___
 
@@ -113,7 +112,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1056
+node_modules/typescript/lib/lib.es5.d.ts:1069
 
 ___
 
@@ -123,7 +122,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/invalid_event.ts#L8)
+[src/service/domain/errors/invalid_event.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/invalid_event.ts#L8)
 
 ___
 
@@ -137,10 +136,6 @@ ___
 
 Optional override for formatting stack traces
 
-**`See`**
-
-https://v8.dev/docs/stack-trace-api#customizing-stack-traces
-
 ##### Parameters
 
 | Name | Type |
@@ -151,6 +146,10 @@ https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 ##### Returns
 
 `any`
+
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 #### Inherited from
 

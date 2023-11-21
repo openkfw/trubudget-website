@@ -1,5 +1,4 @@
 # service/subproject\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_list
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### listSubprojects
 
-▸ **listSubprojects**(`conn`, `ctx`, `serviceUser`, `projectId`): `Promise`<[`Type`](result.md#type)<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)[]\>\>
+▸ **listSubprojects**(`conn`, `ctx`, `serviceUser`, `projectId`): `Promise`\<[`Type`](result.md#type)\<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)[]\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)[]\>\>
 
 #### Defined in
 
-[src/service/subproject_list.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/subproject_list.ts#L12)
+[src/service/subproject_list.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_list.ts#L12)

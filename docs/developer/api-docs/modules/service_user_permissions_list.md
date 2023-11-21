@@ -1,5 +1,4 @@
 # service/user\_permissions\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_permissions\_list
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getUserPermissions
 
-▸ **getUserPermissions**(`conn`, `ctx`, `serviceUser`, `userId`): `Promise`<[`Type`](result.md#type)<[`Permissions`](service_domain_permissions.md#permissions)\>\>
+▸ **getUserPermissions**(`conn`, `ctx`, `serviceUser`, `userId`): `Promise`\<[`Type`](result.md#type)\<[`Permissions`](service_domain_permissions.md#permissions)\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Permissions`](service_domain_permissions.md#permissions)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Permissions`](service_domain_permissions.md#permissions)\>\>
 
 #### Defined in
 
-[src/service/user_permissions_list.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/user_permissions_list.ts#L12)
+[src/service/user_permissions_list.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/user_permissions_list.ts#L12)

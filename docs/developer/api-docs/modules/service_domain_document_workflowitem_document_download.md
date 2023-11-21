@@ -1,5 +1,4 @@
 # service/domain/document/workflowitem\_document\_download
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/workflowitem\_document\_download
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getDocument
 
-▸ **getDocument**(`ctx`, `user`, `workflowitemId`, `documentId`, `repository`): `Promise`<[`Type`](result.md#type)<`any`\>\>
+▸ **getDocument**(`ctx`, `user`, `workflowitemId`, `documentId`, `repository`): `Promise`\<[`Type`](result.md#type)\<`any`\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`any`\>\>
+`Promise`\<[`Type`](result.md#type)\<`any`\>\>
 
 #### Defined in
 
-[src/service/domain/document/workflowitem_document_download.ts:110](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/workflowitem_document_download.ts#L110)
+[src/service/domain/document/workflowitem_document_download.ts:110](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/workflowitem_document_download.ts#L110)

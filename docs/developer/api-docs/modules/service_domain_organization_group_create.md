@@ -1,5 +1,4 @@
 # service/domain/organization/group\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_create
 
 ## Table of contents
@@ -17,7 +16,7 @@
 
 ### createGroup
 
-▸ **createGroup**(`ctx`, `creatingUser`, `data`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **createGroup**(`ctx`, `creatingUser`, `data`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -30,17 +29,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:49](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_create.ts#L49)
+[src/service/domain/organization/group_create.ts:49](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_create.ts#L49)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_organization_group_create.RequestData.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_organization_group_create.RequestData.md)\>
 
 #### Parameters
 
@@ -50,8 +49,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_organization_group_create.RequestData.md)\>
+[`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_organization_group_create.RequestData.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:38](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_create.ts#L38)
+[src/service/domain/organization/group_create.ts:38](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_create.ts#L38)

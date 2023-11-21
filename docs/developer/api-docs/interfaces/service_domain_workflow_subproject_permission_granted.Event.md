@@ -1,8 +1,7 @@
-# Event: 
- 
+# Event: service/domain/workflow/subproject_permission_granted
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/workflow/subproject\_permission\_granted](../modules/service_domain_workflow_subproject_permission_granted.md) / Event
 
-[service/domain/workflow/subproject_permission_granted](../modules/service_domain_workflow_subproject_permission_granted.md).Event
+[service/domain/workflow/subproject\_permission\_granted](../modules/service_domain_workflow_subproject_permission_granted.md).Event
 
 ## Table of contents
 
@@ -26,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:21](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_granted.ts#L21)
+[src/service/domain/workflow/subproject_permission_granted.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_granted.ts#L21)
 
 ___
 
@@ -36,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:22](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_granted.ts#L22)
+[src/service/domain/workflow/subproject_permission_granted.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_granted.ts#L22)
 
 ___
 
@@ -46,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:20](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_granted.ts#L20)
+[src/service/domain/workflow/subproject_permission_granted.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_granted.ts#L20)
 
 ___
 
@@ -56,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_granted.ts#L18)
+[src/service/domain/workflow/subproject_permission_granted.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_granted.ts#L18)
 
 ___
 
@@ -66,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_granted.ts#L17)
+[src/service/domain/workflow/subproject_permission_granted.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_granted.ts#L17)
 
 ___
 
@@ -76,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_granted.ts#L15)
+[src/service/domain/workflow/subproject_permission_granted.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_granted.ts#L15)
 
 ___
 
@@ -86,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:19](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_granted.ts#L19)
+[src/service/domain/workflow/subproject_permission_granted.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_granted.ts#L19)
 
 ___
 
@@ -96,7 +95,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_granted.ts#L16)
+[src/service/domain/workflow/subproject_permission_granted.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_granted.ts#L16)
 
 ___
 
@@ -106,4 +105,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_granted.ts#L14)
+[src/service/domain/workflow/subproject_permission_granted.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_granted.ts#L14)

@@ -1,5 +1,4 @@
 # service/domain/document/storage\_service\_url\_update
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/storage\_service\_url\_update
 
 ## Table of contents
@@ -17,7 +16,7 @@
 
 ### storageServiceUrlPublish
 
-▸ **storageServiceUrlPublish**(`ctx`, `issuer`, `requestData`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
+▸ **storageServiceUrlPublish**(`ctx`, `issuer`, `requestData`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
 
 #### Parameters
 
@@ -29,17 +28,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_update.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/storage_service_url_update.ts#L25)
+[src/service/domain/document/storage_service_url_update.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/storage_service_url_update.ts#L25)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_document_storage_service_url_update.RequestData.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_document_storage_service_url_update.RequestData.md)\>
 
 #### Parameters
 
@@ -49,8 +48,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_document_storage_service_url_update.RequestData.md)\>
+[`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_document_storage_service_url_update.RequestData.md)\>
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_update.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/storage_service_url_update.ts#L15)
+[src/service/domain/document/storage_service_url_update.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/storage_service_url_update.ts#L15)

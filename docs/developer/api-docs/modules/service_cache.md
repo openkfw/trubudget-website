@@ -1,5 +1,4 @@
 # service/cache
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/cache
 
 ## Table of contents
@@ -24,12 +23,12 @@
 | :------ | :------ |
 | `isWriteLocked` | `boolean` |
 | `projectStreams?` | [`Stream`](../interfaces/service_Client_h.Stream.md)[] |
-| `projects` | `Map`<`string`, `Project`\> |
-| `streamState` | `Map`<`StreamName`, `StreamCursor`\> |
+| `projects` | `Map`\<`string`, `Project`\> |
+| `streamState` | `Map`\<`StreamName`, `StreamCursor`\> |
 
 #### Defined in
 
-[src/service/cache.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache.ts#L8)
+[src/service/cache.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache.ts#L8)
 
 ## Functions
 
@@ -43,4 +42,4 @@
 
 #### Defined in
 
-[src/service/cache.ts:19](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache.ts#L19)
+[src/service/cache.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache.ts#L19)

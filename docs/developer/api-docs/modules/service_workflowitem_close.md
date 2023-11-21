@@ -1,5 +1,4 @@
 # service/workflowitem\_close
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_close
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### closeWorkflowitem
 
-▸ **closeWorkflowitem**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`, `rejectReason?`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **closeWorkflowitem**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`, `rejectReason?`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -28,8 +27,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/workflowitem_close.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/workflowitem_close.ts#L17)
+[src/service/workflowitem_close.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_close.ts#L19)

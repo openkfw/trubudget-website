@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_update
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_update
 
 ## Table of contents
@@ -28,23 +27,23 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_update.ts:40](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_update.ts#L40)
+[src/service/domain/workflow/workflowitem_update.ts:40](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_update.ts#L40)
 
 ## Variables
 
 ### requestDataSchema
 
-• `Const` **requestDataSchema**: `ObjectSchema`<`any`\> = `WorkflowitemUpdated.modificationSchema`
+• `Const` **requestDataSchema**: `ObjectSchema`\<`any`\> = `WorkflowitemUpdated.modificationSchema`
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_update.ts:41](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_update.ts#L41)
+[src/service/domain/workflow/workflowitem_update.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_update.ts#L41)
 
 ## Functions
 
 ### updateWorkflowitem
 
-▸ **updateWorkflowitem**(`ctx`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `modification`, `repository`): `Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
+▸ **updateWorkflowitem**(`ctx`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `modification`, `repository`): `Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
 
 #### Parameters
 
@@ -60,8 +59,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
+`Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_update.ts:73](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_update.ts#L73)
+[src/service/domain/workflow/workflowitem_update.ts:73](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_update.ts#L73)

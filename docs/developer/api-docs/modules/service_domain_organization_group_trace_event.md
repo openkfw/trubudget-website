@@ -1,5 +1,4 @@
 # service/domain/organization/group\_trace\_event
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_trace\_event
 
 ## Table of contents
@@ -16,8 +15,8 @@
 
 ### groupTraceEventSchema
 
-• `Const` **groupTraceEventSchema**: `ObjectSchema`<`any`\>
+• `Const` **groupTraceEventSchema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/group_trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_trace_event.ts#L14)
+[src/service/domain/organization/group_trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_trace_event.ts#L14)

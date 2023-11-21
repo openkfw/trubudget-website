@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_permissions\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_permissions\_list
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getSubprojectPermissions
 
-▸ **getSubprojectPermissions**(`ctx`, `user`, `projectId`, `subprojectId`, `repository`): `Promise`<[`Type`](result.md#type)<[`Permissions`](service_domain_permissions.md#permissions)\>\>
+▸ **getSubprojectPermissions**(`ctx`, `user`, `projectId`, `subprojectId`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`Permissions`](service_domain_permissions.md#permissions)\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Permissions`](service_domain_permissions.md#permissions)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Permissions`](service_domain_permissions.md#permissions)\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permissions_list.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permissions_list.ts#L18)
+[src/service/domain/workflow/subproject_permissions_list.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permissions_list.ts#L18)

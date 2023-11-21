@@ -1,5 +1,4 @@
 # network/model/Nodes
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/model/Nodes
 
 ## Table of contents
@@ -34,7 +33,7 @@
 
 #### Defined in
 
-[src/network/model/Nodes.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L14)
+[src/network/model/Nodes.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L14)
 
 ___
 
@@ -44,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L13)
+[src/network/model/Nodes.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L13)
 
 ___
 
@@ -54,13 +53,13 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L12)
+[src/network/model/Nodes.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L12)
 
 ## Functions
 
 ### active
 
-▸ **active**(`multichain`): `Promise`<`number`\>
+▸ **active**(`multichain`): `Promise`\<`number`\>
 
 #### Parameters
 
@@ -70,17 +69,17 @@ ___
 
 #### Returns
 
-`Promise`<`number`\>
+`Promise`\<`number`\>
 
 #### Defined in
 
-[src/network/model/Nodes.ts:235](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L235)
+[src/network/model/Nodes.ts:235](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L235)
 
 ___
 
 ### get
 
-▸ **get**(`multichain`): `Promise`<[`NodeInfo`](../interfaces/network_model_Nodes.NodeInfo.md)[]\>
+▸ **get**(`multichain`): `Promise`\<[`NodeInfo`](../interfaces/network_model_Nodes.NodeInfo.md)[]\>
 
 Gets a list with all registered nodes
 
@@ -92,17 +91,17 @@ Gets a list with all registered nodes
 
 #### Returns
 
-`Promise`<[`NodeInfo`](../interfaces/network_model_Nodes.NodeInfo.md)[]\>
+`Promise`\<[`NodeInfo`](../interfaces/network_model_Nodes.NodeInfo.md)[]\>
 
 #### Defined in
 
-[src/network/model/Nodes.ts:141](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L141)
+[src/network/model/Nodes.ts:141](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L141)
 
 ___
 
 ### getNetworkPermissions
 
-▸ **getNetworkPermissions**(`multichain`, `address`, `organizationsByAddress?`): `Promise`<[`PermissionInfo`](../interfaces/network_model_Nodes.PermissionInfo.md)[]\>
+▸ **getNetworkPermissions**(`multichain`, `address`, `organizationsByAddress?`): `Promise`\<[`PermissionInfo`](../interfaces/network_model_Nodes.PermissionInfo.md)[]\>
 
 #### Parameters
 
@@ -110,21 +109,21 @@ ___
 | :------ | :------ |
 | `multichain` | [`MultichainClient`](../interfaces/service_Client_h.MultichainClient.md) |
 | `address` | `string` |
-| `organizationsByAddress?` | `Map`<`string`, `string`\> |
+| `organizationsByAddress?` | `Map`\<`string`, `string`\> |
 
 #### Returns
 
-`Promise`<[`PermissionInfo`](../interfaces/network_model_Nodes.PermissionInfo.md)[]\>
+`Promise`\<[`PermissionInfo`](../interfaces/network_model_Nodes.PermissionInfo.md)[]\>
 
 #### Defined in
 
-[src/network/model/Nodes.ts:306](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L306)
+[src/network/model/Nodes.ts:306](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L306)
 
 ___
 
 ### getNode
 
-▸ **getNode**(`multichain`, `address`, `organization?`): `Promise`<[`NodeInfo`](../interfaces/network_model_Nodes.NodeInfo.md) \| `undefined`\>
+▸ **getNode**(`multichain`, `address`, `organization?`): `Promise`\<[`NodeInfo`](../interfaces/network_model_Nodes.NodeInfo.md) \| `undefined`\>
 
 Gets a node registered on the multichain
 
@@ -138,17 +137,17 @@ Gets a node registered on the multichain
 
 #### Returns
 
-`Promise`<[`NodeInfo`](../interfaces/network_model_Nodes.NodeInfo.md) \| `undefined`\>
+`Promise`\<[`NodeInfo`](../interfaces/network_model_Nodes.NodeInfo.md) \| `undefined`\>
 
 #### Defined in
 
-[src/network/model/Nodes.ts:219](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L219)
+[src/network/model/Nodes.ts:219](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L219)
 
 ___
 
 ### grant
 
-▸ **grant**(`multichain`, `issuer`, `target`, `permissions`): `Promise`<`void`\>
+▸ **grant**(`multichain`, `issuer`, `target`, `permissions`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -161,17 +160,17 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/network/model/Nodes.ts:44](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L44)
+[src/network/model/Nodes.ts:44](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L44)
 
 ___
 
 ### publish
 
-▸ **publish**(`multichain`, `address`, `args`): `Promise`<[`Event`](../interfaces/service_event.Event.md)\>
+▸ **publish**(`multichain`, `address`, `args`): `Promise`\<[`Event`](../interfaces/service_event.Event.md)\>
 
 #### Parameters
 
@@ -188,17 +187,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Event`](../interfaces/service_event.Event.md)\>
+`Promise`\<[`Event`](../interfaces/service_event.Event.md)\>
 
 #### Defined in
 
-[src/network/model/Nodes.ts:62](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L62)
+[src/network/model/Nodes.ts:62](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L62)
 
 ___
 
 ### revoke
 
-▸ **revoke**(`multichain`, `issuer`, `target`, `permissions`): `Promise`<`void`\>
+▸ **revoke**(`multichain`, `issuer`, `target`, `permissions`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -211,8 +210,8 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/network/model/Nodes.ts:53](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L53)
+[src/network/model/Nodes.ts:53](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L53)

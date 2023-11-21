@@ -1,5 +1,4 @@
 # SwaggerSchema
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [httpd/schema](../modules/httpd_schema.md) / SwaggerSchema
 
 [httpd/schema](../modules/httpd_schema.md).SwaggerSchema
@@ -56,7 +55,7 @@ FastifySchema.consumes
 
 #### Defined in
 
-[src/httpd/schema.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/schema.ts#L8)
+[src/httpd/schema.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/schema.ts#L8)
 
 ___
 
@@ -84,7 +83,7 @@ FastifySchema.description
 
 #### Defined in
 
-[src/httpd/schema.ts:4](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/schema.ts#L4)
+[src/httpd/schema.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/schema.ts#L4)
 
 ___
 
@@ -162,7 +161,7 @@ ___
 
 ### produces
 
-• `Optional` **produces**: `string`[]
+• `Optional` **produces**: readonly `string`[]
 
 #### Inherited from
 
@@ -204,7 +203,7 @@ ___
 
 ### security
 
-• `Optional` **security**: { `[securityLabel: string]`: `string`[];  }[]
+• `Optional` **security**: \{ `[securityLabel: string]`: `string`[];  }[]
 
 #### Overrides
 
@@ -212,7 +211,7 @@ FastifySchema.security
 
 #### Defined in
 
-[src/httpd/schema.ts:7](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/schema.ts#L7)
+[src/httpd/schema.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/schema.ts#L7)
 
 ___
 
@@ -226,7 +225,7 @@ FastifySchema.summary
 
 #### Defined in
 
-[src/httpd/schema.ts:6](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/schema.ts#L6)
+[src/httpd/schema.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/schema.ts#L6)
 
 ___
 
@@ -240,4 +239,4 @@ FastifySchema.tags
 
 #### Defined in
 
-[src/httpd/schema.ts:5](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/schema.ts#L5)
+[src/httpd/schema.ts:5](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/schema.ts#L5)

@@ -1,8 +1,7 @@
 # EventParsingError
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/event\_parsing\_error](../modules/service_event_parsing_error.md) / EventParsingError
 
-[service/event_parsing_error](../modules/service_event_parsing_error.md).EventParsingError
+[service/event\_parsing\_error](../modules/service_event_parsing_error.md).EventParsingError
 
 ## Hierarchy
 
@@ -49,7 +48,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event_parsing_error.ts#L4)
 
 ## Properties
 
@@ -59,7 +58,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event_parsing_error.ts#L4)
 
 ___
 
@@ -69,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event_parsing_error.ts#L4)
 
 ___
 
@@ -83,7 +82,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1055
+node_modules/typescript/lib/lib.es5.d.ts:1068
 
 ___
 
@@ -97,7 +96,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1054
+node_modules/typescript/lib/lib.es5.d.ts:1067
 
 ___
 
@@ -111,7 +110,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1056
+node_modules/typescript/lib/lib.es5.d.ts:1069
 
 ___
 
@@ -125,10 +124,6 @@ ___
 
 Optional override for formatting stack traces
 
-**`See`**
-
-https://v8.dev/docs/stack-trace-api#customizing-stack-traces
-
 ##### Parameters
 
 | Name | Type |
@@ -139,6 +134,10 @@ https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 ##### Returns
 
 `any`
+
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 #### Inherited from
 

@@ -1,5 +1,4 @@
 # project\_permission\_grant
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / project\_permission\_grant
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/project.in
 
 #### Defined in
 
-[src/project_permission_grant.ts:128](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/project_permission_grant.ts#L128)
+[src/project_permission_grant.ts:128](https://github.com/openkfw/TruBudget/blob/92640998/api/src/project_permission_grant.ts#L128)

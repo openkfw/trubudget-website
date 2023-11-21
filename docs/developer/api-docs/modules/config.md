@@ -1,5 +1,4 @@
 # config
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / config
 
 ## Table of contents
@@ -21,7 +20,7 @@
 
 #### Defined in
 
-[src/config.ts:86](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/config.ts#L86)
+[src/config.ts:88](https://github.com/openkfw/TruBudget/blob/92640998/api/src/config.ts#L88)
 
 ## Functions
 
@@ -31,17 +30,17 @@
 
 Gets the configuration used to start the API
 
-**`Not Exported`**
-
 #### Returns
 
 `Config`
 
 the configuration Config
 
+**`Not Exported`**
+
 #### Defined in
 
-[src/config.ts:181](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/config.ts#L181)
+[src/config.ts:184](https://github.com/openkfw/TruBudget/blob/92640998/api/src/config.ts#L184)
 
 ___
 
@@ -59,4 +58,4 @@ true if the current environment is a production environment. otherwise false
 
 #### Defined in
 
-[src/config.ts:207](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/config.ts#L207)
+[src/config.ts:210](https://github.com/openkfw/TruBudget/blob/92640998/api/src/config.ts#L210)

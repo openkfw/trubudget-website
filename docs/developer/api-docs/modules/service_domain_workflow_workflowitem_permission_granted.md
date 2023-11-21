@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_permission\_granted
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_permission\_granted
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:27](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L27)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:27](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L27)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `permission`, `grantee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `permission`, `grantee`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
 
 #### Parameters
 
@@ -50,17 +49,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:40](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L40)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:40](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L40)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`workflowitem`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`workflowitem`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given workflowitem, or returns an error.
 
@@ -80,17 +79,17 @@ workflowitem is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:86](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L86)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:86](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L86)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
 
 #### Parameters
 
@@ -100,8 +99,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitem_permission_granted.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:71](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L71)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:71](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L71)

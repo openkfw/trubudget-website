@@ -1,5 +1,4 @@
 # service/domain/organization/auth\_token
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/auth\_token
 
 ## Table of contents
@@ -35,13 +34,13 @@
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:23](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/auth_token.ts#L23)
+[src/service/domain/organization/auth_token.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/auth_token.ts#L23)
 
 ___
 
 ### fromUserRecord
 
-▸ **fromUserRecord**(`user`, `repository`, `metadata?`): `Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+▸ **fromUserRecord**(`user`, `repository`, `metadata?`): `Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Parameters
 
@@ -53,11 +52,11 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:38](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/auth_token.ts#L38)
+[src/service/domain/organization/auth_token.ts:38](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/auth_token.ts#L38)
 
 ___
 
@@ -79,4 +78,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:84](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/auth_token.ts#L84)
+[src/service/domain/organization/auth_token.ts:84](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/auth_token.ts#L84)

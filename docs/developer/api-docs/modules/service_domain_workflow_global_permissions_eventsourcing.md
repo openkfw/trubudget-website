@@ -1,5 +1,4 @@
 # service/domain/workflow/global\_permissions\_eventsourcing
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/global\_permissions\_eventsourcing
 
 ## Table of contents
@@ -32,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/global_permissions_eventsourcing.ts#L11)
+[src/service/domain/workflow/global_permissions_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permissions_eventsourcing.ts#L11)

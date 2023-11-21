@@ -1,5 +1,4 @@
 # default
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/RpcError](../modules/service_RpcError.md) / default
 
 [service/RpcError](../modules/service_RpcError.md).default
@@ -57,7 +56,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcError.ts#L12)
+[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L12)
 
 ## Properties
 
@@ -69,7 +68,7 @@ Body of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcError.ts#L16)
+[src/service/RpcError.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L16)
 
 ___
 
@@ -81,7 +80,7 @@ Headers of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcError.ts#L15)
+[src/service/RpcError.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L15)
 
 ___
 
@@ -95,7 +94,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1055
+node_modules/typescript/lib/lib.es5.d.ts:1068
 
 ___
 
@@ -109,7 +108,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1054
+node_modules/typescript/lib/lib.es5.d.ts:1067
 
 ___
 
@@ -123,7 +122,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1056
+node_modules/typescript/lib/lib.es5.d.ts:1069
 
 ___
 
@@ -135,7 +134,7 @@ Status code of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcError.ts#L13)
+[src/service/RpcError.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L13)
 
 ___
 
@@ -147,7 +146,7 @@ Status text of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcError.ts#L14)
+[src/service/RpcError.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L14)
 
 ___
 
@@ -161,10 +160,6 @@ ___
 
 Optional override for formatting stack traces
 
-**`See`**
-
-https://v8.dev/docs/stack-trace-api#customizing-stack-traces
-
 ##### Parameters
 
 | Name | Type |
@@ -175,6 +170,10 @@ https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 ##### Returns
 
 `any`
+
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 #### Inherited from
 

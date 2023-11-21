@@ -1,5 +1,4 @@
 # httpd/server
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / httpd/server
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### createBasicApp
 
-▸ **createBasicApp**(`jwtSecret`, `urlPrefix`, `apiPort`, `accessControlAllowOrigin`, `rateLimit`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **createBasicApp**(`jwtSecret`, `urlPrefix`, `apiPort`, `accessControlAllowOrigin`, `rateLimit`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Defined in
 
-[src/httpd/server.ts:136](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/server.ts#L136)
+[src/httpd/server.ts:136](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/server.ts#L136)

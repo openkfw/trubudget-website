@@ -1,8 +1,7 @@
-# RequestData: 
- 
+# RequestData: service/domain/workflow/user_assignments_get
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/workflow/user\_assignments\_get](../modules/service_domain_workflow_user_assignments_get.md) / RequestData
 
-[service/domain/workflow/user_assignments_get](../modules/service_domain_workflow_user_assignments_get.md).RequestData
+[service/domain/workflow/user\_assignments\_get](../modules/service_domain_workflow_user_assignments_get.md).RequestData
 
 ## Table of contents
 
@@ -18,4 +17,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/user_assignments_get.ts#L16)
+[src/service/domain/workflow/user_assignments_get.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments_get.ts#L16)

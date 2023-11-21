@@ -1,5 +1,4 @@
 # service/domain/workflow/global\_permission\_grant
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/global\_permission\_grant
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### grantGlobalPermission
 
-▸ **grantGlobalPermission**(`ctx`, `issuer`, `issuerOrganization`, `grantee`, `intent`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **grantGlobalPermission**(`ctx`, `issuer`, `issuerOrganization`, `grantee`, `intent`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_grant.ts:21](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/global_permission_grant.ts#L21)
+[src/service/domain/workflow/global_permission_grant.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permission_grant.ts#L21)

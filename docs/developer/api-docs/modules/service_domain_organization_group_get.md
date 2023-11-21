@@ -1,5 +1,4 @@
 # service/domain/organization/group\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_get
 
 ## Table of contents
@@ -13,7 +12,7 @@
 
 ### getAllGroups
 
-▸ **getAllGroups**(`ctx`, `_user`, `repository`): `Promise`<[`Group`](../interfaces/service_domain_organization_group.Group.md)[]\>
+▸ **getAllGroups**(`ctx`, `_user`, `repository`): `Promise`\<[`Group`](../interfaces/service_domain_organization_group.Group.md)[]\>
 
 #### Parameters
 
@@ -25,17 +24,17 @@
 
 #### Returns
 
-`Promise`<[`Group`](../interfaces/service_domain_organization_group.Group.md)[]\>
+`Promise`\<[`Group`](../interfaces/service_domain_organization_group.Group.md)[]\>
 
 #### Defined in
 
-[src/service/domain/organization/group_get.ts:36](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_get.ts#L36)
+[src/service/domain/organization/group_get.ts:36](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_get.ts#L36)
 
 ___
 
 ### getOneGroup
 
-▸ **getOneGroup**(`ctx`, `_user`, `groupId`, `repository`): `Promise`<[`Type`](result.md#type)<[`Group`](../interfaces/service_domain_organization_group.Group.md)\>\>
+▸ **getOneGroup**(`ctx`, `_user`, `groupId`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`Group`](../interfaces/service_domain_organization_group.Group.md)\>\>
 
 #### Parameters
 
@@ -48,8 +47,8 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Group`](../interfaces/service_domain_organization_group.Group.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Group`](../interfaces/service_domain_organization_group.Group.md)\>\>
 
 #### Defined in
 
-[src/service/domain/organization/group_get.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_get.ts#L14)
+[src/service/domain/organization/group_get.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_get.ts#L14)

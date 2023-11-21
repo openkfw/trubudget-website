@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitems\_reordered
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitems\_reordered
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:24](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitems_reordered.ts#L24)
+[src/service/domain/workflow/workflowitems_reordered.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitems_reordered.ts#L24)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `ordering`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `ordering`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
 
 #### Parameters
 
@@ -48,17 +47,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:35](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitems_reordered.ts#L35)
+[src/service/domain/workflow/workflowitems_reordered.ts:35](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitems_reordered.ts#L35)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`subproject`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`subproject`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given subproject, or returns an error.
 
@@ -78,17 +77,17 @@ subproject is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:77](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitems_reordered.ts#L77)
+[src/service/domain/workflow/workflowitems_reordered.ts:77](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitems_reordered.ts#L77)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
 
 #### Parameters
 
@@ -98,8 +97,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitems_reordered.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:62](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitems_reordered.ts#L62)
+[src/service/domain/workflow/workflowitems_reordered.ts:62](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitems_reordered.ts#L62)

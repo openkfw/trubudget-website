@@ -1,5 +1,4 @@
 # service/domain/document/document\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/document\_get
 
 ## Table of contents
@@ -14,7 +13,7 @@
 
 ### getAllDocumentInfos
 
-▸ **getAllDocumentInfos**(`ctx`, `repository`): `Promise`<[`Type`](result.md#type)<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)[]\>\>
+▸ **getAllDocumentInfos**(`ctx`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)[]\>\>
 
 #### Parameters
 
@@ -25,17 +24,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)[]\>\>
 
 #### Defined in
 
-[src/service/domain/document/document_get.ts:22](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_get.ts#L22)
+[src/service/domain/document/document_get.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_get.ts#L22)
 
 ___
 
 ### getAllDocumentReferences
 
-▸ **getAllDocumentReferences**(`repository`): `Promise`<[`Type`](result.md#type)<[`DocumentReference`](../interfaces/service_domain_document_document.DocumentReference.md)[]\>\>
+▸ **getAllDocumentReferences**(`repository`): `Promise`\<[`Type`](result.md#type)\<[`DocumentReference`](../interfaces/service_domain_document_document.DocumentReference.md)[]\>\>
 
 #### Parameters
 
@@ -45,17 +44,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`DocumentReference`](../interfaces/service_domain_document_document.DocumentReference.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`DocumentReference`](../interfaces/service_domain_document_document.DocumentReference.md)[]\>\>
 
 #### Defined in
 
-[src/service/domain/document/document_get.ts:53](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_get.ts#L53)
+[src/service/domain/document/document_get.ts:53](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_get.ts#L53)
 
 ___
 
 ### getDocumentInfo
 
-▸ **getDocumentInfo**(`ctx`, `docId`, `repository`): `Promise`<[`Type`](result.md#type)<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md) \| `undefined`\>\>
+▸ **getDocumentInfo**(`ctx`, `docId`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md) \| `undefined`\>\>
 
 #### Parameters
 
@@ -67,8 +66,8 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md) \| `undefined`\>\>
+`Promise`\<[`Type`](result.md#type)\<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md) \| `undefined`\>\>
 
 #### Defined in
 
-[src/service/domain/document/document_get.ts:37](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_get.ts#L37)
+[src/service/domain/document/document_get.ts:37](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_get.ts#L37)

@@ -1,5 +1,4 @@
 # service/domain/organization/user\_created
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_created
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:48](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L48)
+[src/service/domain/organization/user_created.ts:48](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L48)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `user`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_created.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `user`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_created.Event.md)\>
 
 #### Parameters
 
@@ -46,17 +45,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_created.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_created.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:57](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L57)
+[src/service/domain/organization/user_created.ts:57](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L57)
 
 ___
 
 ### createFrom
 
-▸ **createFrom**(`ctx`, `event`): [`Type`](result.md#type)<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>
+▸ **createFrom**(`ctx`, `event`): [`Type`](result.md#type)\<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>
 
 #### Parameters
 
@@ -67,17 +66,17 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>
+[`Type`](result.md#type)\<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:86](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L86)
+[src/service/domain/organization/user_created.ts:86](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L86)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_created.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_created.Event.md)\>
 
 #### Parameters
 
@@ -87,8 +86,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_created.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_created.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:81](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L81)
+[src/service/domain/organization/user_created.ts:81](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L81)

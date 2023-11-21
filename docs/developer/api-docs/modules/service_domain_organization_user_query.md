@@ -1,5 +1,4 @@
 # service/domain/organization/user\_query
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_query
 
 ## Table of contents
@@ -14,7 +13,7 @@
 
 ### getUser
 
-▸ **getUser**(`conn`, `ctx`, `serviceUser`, `userId`): `Promise`<[`Type`](result.md#type)<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>\>
+▸ **getUser**(`conn`, `ctx`, `serviceUser`, `userId`): `Promise`\<[`Type`](result.md#type)\<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>\>
 
 #### Parameters
 
@@ -27,17 +26,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>\>
 
 #### Defined in
 
-[src/service/domain/organization/user_query.ts:29](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_query.ts#L29)
+[src/service/domain/organization/user_query.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_query.ts#L29)
 
 ___
 
 ### getUsers
 
-▸ **getUsers**(`conn`, `ctx`, `serviceUser`): `Promise`<[`Type`](result.md#type)<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)[]\>\>
+▸ **getUsers**(`conn`, `ctx`, `serviceUser`): `Promise`\<[`Type`](result.md#type)\<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)[]\>\>
 
 #### Parameters
 
@@ -49,17 +48,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)[]\>\>
 
 #### Defined in
 
-[src/service/domain/organization/user_query.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_query.ts#L12)
+[src/service/domain/organization/user_query.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_query.ts#L12)
 
 ___
 
 ### userExists
 
-▸ **userExists**(`conn`, `ctx`, `serviceUser`, `userId`): `Promise`<[`Type`](result.md#type)<`boolean`\>\>
+▸ **userExists**(`conn`, `ctx`, `serviceUser`, `userId`): `Promise`\<[`Type`](result.md#type)\<`boolean`\>\>
 
 #### Parameters
 
@@ -72,8 +71,8 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`boolean`\>\>
+`Promise`\<[`Type`](result.md#type)\<`boolean`\>\>
 
 #### Defined in
 
-[src/service/domain/organization/user_query.ts:49](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_query.ts#L49)
+[src/service/domain/organization/user_query.ts:49](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_query.ts#L49)

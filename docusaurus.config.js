@@ -1,6 +1,9 @@
-/** @type {import('@docusaurus/types').DocusaurusConfig} */
+// @ts-check
+
 require("dotenv").config();
-module.exports = {
+
+/** @type {import('@docusaurus/types').Config} */
+const config = {
   title: "TruBudget",
   tagline: "TruBudget - a trusted public expenditure tool",
   url: "https://trubudget.net/",
@@ -10,7 +13,26 @@ module.exports = {
   onBrokenMarkdownLinks: "ignore",
   organizationName: "openkfw",
   projectName: "trubudget-website",
-  plugins: [require.resolve("docusaurus-lunr-search")],
+  plugins: ["docusaurus-lunr-search"],
+  presets: [
+    [
+      "@docusaurus/preset-classic",
+      {
+        docs: {
+          sidebarPath: "./sidebars.js",
+          editUrl:
+            "https://github.com/facebook/docusaurus/edit/master/website/",
+          docRootComponent: "@theme/DocRoot",
+          docItemComponent: "@theme/DocItem",
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+        },
+        theme: {
+          customCss: "./src/css/custom.css",
+        },
+      },
+    ],
+  ],
   themeConfig: {
     navbar: {
       title: "TruBudget",
@@ -76,23 +98,6 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} TruBudget`,
     },
   },
-  presets: [
-    [
-      "@docusaurus/preset-classic",
-      {
-        docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
-          docLayoutComponent: "@theme/DocPage",
-          docItemComponent: "@theme/DocItem",
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
-        },
-        theme: {
-          customCss: [require.resolve("./src/css/custom.css")],
-        },
-      },
-    ],
-  ],
 };
+
+export default config;

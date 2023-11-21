@@ -1,5 +1,4 @@
 # httpd/router
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / httpd/router
 
 ## Table of contents
@@ -12,13 +11,13 @@
 
 ### registerRoutes
 
-▸ **registerRoutes**(`server`, `conn`, `urlPrefix`, `blockchainHost`, `blockchainPort`, `storageServiceClient`, `invalidateCache`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **registerRoutes**(`server`, `conn`, `urlPrefix`, `blockchainHost`, `blockchainPort`, `storageServiceClient`, `invalidateCache`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `server` | `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+| `server` | `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
 | `conn` | [`ConnToken`](service_conn.md#conntoken) |
 | `urlPrefix` | `string` |
 | `blockchainHost` | `string` |
@@ -28,8 +27,8 @@
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Defined in
 
-[src/httpd/router.ts:217](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/router.ts#L217)
+[src/httpd/router.ts:217](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/router.ts#L217)

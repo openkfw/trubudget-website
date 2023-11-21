@@ -1,5 +1,4 @@
 # Workflowitem
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/workflow/workflowitem](../modules/service_domain_workflow_workflowitem.md) / Workflowitem
 
 [service/domain/workflow/workflowitem](../modules/service_domain_workflow_workflowitem.md).Workflowitem
@@ -37,7 +36,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:41](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L41)
+[src/service/domain/workflow/workflowitem.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L41)
 
 ___
 
@@ -47,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:30](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L30)
+[src/service/domain/workflow/workflowitem.ts:30](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L30)
 
 ___
 
@@ -57,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:32](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L32)
+[src/service/domain/workflow/workflowitem.ts:32](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L32)
 
 ___
 
@@ -67,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:36](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L36)
+[src/service/domain/workflow/workflowitem.ts:36](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L36)
 
 ___
 
@@ -77,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:29](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L29)
+[src/service/domain/workflow/workflowitem.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L29)
 
 ___
 
@@ -87,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L25)
+[src/service/domain/workflow/workflowitem.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L25)
 
 ___
 
@@ -97,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L31)
+[src/service/domain/workflow/workflowitem.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L31)
 
 ___
 
@@ -107,7 +106,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:33](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L33)
+[src/service/domain/workflow/workflowitem.ts:33](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L33)
 
 ___
 
@@ -117,7 +116,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:27](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L27)
+[src/service/domain/workflow/workflowitem.ts:27](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L27)
 
 ___
 
@@ -127,7 +126,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:37](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L37)
+[src/service/domain/workflow/workflowitem.ts:37](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L37)
 
 ___
 
@@ -137,7 +136,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L26)
+[src/service/domain/workflow/workflowitem.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L26)
 
 ___
 
@@ -147,7 +146,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:28](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L28)
+[src/service/domain/workflow/workflowitem.ts:28](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L28)
 
 ___
 
@@ -157,7 +156,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:23](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L23)
+[src/service/domain/workflow/workflowitem.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L23)
 
 ___
 
@@ -167,7 +166,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:22](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L22)
+[src/service/domain/workflow/workflowitem.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L22)
 
 ___
 
@@ -177,7 +176,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:39](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L39)
+[src/service/domain/workflow/workflowitem.ts:39](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L39)
 
 ___
 
@@ -187,7 +186,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:38](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L38)
+[src/service/domain/workflow/workflowitem.ts:38](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L38)
 
 ___
 
@@ -197,7 +196,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:35](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L35)
+[src/service/domain/workflow/workflowitem.ts:35](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L35)
 
 ___
 
@@ -207,7 +206,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:34](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L34)
+[src/service/domain/workflow/workflowitem.ts:34](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L34)
 
 ___
 
@@ -217,7 +216,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:24](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L24)
+[src/service/domain/workflow/workflowitem.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L24)
 
 ___
 
@@ -227,4 +226,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:42](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L42)
+[src/service/domain/workflow/workflowitem.ts:42](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L42)

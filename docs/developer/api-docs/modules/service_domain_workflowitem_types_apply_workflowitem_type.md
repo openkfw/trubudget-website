@@ -1,5 +1,4 @@
 # service/domain/workflowitem\_types/apply\_workflowitem\_type
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflowitem\_types/apply\_workflowitem\_type
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### applyWorkflowitemType
 
-▸ **applyWorkflowitemType**(`originEvent`, `ctx`, `publisher`, `workflowitem`): [`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>
+▸ **applyWorkflowitemType**(`originEvent`, `ctx`, `publisher`, `workflowitem`): [`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>
+[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>
 
 #### Defined in
 
-[src/service/domain/workflowitem_types/apply_workflowitem_type.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflowitem_types/apply_workflowitem_type.ts#L8)
+[src/service/domain/workflowitem_types/apply_workflowitem_type.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflowitem_types/apply_workflowitem_type.ts#L8)

@@ -1,8 +1,7 @@
 # PreconditionError
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/precondition\_error](../modules/service_domain_errors_precondition_error.md) / PreconditionError
 
-[service/domain/errors/precondition_error](../modules/service_domain_errors_precondition_error.md).PreconditionError
+[service/domain/errors/precondition\_error](../modules/service_domain_errors_precondition_error.md).PreconditionError
 
 ## Hierarchy
 
@@ -50,7 +49,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/precondition_error.ts:5](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/precondition_error.ts#L5)
+[src/service/domain/errors/precondition_error.ts:5](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/precondition_error.ts#L5)
 
 ## Properties
 
@@ -60,7 +59,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/precondition_error.ts:7](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/precondition_error.ts#L7)
+[src/service/domain/errors/precondition_error.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/precondition_error.ts#L7)
 
 ___
 
@@ -70,7 +69,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/precondition_error.ts:6](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/precondition_error.ts#L6)
+[src/service/domain/errors/precondition_error.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/precondition_error.ts#L6)
 
 ___
 
@@ -84,7 +83,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1055
+node_modules/typescript/lib/lib.es5.d.ts:1068
 
 ___
 
@@ -98,7 +97,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1054
+node_modules/typescript/lib/lib.es5.d.ts:1067
 
 ___
 
@@ -112,7 +111,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1056
+node_modules/typescript/lib/lib.es5.d.ts:1069
 
 ___
 
@@ -126,10 +125,6 @@ ___
 
 Optional override for formatting stack traces
 
-**`See`**
-
-https://v8.dev/docs/stack-trace-api#customizing-stack-traces
-
 ##### Parameters
 
 | Name | Type |
@@ -140,6 +135,10 @@ https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 ##### Returns
 
 `any`
+
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 #### Inherited from
 

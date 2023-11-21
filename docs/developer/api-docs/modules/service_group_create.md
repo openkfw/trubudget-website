@@ -1,5 +1,4 @@
 # service/group\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/group\_create
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### createGroup
 
-▸ **createGroup**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`<[`Type`](result.md#type)<`Group`\>\>
+▸ **createGroup**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`\<[`Type`](result.md#type)\<`Group`\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`Group`\>\>
+`Promise`\<[`Type`](result.md#type)\<`Group`\>\>
 
 #### Defined in
 
-[src/service/group_create.ts:20](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/group_create.ts#L20)
+[src/service/group_create.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/group_create.ts#L20)

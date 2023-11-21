@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_updated
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_updated
 
 ## Table of contents
@@ -24,27 +23,27 @@
 
 ### modificationSchema
 
-• `Const` **modificationSchema**: `ObjectSchema`<`any`\>
+• `Const` **modificationSchema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_updated.ts#L26)
+[src/service/domain/workflow/project_updated.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_updated.ts#L26)
 
 ___
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:44](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_updated.ts#L44)
+[src/service/domain/workflow/project_updated.ts:44](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_updated.ts#L44)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `modification`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `modification`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
 
 #### Parameters
 
@@ -59,17 +58,17 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:54](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_updated.ts#L54)
+[src/service/domain/workflow/project_updated.ts:54](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_updated.ts#L54)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`project`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`project`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given project, or returns an error.
 
@@ -89,17 +88,17 @@ is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:95](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_updated.ts#L95)
+[src/service/domain/workflow/project_updated.ts:95](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_updated.ts#L95)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
 
 #### Parameters
 
@@ -109,8 +108,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_updated.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:80](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_updated.ts#L80)
+[src/service/domain/workflow/project_updated.ts:80](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_updated.ts#L80)

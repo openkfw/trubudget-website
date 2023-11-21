@@ -1,5 +1,4 @@
 # service/project\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_create
 
 ## Table of contents
@@ -22,7 +21,7 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 ### createProject
 
-▸ **createProject**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`<[`Type`](result.md#type)<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
+▸ **createProject**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`\<[`Type`](result.md#type)\<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
 
 #### Parameters
 
@@ -35,8 +34,8 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
 
 #### Defined in
 
-[src/service/project_create.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/project_create.ts#L15)
+[src/service/project_create.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_create.ts#L16)

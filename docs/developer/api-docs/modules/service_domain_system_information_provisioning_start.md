@@ -1,5 +1,4 @@
 # service/domain/system\_information/provisioning\_start
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/system\_information/provisioning\_start
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### setProvisioningStartFlag
 
-▸ **setProvisioningStartFlag**(`ctx`, `issuer`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
+▸ **setProvisioningStartFlag**(`ctx`, `issuer`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
 
 #### Parameters
 
@@ -23,8 +22,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_start.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/provisioning_start.ts#L12)
+[src/service/domain/system_information/provisioning_start.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_start.ts#L12)

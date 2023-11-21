@@ -1,8 +1,7 @@
 # StorageObject
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client\_storage\_service.h](../modules/service_Client_storage_service_h.md) / StorageObject
 
-[service/Client_storage_service.h](../modules/service_Client_storage_service_h.md).StorageObject
+[service/Client\_storage\_service.h](../modules/service_Client_storage_service_h.md).StorageObject
 
 ## Table of contents
 
@@ -20,7 +19,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.h.ts#L14)
+[src/service/Client_storage_service.h.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.h.ts#L14)
 
 ___
 
@@ -30,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.h.ts#L13)
+[src/service/Client_storage_service.h.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.h.ts#L13)
 
 ___
 
@@ -40,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.h.ts#L12)
+[src/service/Client_storage_service.h.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.h.ts#L12)

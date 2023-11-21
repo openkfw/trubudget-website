@@ -1,5 +1,4 @@
 # service/domain/workflow/user\_assignments\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/user\_assignments\_get
 
 ## Table of contents
@@ -18,7 +17,7 @@
 
 ### getUserAssignments
 
-▸ **getUserAssignments**(`ctx`, `userId`, `issuer`, `issuerOrganization`, `repository`): `Promise`<[`Type`](result.md#type)<[`UserAssignments`](../interfaces/service_domain_workflow_user_assignments.UserAssignments.md)\>\>
+▸ **getUserAssignments**(`ctx`, `userId`, `issuer`, `issuerOrganization`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`UserAssignments`](../interfaces/service_domain_workflow_user_assignments.UserAssignments.md)\>\>
 
 #### Parameters
 
@@ -32,11 +31,11 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`UserAssignments`](../interfaces/service_domain_workflow_user_assignments.UserAssignments.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`UserAssignments`](../interfaces/service_domain_workflow_user_assignments.UserAssignments.md)\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:41](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/user_assignments_get.ts#L41)
+[src/service/domain/workflow/user_assignments_get.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments_get.ts#L41)
 
 ___
 
@@ -56,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:187](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/user_assignments_get.ts#L187)
+[src/service/domain/workflow/user_assignments_get.ts:187](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments_get.ts#L187)
 
 ___
 
@@ -76,4 +75,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:148](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/user_assignments_get.ts#L148)
+[src/service/domain/workflow/user_assignments_get.ts:148](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments_get.ts#L148)

@@ -1,5 +1,4 @@
 # PreconditionError
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [error](../modules/error.md) / PreconditionError
 
 [error](../modules/error.md).PreconditionError
@@ -21,7 +20,7 @@ Error type thrown when a precondition is not met
 
 #### Defined in
 
-[src/error.ts:73](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/error.ts#L73)
+[src/error.ts:73](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L73)
 
 ___
 
@@ -31,4 +30,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:74](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/error.ts#L74)
+[src/error.ts:74](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L74)

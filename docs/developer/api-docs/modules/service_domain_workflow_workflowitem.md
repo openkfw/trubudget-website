@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem
 
 ## Table of contents
@@ -17,6 +16,7 @@
 ### Variables
 
 - [idSchema](service_domain_workflow_workflowitem.md#idschema)
+- [schema](service_domain_workflow_workflowitem.md#schema)
 
 ### Functions
 
@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L17)
+[src/service/domain/workflow/workflowitem.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L17)
 
 ___
 
@@ -42,17 +42,27 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:68](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L68)
+[src/service/domain/workflow/workflowitem.ts:68](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L68)
 
 ## Variables
 
 ### idSchema
 
-• `Const` **idSchema**: `StringSchema`<`string`\>
+• `Const` **idSchema**: `StringSchema`\<`string`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:19](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L19)
+[src/service/domain/workflow/workflowitem.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L19)
+
+___
+
+### schema
+
+• `Const` **schema**: `ObjectSchema`\<`any`\>
+
+#### Defined in
+
+[src/service/domain/workflow/workflowitem.ts:70](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L70)
 
 ## Functions
 
@@ -74,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:139](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L139)
+[src/service/domain/workflow/workflowitem.ts:139](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L139)
 
 ___
 
@@ -94,13 +104,13 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:154](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L154)
+[src/service/domain/workflow/workflowitem.ts:154](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L154)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>
 
 #### Parameters
 
@@ -110,8 +120,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>
+[`Type`](result.md#type)\<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem.ts:134](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem.ts#L134)
+[src/service/domain/workflow/workflowitem.ts:134](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem.ts#L134)

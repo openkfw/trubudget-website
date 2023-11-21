@@ -1,5 +1,4 @@
 # service/event
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/event
 
 ## Table of contents
@@ -30,4 +29,4 @@
 
 #### Defined in
 
-[src/service/event.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/event.ts#L14)
+[src/service/event.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/event.ts#L14)

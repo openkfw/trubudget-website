@@ -1,5 +1,4 @@
 # network/controller/listActive
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/listActive
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getActiveNodes
 
-▸ **getActiveNodes**(`conn`, `ctx`, `issuer`, `req`): `Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **getActiveNodes**(`conn`, `ctx`, `issuer`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Defined in
 
-[src/network/controller/listActive.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/controller/listActive.ts#L13)
+[src/network/controller/listActive.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/listActive.ts#L13)

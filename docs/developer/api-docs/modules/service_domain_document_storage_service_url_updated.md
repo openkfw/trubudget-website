@@ -1,5 +1,4 @@
 # service/domain/document/storage\_service\_url\_updated
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/storage\_service\_url\_updated
 
 ## Table of contents
@@ -21,17 +20,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_updated.ts:20](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/storage_service_url_updated.ts#L20)
+[src/service/domain/document/storage_service_url_updated.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/storage_service_url_updated.ts#L20)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `organization`, `organizationUrl`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `organization`, `organizationUrl`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
 
 #### Parameters
 
@@ -46,17 +45,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_updated.ts:30](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/storage_service_url_updated.ts#L30)
+[src/service/domain/document/storage_service_url_updated.ts:30](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/storage_service_url_updated.ts#L30)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
 
 #### Parameters
 
@@ -66,8 +65,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_storage_service_url_updated.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_updated.ts:54](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/storage_service_url_updated.ts#L54)
+[src/service/domain/document/storage_service_url_updated.ts:54](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/storage_service_url_updated.ts#L54)

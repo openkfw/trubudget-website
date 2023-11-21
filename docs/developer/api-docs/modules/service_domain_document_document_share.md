@@ -1,5 +1,4 @@
 # service/domain/document/document\_share
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/document\_share
 
 ## Table of contents
@@ -16,7 +15,7 @@
 
 ### shareDocument
 
-▸ **shareDocument**(`ctx`, `issuer`, `requestData`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent) \| `undefined`\>\>
+▸ **shareDocument**(`ctx`, `issuer`, `requestData`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent) \| `undefined`\>\>
 
 #### Parameters
 
@@ -29,8 +28,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent) \| `undefined`\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent) \| `undefined`\>\>
 
 #### Defined in
 
-[src/service/domain/document/document_share.ts:39](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_share.ts#L39)
+[src/service/domain/document/document_share.ts:39](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_share.ts#L39)

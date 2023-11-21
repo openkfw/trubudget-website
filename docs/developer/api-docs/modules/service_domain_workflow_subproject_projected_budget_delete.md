@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_projected\_budget\_delete
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_projected\_budget\_delete
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### deleteProjectedBudget
 
-▸ **deleteProjectedBudget**(`ctx`, `issuer`, `projectId`, `subprojectId`, `organization`, `currencyCode`, `repository`): `Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `projectedBudgets`: [`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]  }\>\>
+▸ **deleteProjectedBudget**(`ctx`, `issuer`, `projectId`, `subprojectId`, `organization`, `currencyCode`, `repository`): `Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `projectedBudgets`: [`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]  }\>\>
 
 #### Parameters
 
@@ -28,8 +27,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `projectedBudgets`: [`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]  }\>\>
+`Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `projectedBudgets`: [`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]  }\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_delete.ts:28](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_projected_budget_delete.ts#L28)
+[src/service/domain/workflow/subproject_projected_budget_delete.ts:28](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_projected_budget_delete.ts#L28)

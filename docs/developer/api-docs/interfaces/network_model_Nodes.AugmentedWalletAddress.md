@@ -1,5 +1,4 @@
 # AugmentedWalletAddress
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [network/model/Nodes](../modules/network_model_Nodes.md) / AugmentedWalletAddress
 
 [network/model/Nodes](../modules/network_model_Nodes.md).AugmentedWalletAddress
@@ -19,7 +18,7 @@
 
 #### Defined in
 
-[src/network/model/Nodes.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L25)
+[src/network/model/Nodes.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L25)
 
 ___
 
@@ -29,4 +28,4 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/Nodes.ts#L26)
+[src/network/model/Nodes.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L26)

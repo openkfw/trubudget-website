@@ -1,5 +1,4 @@
 # lib/test/promise
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/test/promise
 
 ## Table of contents
@@ -13,39 +12,39 @@
 
 ### assertIsRejectedWith
 
-▸ **assertIsRejectedWith**(`promise`): `Promise`<`void`\>
+▸ **assertIsRejectedWith**(`promise`): `Promise`\<`void`\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `promise` | `Promise`<`any`\> |
+| `promise` | `Promise`\<`any`\> |
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/lib/test/promise.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/test/promise.ts#L18)
+[src/lib/test/promise.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/test/promise.ts#L18)
 
 ___
 
 ### assertIsResolved
 
-▸ **assertIsResolved**(`promise`, `expectedResult?`): `Promise`<`void`\>
+▸ **assertIsResolved**(`promise`, `expectedResult?`): `Promise`\<`void`\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `promise` | `Promise`<`any`\> |
+| `promise` | `Promise`\<`any`\> |
 | `expectedResult?` | `any` |
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/lib/test/promise.ts:4](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/test/promise.ts#L4)
+[src/lib/test/promise.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/test/promise.ts#L4)

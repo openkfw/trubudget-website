@@ -1,5 +1,4 @@
 # service/workflowitem\_assign
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_assign
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### assignWorkflowitem
 
-▸ **assignWorkflowitem**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`, `assignee`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **assignWorkflowitem**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `workflowitemId`, `assignee`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -28,8 +27,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/workflowitem_assign.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/workflowitem_assign.ts#L18)
+[src/service/workflowitem_assign.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_assign.ts#L19)

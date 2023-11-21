@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_assign
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_assign
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### assignWorkflowitem
 
-▸ **assignWorkflowitem**(`ctx`, `issuer`, `assignee`, `projectId`, `subprojectId`, `workflowitemId`, `repository`): `Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
+▸ **assignWorkflowitem**(`ctx`, `issuer`, `assignee`, `projectId`, `subprojectId`, `workflowitemId`, `repository`): `Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
 
 #### Parameters
 
@@ -28,8 +27,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
+`Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assign.ts:28](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_assign.ts#L28)
+[src/service/domain/workflow/workflowitem_assign.ts:28](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_assign.ts#L28)

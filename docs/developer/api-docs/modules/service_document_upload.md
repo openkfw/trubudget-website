@@ -1,5 +1,4 @@
 # service/document\_upload
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/document\_upload
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### documentUpload
 
-▸ **documentUpload**(`conn`, `storageServiceClient`, `ctx`, `serviceUser`, `requestData`): `Promise`<[`Type`](result.md#type)<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)\>\>
+▸ **documentUpload**(`conn`, `storageServiceClient`, `ctx`, `serviceUser`, `requestData`): `Promise`\<[`Type`](result.md#type)\<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)\>\>
 
 #### Defined in
 
-[src/service/document_upload.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/document_upload.ts#L18)
+[src/service/document_upload.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/document_upload.ts#L21)

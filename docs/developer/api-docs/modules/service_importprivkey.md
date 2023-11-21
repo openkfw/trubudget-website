@@ -1,5 +1,4 @@
 # service/importprivkey
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/importprivkey
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### importprivkey
 
-▸ **importprivkey**(`multichain`, `privkey`, `userId`): `Promise`<`void`\>
+▸ **importprivkey**(`multichain`, `privkey`, `userId`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -24,8 +23,8 @@
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/importprivkey.ts:3](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/importprivkey.ts#L3)
+[src/service/importprivkey.ts:3](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/importprivkey.ts#L3)

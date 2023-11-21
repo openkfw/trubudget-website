@@ -1,5 +1,4 @@
 # service/groups
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/groups
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getUsers
 
-▸ **getUsers**(`conn`, `groupId`): `Promise`<`string`[]\>
+▸ **getUsers**(`conn`, `groupId`): `Promise`\<`string`[]\>
 
 #### Parameters
 
@@ -23,8 +22,8 @@
 
 #### Returns
 
-`Promise`<`string`[]\>
+`Promise`\<`string`[]\>
 
 #### Defined in
 
-[src/service/groups.ts:9](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/groups.ts#L9)
+[src/service/groups.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/groups.ts#L9)

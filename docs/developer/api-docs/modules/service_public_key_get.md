@@ -1,5 +1,4 @@
 # service/public\_key\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/public\_key\_get
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getPublicKey
 
-▸ **getPublicKey**(`conn`, `ctx`, `organization`): `Promise`<[`Type`](result.md#type)<[`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>\>
+▸ **getPublicKey**(`conn`, `ctx`, `organization`): `Promise`\<[`Type`](result.md#type)\<[`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>\>
 
 #### Parameters
 
@@ -24,8 +23,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>\>
 
 #### Defined in
 
-[src/service/public_key_get.ts:9](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/public_key_get.ts#L9)
+[src/service/public_key_get.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/public_key_get.ts#L9)

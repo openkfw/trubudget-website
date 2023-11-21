@@ -1,8 +1,7 @@
-# Event: 
- 
+# Event: service/domain/system_information/provisioning_started
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/system\_information/provisioning\_started](../modules/service_domain_system_information_provisioning_started.md) / Event
 
-[service/domain/system_information/provisioning_started](../modules/service_domain_system_information_provisioning_started.md).Event
+[service/domain/system\_information/provisioning\_started](../modules/service_domain_system_information_provisioning_started.md).Event
 
 ## Table of contents
 
@@ -22,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/provisioning_started.ts#L16)
+[src/service/domain/system_information/provisioning_started.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_started.ts#L16)
 
 ___
 
@@ -32,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/provisioning_started.ts#L15)
+[src/service/domain/system_information/provisioning_started.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_started.ts#L15)
 
 ___
 
@@ -42,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/provisioning_started.ts#L13)
+[src/service/domain/system_information/provisioning_started.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_started.ts#L13)
 
 ___
 
@@ -52,7 +51,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/provisioning_started.ts#L14)
+[src/service/domain/system_information/provisioning_started.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_started.ts#L14)
 
 ___
 
@@ -62,4 +61,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/provisioning_started.ts#L12)
+[src/service/domain/system_information/provisioning_started.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_started.ts#L12)

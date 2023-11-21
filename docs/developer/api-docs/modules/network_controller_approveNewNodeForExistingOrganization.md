@@ -1,5 +1,4 @@
 # network/controller/approveNewNodeForExistingOrganization
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/approveNewNodeForExistingOrganization
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### approveNewNodeForExistingOrganization
 
-▸ **approveNewNodeForExistingOrganization**(`conn`, `ctx`, `issuer`, `req`): `Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **approveNewNodeForExistingOrganization**(`conn`, `ctx`, `issuer`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Defined in
 
-[src/network/controller/approveNewNodeForExistingOrganization.ts:10](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/controller/approveNewNodeForExistingOrganization.ts#L10)
+[src/network/controller/approveNewNodeForExistingOrganization.ts:10](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/approveNewNodeForExistingOrganization.ts#L10)

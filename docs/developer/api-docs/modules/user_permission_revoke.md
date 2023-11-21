@@ -1,5 +1,4 @@
 # user\_permission\_revoke
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_permission\_revoke
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/user.inten
 
 #### Defined in
 
-[src/user_permission_revoke.ts:128](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/user_permission_revoke.ts#L128)
+[src/user_permission_revoke.ts:128](https://github.com/openkfw/TruBudget/blob/92640998/api/src/user_permission_revoke.ts#L128)

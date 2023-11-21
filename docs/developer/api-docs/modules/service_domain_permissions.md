@@ -1,5 +1,4 @@
 # service/domain/permissions
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/permissions
 
 ## Table of contents
@@ -21,31 +20,31 @@
 
 ### ExposablePermissions
 
-Ƭ **ExposablePermissions**: { [key in ExposableIntent]?: Identity[] }
+Ƭ **ExposablePermissions**: \{ [key in ExposableIntent]?: Identity[] }
 
 #### Defined in
 
-[src/service/domain/permissions.ts:6](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/permissions.ts#L6)
+[src/service/domain/permissions.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/permissions.ts#L6)
 
 ___
 
 ### Permissions
 
-Ƭ **Permissions**: { [key in default]?: Identity[] }
+Ƭ **Permissions**: \{ [key in default]?: Identity[] }
 
 #### Defined in
 
-[src/service/domain/permissions.ts:5](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/permissions.ts#L5)
+[src/service/domain/permissions.ts:5](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/permissions.ts#L5)
 
 ## Variables
 
 ### permissionsSchema
 
-• `Const` **permissionsSchema**: `ObjectSchema`<`any`\>
+• `Const` **permissionsSchema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/permissions.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/permissions.ts#L8)
+[src/service/domain/permissions.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/permissions.ts#L8)
 
 ## Functions
 
@@ -68,4 +67,4 @@ Removes permissions which should not be returned to the user
 
 #### Defined in
 
-[src/service/domain/permissions.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/permissions.ts#L18)
+[src/service/domain/permissions.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/permissions.ts#L18)

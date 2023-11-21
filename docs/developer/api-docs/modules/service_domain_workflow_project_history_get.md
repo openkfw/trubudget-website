@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_history\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_history\_get
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getHistory
 
-▸ **getHistory**(`ctx`, `user`, `projectId`, `repository`, `filter?`): `Promise`<[`Type`](result.md#type)<[`ProjectTraceEvent`](../interfaces/service_domain_workflow_project_trace_event.ProjectTraceEvent.md)[]\>\>
+▸ **getHistory**(`ctx`, `user`, `projectId`, `repository`, `filter?`): `Promise`\<[`Type`](result.md#type)\<[`ProjectTraceEvent`](../interfaces/service_domain_workflow_project_trace_event.ProjectTraceEvent.md)[]\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`ProjectTraceEvent`](../interfaces/service_domain_workflow_project_trace_event.ProjectTraceEvent.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`ProjectTraceEvent`](../interfaces/service_domain_workflow_project_trace_event.ProjectTraceEvent.md)[]\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_history_get.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_history_get.ts#L16)
+[src/service/domain/workflow/project_history_get.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_history_get.ts#L16)

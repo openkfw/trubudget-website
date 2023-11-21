@@ -1,5 +1,4 @@
 # service/createkeypairs
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/createkeypairs
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### createkeypairs
 
-▸ **createkeypairs**(`multichain`): `Promise`<[`KeyPair`](../interfaces/service_domain_organization_key_pair.KeyPair.md)\>
+▸ **createkeypairs**(`multichain`): `Promise`\<[`KeyPair`](../interfaces/service_domain_organization_key_pair.KeyPair.md)\>
 
 #### Parameters
 
@@ -22,8 +21,8 @@
 
 #### Returns
 
-`Promise`<[`KeyPair`](../interfaces/service_domain_organization_key_pair.KeyPair.md)\>
+`Promise`\<[`KeyPair`](../interfaces/service_domain_organization_key_pair.KeyPair.md)\>
 
 #### Defined in
 
-[src/service/createkeypairs.ts:4](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/createkeypairs.ts#L4)
+[src/service/createkeypairs.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/createkeypairs.ts#L4)

@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_created
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_created
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:53](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_created.ts#L53)
+[src/service/domain/workflow/project_created.ts:53](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_created.ts#L53)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `project`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `project`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
 
 #### Parameters
 
@@ -46,17 +45,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:62](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_created.ts#L62)
+[src/service/domain/workflow/project_created.ts:62](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_created.ts#L62)
 
 ___
 
 ### createFrom
 
-▸ **createFrom**(`ctx`, `event`): [`Type`](result.md#type)<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>
+▸ **createFrom**(`ctx`, `event`): [`Type`](result.md#type)\<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>
 
 #### Parameters
 
@@ -67,17 +66,17 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>
+[`Type`](result.md#type)\<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:91](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_created.ts#L91)
+[src/service/domain/workflow/project_created.ts:91](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_created.ts#L91)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
 
 #### Parameters
 
@@ -87,8 +86,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_created.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_created.ts:86](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_created.ts#L86)
+[src/service/domain/workflow/project_created.ts:86](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_created.ts#L86)

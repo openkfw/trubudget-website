@@ -1,5 +1,4 @@
 # system/restoreBackup
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/restoreBackup
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### restoreBackup
 
-▸ **restoreBackup**(`blockchainHost`, `blockchainPort`, `req`): `Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **restoreBackup**(`blockchainHost`, `blockchainPort`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
@@ -24,8 +23,8 @@
 
 #### Returns
 
-`Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Defined in
 
-[src/system/restoreBackup.ts:7](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/system/restoreBackup.ts#L7)
+[src/system/restoreBackup.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/restoreBackup.ts#L7)

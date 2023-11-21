@@ -1,8 +1,7 @@
 # UserAssignments
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/workflow/user\_assignments](../modules/service_domain_workflow_user_assignments.md) / UserAssignments
 
-[service/domain/workflow/user_assignments](../modules/service_domain_workflow_user_assignments.md).UserAssignments
+[service/domain/workflow/user\_assignments](../modules/service_domain_workflow_user_assignments.md).UserAssignments
 
 ## Table of contents
 
@@ -22,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/user_assignments.ts#L18)
+[src/service/domain/workflow/user_assignments.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments.ts#L18)
 
 ___
 
@@ -32,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/user_assignments.ts#L15)
+[src/service/domain/workflow/user_assignments.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments.ts#L15)
 
 ___
 
@@ -42,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/user_assignments.ts#L16)
+[src/service/domain/workflow/user_assignments.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments.ts#L16)
 
 ___
 
@@ -52,7 +51,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/user_assignments.ts#L14)
+[src/service/domain/workflow/user_assignments.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments.ts#L14)
 
 ___
 
@@ -62,4 +61,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/user_assignments.ts#L17)
+[src/service/domain/workflow/user_assignments.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments.ts#L17)

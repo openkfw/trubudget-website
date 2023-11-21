@@ -1,5 +1,4 @@
 # service/domain/metadata
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/metadata
 
 ## Table of contents
@@ -27,14 +26,14 @@
 
 #### Defined in
 
-[src/service/domain/metadata.ts:3](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/metadata.ts#L3)
+[src/service/domain/metadata.ts:3](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/metadata.ts#L3)
 
 ## Variables
 
 ### userMetadataSchema
 
-• `Const` **userMetadataSchema**: `ObjectSchema`<`any`\>
+• `Const` **userMetadataSchema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/metadata.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/metadata.ts#L8)
+[src/service/domain/metadata.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/metadata.ts#L8)

@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_update
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_update
 
 ## Table of contents
@@ -25,23 +24,23 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:20](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_update.ts#L20)
+[src/service/domain/workflow/subproject_update.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_update.ts#L20)
 
 ## Variables
 
 ### requestDataSchema
 
-• `Const` **requestDataSchema**: `ObjectSchema`<`any`\> = `SubprojectUpdated.updatedDataSchema`
+• `Const` **requestDataSchema**: `ObjectSchema`\<`any`\> = `SubprojectUpdated.updatedDataSchema`
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:21](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_update.ts#L21)
+[src/service/domain/workflow/subproject_update.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_update.ts#L21)
 
 ## Functions
 
 ### updateSubproject
 
-▸ **updateSubproject**(`ctx`, `issuer`, `projectId`, `subprojectId`, `data`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **updateSubproject**(`ctx`, `issuer`, `projectId`, `subprojectId`, `data`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -56,17 +55,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:36](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_update.ts#L36)
+[src/service/domain/workflow/subproject_update.ts:36](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_update.ts#L36)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`RequestData`](service_domain_workflow_subproject_update.md#requestdata)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`RequestData`](service_domain_workflow_subproject_update.md#requestdata)\>
 
 #### Parameters
 
@@ -76,8 +75,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`RequestData`](service_domain_workflow_subproject_update.md#requestdata)\>
+[`Type`](result.md#type)\<[`RequestData`](service_domain_workflow_subproject_update.md#requestdata)\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:23](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_update.ts#L23)
+[src/service/domain/workflow/subproject_update.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_update.ts#L23)

@@ -1,5 +1,4 @@
 # service/domain/workflow/notification\_created
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/notification\_created
 
 ## Table of contents
@@ -21,17 +20,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:32](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification_created.ts#L32)
+[src/service/domain/workflow/notification_created.ts:32](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification_created.ts#L32)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `recipient`, `businessEvent`, `projectId?`, `subprojectId?`, `workflowitemId?`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `recipient`, `businessEvent`, `projectId?`, `subprojectId?`, `workflowitemId?`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
 
 #### Parameters
 
@@ -49,17 +48,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:47](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification_created.ts#L47)
+[src/service/domain/workflow/notification_created.ts:47](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification_created.ts#L47)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
 
 #### Parameters
 
@@ -69,8 +68,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_notification_created.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:80](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification_created.ts#L80)
+[src/service/domain/workflow/notification_created.ts:80](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification_created.ts#L80)

@@ -1,5 +1,4 @@
 # result
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / result
 
 ## Table of contents
@@ -22,7 +21,7 @@
 
 ### Type
 
-Ƭ **Type**<`T`\>: `Result`<`T`\>
+Ƭ **Type**\<`T`\>: `Result`\<`T`\>
 
 Type Result that can either contain a given type T or an Error
 
@@ -34,13 +33,13 @@ Type Result that can either contain a given type T or an Error
 
 #### Defined in
 
-[src/result.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/result.ts#L11)
+[src/result.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/result.ts#L11)
 
 ## Functions
 
 ### isErr
 
-▸ **isErr**<`T`\>(`result`): result is Error
+▸ **isErr**\<`T`\>(`result`): result is Error
 
 Checks if the given result is an error
 
@@ -54,7 +53,7 @@ Checks if the given result is an error
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `result` | `Result`<`T`\> | an object wrapped in a Result that might be an error |
+| `result` | `Result`\<`T`\> | an object wrapped in a Result that might be an error |
 
 #### Returns
 
@@ -64,13 +63,13 @@ a boolean indicating if the given result is an error or not
 
 #### Defined in
 
-[src/result.ts:19](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/result.ts#L19)
+[src/result.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/result.ts#L19)
 
 ___
 
 ### isOk
 
-▸ **isOk**<`T`\>(`result`): result is T
+▸ **isOk**\<`T`\>(`result`): result is T
 
 Checks if the given result is Ok
 
@@ -84,7 +83,7 @@ Checks if the given result is Ok
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `result` | `Result`<`T`\> | an object wrapped in a Result that might be an error |
+| `result` | `Result`\<`T`\> | an object wrapped in a Result that might be an error |
 
 #### Returns
 
@@ -94,13 +93,13 @@ a boolean indicating if the given result is ok or not
 
 #### Defined in
 
-[src/result.ts:29](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/result.ts#L29)
+[src/result.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/result.ts#L29)
 
 ___
 
 ### map
 
-▸ **map**<`T`, `U`\>(`result`, `fn`): `Result`<`U`\>
+▸ **map**\<`T`, `U`\>(`result`, `fn`): `Result`\<`U`\>
 
 Maps the result to an error or applies the desired function on the result
 
@@ -115,24 +114,24 @@ Maps the result to an error or applies the desired function on the result
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `result` | `Result`<`T`\> | an element wrapped in a Result |
-| `fn` | `MapFn`<`T`, `U`\> | a callback function that should be applied to the result |
+| `result` | `Result`\<`T`\> | an element wrapped in a Result |
+| `fn` | `MapFn`\<`T`, `U`\> | a callback function that should be applied to the result |
 
 #### Returns
 
-`Result`<`U`\>
+`Result`\<`U`\>
 
 the result of the function or an error
 
 #### Defined in
 
-[src/result.ts:44](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/result.ts#L44)
+[src/result.ts:44](https://github.com/openkfw/TruBudget/blob/92640998/api/src/result.ts#L44)
 
 ___
 
 ### mapErr
 
-▸ **mapErr**<`T`\>(`result`, `fn`): `Result`<`T`\>
+▸ **mapErr**\<`T`\>(`result`, `fn`): `Result`\<`T`\>
 
 Applies a function to an error or returns the result
 
@@ -146,24 +145,24 @@ Applies a function to an error or returns the result
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `result` | `Result`<`T`\> | an element wrapped in a Result |
-| `fn` | `MapFn`<`Error`, `Error`\> | a callback function that should be applied to the result |
+| `result` | `Result`\<`T`\> | an element wrapped in a Result |
+| `fn` | `MapFn`\<`Error`, `Error`\> | a callback function that should be applied to the result |
 
 #### Returns
 
-`Result`<`T`\>
+`Result`\<`T`\>
 
 the result of the function if the element is an error or the given element otherwise
 
 #### Defined in
 
-[src/result.ts:59](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/result.ts#L59)
+[src/result.ts:59](https://github.com/openkfw/TruBudget/blob/92640998/api/src/result.ts#L59)
 
 ___
 
 ### unwrap
 
-▸ **unwrap**<`T`\>(`result`, `message?`): `T` \| `never`
+▸ **unwrap**\<`T`\>(`result`, `message?`): `T` \| `never`
 
 Unwraps the result or throws an error
 
@@ -177,7 +176,7 @@ Unwraps the result or throws an error
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `result` | `Result`<`T`\> | an element wrapped in a Result |
+| `result` | `Result`\<`T`\> | an element wrapped in a Result |
 | `message?` | `string` | an optional message to be used when throwing the error |
 
 #### Returns
@@ -188,13 +187,13 @@ the unwrapped result
 
 #### Defined in
 
-[src/result.ts:74](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/result.ts#L74)
+[src/result.ts:74](https://github.com/openkfw/TruBudget/blob/92640998/api/src/result.ts#L74)
 
 ___
 
 ### unwrapErr
 
-▸ **unwrapErr**<`T`\>(`result`, `message?`): `Error` \| `never`
+▸ **unwrapErr**\<`T`\>(`result`, `message?`): `Error` \| `never`
 
 Unwraps the error or throws an error
 
@@ -208,7 +207,7 @@ Unwraps the error or throws an error
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `result` | `Result`<`T`\> | an element wrapped in a Result |
+| `result` | `Result`\<`T`\> | an element wrapped in a Result |
 | `message?` | `string` | an optional message to be used when throwing the error |
 
 #### Returns
@@ -219,13 +218,13 @@ the unwrapped error if the given element was indeed an error
 
 #### Defined in
 
-[src/result.ts:93](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/result.ts#L93)
+[src/result.ts:93](https://github.com/openkfw/TruBudget/blob/92640998/api/src/result.ts#L93)
 
 ___
 
 ### unwrapOr
 
-▸ **unwrapOr**<`T`, `U`\>(`result`, `defaultValue`): `T` \| `U`
+▸ **unwrapOr**\<`T`, `U`\>(`result`, `defaultValue`): `T` \| `U`
 
 Unwraps the result or returns a default value
 
@@ -240,7 +239,7 @@ Unwraps the result or returns a default value
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `result` | `Result`<`T`\> | an element wrapped in a Result |
+| `result` | `Result`\<`T`\> | an element wrapped in a Result |
 | `defaultValue` | `U` | default value |
 
 #### Returns
@@ -251,4 +250,4 @@ the unwrapped result or the default value in case the given element is an error
 
 #### Defined in
 
-[src/result.ts:108](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/result.ts#L108)
+[src/result.ts:108](https://github.com/openkfw/TruBudget/blob/92640998/api/src/result.ts#L108)

@@ -1,5 +1,4 @@
 # service/domain/organization/user\_eventsourcing
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_eventsourcing
 
 ## Table of contents
@@ -13,7 +12,7 @@
 
 ### newUserFromEvent
 
-▸ **newUserFromEvent**(`ctx`, `user`, `event`): [`Type`](result.md#type)<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>
+▸ **newUserFromEvent**(`ctx`, `user`, `event`): [`Type`](result.md#type)\<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>
 
 Returns a new user with the given event applied, or an error.
 
@@ -27,11 +26,11 @@ Returns a new user with the given event applied, or an error.
 
 #### Returns
 
-[`Type`](result.md#type)<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>
+[`Type`](result.md#type)\<[`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/user_eventsourcing.ts:145](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_eventsourcing.ts#L145)
+[src/service/domain/organization/user_eventsourcing.ts:145](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_eventsourcing.ts#L145)
 
 ___
 
@@ -45,7 +44,7 @@ ___
 | :------ | :------ |
 | `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
 | `events` | [`BusinessEvent`](service_domain_business_event.md#businessevent)[] |
-| `origin?` | `Map`<`string`, [`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\> |
+| `origin?` | `Map`\<`string`, [`UserRecord`](../interfaces/service_domain_organization_user_record.UserRecord.md)\> |
 
 #### Returns
 
@@ -58,4 +57,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_eventsourcing.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_eventsourcing.ts#L17)
+[src/service/domain/organization/user_eventsourcing.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_eventsourcing.ts#L17)

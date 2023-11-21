@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_trace\_event
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_trace\_event
 
 ## Table of contents
@@ -16,8 +15,8 @@
 
 ### workflowitemTraceEventSchema
 
-• `Const` **workflowitemTraceEventSchema**: `ObjectSchema`<`any`\>
+• `Const` **workflowitemTraceEventSchema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_trace_event.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_trace_event.ts#L17)
+[src/service/domain/workflow/workflowitem_trace_event.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_trace_event.ts#L17)

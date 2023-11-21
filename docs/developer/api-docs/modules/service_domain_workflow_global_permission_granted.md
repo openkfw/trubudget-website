@@ -1,5 +1,4 @@
 # service/domain/workflow/global\_permission\_granted
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/global\_permission\_granted
 
 ## Table of contents
@@ -21,17 +20,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:22](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/global_permission_granted.ts#L22)
+[src/service/domain/workflow/global_permission_granted.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permission_granted.ts#L22)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `permission`, `grantee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `permission`, `grantee`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
 
 #### Parameters
 
@@ -46,17 +45,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:32](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/global_permission_granted.ts#L32)
+[src/service/domain/workflow/global_permission_granted.ts:32](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permission_granted.ts#L32)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
 
 #### Parameters
 
@@ -66,8 +65,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_global_permission_granted.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:57](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/global_permission_granted.ts#L57)
+[src/service/domain/workflow/global_permission_granted.ts:57](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permission_granted.ts#L57)

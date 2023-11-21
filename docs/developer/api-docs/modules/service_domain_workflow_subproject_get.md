@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_get
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getSubproject
 
-▸ **getSubproject**(`ctx`, `user`, `subprojectId`, `repository`): `Promise`<[`Type`](result.md#type)<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>\>
+▸ **getSubproject**(`ctx`, `user`, `subprojectId`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_get.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_get.ts#L16)
+[src/service/domain/workflow/subproject_get.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_get.ts#L16)

@@ -1,5 +1,4 @@
 # service/global\_permission\_grant
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/global\_permission\_grant
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### grantGlobalPermission
 
-▸ **grantGlobalPermission**(`conn`, `ctx`, `serviceUser`, `serviceUserOrganization`, `grantee`, `permission`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **grantGlobalPermission**(`conn`, `ctx`, `serviceUser`, `serviceUserOrganization`, `grantee`, `permission`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/global_permission_grant.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/global_permission_grant.ts#L15)
+[src/service/global_permission_grant.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/global_permission_grant.ts#L15)

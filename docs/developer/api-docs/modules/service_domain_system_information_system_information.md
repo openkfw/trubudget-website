@@ -1,5 +1,4 @@
 # service/domain/system\_information/system\_information
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/system\_information/system\_information
 
 ## Table of contents
@@ -17,7 +16,7 @@
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`SystemInformation`](../interfaces/service_domain_system_information_system_information.SystemInformation.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`SystemInformation`](../interfaces/service_domain_system_information_system_information.SystemInformation.md)\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`SystemInformation`](../interfaces/service_domain_system_information_system_information.SystemInformation.md)\>
+[`Type`](result.md#type)\<[`SystemInformation`](../interfaces/service_domain_system_information_system_information.SystemInformation.md)\>
 
 #### Defined in
 
-[src/service/domain/system_information/system_information.ts:24](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/system_information.ts#L24)
+[src/service/domain/system_information/system_information.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/system_information.ts#L24)

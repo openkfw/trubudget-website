@@ -1,5 +1,4 @@
 # service/group\_member\_add
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/group\_member\_add
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### addMembers
 
-▸ **addMembers**(`conn`, `ctx`, `serviceUser`, `groupId`, `newMembers`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **addMembers**(`conn`, `ctx`, `serviceUser`, `groupId`, `newMembers`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/group_member_add.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/group_member_add.ts#L12)
+[src/service/group_member_add.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/group_member_add.ts#L12)

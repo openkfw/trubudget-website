@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_permission\_grant
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_permission\_grant
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### grantWorkflowitemPermission
 
-▸ **grantWorkflowitemPermission**(`ctx`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `grantee`, `intent`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **grantWorkflowitemPermission**(`ctx`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `grantee`, `intent`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -29,8 +28,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_grant.ts:36](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_permission_grant.ts#L36)
+[src/service/domain/workflow/workflowitem_permission_grant.ts:36](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_permission_grant.ts#L36)

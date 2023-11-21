@@ -1,5 +1,4 @@
 # lib/validation
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/validation
 
 ## Table of contents
@@ -19,7 +18,7 @@
 
 ### asyncValue
 
-▸ **asyncValue**(`multichain`, `name`, `val`, `isValid`, `defaultValue?`): `Promise`<`any`\>
+▸ **asyncValue**(`multichain`, `name`, `val`, `isValid`, `defaultValue?`): `Promise`\<`any`\>
 
 #### Parameters
 
@@ -33,11 +32,11 @@
 
 #### Returns
 
-`Promise`<`any`\>
+`Promise`\<`any`\>
 
 #### Defined in
 
-[src/lib/validation.ts:61](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/validation.ts#L61)
+[src/lib/validation.ts:61](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/validation.ts#L61)
 
 ___
 
@@ -59,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:34](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/validation.ts#L34)
+[src/lib/validation.ts:34](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/validation.ts#L34)
 
 ___
 
@@ -79,7 +78,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:41](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/validation.ts#L41)
+[src/lib/validation.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/validation.ts#L41)
 
 ___
 
@@ -99,7 +98,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:7](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/validation.ts#L7)
+[src/lib/validation.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/validation.ts#L7)
 
 ___
 
@@ -119,7 +118,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:47](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/validation.ts#L47)
+[src/lib/validation.ts:47](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/validation.ts#L47)
 
 ___
 
@@ -139,13 +138,13 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:71](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/validation.ts#L71)
+[src/lib/validation.ts:71](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/validation.ts#L71)
 
 ___
 
 ### isUserOrUndefined
 
-▸ **isUserOrUndefined**(`conn`, `ctx`, `issuer`, `input`): `Promise`<`boolean`\>
+▸ **isUserOrUndefined**(`conn`, `ctx`, `issuer`, `input`): `Promise`\<`boolean`\>
 
 #### Parameters
 
@@ -158,11 +157,11 @@ ___
 
 #### Returns
 
-`Promise`<`boolean`\>
+`Promise`\<`boolean`\>
 
 #### Defined in
 
-[src/lib/validation.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/validation.ts#L11)
+[src/lib/validation.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/validation.ts#L11)
 
 ___
 
@@ -185,4 +184,4 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:52](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/validation.ts#L52)
+[src/lib/validation.ts:52](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/validation.ts#L52)

@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_closed
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_closed
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:22](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_closed.ts#L22)
+[src/service/domain/workflow/subproject_closed.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_closed.ts#L22)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
 
 #### Parameters
 
@@ -47,17 +46,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:32](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_closed.ts#L32)
+[src/service/domain/workflow/subproject_closed.ts:32](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_closed.ts#L32)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`subproject`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`subproject`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given subproject, or returns an error.
 
@@ -77,17 +76,17 @@ subproject is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:71](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_closed.ts#L71)
+[src/service/domain/workflow/subproject_closed.ts:71](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_closed.ts#L71)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
 
 #### Parameters
 
@@ -97,8 +96,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_closed.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:56](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_closed.ts#L56)
+[src/service/domain/workflow/subproject_closed.ts:56](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_closed.ts#L56)

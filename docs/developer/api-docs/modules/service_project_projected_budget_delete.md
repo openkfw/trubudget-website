@@ -1,5 +1,4 @@
 # service/project\_projected\_budget\_delete
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_projected\_budget\_delete
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### deleteProjectedBudget
 
-▸ **deleteProjectedBudget**(`conn`, `ctx`, `serviceUser`, `projectId`, `organization`, `currencyCode`): `Promise`<[`Type`](result.md#type)<[`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]\>\>
+▸ **deleteProjectedBudget**(`conn`, `ctx`, `serviceUser`, `projectId`, `organization`, `currencyCode`): `Promise`\<[`Type`](result.md#type)\<[`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]\>\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]\>\>
 
 #### Defined in
 
-[src/service/project_projected_budget_delete.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/project_projected_budget_delete.ts#L15)
+[src/service/project_projected_budget_delete.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_projected_budget_delete.ts#L16)

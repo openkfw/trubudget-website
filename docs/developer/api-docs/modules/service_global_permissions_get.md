@@ -1,5 +1,4 @@
 # service/global\_permissions\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/global\_permissions\_get
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getGlobalPermissions
 
-▸ **getGlobalPermissions**(`conn`, `ctx`, `serviceUser`): `Promise`<[`Type`](result.md#type)<[`GlobalPermissions`](../interfaces/service_domain_workflow_global_permissions.GlobalPermissions.md)\>\>
+▸ **getGlobalPermissions**(`conn`, `ctx`, `serviceUser`): `Promise`\<[`Type`](result.md#type)\<[`GlobalPermissions`](../interfaces/service_domain_workflow_global_permissions.GlobalPermissions.md)\>\>
 
 #### Parameters
 
@@ -24,8 +23,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`GlobalPermissions`](../interfaces/service_domain_workflow_global_permissions.GlobalPermissions.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`GlobalPermissions`](../interfaces/service_domain_workflow_global_permissions.GlobalPermissions.md)\>\>
 
 #### Defined in
 
-[src/service/global_permissions_get.ts:10](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/global_permissions_get.ts#L10)
+[src/service/global_permissions_get.ts:10](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/global_permissions_get.ts#L10)

@@ -1,5 +1,4 @@
 # service/domain/ResourceMap
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/ResourceMap
 
 ## Table of contents
@@ -21,14 +20,14 @@
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:1](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/ResourceMap.ts#L1)
+[src/service/domain/ResourceMap.ts:1](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/ResourceMap.ts#L1)
 
 ___
 
 ### ResourceMap
 
-Ƭ **ResourceMap**: { [key in Resource]?: Object }
+Ƭ **ResourceMap**: \{ [key in Resource]?: Object }
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/ResourceMap.ts#L8)
+[src/service/domain/ResourceMap.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/ResourceMap.ts#L8)

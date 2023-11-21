@@ -1,5 +1,4 @@
 # service/project\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_list
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### listProjects
 
-▸ **listProjects**(`conn`, `ctx`, `serviceUser`): `Promise`<[`Type`](result.md#type)<[`Project`](../interfaces/service_domain_workflow_project.Project.md)[]\>\>
+▸ **listProjects**(`conn`, `ctx`, `serviceUser`): `Promise`\<[`Type`](result.md#type)\<[`Project`](../interfaces/service_domain_workflow_project.Project.md)[]\>\>
 
 #### Parameters
 
@@ -24,8 +23,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Project`](../interfaces/service_domain_workflow_project.Project.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Project`](../interfaces/service_domain_workflow_project.Project.md)[]\>\>
 
 #### Defined in
 
-[src/service/project_list.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/project_list.ts#L11)
+[src/service/project_list.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_list.ts#L11)

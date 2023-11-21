@@ -1,5 +1,4 @@
 # service/notification\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/notification\_list
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getNotificationsForUser
 
-▸ **getNotificationsForUser**(`conn`, `ctx`, `user`): `Promise`<[`Type`](result.md#type)<[`Notification`](../interfaces/service_domain_workflow_notification.Notification.md)[]\>\>
+▸ **getNotificationsForUser**(`conn`, `ctx`, `user`): `Promise`\<[`Type`](result.md#type)\<[`Notification`](../interfaces/service_domain_workflow_notification.Notification.md)[]\>\>
 
 #### Parameters
 
@@ -24,8 +23,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Notification`](../interfaces/service_domain_workflow_notification.Notification.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Notification`](../interfaces/service_domain_workflow_notification.Notification.md)[]\>\>
 
 #### Defined in
 
-[src/service/notification_list.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/notification_list.ts#L11)
+[src/service/notification_list.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/notification_list.ts#L11)

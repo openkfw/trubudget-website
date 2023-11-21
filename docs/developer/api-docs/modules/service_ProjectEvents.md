@@ -1,5 +1,4 @@
 # service/ProjectEvents
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/ProjectEvents
 
 ## Table of contents
@@ -25,28 +24,28 @@
 
 ### applyStreamItems
 
-▸ **applyStreamItems**(`streamItems`, `projectsByName?`): `Map`<`string`, [`Project`](../interfaces/service_ProjectEvents.Project.md)\>
+▸ **applyStreamItems**(`streamItems`, `projectsByName?`): `Map`\<`string`, [`Project`](../interfaces/service_ProjectEvents.Project.md)\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `streamItems` | [`Item`](../interfaces/service_liststreamkeyitems.Item.md)[] |
-| `projectsByName` | `Map`<`string`, [`Project`](../interfaces/service_ProjectEvents.Project.md)\> |
+| `projectsByName` | `Map`\<`string`, [`Project`](../interfaces/service_ProjectEvents.Project.md)\> |
 
 #### Returns
 
-`Map`<`string`, [`Project`](../interfaces/service_ProjectEvents.Project.md)\>
+`Map`\<`string`, [`Project`](../interfaces/service_ProjectEvents.Project.md)\>
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:203](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/ProjectEvents.ts#L203)
+[src/service/ProjectEvents.ts:203](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/ProjectEvents.ts#L203)
 
 ___
 
 ### createProjectOnChain
 
-▸ **createProjectOnChain**(`conn`, `issuer`, `project`): `Promise`<`void`\>
+▸ **createProjectOnChain**(`conn`, `issuer`, `project`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -58,17 +57,17 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:54](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/ProjectEvents.ts#L54)
+[src/service/ProjectEvents.ts:54](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/ProjectEvents.ts#L54)
 
 ___
 
 ### getProject
 
-▸ **getProject**(`conn`, `id`): `Promise`<[`Project`](../interfaces/service_ProjectEvents.Project.md)\>
+▸ **getProject**(`conn`, `id`): `Promise`\<[`Project`](../interfaces/service_ProjectEvents.Project.md)\>
 
 #### Parameters
 
@@ -79,17 +78,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Project`](../interfaces/service_ProjectEvents.Project.md)\>
+`Promise`\<[`Project`](../interfaces/service_ProjectEvents.Project.md)\>
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:148](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/ProjectEvents.ts#L148)
+[src/service/ProjectEvents.ts:148](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/ProjectEvents.ts#L148)
 
 ___
 
 ### getProjectList
 
-▸ **getProjectList**(`conn`): `Promise`<[`Project`](../interfaces/service_ProjectEvents.Project.md)[]\>
+▸ **getProjectList**(`conn`): `Promise`\<[`Project`](../interfaces/service_ProjectEvents.Project.md)[]\>
 
 #### Parameters
 
@@ -99,17 +98,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Project`](../interfaces/service_ProjectEvents.Project.md)[]\>
+`Promise`\<[`Project`](../interfaces/service_ProjectEvents.Project.md)[]\>
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:160](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/ProjectEvents.ts#L160)
+[src/service/ProjectEvents.ts:160](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/ProjectEvents.ts#L160)
 
 ___
 
 ### getProjectPermissionList
 
-▸ **getProjectPermissionList**(`conn`, `projectId`): `Promise`<[`Permissions`](authz_types.md#permissions)\>
+▸ **getProjectPermissionList**(`conn`, `projectId`): `Promise`\<[`Permissions`](authz_types.md#permissions)\>
 
 #### Parameters
 
@@ -120,17 +119,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Permissions`](authz_types.md#permissions)\>
+`Promise`\<[`Permissions`](authz_types.md#permissions)\>
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:166](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/ProjectEvents.ts#L166)
+[src/service/ProjectEvents.ts:166](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/ProjectEvents.ts#L166)
 
 ___
 
 ### grantProjectPermission
 
-▸ **grantProjectPermission**(`conn`, `issuer`, `projectId`, `grantee`, `intent`): `Promise`<`void`\>
+▸ **grantProjectPermission**(`conn`, `issuer`, `projectId`, `grantee`, `intent`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -144,17 +143,17 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:174](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/ProjectEvents.ts#L174)
+[src/service/ProjectEvents.ts:174](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/ProjectEvents.ts#L174)
 
 ___
 
 ### updateProject
 
-▸ **updateProject**(`conn`, `issuer`, `projectId`, `update`): `Promise`<`void`\>
+▸ **updateProject**(`conn`, `issuer`, `projectId`, `update`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -167,17 +166,17 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:120](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/ProjectEvents.ts#L120)
+[src/service/ProjectEvents.ts:120](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/ProjectEvents.ts#L120)
 
 ___
 
 ### writeProjectAssignedToChain
 
-▸ **writeProjectAssignedToChain**(`conn`, `issuer`, `projectId`, `assignee`): `Promise`<`void`\>
+▸ **writeProjectAssignedToChain**(`conn`, `issuer`, `projectId`, `assignee`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -190,8 +189,8 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:93](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/ProjectEvents.ts#L93)
+[src/service/ProjectEvents.ts:93](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/ProjectEvents.ts#L93)

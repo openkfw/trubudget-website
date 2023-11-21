@@ -1,5 +1,4 @@
 # network/controller/vote
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/vote
 
 ## Table of contents
@@ -13,7 +12,7 @@
 
 ### getCurrentVote
 
-▸ **getCurrentVote**(`multichain`, `callerAddress`, `targetAddress`): `Promise`<[`T`](network_model_AccessVote.md#t)\>
+▸ **getCurrentVote**(`multichain`, `callerAddress`, `targetAddress`): `Promise`\<[`T`](network_model_AccessVote.md#t)\>
 
 #### Parameters
 
@@ -25,17 +24,17 @@
 
 #### Returns
 
-`Promise`<[`T`](network_model_AccessVote.md#t)\>
+`Promise`\<[`T`](network_model_AccessVote.md#t)\>
 
 #### Defined in
 
-[src/network/controller/vote.ts:62](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/controller/vote.ts#L62)
+[src/network/controller/vote.ts:62](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/vote.ts#L62)
 
 ___
 
 ### voteForNetworkPermission
 
-▸ **voteForNetworkPermission**(`conn`, `ctx`, `issuer`, `req`): `Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **voteForNetworkPermission**(`conn`, `ctx`, `issuer`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
@@ -48,8 +47,8 @@ ___
 
 #### Returns
 
-`Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Defined in
 
-[src/network/controller/vote.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/controller/vote.ts#L17)
+[src/network/controller/vote.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/vote.ts#L17)

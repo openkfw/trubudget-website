@@ -1,5 +1,4 @@
 # system/ensurePublicKeyPublished
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/ensurePublicKeyPublished
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### default
 
-▸ **default**(`conn`, `organization`): `Promise`<[`Type`](result.md#type)<`PublicKey`\>\>
+▸ **default**(`conn`, `organization`): `Promise`\<[`Type`](result.md#type)\<`PublicKey`\>\>
 
 #### Parameters
 
@@ -23,8 +22,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`PublicKey`\>\>
+`Promise`\<[`Type`](result.md#type)\<`PublicKey`\>\>
 
 #### Defined in
 
-[src/system/ensurePublicKeyPublished.ts:57](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/system/ensurePublicKeyPublished.ts#L57)
+[src/system/ensurePublicKeyPublished.ts:57](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/ensurePublicKeyPublished.ts#L57)

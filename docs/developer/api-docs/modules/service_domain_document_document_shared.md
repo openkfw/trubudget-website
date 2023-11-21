@@ -1,5 +1,4 @@
 # service/domain/document/document\_shared
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/document\_shared
 
 ## Table of contents
@@ -23,17 +22,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:28](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_shared.ts#L28)
+[src/service/domain/document/document_shared.ts:28](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_shared.ts#L28)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `docId`, `organization`, `encryptedSecret`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `docId`, `organization`, `encryptedSecret`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
 
 #### Parameters
 
@@ -49,17 +48,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:44](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_shared.ts#L44)
+[src/service/domain/document/document_shared.ts:44](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_shared.ts#L44)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
 
 #### Parameters
 
@@ -69,17 +68,17 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_document_shared.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:39](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_shared.ts#L39)
+[src/service/domain/document/document_shared.ts:39](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_shared.ts#L39)
 
 ___
 
 ### validateSecret
 
-▸ **validateSecret**(`input`): [`Type`](result.md#type)<[`SecretPublished`](../interfaces/service_domain_document_document_shared.SecretPublished.md)\>
+▸ **validateSecret**(`input`): [`Type`](result.md#type)\<[`SecretPublished`](../interfaces/service_domain_document_document_shared.SecretPublished.md)\>
 
 #### Parameters
 
@@ -89,8 +88,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`SecretPublished`](../interfaces/service_domain_document_document_shared.SecretPublished.md)\>
+[`Type`](result.md#type)\<[`SecretPublished`](../interfaces/service_domain_document_document_shared.SecretPublished.md)\>
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:79](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_shared.ts#L79)
+[src/service/domain/document/document_shared.ts:79](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_shared.ts#L79)

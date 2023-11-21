@@ -1,5 +1,4 @@
 # ItemToPublish
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/RpcClient.h](../modules/service_RpcClient_h.md) / ItemToPublish
 
 [service/RpcClient.h](../modules/service_RpcClient_h.md).ItemToPublish
@@ -18,4 +17,4 @@
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:50](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcClient.h.ts#L50)
+[src/service/RpcClient.h.ts:50](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.h.ts#L50)

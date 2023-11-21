@@ -1,5 +1,4 @@
 # service/domain/organization/user\_password\_changed
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_password\_changed
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_password_changed.ts#L31)
+[src/service/domain/organization/user_password_changed.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_password_changed.ts#L31)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `user`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `user`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
 
 #### Parameters
 
@@ -46,17 +45,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:40](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_password_changed.ts#L40)
+[src/service/domain/organization/user_password_changed.ts:40](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_password_changed.ts#L40)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`user`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`user`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given user, or returns an error.
 
@@ -76,17 +75,17 @@ is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:79](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_password_changed.ts#L79)
+[src/service/domain/organization/user_password_changed.ts:79](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_password_changed.ts#L79)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
 
 #### Parameters
 
@@ -96,8 +95,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_password_changed.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:64](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_password_changed.ts#L64)
+[src/service/domain/organization/user_password_changed.ts:64](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_password_changed.ts#L64)

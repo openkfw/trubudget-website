@@ -1,5 +1,4 @@
 # service/grantpermissiontoaddress
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/grantpermissiontoaddress
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### grantpermissiontoaddress
 
-▸ **grantpermissiontoaddress**(`multichain`, `address`, `permissions`): `Promise`<`void`\>
+▸ **grantpermissiontoaddress**(`multichain`, `address`, `permissions`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -24,8 +23,8 @@
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/grantpermissiontoaddress.ts:4](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/grantpermissiontoaddress.ts#L4)
+[src/service/grantpermissiontoaddress.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/grantpermissiontoaddress.ts#L4)

@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_assigned
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_assigned
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:21](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_assigned.ts#L21)
+[src/service/domain/workflow/project_assigned.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_assigned.ts#L21)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `assignee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `assignee`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
 
 #### Parameters
 
@@ -47,17 +46,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_assigned.ts#L31)
+[src/service/domain/workflow/project_assigned.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_assigned.ts#L31)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`project`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`project`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given project, or returns an error.
 
@@ -77,17 +76,17 @@ is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:70](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_assigned.ts#L70)
+[src/service/domain/workflow/project_assigned.ts:70](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_assigned.ts#L70)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
 
 #### Parameters
 
@@ -97,8 +96,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_project_assigned.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_assigned.ts:55](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_assigned.ts#L55)
+[src/service/domain/workflow/project_assigned.ts:55](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_assigned.ts#L55)

@@ -1,5 +1,4 @@
 # service/project\_permission\_revoke
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_permission\_revoke
 
 ## Table of contents
@@ -22,7 +21,7 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 ### revokeProjectPermission
 
-▸ **revokeProjectPermission**(`conn`, `ctx`, `serviceUser`, `projectId`, `revokee`, `intent`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **revokeProjectPermission**(`conn`, `ctx`, `serviceUser`, `projectId`, `revokee`, `intent`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -37,8 +36,8 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/project_permission_revoke.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/project_permission_revoke.ts#L16)
+[src/service/project_permission_revoke.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_permission_revoke.ts#L17)

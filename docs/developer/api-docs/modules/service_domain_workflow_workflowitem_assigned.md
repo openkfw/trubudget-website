@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_assigned
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_assigned
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assigned.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_assigned.ts#L25)
+[src/service/domain/workflow/workflowitem_assigned.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_assigned.ts#L25)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `assignee`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_assigned.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `assignee`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitem_assigned.Event.md)\>
 
 #### Parameters
 
@@ -49,17 +48,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_assigned.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitem_assigned.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assigned.ts:37](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_assigned.ts#L37)
+[src/service/domain/workflow/workflowitem_assigned.ts:37](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_assigned.ts#L37)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`workflowitem`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`workflowitem`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given workflowitem, or returns an error.
 
@@ -79,17 +78,17 @@ workflowitem is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assigned.ts:81](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_assigned.ts#L81)
+[src/service/domain/workflow/workflowitem_assigned.ts:81](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_assigned.ts#L81)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_assigned.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitem_assigned.Event.md)\>
 
 #### Parameters
 
@@ -99,8 +98,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_workflowitem_assigned.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_workflowitem_assigned.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assigned.ts:66](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_assigned.ts#L66)
+[src/service/domain/workflow/workflowitem_assigned.ts:66](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_assigned.ts#L66)

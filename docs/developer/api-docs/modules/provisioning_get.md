@@ -1,5 +1,4 @@
 # provisioning\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / provisioning\_get
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/provisione
 
 #### Defined in
 
-[src/provisioning_get.ts:72](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/provisioning_get.ts#L72)
+[src/provisioning_get.ts:72](https://github.com/openkfw/TruBudget/blob/92640998/api/src/provisioning_get.ts#L72)

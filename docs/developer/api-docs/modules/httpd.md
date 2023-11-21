@@ -1,5 +1,4 @@
 # httpd
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / httpd
 
 ## Table of contents
@@ -35,11 +34,11 @@
 
 ### AllPermissionsGranter
 
-Ƭ **AllPermissionsGranter**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `grantee`: `string`) => `Promise`<`void`\>
+Ƭ **AllPermissionsGranter**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `grantee`: `string`) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`token`, `grantee`): `Promise`<`void`\>
+▸ (`token`, `grantee`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -50,21 +49,21 @@
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:43](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L43)
+[src/httpd/index.ts:43](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L43)
 
 ___
 
 ### AllPermissionsReader
 
-Ƭ **AllPermissionsReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md)) => `Promise`<[`Permissions`](httpd.md#permissions)\>
+Ƭ **AllPermissionsReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md)) => `Promise`\<[`Permissions`](httpd.md#permissions)\>
 
 #### Type declaration
 
-▸ (`token`): `Promise`<[`Permissions`](httpd.md#permissions)\>
+▸ (`token`): `Promise`\<[`Permissions`](httpd.md#permissions)\>
 
 ##### Parameters
 
@@ -74,21 +73,21 @@ ___
 
 ##### Returns
 
-`Promise`<[`Permissions`](httpd.md#permissions)\>
+`Promise`\<[`Permissions`](httpd.md#permissions)\>
 
 #### Defined in
 
-[src/httpd/index.ts:23](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L23)
+[src/httpd/index.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L23)
 
 ___
 
 ### AllProjectsReader
 
-Ƭ **AllProjectsReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md)) => `Promise`<[`Project`](../interfaces/httpd.Project.md)[]\>
+Ƭ **AllProjectsReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md)) => `Promise`\<[`Project`](../interfaces/httpd.Project.md)[]\>
 
 #### Type declaration
 
-▸ (`token`): `Promise`<[`Project`](../interfaces/httpd.Project.md)[]\>
+▸ (`token`): `Promise`\<[`Project`](../interfaces/httpd.Project.md)[]\>
 
 ##### Parameters
 
@@ -98,21 +97,21 @@ ___
 
 ##### Returns
 
-`Promise`<[`Project`](../interfaces/httpd.Project.md)[]\>
+`Promise`\<[`Project`](../interfaces/httpd.Project.md)[]\>
 
 #### Defined in
 
-[src/httpd/index.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L16)
+[src/httpd/index.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L16)
 
 ___
 
 ### AllWorkflowitemsReader
 
-Ƭ **AllWorkflowitemsReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `subprojectId`: `string`) => `Promise`<[`Workflowitem`](../interfaces/httpd.Workflowitem.md)[]\>
+Ƭ **AllWorkflowitemsReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `subprojectId`: `string`) => `Promise`\<[`Workflowitem`](../interfaces/httpd.Workflowitem.md)[]\>
 
 #### Type declaration
 
-▸ (`token`, `projectId`, `subprojectId`): `Promise`<[`Workflowitem`](../interfaces/httpd.Workflowitem.md)[]\>
+▸ (`token`, `projectId`, `subprojectId`): `Promise`\<[`Workflowitem`](../interfaces/httpd.Workflowitem.md)[]\>
 
 ##### Parameters
 
@@ -124,21 +123,21 @@ ___
 
 ##### Returns
 
-`Promise`<[`Workflowitem`](../interfaces/httpd.Workflowitem.md)[]\>
+`Promise`\<[`Workflowitem`](../interfaces/httpd.Workflowitem.md)[]\>
 
 #### Defined in
 
-[src/httpd/index.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L17)
+[src/httpd/index.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L17)
 
 ___
 
 ### GlobalPermissionGranter
 
-Ƭ **GlobalPermissionGranter**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `grantee`: `string`, `intent`: [`default`](authz_intents.md#default)) => `Promise`<`void`\>
+Ƭ **GlobalPermissionGranter**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `grantee`: `string`, `intent`: [`default`](authz_intents.md#default)) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`token`, `grantee`, `intent`): `Promise`<`void`\>
+▸ (`token`, `grantee`, `intent`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -150,21 +149,21 @@ ___
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:37](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L37)
+[src/httpd/index.ts:37](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L37)
 
 ___
 
 ### GlobalPermissionRevoker
 
-Ƭ **GlobalPermissionRevoker**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `recipient`: `string`, `intent`: [`default`](authz_intents.md#default)) => `Promise`<`void`\>
+Ƭ **GlobalPermissionRevoker**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `recipient`: `string`, `intent`: [`default`](authz_intents.md#default)) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`token`, `recipient`, `intent`): `Promise`<`void`\>
+▸ (`token`, `recipient`, `intent`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -176,31 +175,31 @@ ___
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:45](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L45)
+[src/httpd/index.ts:45](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L45)
 
 ___
 
 ### Permissions
 
-Ƭ **Permissions**: { [key in default]?: string[] }
+Ƭ **Permissions**: \{ [key in default]?: string[] }
 
 #### Defined in
 
-[src/httpd/index.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L12)
+[src/httpd/index.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L12)
 
 ___
 
 ### ProjectAssigner
 
-Ƭ **ProjectAssigner**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `assignee`: `string`) => `Promise`<`void`\>
+Ƭ **ProjectAssigner**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `assignee`: `string`) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`token`, `projectId`, `assignee`): `Promise`<`void`\>
+▸ (`token`, `projectId`, `assignee`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -212,21 +211,21 @@ ___
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:58](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L58)
+[src/httpd/index.ts:58](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L58)
 
 ___
 
 ### ProjectCreator
 
-Ƭ **ProjectCreator**: (`ctx`: [`Ctx`](../interfaces/lib_ctx.Ctx.md), `issuer`: [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md), `token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `payload`: [`CreateProjectPayload`](../interfaces/httpd.CreateProjectPayload.md)) => `Promise`<`void`\>
+Ƭ **ProjectCreator**: (`ctx`: [`Ctx`](../interfaces/lib_ctx.Ctx.md), `issuer`: [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md), `token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `payload`: [`CreateProjectPayload`](../interfaces/httpd.CreateProjectPayload.md)) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`ctx`, `issuer`, `token`, `payload`): `Promise`<`void`\>
+▸ (`ctx`, `issuer`, `token`, `payload`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -239,21 +238,21 @@ ___
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:51](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L51)
+[src/httpd/index.ts:51](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L51)
 
 ___
 
 ### ProjectPermissionsGranter
 
-Ƭ **ProjectPermissionsGranter**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `grantee`: `string`, `intent`: [`default`](authz_intents.md#default)) => `Promise`<`void`\>
+Ƭ **ProjectPermissionsGranter**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `grantee`: `string`, `intent`: [`default`](authz_intents.md#default)) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`token`, `projectId`, `grantee`, `intent`): `Promise`<`void`\>
+▸ (`token`, `projectId`, `grantee`, `intent`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -266,21 +265,21 @@ ___
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:30](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L30)
+[src/httpd/index.ts:30](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L30)
 
 ___
 
 ### ProjectPermissionsReader
 
-Ƭ **ProjectPermissionsReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`) => `Promise`<[`Permissions`](httpd.md#permissions)\>
+Ƭ **ProjectPermissionsReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`) => `Promise`\<[`Permissions`](httpd.md#permissions)\>
 
 #### Type declaration
 
-▸ (`token`, `projectId`): `Promise`<[`Permissions`](httpd.md#permissions)\>
+▸ (`token`, `projectId`): `Promise`\<[`Permissions`](httpd.md#permissions)\>
 
 ##### Parameters
 
@@ -291,21 +290,21 @@ ___
 
 ##### Returns
 
-`Promise`<[`Permissions`](httpd.md#permissions)\>
+`Promise`\<[`Permissions`](httpd.md#permissions)\>
 
 #### Defined in
 
-[src/httpd/index.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L25)
+[src/httpd/index.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L25)
 
 ___
 
 ### ProjectReader
 
-Ƭ **ProjectReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `id`: `string`) => `Promise`<[`ProjectAndSubprojects`](../interfaces/httpd.ProjectAndSubprojects.md)\>
+Ƭ **ProjectReader**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `id`: `string`) => `Promise`\<[`ProjectAndSubprojects`](../interfaces/httpd.ProjectAndSubprojects.md)\>
 
 #### Type declaration
 
-▸ (`token`, `id`): `Promise`<[`ProjectAndSubprojects`](../interfaces/httpd.ProjectAndSubprojects.md)\>
+▸ (`token`, `id`): `Promise`\<[`ProjectAndSubprojects`](../interfaces/httpd.ProjectAndSubprojects.md)\>
 
 ##### Parameters
 
@@ -316,21 +315,21 @@ ___
 
 ##### Returns
 
-`Promise`<[`ProjectAndSubprojects`](../interfaces/httpd.ProjectAndSubprojects.md)\>
+`Promise`\<[`ProjectAndSubprojects`](../interfaces/httpd.ProjectAndSubprojects.md)\>
 
 #### Defined in
 
-[src/httpd/index.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L14)
+[src/httpd/index.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L14)
 
 ___
 
 ### ProjectUpdater
 
-Ƭ **ProjectUpdater**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `update`: `object`) => `Promise`<`void`\>
+Ƭ **ProjectUpdater**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `update`: `object`) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`token`, `projectId`, `update`): `Promise`<`void`\>
+▸ (`token`, `projectId`, `update`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -342,21 +341,21 @@ ___
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:64](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L64)
+[src/httpd/index.ts:64](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L64)
 
 ___
 
 ### WorkflowitemAssigner
 
-Ƭ **WorkflowitemAssigner**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `subprojectId`: `string`, `workflowitemId`: `string`, `newAssignee`: `string`) => `Promise`<`void`\>
+Ƭ **WorkflowitemAssigner**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `subprojectId`: `string`, `workflowitemId`: `string`, `newAssignee`: `string`) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`token`, `projectId`, `subprojectId`, `workflowitemId`, `newAssignee`): `Promise`<`void`\>
+▸ (`token`, `projectId`, `subprojectId`, `workflowitemId`, `newAssignee`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -370,21 +369,21 @@ ___
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:105](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L105)
+[src/httpd/index.ts:105](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L105)
 
 ___
 
 ### WorkflowitemCloser
 
-Ƭ **WorkflowitemCloser**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `subprojectId`: `string`, `workflowitemId`: `string`) => `Promise`<`void`\>
+Ƭ **WorkflowitemCloser**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `subprojectId`: `string`, `workflowitemId`: `string`) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`token`, `projectId`, `subprojectId`, `workflowitemId`): `Promise`<`void`\>
+▸ (`token`, `projectId`, `subprojectId`, `workflowitemId`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -397,21 +396,21 @@ ___
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:89](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L89)
+[src/httpd/index.ts:89](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L89)
 
 ___
 
 ### WorkflowitemUpdater
 
-Ƭ **WorkflowitemUpdater**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `subprojectId`: `string`, `workflowitemId`: `string`, `updatedData`: `any`) => `Promise`<`void`\>
+Ƭ **WorkflowitemUpdater**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `subprojectId`: `string`, `workflowitemId`: `string`, `updatedData`: `any`) => `Promise`\<`void`\>
 
 #### Type declaration
 
-▸ (`token`, `projectId`, `subprojectId`, `workflowitemId`, `updatedData`): `Promise`<`void`\>
+▸ (`token`, `projectId`, `subprojectId`, `workflowitemId`, `updatedData`): `Promise`\<`void`\>
 
 ##### Parameters
 
@@ -425,8 +424,8 @@ ___
 
 ##### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/httpd/index.ts:96](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/index.ts#L96)
+[src/httpd/index.ts:96](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L96)

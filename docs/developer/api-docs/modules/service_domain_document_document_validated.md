@@ -1,5 +1,4 @@
 # service/domain/document/document\_validated
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/document\_validated
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L26)
+[src/service/domain/document/document_validated.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L26)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`isDocumentValid`, `documentId`, `source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
+▸ **createEvent**(`isDocumentValid`, `documentId`, `source`, `publisher`, `projectId`, `subprojectId`, `workflowitemId`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
 
 #### Parameters
 
@@ -50,17 +49,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:39](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L39)
+[src/service/domain/document/document_validated.ts:39](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L39)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`_workflowitem`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`_workflowitem`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given workflowitem, or returns an error.
 
@@ -80,17 +79,17 @@ workflowitem is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:84](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L84)
+[src/service/domain/document/document_validated.ts:84](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L84)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
 
 #### Parameters
 
@@ -100,8 +99,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_document_document_validated.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:69](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L69)
+[src/service/domain/document/document_validated.ts:69](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L69)

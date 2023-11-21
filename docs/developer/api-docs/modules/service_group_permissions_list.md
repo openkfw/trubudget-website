@@ -1,5 +1,4 @@
 # service/group\_permissions\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/group\_permissions\_list
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getGroupPermissions
 
-▸ **getGroupPermissions**(`conn`, `ctx`, `serviceUser`, `groupId`): `Promise`<[`Type`](result.md#type)<[`Permissions`](service_domain_permissions.md#permissions)\>\>
+▸ **getGroupPermissions**(`conn`, `ctx`, `serviceUser`, `groupId`): `Promise`\<[`Type`](result.md#type)\<[`Permissions`](service_domain_permissions.md#permissions)\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Permissions`](service_domain_permissions.md#permissions)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Permissions`](service_domain_permissions.md#permissions)\>\>
 
 #### Defined in
 
-[src/service/group_permissions_list.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/group_permissions_list.ts#L13)
+[src/service/group_permissions_list.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/group_permissions_list.ts#L13)

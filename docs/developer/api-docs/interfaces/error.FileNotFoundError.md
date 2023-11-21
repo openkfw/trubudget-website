@@ -1,5 +1,4 @@
 # FileNotFoundError
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [error](../modules/error.md) / FileNotFoundError
 
 [error](../modules/error.md).FileNotFoundError
@@ -21,7 +20,7 @@ Error type thrown when a file is not found
 
 #### Defined in
 
-[src/error.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/error.ts#L26)
+[src/error.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L26)
 
 ___
 
@@ -31,4 +30,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/error.ts#L25)
+[src/error.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L25)

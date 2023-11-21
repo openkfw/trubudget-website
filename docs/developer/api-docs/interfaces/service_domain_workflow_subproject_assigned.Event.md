@@ -1,8 +1,7 @@
-# Event: 
- 
+# Event: service/domain/workflow/subproject_assigned
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/workflow/subproject\_assigned](../modules/service_domain_workflow_subproject_assigned.md) / Event
 
-[service/domain/workflow/subproject_assigned](../modules/service_domain_workflow_subproject_assigned.md).Event
+[service/domain/workflow/subproject\_assigned](../modules/service_domain_workflow_subproject_assigned.md).Event
 
 ## Table of contents
 
@@ -25,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:19](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_assigned.ts#L19)
+[src/service/domain/workflow/subproject_assigned.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_assigned.ts#L19)
 
 ___
 
@@ -35,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:20](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_assigned.ts#L20)
+[src/service/domain/workflow/subproject_assigned.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_assigned.ts#L20)
 
 ___
 
@@ -45,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_assigned.ts#L17)
+[src/service/domain/workflow/subproject_assigned.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_assigned.ts#L17)
 
 ___
 
@@ -55,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_assigned.ts#L16)
+[src/service/domain/workflow/subproject_assigned.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_assigned.ts#L16)
 
 ___
 
@@ -65,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_assigned.ts#L14)
+[src/service/domain/workflow/subproject_assigned.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_assigned.ts#L14)
 
 ___
 
@@ -75,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_assigned.ts#L18)
+[src/service/domain/workflow/subproject_assigned.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_assigned.ts#L18)
 
 ___
 
@@ -85,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_assigned.ts#L15)
+[src/service/domain/workflow/subproject_assigned.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_assigned.ts#L15)
 
 ___
 
@@ -95,4 +94,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_assigned.ts#L13)
+[src/service/domain/workflow/subproject_assigned.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_assigned.ts#L13)

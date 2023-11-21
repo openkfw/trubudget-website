@@ -1,5 +1,4 @@
 # network/controller/list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/list
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getNodeList
 
-▸ **getNodeList**(`conn`, `ctx`, `issuer`, `req`): `Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **getNodeList**(`conn`, `ctx`, `issuer`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Defined in
 
-[src/network/controller/list.ts:41](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/controller/list.ts#L41)
+[src/network/controller/list.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/list.ts#L41)

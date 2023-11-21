@@ -1,5 +1,4 @@
 # service/project\_permissions\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_permissions\_list
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getProjectPermissions
 
-▸ **getProjectPermissions**(`conn`, `ctx`, `serviceUser`, `projectId`): `Promise`<[`Type`](result.md#type)<[`Permissions`](service_domain_permissions.md#permissions)\>\>
+▸ **getProjectPermissions**(`conn`, `ctx`, `serviceUser`, `projectId`): `Promise`\<[`Type`](result.md#type)\<[`Permissions`](service_domain_permissions.md#permissions)\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Permissions`](service_domain_permissions.md#permissions)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Permissions`](service_domain_permissions.md#permissions)\>\>
 
 #### Defined in
 
-[src/service/project_permissions_list.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/project_permissions_list.ts#L11)
+[src/service/project_permissions_list.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_permissions_list.ts#L11)

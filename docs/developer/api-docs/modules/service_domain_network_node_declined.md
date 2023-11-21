@@ -1,5 +1,4 @@
 # service/domain/network/node\_declined
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/network/node\_declined
 
 ## Table of contents
@@ -21,17 +20,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:24](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/network/node_declined.ts#L24)
+[src/service/domain/network/node_declined.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/network/node_declined.ts#L24)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `address`, `organization`, `declinerAddress`, `declinerOrganization`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `address`, `organization`, `declinerAddress`, `declinerOrganization`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
 
 #### Parameters
 
@@ -48,17 +47,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:36](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/network/node_declined.ts#L36)
+[src/service/domain/network/node_declined.ts:36](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/network/node_declined.ts#L36)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
 
 #### Parameters
 
@@ -68,8 +67,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_network_node_declined.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/network/node_declined.ts:66](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/network/node_declined.ts#L66)
+[src/service/domain/network/node_declined.ts:66](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/network/node_declined.ts#L66)

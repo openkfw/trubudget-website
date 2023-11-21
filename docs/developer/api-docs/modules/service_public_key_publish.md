@@ -1,5 +1,4 @@
 # service/public\_key\_publish
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/public\_key\_publish
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### publishPublicKey
 
-▸ **publishPublicKey**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`<[`Type`](result.md#type)<`PublicKey`\>\>
+▸ **publishPublicKey**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`\<[`Type`](result.md#type)\<`PublicKey`\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`PublicKey`\>\>
+`Promise`\<[`Type`](result.md#type)\<`PublicKey`\>\>
 
 #### Defined in
 
-[src/service/public_key_publish.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/public_key_publish.ts#L18)
+[src/service/public_key_publish.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/public_key_publish.ts#L18)

@@ -1,5 +1,4 @@
 # service/domain/organization/group\_member\_add
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_member\_add
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### addMembers
 
-▸ **addMembers**(`ctx`, `issuer`, `groupId`, `newMembers`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
+▸ **addMembers**(`ctx`, `issuer`, `groupId`, `newMembers`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>\>
 
 #### Defined in
 
-[src/service/domain/organization/group_member_add.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_member_add.ts#L18)
+[src/service/domain/organization/group_member_add.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_add.ts#L18)

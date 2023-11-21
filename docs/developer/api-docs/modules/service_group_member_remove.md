@@ -1,5 +1,4 @@
 # service/group\_member\_remove
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/group\_member\_remove
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### removeMembers
 
-▸ **removeMembers**(`conn`, `ctx`, `serviceUser`, `groupId`, `userIds`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **removeMembers**(`conn`, `ctx`, `serviceUser`, `groupId`, `userIds`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/group_member_remove.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/group_member_remove.ts#L12)
+[src/service/group_member_remove.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/group_member_remove.ts#L12)

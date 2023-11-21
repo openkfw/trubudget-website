@@ -1,5 +1,4 @@
 # service/project\_assign
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_assign
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### assignProject
 
-▸ **assignProject**(`conn`, `ctx`, `serviceUser`, `projectId`, `assignee`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **assignProject**(`conn`, `ctx`, `serviceUser`, `projectId`, `assignee`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/project_assign.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/project_assign.ts#L14)
+[src/service/project_assign.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_assign.ts#L15)

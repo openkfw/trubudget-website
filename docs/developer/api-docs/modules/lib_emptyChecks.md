@@ -1,5 +1,4 @@
 # lib/emptyChecks
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/emptyChecks
 
 ## Table of contents
@@ -13,7 +12,7 @@
 
 ### isEmpty
 
-▸ **isEmpty**<`T`\>(`value`): value is undefined \| null
+▸ **isEmpty**\<`T`\>(`value`): value is undefined \| null
 
 #### Type parameters
 
@@ -33,13 +32,13 @@ value is undefined \| null
 
 #### Defined in
 
-[src/lib/emptyChecks.ts:1](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/emptyChecks.ts#L1)
+[src/lib/emptyChecks.ts:1](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/emptyChecks.ts#L1)
 
 ___
 
 ### isNotEmpty
 
-▸ **isNotEmpty**<`T`\>(`value`): value is T
+▸ **isNotEmpty**\<`T`\>(`value`): value is T
 
 #### Type parameters
 
@@ -59,4 +58,4 @@ value is T
 
 #### Defined in
 
-[src/lib/emptyChecks.ts:7](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/emptyChecks.ts#L7)
+[src/lib/emptyChecks.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/emptyChecks.ts#L7)

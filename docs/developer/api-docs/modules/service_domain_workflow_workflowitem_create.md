@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_create
 
 ## Table of contents
@@ -17,7 +16,7 @@
 
 ### createWorkflowitem
 
-▸ **createWorkflowitem**(`ctx`, `issuer`, `reqData`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **createWorkflowitem**(`ctx`, `issuer`, `reqData`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -30,17 +29,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_create.ts:115](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_create.ts#L115)
+[src/service/domain/workflow/workflowitem_create.ts:115](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_create.ts#L115)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_workflow_workflowitem_create.RequestData.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_workflow_workflowitem_create.RequestData.md)\>
 
 #### Parameters
 
@@ -50,8 +49,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`RequestData`](../interfaces/service_domain_workflow_workflowitem_create.RequestData.md)\>
+[`Type`](result.md#type)\<[`RequestData`](../interfaces/service_domain_workflow_workflowitem_create.RequestData.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_create.ts:71](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_create.ts#L71)
+[src/service/domain/workflow/workflowitem_create.ts:71](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_create.ts#L71)

@@ -1,5 +1,4 @@
 # default
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [system/blockchainApi](../modules/system_blockchainApi.md) / default
 
 [system/blockchainApi](../modules/system_blockchainApi.md).default
@@ -27,7 +26,7 @@
 
 #### Defined in
 
-[src/system/blockchainApi.ts:9](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/system/blockchainApi.ts#L9)
+[src/system/blockchainApi.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/blockchainApi.ts#L9)
 
 ## Properties
 
@@ -37,21 +36,21 @@
 
 #### Defined in
 
-[src/system/blockchainApi.ts:7](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/system/blockchainApi.ts#L7)
+[src/system/blockchainApi.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/blockchainApi.ts#L7)
 
 ## Methods
 
 ### fetchVersion
 
-▸ **fetchVersion**(): `Promise`<`AxiosResponse`<`any`, `any`\>\>
+▸ **fetchVersion**(): `Promise`\<`AxiosResponse`\<`any`, `any`\>\>
 
 #### Returns
 
-`Promise`<`AxiosResponse`<`any`, `any`\>\>
+`Promise`\<`AxiosResponse`\<`any`, `any`\>\>
 
 #### Defined in
 
-[src/system/blockchainApi.ts:29](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/system/blockchainApi.ts#L29)
+[src/system/blockchainApi.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/blockchainApi.ts#L29)
 
 ___
 
@@ -71,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/system/blockchainApi.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/system/blockchainApi.ts#L25)
+[src/system/blockchainApi.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/blockchainApi.ts#L25)

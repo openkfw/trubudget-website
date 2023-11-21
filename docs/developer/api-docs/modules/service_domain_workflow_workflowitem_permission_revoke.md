@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_permission\_revoke
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_permission\_revoke
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### revokeWorkflowitemPermission
 
-▸ **revokeWorkflowitemPermission**(`ctx`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `revokee`, `intent`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **revokeWorkflowitemPermission**(`ctx`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `revokee`, `intent`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -29,8 +28,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoke.ts:29](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_permission_revoke.ts#L29)
+[src/service/domain/workflow/workflowitem_permission_revoke.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_permission_revoke.ts#L29)

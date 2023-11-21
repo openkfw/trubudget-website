@@ -1,5 +1,4 @@
 # service/domain/organization/public\_key\_eventsourcing
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/public\_key\_eventsourcing
 
 ## Table of contents
@@ -16,11 +15,11 @@
 
 ### KeysByOrganization
 
-Ƭ **KeysByOrganization**: `Map`<[`Organization`](service_domain_organization_public_key.md#organization), [`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>
+Ƭ **KeysByOrganization**: `Map`\<[`Organization`](service_domain_organization_public_key.md#organization), [`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>
 
 #### Defined in
 
-[src/service/domain/organization/public_key_eventsourcing.ts:10](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/public_key_eventsourcing.ts#L10)
+[src/service/domain/organization/public_key_eventsourcing.ts:10](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_eventsourcing.ts#L10)
 
 ## Functions
 
@@ -46,4 +45,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_eventsourcing.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/public_key_eventsourcing.ts#L12)
+[src/service/domain/organization/public_key_eventsourcing.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_eventsourcing.ts#L12)

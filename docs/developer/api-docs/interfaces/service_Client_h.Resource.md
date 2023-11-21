@@ -1,5 +1,4 @@
 # Resource
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client.h](../modules/service_Client_h.md) / Resource
 
 [service/Client.h](../modules/service_Client_h.md).Resource
@@ -20,7 +19,7 @@
 
 #### Defined in
 
-[src/service/Client.h.ts:102](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L102)
+[src/service/Client.h.ts:102](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L102)
 
 ___
 
@@ -30,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:100](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L100)
+[src/service/Client.h.ts:100](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L100)
 
 ___
 
@@ -40,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:101](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L101)
+[src/service/Client.h.ts:101](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L101)

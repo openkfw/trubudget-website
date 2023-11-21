@@ -1,5 +1,4 @@
 # lib/timeout
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/timeout
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### default
 
-▸ **default**(`ms`): `Promise`<`void`\>
+▸ **default**(`ms`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -22,8 +21,8 @@
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/lib/timeout.ts:1](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/timeout.ts#L1)
+[src/lib/timeout.ts:1](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/timeout.ts#L1)

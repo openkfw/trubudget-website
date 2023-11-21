@@ -1,5 +1,4 @@
 # service/domain/workflow/global\_permissions\_trace\_event
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/global\_permissions\_trace\_event
 
 ## Table of contents
@@ -16,8 +15,8 @@
 
 ### globalPermissionsTraceEventSchema
 
-• `Const` **globalPermissionsTraceEventSchema**: `ObjectSchema`<`any`\>
+• `Const` **globalPermissionsTraceEventSchema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions_trace_event.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/global_permissions_trace_event.ts#L11)
+[src/service/domain/workflow/global_permissions_trace_event.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permissions_trace_event.ts#L11)

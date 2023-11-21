@@ -1,5 +1,4 @@
 # service/subproject\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_create
 
 ## Table of contents
@@ -22,7 +21,7 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_subproject_create
 
 ### createSubproject
 
-▸ **createSubproject**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`<[`Type`](result.md#type)<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
+▸ **createSubproject**(`conn`, `ctx`, `serviceUser`, `requestData`): `Promise`\<[`Type`](result.md#type)\<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
 
 #### Parameters
 
@@ -35,8 +34,8 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_subproject_create
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
 
 #### Defined in
 
-[src/service/subproject_create.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/subproject_create.ts#L14)
+[src/service/subproject_create.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_create.ts#L16)

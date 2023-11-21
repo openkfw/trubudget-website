@@ -1,8 +1,7 @@
-# RequestData: 
- 
+# RequestData: service/domain/organization/user_create
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/user\_create](../modules/service_domain_organization_user_create.md) / RequestData
 
-[service/domain/organization/user_create](../modules/service_domain_organization_user_create.md).RequestData
+[service/domain/organization/user\_create](../modules/service_domain_organization_user_create.md).RequestData
 
 ## Table of contents
 
@@ -22,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_create.ts:27](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_create.ts#L27)
+[src/service/domain/organization/user_create.ts:27](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_create.ts#L27)
 
 ___
 
@@ -32,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_create.ts:24](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_create.ts#L24)
+[src/service/domain/organization/user_create.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_create.ts#L24)
 
 ___
 
@@ -42,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_create.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_create.ts#L25)
+[src/service/domain/organization/user_create.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_create.ts#L25)
 
 ___
 
@@ -52,7 +51,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_create.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_create.ts#L26)
+[src/service/domain/organization/user_create.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_create.ts#L26)
 
 ___
 
@@ -62,4 +61,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_create.ts:23](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_create.ts#L23)
+[src/service/domain/organization/user_create.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_create.ts#L23)

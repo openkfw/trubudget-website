@@ -1,5 +1,4 @@
 # Schema
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [httpd/schema](../modules/httpd_schema.md) / Schema
 
 [httpd/schema](../modules/httpd_schema.md).Schema
@@ -19,7 +18,7 @@
 
 #### Defined in
 
-[src/httpd/schema.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/schema.ts#L13)
+[src/httpd/schema.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/schema.ts#L13)
 
 ___
 
@@ -29,4 +28,4 @@ ___
 
 #### Defined in
 
-[src/httpd/schema.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/schema.ts#L14)
+[src/httpd/schema.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/schema.ts#L14)

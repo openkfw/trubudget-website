@@ -1,5 +1,4 @@
 # organization/organization
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / organization/organization
 
 ## Table of contents
@@ -16,7 +15,7 @@
 
 ### ensureOrganizationStream
 
-▸ **ensureOrganizationStream**(`multichain`, `organization`, `organizationVaultSecret`): `Promise`<`string`\>
+▸ **ensureOrganizationStream**(`multichain`, `organization`, `organizationVaultSecret`): `Promise`\<`string`\>
 
 #### Parameters
 
@@ -28,17 +27,17 @@
 
 #### Returns
 
-`Promise`<`string`\>
+`Promise`\<`string`\>
 
 #### Defined in
 
-[src/organization/organization.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/organization/organization.ts#L31)
+[src/organization/organization.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L31)
 
 ___
 
 ### getOrganizationAddress
 
-▸ **getOrganizationAddress**(`multichain`, `organization`): `Promise`<[`WalletAddress`](network_model_Nodes.md#walletaddress) \| `undefined`\>
+▸ **getOrganizationAddress**(`multichain`, `organization`): `Promise`\<[`WalletAddress`](network_model_Nodes.md#walletaddress) \| `undefined`\>
 
 #### Parameters
 
@@ -49,17 +48,17 @@ ___
 
 #### Returns
 
-`Promise`<[`WalletAddress`](network_model_Nodes.md#walletaddress) \| `undefined`\>
+`Promise`\<[`WalletAddress`](network_model_Nodes.md#walletaddress) \| `undefined`\>
 
 #### Defined in
 
-[src/organization/organization.ts:199](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/organization/organization.ts#L199)
+[src/organization/organization.ts:199](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L199)
 
 ___
 
 ### getPrivateKey
 
-▸ **getPrivateKey**(`multichain`, `organization`, `organizationVaultSecret`): `Promise`<[`Type`](result.md#type)<`Base64String`\>\>
+▸ **getPrivateKey**(`multichain`, `organization`, `organizationVaultSecret`): `Promise`\<[`Type`](result.md#type)\<`Base64String`\>\>
 
 #### Parameters
 
@@ -71,17 +70,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`Base64String`\>\>
+`Promise`\<[`Type`](result.md#type)\<`Base64String`\>\>
 
 #### Defined in
 
-[src/organization/organization.ts:65](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/organization/organization.ts#L65)
+[src/organization/organization.ts:65](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L65)
 
 ___
 
 ### organizationExists
 
-▸ **organizationExists**(`multichain`, `organization`): `Promise`<[`Type`](result.md#type)<`boolean`\>\>
+▸ **organizationExists**(`multichain`, `organization`): `Promise`\<[`Type`](result.md#type)\<`boolean`\>\>
 
 #### Parameters
 
@@ -92,17 +91,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`boolean`\>\>
+`Promise`\<[`Type`](result.md#type)\<`boolean`\>\>
 
 #### Defined in
 
-[src/organization/organization.ts:188](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/organization/organization.ts#L188)
+[src/organization/organization.ts:188](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L188)
 
 ___
 
 ### publishPrivateKey
 
-▸ **publishPrivateKey**(`multichain`, `organization`, `privateKey`, `organizationVaultSecret`): `Promise`<[`Type`](result.md#type)<`PrivateKeyItem`\>\>
+▸ **publishPrivateKey**(`multichain`, `organization`, `privateKey`, `organizationVaultSecret`): `Promise`\<[`Type`](result.md#type)\<`PrivateKeyItem`\>\>
 
 #### Parameters
 
@@ -115,8 +114,8 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`PrivateKeyItem`\>\>
+`Promise`\<[`Type`](result.md#type)\<`PrivateKeyItem`\>\>
 
 #### Defined in
 
-[src/organization/organization.ts:92](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/organization/organization.ts#L92)
+[src/organization/organization.ts:92](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L92)

@@ -1,5 +1,4 @@
 # service/store
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/store
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### store
 
-▸ **store**(`conn`, `ctx`, `event`, `publisherAddress`): `Promise`<`void`\>
+▸ **store**(`conn`, `ctx`, `event`, `publisherAddress`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/store.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/store.ts#L15)
+[src/service/store.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/store.ts#L15)

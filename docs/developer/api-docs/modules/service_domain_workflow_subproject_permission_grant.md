@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_permission\_grant
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_permission\_grant
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### grantSubprojectPermission
 
-▸ **grantSubprojectPermission**(`ctx`, `issuer`, `projectId`, `subprojectId`, `grantee`, `intent`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **grantSubprojectPermission**(`ctx`, `issuer`, `projectId`, `subprojectId`, `grantee`, `intent`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -28,8 +27,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_grant.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_permission_grant.ts#L26)
+[src/service/domain/workflow/subproject_permission_grant.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_grant.ts#L26)

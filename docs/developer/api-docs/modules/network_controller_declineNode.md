@@ -1,5 +1,4 @@
 # network/controller/declineNode
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/declineNode
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### declineNode
 
-▸ **declineNode**(`multichain`, `req`): `Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **declineNode**(`multichain`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
@@ -23,8 +22,8 @@
 
 #### Returns
 
-`Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Defined in
 
-[src/network/controller/declineNode.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/controller/declineNode.ts#L14)
+[src/network/controller/declineNode.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/declineNode.ts#L14)

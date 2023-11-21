@@ -1,5 +1,4 @@
 # system/getVersion
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/getVersion
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getVersion
 
-▸ **getVersion**(`blockchainHost`, `blockchainPort`, `multichainClient`, `storageServiceClient`): `Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **getVersion**(`blockchainHost`, `blockchainPort`, `multichainClient`, `storageServiceClient`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Defined in
 
-[src/system/getVersion.ts:46](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/system/getVersion.ts#L46)
+[src/system/getVersion.ts:46](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/getVersion.ts#L46)

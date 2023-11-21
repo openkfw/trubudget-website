@@ -1,5 +1,4 @@
 # httpd/lib
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / httpd/lib
 
 ## Table of contents
@@ -28,7 +27,7 @@
 
 #### Defined in
 
-[src/httpd/lib.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/lib.ts#L25)
+[src/httpd/lib.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/lib.ts#L25)
 
 ___
 
@@ -38,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/httpd/lib.ts:24](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/lib.ts#L24)
+[src/httpd/lib.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/lib.ts#L24)
 
 ## Functions
 
@@ -59,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/httpd/lib.ts:27](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/lib.ts#L27)
+[src/httpd/lib.ts:27](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/lib.ts#L27)
 
 ___
 
@@ -80,4 +79,4 @@ ___
 
 #### Defined in
 
-[src/httpd/lib.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/httpd/lib.ts#L31)
+[src/httpd/lib.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/lib.ts#L31)

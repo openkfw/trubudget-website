@@ -1,8 +1,7 @@
-# Event: 
- 
+# Event: service/domain/document/document_validated
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/document/document\_validated](../modules/service_domain_document_document_validated.md) / Event
 
-[service/domain/document/document_validated](../modules/service_domain_document_document_validated.md).Event
+[service/domain/document/document\_validated](../modules/service_domain_document_document_validated.md).Event
 
 ## Table of contents
 
@@ -27,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L16)
+[src/service/domain/document/document_validated.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L16)
 
 ___
 
@@ -37,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L15)
+[src/service/domain/document/document_validated.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L15)
 
 ___
 
@@ -47,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:23](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L23)
+[src/service/domain/document/document_validated.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L23)
 
 ___
 
@@ -57,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:20](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L20)
+[src/service/domain/document/document_validated.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L20)
 
 ___
 
@@ -67,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:19](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L19)
+[src/service/domain/document/document_validated.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L19)
 
 ___
 
@@ -77,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L17)
+[src/service/domain/document/document_validated.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L17)
 
 ___
 
@@ -87,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:21](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L21)
+[src/service/domain/document/document_validated.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L21)
 
 ___
 
@@ -97,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L18)
+[src/service/domain/document/document_validated.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L18)
 
 ___
 
@@ -107,7 +106,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L14)
+[src/service/domain/document/document_validated.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L14)
 
 ___
 
@@ -117,4 +116,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:22](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validated.ts#L22)
+[src/service/domain/document/document_validated.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validated.ts#L22)

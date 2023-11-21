@@ -1,5 +1,4 @@
 # service/subproject\_permission\_grant
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_permission\_grant
 
 ## Table of contents
@@ -22,7 +21,7 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 ### grantSubprojectPermission
 
-▸ **grantSubprojectPermission**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `grantee`, `intent`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **grantSubprojectPermission**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `grantee`, `intent`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -38,8 +37,8 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/subproject_permission_grant.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/subproject_permission_grant.ts#L17)
+[src/service/subproject_permission_grant.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_permission_grant.ts#L18)

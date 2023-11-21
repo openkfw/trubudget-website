@@ -1,5 +1,4 @@
 # service/subproject\_close
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_close
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### closeSubproject
 
-▸ **closeSubproject**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **closeSubproject**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/subproject_close.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/subproject_close.ts#L14)
+[src/service/subproject_close.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_close.ts#L16)

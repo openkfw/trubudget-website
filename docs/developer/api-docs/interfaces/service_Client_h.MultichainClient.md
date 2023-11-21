@@ -1,5 +1,4 @@
 # MultichainClient
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client.h](../modules/service_Client_h.md) / MultichainClient
 
 [service/Client.h](../modules/service_Client_h.md).MultichainClient
@@ -44,13 +43,13 @@
 
 #### Defined in
 
-[src/service/Client.h.ts:140](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L140)
+[src/service/Client.h.ts:140](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L140)
 
 ___
 
 ### getLastBlockInfo
 
-▸ **getLastBlockInfo**(`skip?`): `Promise`<[`BlockInfo`](service_Client_h.BlockInfo.md)\>
+▸ **getLastBlockInfo**(`skip?`): `Promise`\<[`BlockInfo`](service_Client_h.BlockInfo.md)\>
 
 Get the latest block, possibly skipping a few.
 
@@ -62,17 +61,17 @@ Get the latest block, possibly skipping a few.
 
 #### Returns
 
-`Promise`<[`BlockInfo`](service_Client_h.BlockInfo.md)\>
+`Promise`\<[`BlockInfo`](service_Client_h.BlockInfo.md)\>
 
 #### Defined in
 
-[src/service/Client.h.ts:118](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L118)
+[src/service/Client.h.ts:118](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L118)
 
 ___
 
 ### getLatestValues
 
-▸ **getLatestValues**(`streamName`, `key`, `nValues?`): `Promise`<[`StreamItemPair`](service_Client_h.StreamItemPair.md)[]\>
+▸ **getLatestValues**(`streamName`, `key`, `nValues?`): `Promise`\<[`StreamItemPair`](service_Client_h.StreamItemPair.md)[]\>
 
 #### Parameters
 
@@ -84,11 +83,11 @@ ___
 
 #### Returns
 
-`Promise`<[`StreamItemPair`](service_Client_h.StreamItemPair.md)[]\>
+`Promise`\<[`StreamItemPair`](service_Client_h.StreamItemPair.md)[]\>
 
 #### Defined in
 
-[src/service/Client.h.ts:167](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L167)
+[src/service/Client.h.ts:167](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L167)
 
 ___
 
@@ -108,21 +107,21 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:131](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L131)
+[src/service/Client.h.ts:131](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L131)
 
 ___
 
 ### getPeerInfo
 
-▸ **getPeerInfo**(): `Promise`<[`PeerInfo`](service_Client_h.PeerInfo.md)[]\>
+▸ **getPeerInfo**(): `Promise`\<[`PeerInfo`](service_Client_h.PeerInfo.md)[]\>
 
 #### Returns
 
-`Promise`<[`PeerInfo`](service_Client_h.PeerInfo.md)[]\>
+`Promise`\<[`PeerInfo`](service_Client_h.PeerInfo.md)[]\>
 
 #### Defined in
 
-[src/service/Client.h.ts:143](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L143)
+[src/service/Client.h.ts:143](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L143)
 
 ___
 
@@ -136,13 +135,13 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:181](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L181)
+[src/service/Client.h.ts:181](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L181)
 
 ___
 
 ### getValue
 
-▸ **getValue**(`streamName`, `key`): `Promise`<[`StreamItemPair`](service_Client_h.StreamItemPair.md)\>
+▸ **getValue**(`streamName`, `key`): `Promise`\<[`StreamItemPair`](service_Client_h.StreamItemPair.md)\>
 
 #### Parameters
 
@@ -153,17 +152,17 @@ ___
 
 #### Returns
 
-`Promise`<[`StreamItemPair`](service_Client_h.StreamItemPair.md)\>
+`Promise`\<[`StreamItemPair`](service_Client_h.StreamItemPair.md)\>
 
 #### Defined in
 
-[src/service/Client.h.ts:170](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L170)
+[src/service/Client.h.ts:170](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L170)
 
 ___
 
 ### getValues
 
-▸ **getValues**(`streamName`, `key`, `nValues?`): `Promise`<[`StreamItemPair`](service_Client_h.StreamItemPair.md)[]\>
+▸ **getValues**(`streamName`, `key`, `nValues?`): `Promise`\<[`StreamItemPair`](service_Client_h.StreamItemPair.md)[]\>
 
 #### Parameters
 
@@ -175,17 +174,17 @@ ___
 
 #### Returns
 
-`Promise`<[`StreamItemPair`](service_Client_h.StreamItemPair.md)[]\>
+`Promise`\<[`StreamItemPair`](service_Client_h.StreamItemPair.md)[]\>
 
 #### Defined in
 
-[src/service/Client.h.ts:164](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L164)
+[src/service/Client.h.ts:164](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L164)
 
 ___
 
 ### isValidAddress
 
-▸ **isValidAddress**(`address`): `Promise`<`any`\>
+▸ **isValidAddress**(`address`): `Promise`\<`any`\>
 
 #### Parameters
 
@@ -195,17 +194,17 @@ ___
 
 #### Returns
 
-`Promise`<`any`\>
+`Promise`\<`any`\>
 
 #### Defined in
 
-[src/service/Client.h.ts:147](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L147)
+[src/service/Client.h.ts:147](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L147)
 
 ___
 
 ### latestValuesForKey
 
-▸ **latestValuesForKey**(`streamId`, `key`, `nValues?`): `Promise`<`any`[]\>
+▸ **latestValuesForKey**(`streamId`, `key`, `nValues?`): `Promise`\<`any`[]\>
 
 #### Parameters
 
@@ -217,17 +216,17 @@ ___
 
 #### Returns
 
-`Promise`<`any`[]\>
+`Promise`\<`any`[]\>
 
 #### Defined in
 
-[src/service/Client.h.ts:150](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L150)
+[src/service/Client.h.ts:150](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L150)
 
 ___
 
 ### listBlocksByHeight
 
-▸ **listBlocksByHeight**(`to`, `from?`, `verbose?`): `Promise`<[`BlockListItem`](service_Client_h.BlockListItem.md)[]\>
+▸ **listBlocksByHeight**(`to`, `from?`, `verbose?`): `Promise`\<[`BlockListItem`](service_Client_h.BlockListItem.md)[]\>
 
 Retrieve all blocks metadata by block height range.
 You can retrieve the current maximum block height through calling getLastBlockInfo
@@ -242,17 +241,17 @@ You can retrieve the current maximum block height through calling getLastBlockIn
 
 #### Returns
 
-`Promise`<[`BlockListItem`](service_Client_h.BlockListItem.md)[]\>
+`Promise`\<[`BlockListItem`](service_Client_h.BlockListItem.md)[]\>
 
 #### Defined in
 
-[src/service/Client.h.ts:128](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L128)
+[src/service/Client.h.ts:128](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L128)
 
 ___
 
 ### listStreamBlockItemsByHeight
 
-▸ **listStreamBlockItemsByHeight**(`streamName`, `to`, `from?`, `verbose?`): `Promise`<[`Item`](service_liststreamkeyitems.Item.md)[]\>
+▸ **listStreamBlockItemsByHeight**(`streamName`, `to`, `from?`, `verbose?`): `Promise`\<[`Item`](service_liststreamkeyitems.Item.md)[]\>
 
 Retrieve all items within a stream by block height range.
 
@@ -267,11 +266,11 @@ Retrieve all items within a stream by block height range.
 
 #### Returns
 
-`Promise`<[`Item`](service_liststreamkeyitems.Item.md)[]\>
+`Promise`\<[`Item`](service_liststreamkeyitems.Item.md)[]\>
 
 #### Defined in
 
-[src/service/Client.h.ts:197](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L197)
+[src/service/Client.h.ts:197](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L197)
 
 ___
 
@@ -285,13 +284,13 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:145](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L145)
+[src/service/Client.h.ts:145](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L145)
 
 ___
 
 ### setValue
 
-▸ **setValue**(`streamName`, `streamKey`, `object`): `Promise`<`void`\>
+▸ **setValue**(`streamName`, `streamKey`, `object`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -303,17 +302,17 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/Client.h.ts:173](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L173)
+[src/service/Client.h.ts:173](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L173)
 
 ___
 
 ### streamItems
 
-▸ **streamItems**(`streamId`): `Promise`<[`StreamItem`](service_Client_h.StreamItem.md)[]\>
+▸ **streamItems**(`streamId`): `Promise`\<[`StreamItem`](service_Client_h.StreamItem.md)[]\>
 
 #### Parameters
 
@@ -323,17 +322,17 @@ ___
 
 #### Returns
 
-`Promise`<[`StreamItem`](service_Client_h.StreamItem.md)[]\>
+`Promise`\<[`StreamItem`](service_Client_h.StreamItem.md)[]\>
 
 #### Defined in
 
-[src/service/Client.h.ts:137](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L137)
+[src/service/Client.h.ts:137](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L137)
 
 ___
 
 ### streams
 
-▸ **streams**(`stream?`): `Promise`<[`Stream`](service_Client_h.Stream.md)[]\>
+▸ **streams**(`stream?`): `Promise`\<[`Stream`](service_Client_h.Stream.md)[]\>
 
 #### Parameters
 
@@ -343,17 +342,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Stream`](service_Client_h.Stream.md)[]\>
+`Promise`\<[`Stream`](service_Client_h.Stream.md)[]\>
 
 #### Defined in
 
-[src/service/Client.h.ts:134](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L134)
+[src/service/Client.h.ts:134](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L134)
 
 ___
 
 ### updateStreamItem
 
-▸ **updateStreamItem**(`streamId`, `key`, `object`): `Promise`<`string`\>
+▸ **updateStreamItem**(`streamId`, `key`, `object`): `Promise`\<`string`\>
 
 #### Parameters
 
@@ -365,17 +364,17 @@ ___
 
 #### Returns
 
-`Promise`<`string`\>
+`Promise`\<`string`\>
 
 #### Defined in
 
-[src/service/Client.h.ts:157](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L157)
+[src/service/Client.h.ts:157](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L157)
 
 ___
 
 ### updateValue
 
-▸ **updateValue**(`streamName`, `key`, `updateCallback`): `Promise`<`void`\>
+▸ **updateValue**(`streamName`, `key`, `updateCallback`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -387,17 +386,17 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/Client.h.ts:175](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L175)
+[src/service/Client.h.ts:175](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L175)
 
 ___
 
 ### v2\_readStreamItems
 
-▸ **v2_readStreamItems**(`streamName`, `key`, `nValues?`): `Promise`<[`Item`](service_liststreamkeyitems.Item.md)[]\>
+▸ **v2_readStreamItems**(`streamName`, `key`, `nValues?`): `Promise`\<[`Item`](service_liststreamkeyitems.Item.md)[]\>
 
 #### Parameters
 
@@ -409,8 +408,8 @@ ___
 
 #### Returns
 
-`Promise`<[`Item`](service_liststreamkeyitems.Item.md)[]\>
+`Promise`\<[`Item`](service_liststreamkeyitems.Item.md)[]\>
 
 #### Defined in
 
-[src/service/Client.h.ts:183](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client.h.ts#L183)
+[src/service/Client.h.ts:183](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L183)

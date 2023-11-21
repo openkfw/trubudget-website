@@ -1,5 +1,4 @@
 # service/domain/trace\_event
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/trace\_event
 
 ## Table of contents
@@ -20,14 +19,14 @@
 
 #### Defined in
 
-[src/service/domain/trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/trace_event.ts#L14)
+[src/service/domain/trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/trace_event.ts#L14)
 
 ## Variables
 
 ### traceEventSchema
 
-• `Const` **traceEventSchema**: `AlternativesSchema`<`any`\>
+• `Const` **traceEventSchema**: `AlternativesSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/trace_event.ts:20](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/trace_event.ts#L20)
+[src/service/domain/trace_event.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/trace_event.ts#L20)

@@ -1,5 +1,4 @@
 # service/domain/organization/group\_member\_removed
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_member\_removed
 
 ## Table of contents
@@ -21,17 +20,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/group_member_removed.ts:22](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_member_removed.ts#L22)
+[src/service/domain/organization/group_member_removed.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_removed.ts#L22)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `groupId`, `members`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `groupId`, `members`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
 
 #### Parameters
 
@@ -46,17 +45,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/group_member_removed.ts:32](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_member_removed.ts#L32)
+[src/service/domain/organization/group_member_removed.ts:32](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_removed.ts#L32)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
 
 #### Parameters
 
@@ -66,8 +65,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_group_member_removed.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/group_member_removed.ts:58](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_member_removed.ts#L58)
+[src/service/domain/organization/group_member_removed.ts:58](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_removed.ts#L58)

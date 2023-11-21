@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_get\_details
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_get\_details
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getWorkflowitemDetails
 
-▸ **getWorkflowitemDetails**(`ctx`, `user`, `workflowitemId`, `repository`): `Promise`<[`Type`](result.md#type)<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>\>
+▸ **getWorkflowitemDetails**(`ctx`, `user`, `workflowitemId`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_get_details.ts:17](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitem_get_details.ts#L17)
+[src/service/domain/workflow/workflowitem_get_details.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_get_details.ts#L17)

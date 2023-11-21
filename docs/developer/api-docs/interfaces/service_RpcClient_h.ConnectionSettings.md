@@ -1,5 +1,4 @@
 # ConnectionSettings
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/RpcClient.h](../modules/service_RpcClient_h.md) / ConnectionSettings
 
 [service/RpcClient.h](../modules/service_RpcClient_h.md).ConnectionSettings
@@ -32,7 +31,7 @@ IP address or hostname of the node to connect to.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:18](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcClient.h.ts#L18)
+[src/service/RpcClient.h.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.h.ts#L18)
 
 ___
 
@@ -44,7 +43,7 @@ Password to use for authentication.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:35](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcClient.h.ts#L35)
+[src/service/RpcClient.h.ts:35](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.h.ts#L35)
 
 ___
 
@@ -62,7 +61,7 @@ Port number of the node to connect to.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:24](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcClient.h.ts#L24)
+[src/service/RpcClient.h.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.h.ts#L24)
 
 ___
 
@@ -80,7 +79,7 @@ Protocol to use for the connection.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcClient.h.ts#L12)
+[src/service/RpcClient.h.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.h.ts#L12)
 
 ___
 
@@ -98,4 +97,4 @@ Username to use for authentication.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:30](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/RpcClient.h.ts#L30)
+[src/service/RpcClient.h.ts:30](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.h.ts#L30)

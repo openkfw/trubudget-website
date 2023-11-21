@@ -1,5 +1,4 @@
 # service/document\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/document\_get
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getDocuments
 
-▸ **getDocuments**(`conn`, `ctx`): `Promise`<[`Type`](result.md#type)<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)[]\>\>
+▸ **getDocuments**(`conn`, `ctx`): `Promise`\<[`Type`](result.md#type)\<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)[]\>\>
 
 #### Parameters
 
@@ -23,8 +22,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`StoredDocument`](../interfaces/service_domain_document_document.StoredDocument.md)[]\>\>
 
 #### Defined in
 
-[src/service/document_get.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/document_get.ts#L8)
+[src/service/document_get.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/document_get.ts#L11)

@@ -1,5 +1,4 @@
 # service/subproject\_update
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_update
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### updateSubproject
 
-▸ **updateSubproject**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `requestData`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **updateSubproject**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `requestData`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/subproject_update.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/subproject_update.ts#L14)
+[src/service/subproject_update.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_update.ts#L15)

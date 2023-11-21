@@ -1,5 +1,4 @@
 # service/cache2
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/cache2
 
 ## Table of contents
@@ -15,7 +14,6 @@
 - [initCache](service_cache2.md#initcache)
 - [invalidateCache](service_cache2.md#invalidatecache)
 - [parseBusinessEvents](service_cache2.md#parsebusinessevents)
-- [updateAggregates](service_cache2.md#updateaggregates)
 - [withCache](service_cache2.md#withcache)
 
 ## Type Aliases
@@ -28,25 +26,20 @@
 
 | Name | Type |
 | :------ | :------ |
-| `cachedProjects` | `Map`<[`Id`](service_domain_workflow_project.md#id), [`Project`](../interfaces/service_domain_workflow_project.Project.md)\> |
-| `cachedSubprojectLookup` | `Map`<[`Id`](service_domain_workflow_project.md#id), `Set`<[`Id`](service_domain_workflow_subproject.md#id)\>\> |
-| `cachedSubprojects` | `Map`<[`Id`](service_domain_workflow_subproject.md#id), [`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\> |
-| `cachedWorkflowItems` | `Map`<[`Id`](service_domain_workflow_workflowitem.md#id), [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\> |
-| `cachedWorkflowitemLookup` | `Map`<[`Id`](service_domain_workflow_subproject.md#id), `Set`<[`Id`](service_domain_workflow_workflowitem.md#id)\>\> |
 | `ee` | `EventEmitter` |
-| `eventsByStream` | `Map`<`StreamName`, [`BusinessEvent`](service_domain_business_event.md#businessevent)[]\> |
+| `eventsByStream` | `Map`\<`StreamName`, [`BusinessEvent`](service_domain_business_event.md#businessevent)[]\> |
 | `isWriteLocked` | `boolean` |
-| `streamState` | `Map`<`StreamName`, `StreamCursor`\> |
+| `streamState` | `Map`\<`StreamName`, `StreamCursor`\> |
 
 #### Defined in
 
-[src/service/cache2.ts:73](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache2.ts#L73)
+[src/service/cache2.ts:68](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L68)
 
 ___
 
 ### TransactionFn
 
-Ƭ **TransactionFn**<`T`\>: (`cache`: `CacheInstance`) => `Promise`<`T`\>
+Ƭ **TransactionFn**\<`T`\>: (`cache`: `CacheInstance`) => `Promise`\<`T`\>
 
 #### Type parameters
 
@@ -56,7 +49,7 @@ ___
 
 #### Type declaration
 
-▸ (`cache`): `Promise`<`T`\>
+▸ (`cache`): `Promise`\<`T`\>
 
 ##### Parameters
 
@@ -66,11 +59,11 @@ ___
 
 ##### Returns
 
-`Promise`<`T`\>
+`Promise`\<`T`\>
 
 #### Defined in
 
-[src/service/cache2.ts:329](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache2.ts#L329)
+[src/service/cache2.ts:197](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L197)
 
 ## Functions
 
@@ -91,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:148](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache2.ts#L148)
+[src/service/cache2.ts:106](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L106)
 
 ___
 
@@ -105,13 +98,13 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:92](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache2.ts#L92)
+[src/service/cache2.ts:78](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L78)
 
 ___
 
 ### invalidateCache
 
-▸ **invalidateCache**(`conn`): `Promise`<`void`\>
+▸ **invalidateCache**(`conn`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -121,17 +114,17 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/cache2.ts:359](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache2.ts#L359)
+[src/service/cache2.ts:227](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L227)
 
 ___
 
 ### parseBusinessEvents
 
-▸ **parseBusinessEvents**(`items`, `streamName`): [`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>[]
+▸ **parseBusinessEvents**(`items`, `streamName`): [`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>[]
 
 #### Parameters
 
@@ -142,39 +135,17 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>[]
+[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)\>[]
 
 #### Defined in
 
-[src/service/cache2.ts:640](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache2.ts#L640)
-
-___
-
-### updateAggregates
-
-▸ **updateAggregates**(`ctx`, `cache`, `newEvents`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
-| `cache` | [`Cache2`](service_cache2.md#cache2) |
-| `newEvents` | [`BusinessEvent`](service_domain_business_event.md#businessevent)[] |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/service/cache2.ts:546](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache2.ts#L546)
+[src/service/cache2.ts:463](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L463)
 
 ___
 
 ### withCache
 
-▸ **withCache**<`T`\>(`conn`, `ctx`, `transaction`, `doRefresh?`): `Promise`<`T`\>
+▸ **withCache**\<`T`\>(`conn`, `ctx`, `transaction`, `doRefresh?`): `Promise`\<`T`\>
 
 #### Type parameters
 
@@ -188,13 +159,13 @@ ___
 | :------ | :------ | :------ |
 | `conn` | [`ConnToken`](service_conn.md#conntoken) | `undefined` |
 | `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) | `undefined` |
-| `transaction` | [`TransactionFn`](service_cache2.md#transactionfn)<`T`\> | `undefined` |
+| `transaction` | [`TransactionFn`](service_cache2.md#transactionfn)\<`T`\> | `undefined` |
 | `doRefresh` | `boolean` | `true` |
 
 #### Returns
 
-`Promise`<`T`\>
+`Promise`\<`T`\>
 
 #### Defined in
 
-[src/service/cache2.ts:331](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/cache2.ts#L331)
+[src/service/cache2.ts:199](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L199)

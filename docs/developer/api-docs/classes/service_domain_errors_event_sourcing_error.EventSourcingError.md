@@ -1,8 +1,7 @@
 # EventSourcingError
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/event\_sourcing\_error](../modules/service_domain_errors_event_sourcing_error.md) / EventSourcingError
 
-[service/domain/errors/event_sourcing_error](../modules/service_domain_errors_event_sourcing_error.md).EventSourcingError
+[service/domain/errors/event\_sourcing\_error](../modules/service_domain_errors_event_sourcing_error.md).EventSourcingError
 
 ## Hierarchy
 
@@ -56,7 +55,7 @@ VError.constructor
 
 #### Defined in
 
-[src/service/domain/errors/event_sourcing_error.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/event_sourcing_error.ts#L31)
+[src/service/domain/errors/event_sourcing_error.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/event_sourcing_error.ts#L31)
 
 ## Properties
 
@@ -78,7 +77,7 @@ VError.cause
 
 #### Defined in
 
-node_modules/@types/verror/index.d.ts:31
+node_modules/@types/verror/index.d.ts:26
 
 ___
 
@@ -92,7 +91,7 @@ VError.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1055
+node_modules/typescript/lib/lib.es5.d.ts:1068
 
 ___
 
@@ -106,7 +105,7 @@ VError.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1054
+node_modules/typescript/lib/lib.es5.d.ts:1067
 
 ___
 
@@ -120,7 +119,7 @@ VError.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1056
+node_modules/typescript/lib/lib.es5.d.ts:1069
 
 ___
 
@@ -134,7 +133,7 @@ VError.VError
 
 #### Defined in
 
-node_modules/@types/verror/index.d.ts:21
+node_modules/@types/verror/index.d.ts:16
 
 ___
 
@@ -148,10 +147,6 @@ ___
 
 Optional override for formatting stack traces
 
-**`See`**
-
-https://v8.dev/docs/stack-trace-api#customizing-stack-traces
-
 ##### Parameters
 
 | Name | Type |
@@ -162,6 +157,10 @@ https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 ##### Returns
 
 `any`
+
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 #### Inherited from
 
@@ -234,7 +233,7 @@ VError.cause
 
 #### Defined in
 
-node_modules/@types/verror/index.d.ts:23
+node_modules/@types/verror/index.d.ts:18
 
 ___
 
@@ -259,13 +258,13 @@ VError.errorForEach
 
 #### Defined in
 
-node_modules/@types/verror/index.d.ts:29
+node_modules/@types/verror/index.d.ts:24
 
 ___
 
 ### errorFromList
 
-▸ `Static` **errorFromList**<`T`\>(`errors`): ``null`` \| `T` \| `MultiError`
+▸ `Static` **errorFromList**\<`T`\>(`errors`): ``null`` \| `T` \| `MultiError`
 
 #### Type parameters
 
@@ -289,7 +288,7 @@ VError.errorFromList
 
 #### Defined in
 
-node_modules/@types/verror/index.d.ts:28
+node_modules/@types/verror/index.d.ts:23
 
 ___
 
@@ -314,7 +313,7 @@ VError.findCauseByName
 
 #### Defined in
 
-node_modules/@types/verror/index.d.ts:26
+node_modules/@types/verror/index.d.ts:21
 
 ___
 
@@ -338,7 +337,7 @@ VError.fullStack
 
 #### Defined in
 
-node_modules/@types/verror/index.d.ts:25
+node_modules/@types/verror/index.d.ts:20
 
 ___
 
@@ -363,7 +362,7 @@ VError.hasCauseWithName
 
 #### Defined in
 
-node_modules/@types/verror/index.d.ts:27
+node_modules/@types/verror/index.d.ts:22
 
 ___
 
@@ -387,4 +386,4 @@ VError.info
 
 #### Defined in
 
-node_modules/@types/verror/index.d.ts:24
+node_modules/@types/verror/index.d.ts:19

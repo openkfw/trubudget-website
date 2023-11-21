@@ -1,5 +1,4 @@
 # UploadedDocument
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/document/document](../modules/service_domain_document_document.md) / UploadedDocument
 
 [service/domain/document/document](../modules/service_domain_document_document.md).UploadedDocument
@@ -26,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:37](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document.ts#L37)
+[src/service/domain/document/document.ts:37](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document.ts#L37)
 
 ___
 
@@ -36,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:38](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document.ts#L38)
+[src/service/domain/document/document.ts:38](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document.ts#L38)
 
 ___
 
@@ -50,4 +49,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:36](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document.ts#L36)
+[src/service/domain/document/document.ts:36](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document.ts#L36)

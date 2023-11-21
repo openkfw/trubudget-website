@@ -1,5 +1,4 @@
 # service/user\_assignments\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_assignments\_get
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getUserAssignments
 
-▸ **getUserAssignments**(`conn`, `ctx`, `issuer`, `issuerOrganization`, `requestData`): `Promise`<[`Type`](result.md#type)<[`UserAssignments`](../interfaces/service_domain_workflow_user_assignments.UserAssignments.md)\>\>
+▸ **getUserAssignments**(`conn`, `ctx`, `issuer`, `issuerOrganization`, `requestData`): `Promise`\<[`Type`](result.md#type)\<[`UserAssignments`](../interfaces/service_domain_workflow_user_assignments.UserAssignments.md)\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`UserAssignments`](../interfaces/service_domain_workflow_user_assignments.UserAssignments.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`UserAssignments`](../interfaces/service_domain_workflow_user_assignments.UserAssignments.md)\>\>
 
 #### Defined in
 
-[src/service/user_assignments_get.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/user_assignments_get.ts#L12)
+[src/service/user_assignments_get.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/user_assignments_get.ts#L15)

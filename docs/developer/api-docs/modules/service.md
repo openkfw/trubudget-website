@@ -1,5 +1,4 @@
 # service
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service
 
 ## Table of contents
@@ -126,7 +125,7 @@ Re-exports [writeProjectAssignedToChain](service_ProjectEvents.md#writeprojectas
 
 ### assignWorkflowitem
 
-▸ **assignWorkflowitem**(`conn`, `issuer`, `newAssignee`, `projectId`, `subprojectId`, `workflowitemId`): `Promise`<`void`\>
+▸ **assignWorkflowitem**(`conn`, `issuer`, `newAssignee`, `projectId`, `subprojectId`, `workflowitemId`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -141,17 +140,17 @@ Re-exports [writeProjectAssignedToChain](service_ProjectEvents.md#writeprojectas
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/index.ts:277](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/index.ts#L277)
+[src/service/index.ts:277](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/index.ts#L277)
 
 ___
 
 ### closeWorkflowitem
 
-▸ **closeWorkflowitem**(`conn`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`): `Promise`<`void`\>
+▸ **closeWorkflowitem**(`conn`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -165,17 +164,17 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/index.ts:218](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/index.ts#L218)
+[src/service/index.ts:218](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/index.ts#L218)
 
 ___
 
 ### getWorkflowitemOrdering
 
-▸ **getWorkflowitemOrdering**(`conn`, `projectId`, `subprojectId`): `Promise`<`string`[]\>
+▸ **getWorkflowitemOrdering**(`conn`, `projectId`, `subprojectId`): `Promise`\<`string`[]\>
 
 #### Parameters
 
@@ -187,17 +186,17 @@ ___
 
 #### Returns
 
-`Promise`<`string`[]\>
+`Promise`\<`string`[]\>
 
 #### Defined in
 
-[src/service/index.ts:176](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/index.ts#L176)
+[src/service/index.ts:176](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/index.ts#L176)
 
 ___
 
 ### grantGlobalPermission
 
-▸ **grantGlobalPermission**(`conn`, `issuer`, `grantee`, `intent`): `Promise`<`void`\>
+▸ **grantGlobalPermission**(`conn`, `issuer`, `grantee`, `intent`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -210,11 +209,11 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/index.ts:52](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/index.ts#L52)
+[src/service/index.ts:52](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/index.ts#L52)
 
 ___
 
@@ -234,13 +233,13 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:40](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/index.ts#L40)
+[src/service/index.ts:40](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/index.ts#L40)
 
 ___
 
 ### revokeGlobalPermission
 
-▸ **revokeGlobalPermission**(`conn`, `issuer`, `recipient`, `intent`): `Promise`<`void`\>
+▸ **revokeGlobalPermission**(`conn`, `issuer`, `recipient`, `intent`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -253,17 +252,17 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/index.ts:101](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/index.ts#L101)
+[src/service/index.ts:101](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/index.ts#L101)
 
 ___
 
 ### updateWorkflowitem
 
-▸ **updateWorkflowitem**(`conn`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `data`): `Promise`<`void`\>
+▸ **updateWorkflowitem**(`conn`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `data`): `Promise`\<`void`\>
 
 #### Parameters
 
@@ -278,8 +277,8 @@ ___
 
 #### Returns
 
-`Promise`<`void`\>
+`Promise`\<`void`\>
 
 #### Defined in
 
-[src/service/index.ts:247](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/index.ts#L247)
+[src/service/index.ts:247](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/index.ts#L247)

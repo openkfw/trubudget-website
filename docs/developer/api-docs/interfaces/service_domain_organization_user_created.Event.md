@@ -1,8 +1,7 @@
-# Event: 
- 
+# Event: service/domain/organization/user_created
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/user\_created](../modules/service_domain_organization_user_created.md) / Event
 
-[service/domain/organization/user_created](../modules/service_domain_organization_user_created.md).Event
+[service/domain/organization/user\_created](../modules/service_domain_organization_user_created.md).Event
 
 ## Table of contents
 
@@ -23,7 +22,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:45](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L45)
+[src/service/domain/organization/user_created.ts:45](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L45)
 
 ___
 
@@ -33,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:43](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L43)
+[src/service/domain/organization/user_created.ts:43](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L43)
 
 ___
 
@@ -43,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:41](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L41)
+[src/service/domain/organization/user_created.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L41)
 
 ___
 
@@ -53,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:42](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L42)
+[src/service/domain/organization/user_created.ts:42](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L42)
 
 ___
 
@@ -63,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:40](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L40)
+[src/service/domain/organization/user_created.ts:40](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L40)
 
 ___
 
@@ -73,4 +72,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:44](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_created.ts#L44)
+[src/service/domain/organization/user_created.ts:44](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_created.ts#L44)

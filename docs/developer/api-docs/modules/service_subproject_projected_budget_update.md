@@ -1,5 +1,4 @@
 # service/subproject\_projected\_budget\_update
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_projected\_budget\_update
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### updateProjectedBudget
 
-▸ **updateProjectedBudget**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `organization`, `value`, `currencyCode`): `Promise`<[`Type`](result.md#type)<[`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]\>\>
+▸ **updateProjectedBudget**(`conn`, `ctx`, `serviceUser`, `projectId`, `subprojectId`, `organization`, `value`, `currencyCode`): `Promise`\<[`Type`](result.md#type)\<[`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]\>\>
 
 #### Parameters
 
@@ -29,8 +28,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`ProjectedBudget`](../interfaces/service_domain_workflow_projected_budget.ProjectedBudget.md)[]\>\>
 
 #### Defined in
 
-[src/service/subproject_projected_budget_update.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/subproject_projected_budget_update.ts#L16)
+[src/service/subproject_projected_budget_update.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_projected_budget_update.ts#L17)

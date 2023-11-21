@@ -1,5 +1,4 @@
 # handlerUtils
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / handlerUtils
 
 ## Table of contents
@@ -26,4 +25,4 @@
 
 #### Defined in
 
-[src/handlerUtils.ts:4](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/handlerUtils.ts#L4)
+[src/handlerUtils.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/handlerUtils.ts#L4)

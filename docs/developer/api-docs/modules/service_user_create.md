@@ -1,5 +1,4 @@
 # service/user\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_create
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### createUser
 
-▸ **createUser**(`organizationSecret`, `conn`, `ctx`, `serviceUser`, `requestData`): `Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+▸ **createUser**(`organizationSecret`, `conn`, `ctx`, `serviceUser`, `requestData`): `Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Defined in
 
-[src/service/user_create.ts:19](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/user_create.ts#L19)
+[src/service/user_create.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/user_create.ts#L19)

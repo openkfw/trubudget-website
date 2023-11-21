@@ -1,5 +1,4 @@
 # AugmentedFastifyInstance
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [types](../modules/types.md) / AugmentedFastifyInstance
 
 [types](../modules/types.md).AugmentedFastifyInstance
@@ -19,6 +18,7 @@ Interface representing an extended fastify instance
 - [addContentTypeParser](types.AugmentedFastifyInstance.md#addcontenttypeparser)
 - [all](types.AugmentedFastifyInstance.md#all)
 - [authenticate](types.AugmentedFastifyInstance.md#authenticate)
+- [childLoggerFactory](types.AugmentedFastifyInstance.md#childloggerfactory)
 - [decorate](types.AugmentedFastifyInstance.md#decorate)
 - [decorateReply](types.AugmentedFastifyInstance.md#decoratereply)
 - [decorateRequest](types.AugmentedFastifyInstance.md#decoraterequest)
@@ -53,6 +53,7 @@ Interface representing an extended fastify instance
 
 ### Methods
 
+- [[asyncDispose]](types.AugmentedFastifyInstance.md#[asyncdispose])
 - [addConstraintStrategy](types.AugmentedFastifyInstance.md#addconstraintstrategy)
 - [addHook](types.AugmentedFastifyInstance.md#addhook)
 - [addSchema](types.AugmentedFastifyInstance.md#addschema)
@@ -77,6 +78,7 @@ Interface representing an extended fastify instance
 - [route](types.AugmentedFastifyInstance.md#route)
 - [routing](types.AugmentedFastifyInstance.md#routing)
 - [serializeCookie](types.AugmentedFastifyInstance.md#serializecookie)
+- [setChildLoggerFactory](types.AugmentedFastifyInstance.md#setchildloggerfactory)
 - [setDefaultRoute](types.AugmentedFastifyInstance.md#setdefaultroute)
 - [setErrorHandler](types.AugmentedFastifyInstance.md#seterrorhandler)
 - [setNotFoundHandler](types.AugmentedFastifyInstance.md#setnotfoundhandler)
@@ -93,7 +95,7 @@ Interface representing an extended fastify instance
 
 ### addContentTypeParser
 
-• **addContentTypeParser**: `AddContentTypeParser`<`RawServerDefault`, `IncomingMessage`, `RouteGenericInterface`, `FastifySchema`, `FastifyTypeProviderDefault`\>
+• **addContentTypeParser**: `AddContentTypeParser`\<`RawServerDefault`, `IncomingMessage`, `RouteGenericInterface`, `FastifySchema`, `FastifyTypeProviderDefault`\>
 
 Add a content type parser
 
@@ -103,13 +105,13 @@ FastifyInstance.addContentTypeParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:592
+node_modules/fastify/types/instance.d.ts:542
 
 ___
 
 ### all
 
-• **all**: `RouteShorthandMethod`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
+• **all**: `RouteShorthandMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -117,7 +119,7 @@ FastifyInstance.all
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:207
+node_modules/fastify/types/instance.d.ts:214
 
 ___
 
@@ -127,13 +129,31 @@ ___
 
 #### Defined in
 
-[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/types.ts#L8)
+[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/types.ts#L8)
+
+___
+
+### childLoggerFactory
+
+• **childLoggerFactory**: `FastifyChildLoggerFactory`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+Hook function that is called when creating a child logger instance for each request
+which allows for modifying or adding child logger bindings and logger options, or
+returning a completely custom child logger implementation.
+
+#### Inherited from
+
+FastifyInstance.childLoggerFactory
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:484
 
 ___
 
 ### decorate
 
-• **decorate**: `DecorationMethod`<`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>, `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>\>
+• **decorate**: `DecorationMethod`\<`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>, `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>\>
 
 #### Inherited from
 
@@ -141,13 +161,13 @@ FastifyInstance.decorate
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:144
+node_modules/fastify/types/instance.d.ts:151
 
 ___
 
 ### decorateReply
 
-• **decorateReply**: `DecorationMethod`<`FastifyReply`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`\>, `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>\>
+• **decorateReply**: `DecorationMethod`\<`FastifyReply`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`\>, `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>\>
 
 #### Inherited from
 
@@ -155,13 +175,13 @@ FastifyInstance.decorateReply
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:146
+node_modules/fastify/types/instance.d.ts:153
 
 ___
 
 ### decorateRequest
 
-• **decorateRequest**: `DecorationMethod`<`FastifyRequest`<`RouteGenericInterface`, `RawServerDefault`, `IncomingMessage`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`<`FastifyTypeProviderDefault`, `FastifySchema`, `RouteGenericInterface`\>\>, `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>\>
+• **decorateRequest**: `DecorationMethod`\<`FastifyRequest`\<`RouteGenericInterface`, `RawServerDefault`, `IncomingMessage`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`\<`FastifyTypeProviderDefault`, `FastifySchema`, `RouteGenericInterface`\>\>, `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>\>
 
 #### Inherited from
 
@@ -169,13 +189,13 @@ FastifyInstance.decorateRequest
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:145
+node_modules/fastify/types/instance.d.ts:152
 
 ___
 
 ### defaultTextParser
 
-• **defaultTextParser**: `FastifyBodyParser`<`string`\>
+• **defaultTextParser**: `FastifyBodyParser`\<`string`\>
 
 Fastify default plain text parser
 
@@ -185,13 +205,13 @@ FastifyInstance.defaultTextParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:609
+node_modules/fastify/types/instance.d.ts:559
 
 ___
 
 ### delete
 
-• **delete**: `RouteShorthandMethod`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
+• **delete**: `RouteShorthandMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -199,13 +219,13 @@ FastifyInstance.delete
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:204
+node_modules/fastify/types/instance.d.ts:211
 
 ___
 
 ### errorHandler
 
-• **errorHandler**: (`error`: `FastifyError`, `request`: `FastifyRequest`<`RouteGenericInterface`, `RawServerDefault`, `IncomingMessage`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`<`FastifyTypeProviderDefault`, `FastifySchema`, `RouteGenericInterface`\>\>, `reply`: `FastifyReply`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`\>) => `void`
+• **errorHandler**: (`error`: `FastifyError`, `request`: `FastifyRequest`\<`RouteGenericInterface`, `RawServerDefault`, `IncomingMessage`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`\<`FastifyTypeProviderDefault`, `FastifySchema`, `RouteGenericInterface`\>\>, `reply`: `FastifyReply`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`\>) => `void`
 
 #### Type declaration
 
@@ -218,8 +238,8 @@ Fastify default error handler
 | Name | Type |
 | :------ | :------ |
 | `error` | `FastifyError` |
-| `request` | `FastifyRequest`<`RouteGenericInterface`, `RawServerDefault`, `IncomingMessage`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`<`FastifyTypeProviderDefault`, `FastifySchema`, `RouteGenericInterface`\>\> |
-| `reply` | `FastifyReply`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`\> |
+| `request` | `FastifyRequest`\<`RouteGenericInterface`, `RawServerDefault`, `IncomingMessage`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`\<`FastifyTypeProviderDefault`, `FastifySchema`, `RouteGenericInterface`\>\> |
+| `reply` | `FastifyReply`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `unknown`\> |
 
 ##### Returns
 
@@ -231,13 +251,13 @@ FastifyInstance.errorHandler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:546
+node_modules/fastify/types/instance.d.ts:470
 
 ___
 
 ### get
 
-• **get**: `RouteShorthandMethod`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
+• **get**: `RouteShorthandMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -245,7 +265,7 @@ FastifyInstance.get
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:200
+node_modules/fastify/types/instance.d.ts:207
 
 ___
 
@@ -261,7 +281,7 @@ FastifyInstance.getDefaultJsonParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:605
+node_modules/fastify/types/instance.d.ts:555
 
 ___
 
@@ -275,13 +295,13 @@ FastifyInstance.hasContentTypeParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:593
+node_modules/fastify/types/instance.d.ts:543
 
 ___
 
 ### head
 
-• **head**: `RouteShorthandMethod`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
+• **head**: `RouteShorthandMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -289,13 +309,13 @@ FastifyInstance.head
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:201
+node_modules/fastify/types/instance.d.ts:208
 
 ___
 
 ### initialConfig
 
-• **initialConfig**: `Readonly`<{ `allowUnsafeRegex?`: `boolean` ; `bodyLimit?`: `number` ; `caseSensitive?`: `boolean` ; `connectionTimeout?`: `number` ; `disableRequestLogging?`: `boolean` ; `forceCloseConnections?`: `boolean` ; `http2?`: `boolean` ; `http2SessionTimeout?`: `number` ; `https?`: `boolean` \| `Readonly`<{ `allowHTTP1`: `boolean`  }\> ; `ignoreDuplicateSlashes?`: `boolean` ; `ignoreTrailingSlash?`: `boolean` ; `keepAliveTimeout?`: `number` ; `maxParamLength?`: `number` ; `onConstructorPoisoning?`: `ConstructorAction` ; `onProtoPoisoning?`: `ProtoAction` ; `pluginTimeout?`: `number` ; `requestIdHeader?`: `string` \| ``false`` ; `requestIdLogLabel?`: `string`  }\>
+• **initialConfig**: `Readonly`\<\{ `allowUnsafeRegex?`: `boolean` ; `bodyLimit?`: `number` ; `caseSensitive?`: `boolean` ; `connectionTimeout?`: `number` ; `disableRequestLogging?`: `boolean` ; `forceCloseConnections?`: `boolean` ; `http2?`: `boolean` ; `http2SessionTimeout?`: `number` ; `https?`: `boolean` \| `Readonly`\<\{ `allowHTTP1`: `boolean`  }\> ; `ignoreDuplicateSlashes?`: `boolean` ; `ignoreTrailingSlash?`: `boolean` ; `keepAliveTimeout?`: `number` ; `maxParamLength?`: `number` ; `onConstructorPoisoning?`: `ConstructorAction` ; `onProtoPoisoning?`: `ProtoAction` ; `pluginTimeout?`: `number` ; `requestIdHeader?`: `string` \| ``false`` ; `requestIdLogLabel?`: `string`  }\>
 
 Frozen read-only object registering the initial options passed down by the user to the fastify instance
 
@@ -305,7 +325,7 @@ FastifyInstance.initialConfig
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:624
+node_modules/fastify/types/instance.d.ts:574
 
 ___
 
@@ -333,7 +353,7 @@ FastifyInstance.listeningOrigin
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:129
+node_modules/fastify/types/instance.d.ts:131
 
 ___
 
@@ -347,7 +367,7 @@ FastifyInstance.log
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:128
+node_modules/fastify/types/instance.d.ts:130
 
 ___
 
@@ -369,7 +389,7 @@ ___
 
 ### options
 
-• **options**: `RouteShorthandMethod`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
+• **options**: `RouteShorthandMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -377,13 +397,13 @@ FastifyInstance.options
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:205
+node_modules/fastify/types/instance.d.ts:212
 
 ___
 
 ### patch
 
-• **patch**: `RouteShorthandMethod`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
+• **patch**: `RouteShorthandMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -391,7 +411,7 @@ FastifyInstance.patch
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:206
+node_modules/fastify/types/instance.d.ts:213
 
 ___
 
@@ -405,13 +425,13 @@ FastifyInstance.pluginName
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:125
+node_modules/fastify/types/instance.d.ts:127
 
 ___
 
 ### post
 
-• **post**: `RouteShorthandMethod`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
+• **post**: `RouteShorthandMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -419,7 +439,7 @@ FastifyInstance.post
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:202
+node_modules/fastify/types/instance.d.ts:209
 
 ___
 
@@ -433,13 +453,13 @@ FastifyInstance.prefix
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:126
+node_modules/fastify/types/instance.d.ts:128
 
 ___
 
 ### put
 
-• **put**: `RouteShorthandMethod`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
+• **put**: `RouteShorthandMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -447,17 +467,17 @@ FastifyInstance.put
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:203
+node_modules/fastify/types/instance.d.ts:210
 
 ___
 
 ### rateLimit
 
-• **rateLimit**: (`options?`: `RateLimitOptions`) => `preHandlerAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\>
+• **rateLimit**: (`options?`: `RateLimitOptions`) => `preHandlerAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\>
 
 #### Type declaration
 
-▸ (`options?`): `preHandlerAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\>
+▸ (`options?`): `preHandlerAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\>
 
 ##### Parameters
 
@@ -467,7 +487,7 @@ ___
 
 ##### Returns
 
-`preHandlerAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\>
+`preHandlerAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGenericInterface`, `unknown`, `FastifySchema`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\>
 
 #### Inherited from
 
@@ -481,7 +501,7 @@ ___
 
 ### register
 
-• **register**: `FastifyRegister`<`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`<`undefined`\>, `RawServerDefault`, `FastifyTypeProvider`, `FastifyBaseLogger`\>
+• **register**: `FastifyRegister`\<`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`\<`undefined`\>, `RawServerDefault`, `FastifyTypeProvider`, `FastifyBaseLogger`\>
 
 #### Inherited from
 
@@ -489,7 +509,7 @@ FastifyInstance.register
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:188
+node_modules/fastify/types/instance.d.ts:195
 
 ___
 
@@ -505,7 +525,7 @@ FastifyInstance.removeAllContentTypeParsers
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:601
+node_modules/fastify/types/instance.d.ts:551
 
 ___
 
@@ -521,13 +541,13 @@ FastifyInstance.removeContentTypeParser
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:597
+node_modules/fastify/types/instance.d.ts:547
 
 ___
 
 ### serializerCompiler
 
-• **serializerCompiler**: `undefined` \| `FastifySerializerCompiler`<`any`\>
+• **serializerCompiler**: `undefined` \| `FastifySerializerCompiler`\<`any`\>
 
 Fastify schema serializer for all routes.
 
@@ -537,7 +557,7 @@ FastifyInstance.serializerCompiler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:568
+node_modules/fastify/types/instance.d.ts:518
 
 ___
 
@@ -551,13 +571,13 @@ FastifyInstance.server
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:124
+node_modules/fastify/types/instance.d.ts:126
 
 ___
 
 ### swagger
 
-• **swagger**: (`opts?`: { `yaml?`: ``false``  }) => `Document`<{}\> & (`opts`: { `yaml`: ``true``  }) => `string` & (`opts`: { `yaml`: `boolean`  }) => `string` \| `Document`<{}\>
+• **swagger**: (`opts?`: \{ `yaml?`: ``false``  }) => `Document`\<{}\> & (`opts`: \{ `yaml`: ``true``  }) => `string` & (`opts`: \{ `yaml`: `boolean`  }) => `string` \| `Document`\<{}\>
 
 #### Inherited from
 
@@ -579,13 +599,13 @@ FastifyInstance.swaggerCSP
 
 #### Defined in
 
-[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/types.ts#L9)
+[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/types.ts#L9)
 
 ___
 
 ### validatorCompiler
 
-• **validatorCompiler**: `undefined` \| `FastifySchemaCompiler`<`any`\>
+• **validatorCompiler**: `undefined` \| `FastifySchemaCompiler`\<`any`\>
 
 Fastify schema validator for all routes.
 
@@ -595,7 +615,7 @@ FastifyInstance.validatorCompiler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:558
+node_modules/fastify/types/instance.d.ts:508
 
 ___
 
@@ -609,9 +629,29 @@ FastifyInstance.version
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:127
+node_modules/fastify/types/instance.d.ts:129
 
 ## Methods
+
+### [asyncDispose]
+
+▸ **[asyncDispose]**(): `Promise`\<`undefined`\>
+
+Alias for [`()`](types.AugmentedFastifyInstance.md#close)
+
+#### Returns
+
+`Promise`\<`undefined`\>
+
+#### Inherited from
+
+FastifyInstance.[asyncDispose]
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:148
+
+___
 
 ### addConstraintStrategy
 
@@ -621,7 +661,7 @@ node_modules/fastify/types/instance.d.ts:127
 
 | Name | Type |
 | :------ | :------ |
-| `strategy` | `ConstraintStrategy`<`V1`, `unknown`\> |
+| `strategy` | `ConstraintStrategy`\<`V1`, `unknown`\> |
 
 #### Returns
 
@@ -633,13 +673,13 @@ FastifyInstance.addConstraintStrategy
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:153
+node_modules/fastify/types/instance.d.ts:160
 
 ___
 
 ### addHook
 
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 `onRequest` is the first hook to be executed in the request lifecycle. There was no previous hook, the next hook will be `preParsing`.
  Notice: in the `onRequest` hook, request.body will always be null, because the body parsing happens before the `preHandler` hook.
@@ -652,17 +692,18 @@ ___
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `onRequestHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `onRequestAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `onRequestHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onRequest"`` |
-| `hook` | `onRequestHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `onRequestAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `onRequestHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -670,39 +711,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:223
+node_modules/fastify/types/instance.d.ts:230
 
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"onRequest"`` |
-| `hook` | `onRequestAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:233
-
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 `preParsing` is the second hook to be executed in the request lifecycle. The previous hook was `onRequest`, the next hook will be `preValidation`.
 Notice: in the `preParsing` hook, request.body will always be null, because the body parsing happens before the `preHandler` hook.
@@ -715,17 +726,18 @@ Notice: in the `preParsing` hook, request.body will always be null, because the 
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `preParsingHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `preParsingAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `preParsingHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"preParsing"`` |
-| `hook` | `preParsingHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `preParsingAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `preParsingHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -733,39 +745,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:247
+node_modules/fastify/types/instance.d.ts:245
 
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"preParsing"`` |
-| `hook` | `preParsingAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:257
-
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 `preValidation` is the third hook to be executed in the request lifecycle. The previous hook was `preParsing`, the next hook will be `preHandler`.
 
@@ -777,17 +759,18 @@ node_modules/fastify/types/instance.d.ts:257
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `preValidationHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `preValidationAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `preValidationHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"preValidation"`` |
-| `hook` | `preValidationHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `preValidationAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `preValidationHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -795,39 +778,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:270
+node_modules/fastify/types/instance.d.ts:259
 
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"preValidation"`` |
-| `hook` | `preValidationAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:280
-
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 `preHandler` is the fourth hook to be executed in the request lifecycle. The previous hook was `preValidation`, the next hook will be `preSerialization`.
 
@@ -839,17 +792,18 @@ node_modules/fastify/types/instance.d.ts:280
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `preHandlerHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `preHandlerAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `preHandlerHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"preHandler"`` |
-| `hook` | `preHandlerHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `preHandlerAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `preHandlerHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -857,39 +811,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:293
+node_modules/fastify/types/instance.d.ts:273
 
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"preHandler"`` |
-| `hook` | `preHandlerAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:303
-
-▸ **addHook**<`PreSerializationPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`PreSerializationPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 `preSerialization` is the fifth hook to be executed in the request lifecycle. The previous hook was `preHandler`, the next hook will be `onSend`.
  Note: the hook is NOT called if the payload is a string, a Buffer, a stream or null.
@@ -903,17 +827,18 @@ node_modules/fastify/types/instance.d.ts:303
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `preSerializationHookHandler`\<`PreSerializationPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `preSerializationAsyncHookHandler`\<`PreSerializationPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `preSerializationHookHandler`\<`PreSerializationPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"preSerialization"`` |
-| `hook` | `preSerializationHookHandler`<`PreSerializationPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `preSerializationAsyncHookHandler`\<`PreSerializationPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `preSerializationHookHandler`\<`PreSerializationPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -921,40 +846,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:317
+node_modules/fastify/types/instance.d.ts:288
 
-▸ **addHook**<`PreSerializationPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `PreSerializationPayload` | `unknown` |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"preSerialization"`` |
-| `hook` | `preSerializationAsyncHookHandler`<`PreSerializationPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:328
-
-▸ **addHook**<`OnSendPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`OnSendPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 You can change the payload with the `onSend` hook. It is the sixth hook to be executed in the request lifecycle. The previous hook was `preSerialization`, the next hook will be `onResponse`.
 Note: If you change the payload, you may only change it to a string, a Buffer, a stream, or null.
@@ -968,17 +862,18 @@ Note: If you change the payload, you may only change it to a string, a Buffer, a
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `onSendHookHandler`\<`OnSendPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `onSendAsyncHookHandler`\<`OnSendPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `onSendHookHandler`\<`OnSendPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onSend"`` |
-| `hook` | `onSendHookHandler`<`OnSendPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `onSendAsyncHookHandler`\<`OnSendPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `onSendHookHandler`\<`OnSendPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -986,40 +881,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:343
+node_modules/fastify/types/instance.d.ts:304
 
-▸ **addHook**<`OnSendPayload`, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `OnSendPayload` | `unknown` |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"onSend"`` |
-| `hook` | `onSendAsyncHookHandler`<`OnSendPayload`, `RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:354
-
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 `onResponse` is the seventh and last hook in the request hook lifecycle. The previous hook was `onSend`, there is no next hook.
 The onResponse hook is executed when a response has been sent, so you will not be able to send more data to the client. It can however be useful for sending data to external services, for example to gather statistics.
@@ -1032,17 +896,18 @@ The onResponse hook is executed when a response has been sent, so you will not b
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `onResponseHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `onResponseAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `onResponseHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onResponse"`` |
-| `hook` | `onResponseHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `onResponseAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `onResponseHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1050,39 +915,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:369
+node_modules/fastify/types/instance.d.ts:320
 
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"onResponse"`` |
-| `hook` | `onResponseAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:379
-
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 `onTimeout` is useful if you need to monitor the request timed out in your service. (if the `connectionTimeout` property is set on the fastify instance)
 The onTimeout hook is executed when a request is timed out and the http socket has been hanged up. Therefore you will not be able to send data to the client.
@@ -1095,17 +930,18 @@ The onTimeout hook is executed when a request is timed out and the http socket h
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `onTimeoutHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `onTimeoutAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `onTimeoutHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onTimeout"`` |
-| `hook` | `onTimeoutHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `onTimeoutAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `onTimeoutHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1113,39 +949,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:393
+node_modules/fastify/types/instance.d.ts:335
 
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"onTimeout"`` |
-| `hook` | `onTimeoutAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:403
-
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 `onRequestAbort` is useful if you need to monitor the if the client aborts the request (if the `request.raw.aborted` property is set to `true`).
 The `onRequestAbort` hook is executed when a client closes the connection before the entire request has been received. Therefore, you will not be able to send data to the client.
@@ -1159,17 +965,18 @@ Notice: client abort detection is not completely reliable. See: https://github.c
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `onRequestAbortHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `onRequestAbortAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `onRequestAbortHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onRequestAbort"`` |
-| `hook` | `onRequestAbortHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `onRequestAbortAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `onRequestAbortHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1177,39 +984,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:418
+node_modules/fastify/types/instance.d.ts:351
 
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"onRequestAbort"`` |
-| `hook` | `onRequestAbortAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:428
-
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 This hook is useful if you need to do some custom error logging or add some specific header in case of error.
 It is not intended for changing the error, and calling reply.send will throw an exception.
@@ -1224,17 +1001,18 @@ Notice: unlike the other hooks, pass an error to the done function is not suppor
 | `ContextConfig` | `unknown` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 | `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
+| `Fn` | extends `onErrorHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `FastifyError`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> \| `onErrorAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `FastifyError`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> = `onErrorHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `FastifyError`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onError"`` |
-| `hook` | `onErrorHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `FastifyError`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `onErrorAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `FastifyError`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `onErrorHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `FastifyError`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1242,39 +1020,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:444
+node_modules/fastify/types/instance.d.ts:368
 
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Type parameters
-
-| Name | Type |
-| :------ | :------ |
-| `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
-| `ContextConfig` | `unknown` |
-| `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
-| `Logger` | extends `FastifyBaseLogger` = `FastifyBaseLogger` |
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"onError"`` |
-| `hook` | `onErrorAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `FastifyError`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:454
-
-▸ **addHook**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `Logger`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 Triggered when a new route is registered. Listeners are passed a routeOptions object as the sole parameter. The interface is synchronous, and, as such, the listener does not get passed a callback
 
@@ -1292,11 +1040,11 @@ Triggered when a new route is registered. Listeners are passed a routeOptions ob
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onRoute"`` |
-| `hook` | `onRouteHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
+| `hook` | `onRouteHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `Logger`\> |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `Logger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1304,9 +1052,9 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:469
+node_modules/fastify/types/instance.d.ts:384
 
-▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 Triggered when a new plugin is registered and a new encapsulation context is created. The hook will be executed before the registered code.
 This hook can be useful if you are developing a plugin that needs to know when a plugin context is formed, and you want to operate in that specific context.
@@ -1317,11 +1065,11 @@ Note: This hook will not be called if a plugin is wrapped inside fastify-plugin.
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onRegister"`` |
-| `hook` | `onRegisterHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`, `FastifyPluginOptions`\> |
+| `hook` | `onRegisterHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`, `FastifyPluginOptions`\> |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1329,22 +1077,28 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:484
+node_modules/fastify/types/instance.d.ts:399
 
-▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 Triggered when fastify.listen() or fastify.ready() is invoked to start the server. It is useful when plugins need a "ready" event, for example to load data before the server start listening for requests.
 
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Fn` | extends `onReadyHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> \| `onReadyAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> = `onReadyHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onReady"`` |
-| `hook` | `onReadyHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `onReadyAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> : `onReadyHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1352,20 +1106,28 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:492
+node_modules/fastify/types/instance.d.ts:407
 
-▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+Triggered when fastify.listen() is invoked to start the server. It is useful when plugins need a "onListen" event, for example to run logics after the server start listening for requests.
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Fn` | extends `onListenAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> \| `onListenHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> = `onListenHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `name` | ``"onReady"`` |
-| `hook` | `onReadyAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+| `name` | ``"onListen"`` |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `onListenAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> : `onListenHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1373,22 +1135,28 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:497
+node_modules/fastify/types/instance.d.ts:417
 
-▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 Triggered when fastify.close() is invoked to stop the server. It is useful when plugins need a "shutdown" event, for example to close an open connection to a database.
 
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Fn` | extends `onCloseHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> \| `onCloseAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> = `onCloseHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"onClose"`` |
-| `hook` | `onCloseHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `onCloseAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> : `onCloseHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1396,43 +1164,28 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:505
+node_modules/fastify/types/instance.d.ts:427
 
-▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `name` | ``"onClose"`` |
-| `hook` | `onCloseAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
-
-#### Returns
-
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
-
-#### Inherited from
-
-FastifyInstance.addHook
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:510
-
-▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 Triggered when fastify.close() is invoked to stop the server. It is useful when plugins need to cancel some state to allow the server to close successfully.
 
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Fn` | extends `preCloseHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> \| `preCloseAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> = `preCloseHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `name` | ``"preClose"`` |
-| `hook` | `preCloseHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `preCloseAsyncHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> : `preCloseHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1440,20 +1193,27 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:518
+node_modules/fastify/types/instance.d.ts:437
 
-▸ **addHook**(`name`, `hook`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **addHook**\<`K`, `Fn`\>(`name`, `hook`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+#### Type parameters
+
+| Name | Type |
+| :------ | :------ |
+| `K` | extends `ApplicationHook` \| `LifecycleHook` |
+| `Fn` | extends (...`args`: `any`) => `any` |
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `name` | ``"preClose"`` |
-| `hook` | `preCloseAsyncHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+| `name` | `K` |
+| `hook` | `Fn` extends `unknown` ? `Fn` extends `AsyncFunction` ? `HookAsyncLookup`\<`K`\> : `HookLookup`\<`K`\> : `Fn` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1461,13 +1221,13 @@ FastifyInstance.addHook
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:523
+node_modules/fastify/types/instance.d.ts:444
 
 ___
 
 ### addSchema
 
-▸ **addSchema**(`schema`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **addSchema**(`schema`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Parameters
 
@@ -1477,7 +1237,7 @@ ___
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1485,7 +1245,7 @@ FastifyInstance.addSchema
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:133
+node_modules/fastify/types/instance.d.ts:135
 
 ___
 
@@ -1503,17 +1263,17 @@ FastifyInstance.addresses
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:130
+node_modules/fastify/types/instance.d.ts:132
 
 ___
 
 ### after
 
-▸ **after**(): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`<`undefined`\>
+▸ **after**(): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`\<`undefined`\>
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`<`undefined`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`\<`undefined`\>
 
 #### Inherited from
 
@@ -1521,9 +1281,9 @@ FastifyInstance.after
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:137
+node_modules/fastify/types/instance.d.ts:139
 
-▸ **after**(`afterListener`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **after**(`afterListener`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Parameters
 
@@ -1533,7 +1293,7 @@ node_modules/fastify/types/instance.d.ts:137
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -1541,17 +1301,17 @@ FastifyInstance.after
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:138
+node_modules/fastify/types/instance.d.ts:140
 
 ___
 
 ### close
 
-▸ **close**(): `Promise`<`undefined`\>
+▸ **close**(): `Promise`\<`undefined`\>
 
 #### Returns
 
-`Promise`<`undefined`\>
+`Promise`\<`undefined`\>
 
 #### Inherited from
 
@@ -1559,7 +1319,7 @@ FastifyInstance.close
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:140
+node_modules/fastify/types/instance.d.ts:142
 
 ▸ **close**(`closeListener`): `undefined`
 
@@ -1579,17 +1339,17 @@ FastifyInstance.close
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:141
+node_modules/fastify/types/instance.d.ts:143
 
 ___
 
 ### getDefaultRoute
 
-▸ **getDefaultRoute**(): `DefaultRoute`<`IncomingMessage`, `ServerResponse`<`IncomingMessage`\>\>
+▸ **getDefaultRoute**(): `DefaultRoute`\<`IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>\>
 
 #### Returns
 
-`DefaultRoute`<`IncomingMessage`, `ServerResponse`<`IncomingMessage`\>\>
+`DefaultRoute`\<`IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>\>
 
 #### Inherited from
 
@@ -1597,7 +1357,7 @@ FastifyInstance.getDefaultRoute
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:191
+node_modules/fastify/types/instance.d.ts:198
 
 ___
 
@@ -1621,17 +1381,17 @@ FastifyInstance.getSchema
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:134
+node_modules/fastify/types/instance.d.ts:136
 
 ___
 
 ### getSchemas
 
-▸ **getSchemas**(): `Record`<`string`, `unknown`\>
+▸ **getSchemas**(): `Record`\<`string`, `unknown`\>
 
 #### Returns
 
-`Record`<`string`, `unknown`\>
+`Record`\<`string`, `unknown`\>
 
 #### Inherited from
 
@@ -1639,7 +1399,7 @@ FastifyInstance.getSchemas
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:135
+node_modules/fastify/types/instance.d.ts:137
 
 ___
 
@@ -1663,7 +1423,7 @@ FastifyInstance.hasConstraintStrategy
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:154
+node_modules/fastify/types/instance.d.ts:161
 
 ___
 
@@ -1687,7 +1447,7 @@ FastifyInstance.hasDecorator
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:148
+node_modules/fastify/types/instance.d.ts:155
 
 ___
 
@@ -1711,7 +1471,7 @@ FastifyInstance.hasPlugin
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:151
+node_modules/fastify/types/instance.d.ts:158
 
 ___
 
@@ -1735,7 +1495,7 @@ FastifyInstance.hasReplyDecorator
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:150
+node_modules/fastify/types/instance.d.ts:157
 
 ___
 
@@ -1759,13 +1519,13 @@ FastifyInstance.hasRequestDecorator
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:149
+node_modules/fastify/types/instance.d.ts:156
 
 ___
 
 ### hasRoute
 
-▸ **hasRoute**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`\>(`opts`): `boolean`
+▸ **hasRoute**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`\>(`opts`): `boolean`
 
 #### Type parameters
 
@@ -1779,7 +1539,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `opts` | `Pick`<`RouteOptions`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\>, ``"url"`` \| ``"method"`` \| ``"constraints"``\> |
+| `opts` | `Pick`\<`RouteOptions`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\>, ``"url"`` \| ``"method"`` \| ``"constraints"``\> |
 
 #### Returns
 
@@ -1791,7 +1551,7 @@ FastifyInstance.hasRoute
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:209
+node_modules/fastify/types/instance.d.ts:216
 
 ___
 
@@ -1816,9 +1576,9 @@ FastifyInstance.inject
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:156
+node_modules/fastify/types/instance.d.ts:163
 
-▸ **inject**(`opts`): `Promise`<`Response`\>
+▸ **inject**(`opts`): `Promise`\<`Response`\>
 
 #### Parameters
 
@@ -1828,7 +1588,7 @@ node_modules/fastify/types/instance.d.ts:156
 
 #### Returns
 
-`Promise`<`Response`\>
+`Promise`\<`Response`\>
 
 #### Inherited from
 
@@ -1836,7 +1596,7 @@ FastifyInstance.inject
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:157
+node_modules/fastify/types/instance.d.ts:164
 
 ▸ **inject**(): `Chain`
 
@@ -1850,7 +1610,7 @@ FastifyInstance.inject
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:158
+node_modules/fastify/types/instance.d.ts:165
 
 ___
 
@@ -1875,9 +1635,9 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:160
+node_modules/fastify/types/instance.d.ts:167
 
-▸ **listen**(`opts?`): `Promise`<`string`\>
+▸ **listen**(`opts?`): `Promise`\<`string`\>
 
 #### Parameters
 
@@ -1887,7 +1647,7 @@ node_modules/fastify/types/instance.d.ts:160
 
 #### Returns
 
-`Promise`<`string`\>
+`Promise`\<`string`\>
 
 #### Inherited from
 
@@ -1895,7 +1655,7 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:161
+node_modules/fastify/types/instance.d.ts:168
 
 ▸ **listen**(`callback`): `void`
 
@@ -1915,17 +1675,9 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:162
+node_modules/fastify/types/instance.d.ts:169
 
 ▸ **listen**(`port`, `address`, `backlog`, `callback`): `void`
-
-**`Deprecated`**
-
-Variadic listen method is deprecated. Please use `.listen(optionsObject, callback)` instead. The variadic signature will be removed in `fastify@5`
-
-**`See`**
-
-https://github.com/fastify/fastify/pull/3712
 
 #### Parameters
 
@@ -1940,16 +1692,6 @@ https://github.com/fastify/fastify/pull/3712
 
 `void`
 
-#### Inherited from
-
-FastifyInstance.listen
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:168
-
-▸ **listen**(`port`, `address`, `callback`): `void`
-
 **`Deprecated`**
 
 Variadic listen method is deprecated. Please use `.listen(optionsObject, callback)` instead. The variadic signature will be removed in `fastify@5`
@@ -1957,6 +1699,16 @@ Variadic listen method is deprecated. Please use `.listen(optionsObject, callbac
 **`See`**
 
 https://github.com/fastify/fastify/pull/3712
+
+#### Inherited from
+
+FastifyInstance.listen
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:175
+
+▸ **listen**(`port`, `address`, `callback`): `void`
 
 #### Parameters
 
@@ -1970,16 +1722,6 @@ https://github.com/fastify/fastify/pull/3712
 
 `void`
 
-#### Inherited from
-
-FastifyInstance.listen
-
-#### Defined in
-
-node_modules/fastify/types/instance.d.ts:173
-
-▸ **listen**(`port`, `callback`): `void`
-
 **`Deprecated`**
 
 Variadic listen method is deprecated. Please use `.listen(optionsObject, callback)` instead. The variadic signature will be removed in `fastify@5`
@@ -1987,6 +1729,16 @@ Variadic listen method is deprecated. Please use `.listen(optionsObject, callbac
 **`See`**
 
 https://github.com/fastify/fastify/pull/3712
+
+#### Inherited from
+
+FastifyInstance.listen
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:180
+
+▸ **listen**(`port`, `callback`): `void`
 
 #### Parameters
 
@@ -1999,23 +1751,23 @@ https://github.com/fastify/fastify/pull/3712
 
 `void`
 
+**`Deprecated`**
+
+Variadic listen method is deprecated. Please use `.listen(optionsObject, callback)` instead. The variadic signature will be removed in `fastify@5`
+
+**`See`**
+
+https://github.com/fastify/fastify/pull/3712
+
 #### Inherited from
 
 FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:178
+node_modules/fastify/types/instance.d.ts:185
 
-▸ **listen**(`port`, `address?`, `backlog?`): `Promise`<`string`\>
-
-**`Deprecated`**
-
-Variadic listen method is deprecated. Please use `.listen(optionsObject)` instead. The variadic signature will be removed in `fastify@5`
-
-**`See`**
-
-https://github.com/fastify/fastify/pull/3712
+▸ **listen**(`port`, `address?`, `backlog?`): `Promise`\<`string`\>
 
 #### Parameters
 
@@ -2027,7 +1779,15 @@ https://github.com/fastify/fastify/pull/3712
 
 #### Returns
 
-`Promise`<`string`\>
+`Promise`\<`string`\>
+
+**`Deprecated`**
+
+Variadic listen method is deprecated. Please use `.listen(optionsObject)` instead. The variadic signature will be removed in `fastify@5`
+
+**`See`**
+
+https://github.com/fastify/fastify/pull/3712
 
 #### Inherited from
 
@@ -2035,7 +1795,7 @@ FastifyInstance.listen
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:183
+node_modules/fastify/types/instance.d.ts:190
 
 ___
 
@@ -2044,10 +1804,6 @@ ___
 ▸ **parseCookie**(`cookieHeader`): `Object`
 
 Manual cookie parsing method
-
-**`Docs`**
-
-https://github.com/fastify/fastify-cookie#manual-cookie-parsing
 
 #### Parameters
 
@@ -2058,6 +1814,10 @@ https://github.com/fastify/fastify-cookie#manual-cookie-parsing
 #### Returns
 
 `Object`
+
+**`Docs`**
+
+https://github.com/fastify/fastify-cookie#manual-cookie-parsing
 
 #### Inherited from
 
@@ -2085,7 +1845,7 @@ FastifyInstance.printPlugins
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:619
+node_modules/fastify/types/instance.d.ts:569
 
 ___
 
@@ -2111,17 +1871,17 @@ FastifyInstance.printRoutes
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:614
+node_modules/fastify/types/instance.d.ts:564
 
 ___
 
 ### ready
 
-▸ **ready**(): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`<`undefined`\>
+▸ **ready**(): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`\<`undefined`\>
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`<`undefined`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> & `PromiseLike`\<`undefined`\>
 
 #### Inherited from
 
@@ -2129,9 +1889,9 @@ FastifyInstance.ready
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:185
+node_modules/fastify/types/instance.d.ts:192
 
-▸ **ready**(`readyListener`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **ready**(`readyListener`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Parameters
 
@@ -2141,7 +1901,7 @@ node_modules/fastify/types/instance.d.ts:185
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -2149,13 +1909,13 @@ FastifyInstance.ready
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:186
+node_modules/fastify/types/instance.d.ts:193
 
 ___
 
 ### route
 
-▸ **route**<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`\>(`opts`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **route**\<`RouteGeneric`, `ContextConfig`, `SchemaCompiler`\>(`opts`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Type parameters
 
@@ -2169,11 +1929,11 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `opts` | `RouteOptions`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\> |
+| `opts` | `RouteOptions`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `FastifyTypeProviderDefault`, `FastifyBaseLogger`\> |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -2181,7 +1941,7 @@ FastifyInstance.route
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:194
+node_modules/fastify/types/instance.d.ts:201
 
 ___
 
@@ -2194,7 +1954,7 @@ ___
 | Name | Type |
 | :------ | :------ |
 | `req` | `IncomingMessage` |
-| `res` | `ServerResponse`<`IncomingMessage`\> |
+| `res` | `ServerResponse`\<`IncomingMessage`\> |
 
 #### Returns
 
@@ -2206,7 +1966,7 @@ FastifyInstance.routing
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:190
+node_modules/fastify/types/instance.d.ts:197
 
 ___
 
@@ -2215,10 +1975,6 @@ ___
 ▸ **serializeCookie**(`name`, `value`, `opts?`): `string`
 
 Serialize a cookie name-value pair into a Set-Cookie header string
-
-**`Throws`**
-
-When maxAge option is invalid
 
 #### Parameters
 
@@ -2232,6 +1988,10 @@ When maxAge option is invalid
 
 `string`
 
+**`Throws`**
+
+When maxAge option is invalid
+
 #### Inherited from
 
 FastifyInstance.serializeCookie
@@ -2239,6 +1999,46 @@ FastifyInstance.serializeCookie
 #### Defined in
 
 node_modules/@fastify/cookie/types/plugin.d.ts:14
+
+___
+
+### setChildLoggerFactory
+
+▸ **setChildLoggerFactory**(`factory`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+Hook function that is called when creating a child logger instance for each request
+which allows for modifying or adding child logger bindings and logger options, or
+returning a completely custom child logger implementation.
+
+Child logger bindings have a performance advantage over per-log bindings, because
+they are pre-serialised by Pino when the child logger is created.
+
+For example:
+```
+function childLoggerFactory(logger, bindings, opts, rawReq) {
+  // Calculate additional bindings from the request
+  bindings.traceContext = rawReq.headers['x-cloud-trace-context']
+  return logger.child(bindings, opts);
+}
+```
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `factory` | `FastifyChildLoggerFactory`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+
+#### Returns
+
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+#### Inherited from
+
+FastifyInstance.setChildLoggerFactory
+
+#### Defined in
+
+node_modules/fastify/types/instance.d.ts:503
 
 ___
 
@@ -2250,7 +2050,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `defaultRoute` | `DefaultRoute`<`IncomingMessage`, `ServerResponse`<`IncomingMessage`\>\> |
+| `defaultRoute` | `DefaultRoute`\<`IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>\> |
 
 #### Returns
 
@@ -2262,13 +2062,13 @@ FastifyInstance.setDefaultRoute
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:192
+node_modules/fastify/types/instance.d.ts:199
 
 ___
 
 ### setErrorHandler
 
-▸ **setErrorHandler**<`TError`, `RouteGeneric`, `SchemaCompiler`, `TypeProvider`\>(`handler`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
+▸ **setErrorHandler**\<`TError`, `RouteGeneric`, `SchemaCompiler`, `TypeProvider`\>(`handler`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
 
 Set a function that will be called whenever an error happens
 
@@ -2285,11 +2085,11 @@ Set a function that will be called whenever an error happens
 
 | Name | Type |
 | :------ | :------ |
-| `handler` | (`this`: `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>, `error`: `TError`, `request`: `FastifyRequest`<`RouteGeneric`, `RawServerDefault`, `IncomingMessage`, `SchemaCompiler`, `TypeProvider`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`<`TypeProvider`, `SchemaCompiler`, `RouteGeneric`\>\>, `reply`: `FastifyReply`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `unknown`, `SchemaCompiler`, `TypeProvider`, `UndefinedToUnknown`<`KeysOf`<`RouteGeneric`[``"Reply"``]\> extends `never` ? `ResolveReplyFromSchemaCompiler`<`TypeProvider`, `SchemaCompiler`\> : `RouteGeneric`[``"Reply"``]\>\>) => `any` |
+| `handler` | (`this`: `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>, `error`: `TError`, `request`: `FastifyRequest`\<`RouteGeneric`, `RawServerDefault`, `IncomingMessage`, `SchemaCompiler`, `TypeProvider`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`\<`TypeProvider`, `SchemaCompiler`, `RouteGeneric`\>\>, `reply`: `FastifyReply`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `unknown`, `SchemaCompiler`, `TypeProvider`, `UndefinedToUnknown`\<`KeysOf`\<`RouteGeneric`[``"Reply"``]\> extends `never` ? `ResolveReplyFromSchemaCompiler`\<`TypeProvider`, `SchemaCompiler`\> : `RouteGeneric`[``"Reply"``]\>\>) => `any` |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
 
 #### Inherited from
 
@@ -2297,13 +2097,13 @@ FastifyInstance.setErrorHandler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:551
+node_modules/fastify/types/instance.d.ts:475
 
 ___
 
 ### setNotFoundHandler
 
-▸ **setNotFoundHandler**<`RouteGeneric`, `TypeProvider`, `SchemaCompiler`\>(`handler`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
+▸ **setNotFoundHandler**\<`RouteGeneric`, `ContextConfig`, `TypeProvider`, `SchemaCompiler`\>(`handler`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
 
 Set the 404 handler
 
@@ -2312,6 +2112,7 @@ Set the 404 handler
 | Name | Type |
 | :------ | :------ |
 | `RouteGeneric` | extends `RouteGenericInterface` = `RouteGenericInterface` |
+| `ContextConfig` | extends `unknown` = `unknown` |
 | `TypeProvider` | extends `FastifyTypeProvider` = `FastifyTypeProviderDefault` |
 | `SchemaCompiler` | extends `FastifySchema` = `FastifySchema` |
 
@@ -2319,11 +2120,11 @@ Set the 404 handler
 
 | Name | Type |
 | :------ | :------ |
-| `handler` | (`request`: `FastifyRequest`<`RouteGeneric`, `RawServerDefault`, `IncomingMessage`, `SchemaCompiler`, `TypeProvider`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`<`TypeProvider`, `SchemaCompiler`, `RouteGeneric`\>\>, `reply`: `FastifyReply`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `unknown`, `SchemaCompiler`, `TypeProvider`, `UndefinedToUnknown`<`KeysOf`<`RouteGeneric`[``"Reply"``]\> extends `never` ? `ResolveReplyFromSchemaCompiler`<`TypeProvider`, `SchemaCompiler`\> : `RouteGeneric`[``"Reply"``]\>\>) => `void` \| `Promise`<`void` \| `RouteGeneric`[``"Reply"``]\> |
+| `handler` | `RouteHandlerMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\> |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
 
 #### Inherited from
 
@@ -2331,9 +2132,9 @@ FastifyInstance.setNotFoundHandler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:531
+node_modules/fastify/types/instance.d.ts:455
 
-▸ **setNotFoundHandler**<`RouteGeneric`, `ContextConfig`, `TypeProvider`, `SchemaCompiler`\>(`opts`, `handler`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
+▸ **setNotFoundHandler**\<`RouteGeneric`, `ContextConfig`, `TypeProvider`, `SchemaCompiler`\>(`opts`, `handler`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
 
 #### Type parameters
 
@@ -2349,13 +2150,13 @@ node_modules/fastify/types/instance.d.ts:531
 | Name | Type |
 | :------ | :------ |
 | `opts` | `Object` |
-| `opts.preHandler?` | `preHandlerHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\> \| `preHandlerHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\>[] |
-| `opts.preValidation?` | `preValidationHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\> \| `preValidationHookHandler`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\>[] |
-| `handler` | (`request`: `FastifyRequest`<`RouteGeneric`, `RawServerDefault`, `IncomingMessage`, `SchemaCompiler`, `TypeProvider`, `unknown`, `FastifyBaseLogger`, `ResolveFastifyRequestType`<`TypeProvider`, `SchemaCompiler`, `RouteGeneric`\>\>, `reply`: `FastifyReply`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `RouteGeneric`, `unknown`, `SchemaCompiler`, `TypeProvider`, `UndefinedToUnknown`<`KeysOf`<`RouteGeneric`[``"Reply"``]\> extends `never` ? `ResolveReplyFromSchemaCompiler`<`TypeProvider`, `SchemaCompiler`\> : `RouteGeneric`[``"Reply"``]\>\>) => `void` \| `Promise`<`void` \| `RouteGeneric`[``"Reply"``]\> |
+| `opts.preHandler?` | `preHandlerHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\> \| `preHandlerHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\>[] |
+| `opts.preValidation?` | `preValidationHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\> \| `preValidationHookHandler`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\>[] |
+| `handler` | `RouteHandlerMethod`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `RouteGeneric`, `ContextConfig`, `SchemaCompiler`, `TypeProvider`, `FastifyBaseLogger`\> |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `TypeProvider`\>
 
 #### Inherited from
 
@@ -2363,13 +2164,13 @@ FastifyInstance.setNotFoundHandler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:535
+node_modules/fastify/types/instance.d.ts:459
 
 ___
 
 ### setReplySerializer
 
-▸ **setReplySerializer**(`replySerializer`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **setReplySerializer**(`replySerializer`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 Set the reply serializer for all routes.
 
@@ -2381,7 +2182,7 @@ Set the reply serializer for all routes.
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -2389,13 +2190,13 @@ FastifyInstance.setReplySerializer
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:583
+node_modules/fastify/types/instance.d.ts:533
 
 ___
 
 ### setSchemaController
 
-▸ **setSchemaController**(`schemaControllerOpts`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **setSchemaController**(`schemaControllerOpts`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 Set the schema controller for all routes.
 
@@ -2407,7 +2208,7 @@ Set the schema controller for all routes.
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -2415,13 +2216,13 @@ FastifyInstance.setSchemaController
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:578
+node_modules/fastify/types/instance.d.ts:528
 
 ___
 
 ### setSchemaErrorFormatter
 
-▸ **setSchemaErrorFormatter**(`errorFormatter`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **setSchemaErrorFormatter**(`errorFormatter`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Parameters
 
@@ -2431,7 +2232,7 @@ ___
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -2439,13 +2240,13 @@ FastifyInstance.setSchemaErrorFormatter
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:588
+node_modules/fastify/types/instance.d.ts:538
 
 ___
 
 ### setSerializerCompiler
 
-▸ **setSerializerCompiler**<`T`\>(`schemaCompiler`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **setSerializerCompiler**\<`T`\>(`schemaCompiler`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 Set the schema serializer for all routes.
 
@@ -2459,11 +2260,11 @@ Set the schema serializer for all routes.
 
 | Name | Type |
 | :------ | :------ |
-| `schemaCompiler` | `FastifySerializerCompiler`<`T`\> |
+| `schemaCompiler` | `FastifySerializerCompiler`\<`T`\> |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -2471,13 +2272,13 @@ FastifyInstance.setSerializerCompiler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:573
+node_modules/fastify/types/instance.d.ts:523
 
 ___
 
 ### setValidatorCompiler
 
-▸ **setValidatorCompiler**<`T`\>(`schemaCompiler`): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **setValidatorCompiler**\<`T`\>(`schemaCompiler`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 Set the schema validator for all routes.
 
@@ -2491,11 +2292,11 @@ Set the schema validator for all routes.
 
 | Name | Type |
 | :------ | :------ |
-| `schemaCompiler` | `FastifySchemaCompiler`<`T`\> |
+| `schemaCompiler` | `FastifySchemaCompiler`\<`T`\> |
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Inherited from
 
@@ -2503,7 +2304,7 @@ FastifyInstance.setValidatorCompiler
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:563
+node_modules/fastify/types/instance.d.ts:513
 
 ___
 
@@ -2561,7 +2362,7 @@ ___
 
 ### withTypeProvider
 
-▸ **withTypeProvider**<`Provider`\>(): `FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `Provider`\>
+▸ **withTypeProvider**\<`Provider`\>(): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `Provider`\>
 
 #### Type parameters
 
@@ -2571,7 +2372,7 @@ ___
 
 #### Returns
 
-`FastifyInstance`<`RawServerDefault`, `IncomingMessage`, `ServerResponse`<`IncomingMessage`\>, `FastifyBaseLogger`, `Provider`\>
+`FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `Provider`\>
 
 #### Inherited from
 
@@ -2579,4 +2380,4 @@ FastifyInstance.withTypeProvider
 
 #### Defined in
 
-node_modules/fastify/types/instance.d.ts:131
+node_modules/fastify/types/instance.d.ts:133

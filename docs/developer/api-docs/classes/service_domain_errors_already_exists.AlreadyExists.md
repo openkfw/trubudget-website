@@ -1,8 +1,7 @@
 # AlreadyExists
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/already\_exists](../modules/service_domain_errors_already_exists.md) / AlreadyExists
 
-[service/domain/errors/already_exists](../modules/service_domain_errors_already_exists.md).AlreadyExists
+[service/domain/errors/already\_exists](../modules/service_domain_errors_already_exists.md).AlreadyExists
 
 **`Param`**
 
@@ -59,7 +58,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:9](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/already_exists.ts#L9)
+[src/service/domain/errors/already_exists.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/already_exists.ts#L9)
 
 ## Properties
 
@@ -69,7 +68,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/already_exists.ts#L11)
+[src/service/domain/errors/already_exists.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/already_exists.ts#L11)
 
 ___
 
@@ -79,7 +78,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:10](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/errors/already_exists.ts#L10)
+[src/service/domain/errors/already_exists.ts:10](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/already_exists.ts#L10)
 
 ___
 
@@ -93,7 +92,7 @@ Error.message
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1055
+node_modules/typescript/lib/lib.es5.d.ts:1068
 
 ___
 
@@ -107,7 +106,7 @@ Error.name
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1054
+node_modules/typescript/lib/lib.es5.d.ts:1067
 
 ___
 
@@ -121,7 +120,7 @@ Error.stack
 
 #### Defined in
 
-node_modules/typescript/lib/lib.es5.d.ts:1056
+node_modules/typescript/lib/lib.es5.d.ts:1069
 
 ___
 
@@ -135,10 +134,6 @@ ___
 
 Optional override for formatting stack traces
 
-**`See`**
-
-https://v8.dev/docs/stack-trace-api#customizing-stack-traces
-
 ##### Parameters
 
 | Name | Type |
@@ -149,6 +144,10 @@ https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 ##### Returns
 
 `any`
+
+**`See`**
+
+https://v8.dev/docs/stack-trace-api#customizing-stack-traces
 
 #### Inherited from
 

@@ -1,5 +1,4 @@
 # service/domain/workflow/notification\_eventsourcing
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/notification\_eventsourcing
 
 ## Table of contents
@@ -32,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_eventsourcing.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/notification_eventsourcing.ts#L15)
+[src/service/domain/workflow/notification_eventsourcing.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification_eventsourcing.ts#L15)

@@ -1,5 +1,4 @@
 # service/workflowitem\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_create
 
 ## Table of contents
@@ -22,7 +21,7 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_workflowitem_crea
 
 ### createWorkflowitem
 
-▸ **createWorkflowitem**(`conn`, `storageServiceClient`, `ctx`, `serviceUser`, `requestData`): `Promise`<[`Type`](result.md#type)<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
+▸ **createWorkflowitem**(`conn`, `storageServiceClient`, `ctx`, `serviceUser`, `requestData`): `Promise`\<[`Type`](result.md#type)\<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
 
 #### Parameters
 
@@ -36,8 +35,8 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_workflowitem_crea
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`ResourceMap`](service_domain_ResourceMap.md#resourcemap)\>\>
 
 #### Defined in
 
-[src/service/workflowitem_create.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/workflowitem_create.ts#L26)
+[src/service/workflowitem_create.ts:30](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_create.ts#L30)

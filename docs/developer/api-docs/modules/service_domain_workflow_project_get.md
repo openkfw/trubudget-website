@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_get
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### getProject
 
-▸ **getProject**(`ctx`, `user`, `projectId`, `repository`): `Promise`<[`Type`](result.md#type)<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>\>
+▸ **getProject**(`ctx`, `user`, `projectId`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>\>
 
 #### Parameters
 
@@ -25,8 +24,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Project`](../interfaces/service_domain_workflow_project.Project.md)\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/project_get.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/project_get.ts#L15)
+[src/service/domain/workflow/project_get.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_get.ts#L15)

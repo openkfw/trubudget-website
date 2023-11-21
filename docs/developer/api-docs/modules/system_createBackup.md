@@ -1,5 +1,4 @@
 # system/createBackup
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/createBackup
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### createBackup
 
-▸ **createBackup**(`blockchainHost`, `blockchainPort`, `req`): `Promise`<`AxiosResponse`<`any`, `any`\>\>
+▸ **createBackup**(`blockchainHost`, `blockchainPort`, `req`): `Promise`\<`AxiosResponse`\<`any`, `any`\>\>
 
 #### Parameters
 
@@ -24,8 +23,8 @@
 
 #### Returns
 
-`Promise`<`AxiosResponse`<`any`, `any`\>\>
+`Promise`\<`AxiosResponse`\<`any`, `any`\>\>
 
 #### Defined in
 
-[src/system/createBackup.ts:5](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/system/createBackup.ts#L5)
+[src/system/createBackup.ts:5](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/createBackup.ts#L5)

@@ -1,5 +1,4 @@
 # project\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / project\_list
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/project.li
 
 #### Defined in
 
-[src/project_list.ts:131](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/project_list.ts#L131)
+[src/project_list.ts:131](https://github.com/openkfw/TruBudget/blob/92640998/api/src/project_list.ts#L131)

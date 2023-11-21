@@ -1,5 +1,4 @@
 # service/domain/system\_information/provisioning\_ended
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/system\_information/provisioning\_ended
 
 ## Table of contents
@@ -21,17 +20,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:19](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/provisioning_ended.ts#L19)
+[src/service/domain/system_information/provisioning_ended.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_ended.ts#L19)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_system_information_provisioning_ended.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_system_information_provisioning_ended.Event.md)\>
 
 #### Parameters
 
@@ -44,17 +43,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_system_information_provisioning_ended.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_system_information_provisioning_ended.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:27](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/provisioning_ended.ts#L27)
+[src/service/domain/system_information/provisioning_ended.ts:27](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_ended.ts#L27)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_system_information_provisioning_ended.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_system_information_provisioning_ended.Event.md)\>
 
 #### Parameters
 
@@ -64,8 +63,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_system_information_provisioning_ended.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_system_information_provisioning_ended.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:49](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/system_information/provisioning_ended.ts#L49)
+[src/service/domain/system_information/provisioning_ended.ts:49](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_ended.ts#L49)

@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitems\_reorder
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitems\_reorder
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### setWorkflowitemOrdering
 
-▸ **setWorkflowitemOrdering**(`ctx`, `issuer`, `projectId`, `subprojectId`, `ordering`, `repository`): `Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **setWorkflowitemOrdering**(`ctx`, `issuer`, `projectId`, `subprojectId`, `ordering`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reorder.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/workflowitems_reorder.ts#L25)
+[src/service/domain/workflow/workflowitems_reorder.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitems_reorder.ts#L25)

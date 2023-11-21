@@ -1,5 +1,4 @@
 # system/ensureOrganizationUrlPublished
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/ensureOrganizationUrlPublished
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### default
 
-▸ **default**(`conn`, `organization`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **default**(`conn`, `organization`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -23,8 +22,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/system/ensureOrganizationUrlPublished.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/system/ensureOrganizationUrlPublished.ts#L13)
+[src/system/ensureOrganizationUrlPublished.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/ensureOrganizationUrlPublished.ts#L13)

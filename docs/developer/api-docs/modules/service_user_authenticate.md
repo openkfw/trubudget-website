@@ -1,5 +1,4 @@
 # service/user\_authenticate
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_authenticate
 
 ## Table of contents
@@ -18,7 +17,7 @@
 
 ### authenticate
 
-▸ **authenticate**(`organization`, `organizationSecret`, `rootSecret`, `conn`, `ctx`, `userId`, `password`): `Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+▸ **authenticate**(`organization`, `organizationSecret`, `rootSecret`, `conn`, `ctx`, `userId`, `password`): `Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Parameters
 
@@ -34,17 +33,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Defined in
 
-[src/service/user_authenticate.ts:33](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/user_authenticate.ts#L33)
+[src/service/user_authenticate.ts:33](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/user_authenticate.ts#L33)
 
 ___
 
 ### authenticateUser
 
-▸ **authenticateUser**(`conn`, `ctx`, `organization`, `organizationSecret`, `userId`, `password`): `Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+▸ **authenticateUser**(`conn`, `ctx`, `organization`, `organizationSecret`, `userId`, `password`): `Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Parameters
 
@@ -59,17 +58,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Defined in
 
-[src/service/user_authenticate.ts:107](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/user_authenticate.ts#L107)
+[src/service/user_authenticate.ts:107](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/user_authenticate.ts#L107)
 
 ___
 
 ### authenticateWithToken
 
-▸ **authenticateWithToken**(`organization`, `organizationSecret`, `conn`, `ctx`, `token`, `csrf`): `Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+▸ **authenticateWithToken**(`organization`, `organizationSecret`, `conn`, `ctx`, `token`, `csrf`): `Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Parameters
 
@@ -84,8 +83,8 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`AuthToken`](../interfaces/service_domain_organization_auth_token.AuthToken.md)\>\>
 
 #### Defined in
 
-[src/service/user_authenticate.ts:191](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/user_authenticate.ts#L191)
+[src/service/user_authenticate.ts:191](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/user_authenticate.ts#L191)

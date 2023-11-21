@@ -1,5 +1,4 @@
 # lib/resourceTypes
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/resourceTypes
 
 ## Table of contents
@@ -16,4 +15,4 @@
 
 #### Defined in
 
-[src/lib/resourceTypes.ts:1](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/resourceTypes.ts#L1)
+[src/lib/resourceTypes.ts:1](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/resourceTypes.ts#L1)

@@ -1,5 +1,4 @@
 # UnsupportedMediaType
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [error](../modules/error.md) / UnsupportedMediaType
 
 [error](../modules/error.md).UnsupportedMediaType
@@ -21,7 +20,7 @@ Error type thrown when a media type is not supported
 
 #### Defined in
 
-[src/error.ts:90](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/error.ts#L90)
+[src/error.ts:90](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L90)
 
 ___
 
@@ -31,4 +30,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:89](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/error.ts#L89)
+[src/error.ts:89](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L89)

@@ -1,5 +1,4 @@
 # lib/symmetricCrypto
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/symmetricCrypto
 
 ## Table of contents
@@ -13,7 +12,7 @@
 
 ### decrypt
 
-▸ **decrypt**(`organizationSecret`, `hexEncodedCiphertext`): [`Type`](result.md#type)<`string`\>
+▸ **decrypt**(`organizationSecret`, `hexEncodedCiphertext`): [`Type`](result.md#type)\<`string`\>
 
 Decrypts a hex-encoded ciphertext and returns the resulting string.
 
@@ -26,11 +25,11 @@ Decrypts a hex-encoded ciphertext and returns the resulting string.
 
 #### Returns
 
-[`Type`](result.md#type)<`string`\>
+[`Type`](result.md#type)\<`string`\>
 
 #### Defined in
 
-[src/lib/symmetricCrypto.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/symmetricCrypto.ts#L13)
+[src/lib/symmetricCrypto.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/symmetricCrypto.ts#L13)
 
 ___
 
@@ -53,4 +52,4 @@ Encrypts a string and returns resulting hex-encoded ciphertext.
 
 #### Defined in
 
-[src/lib/symmetricCrypto.ts:33](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/symmetricCrypto.ts#L33)
+[src/lib/symmetricCrypto.ts:33](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/symmetricCrypto.ts#L33)

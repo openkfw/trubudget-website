@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_updated
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_updated
 
 ## Table of contents
@@ -24,27 +23,27 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:41](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_updated.ts#L41)
+[src/service/domain/workflow/subproject_updated.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_updated.ts#L41)
 
 ___
 
 ### updatedDataSchema
 
-• `Const` **updatedDataSchema**: `ObjectSchema`<`any`\>
+• `Const` **updatedDataSchema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_updated.ts#L31)
+[src/service/domain/workflow/subproject_updated.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_updated.ts#L31)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `update`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_updated.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `update`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_updated.Event.md)\>
 
 #### Parameters
 
@@ -60,17 +59,17 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_updated.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_updated.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:52](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_updated.ts#L52)
+[src/service/domain/workflow/subproject_updated.ts:52](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_updated.ts#L52)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`subproject`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`subproject`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given subproject, or returns an error.
 
@@ -90,17 +89,17 @@ subproject is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:94](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_updated.ts#L94)
+[src/service/domain/workflow/subproject_updated.ts:94](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_updated.ts#L94)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_updated.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_updated.Event.md)\>
 
 #### Parameters
 
@@ -110,8 +109,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_updated.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_updated.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:79](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_updated.ts#L79)
+[src/service/domain/workflow/subproject_updated.ts:79](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_updated.ts#L79)

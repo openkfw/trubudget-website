@@ -1,5 +1,4 @@
 # service/domain/workflow/global\_permissions
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/global\_permissions
 
 ## Table of contents
@@ -33,7 +32,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/global_permissions.ts#L31)
+[src/service/domain/workflow/global_permissions.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permissions.ts#L31)
 
 ___
 
@@ -55,13 +54,13 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions.ts:38](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/global_permissions.ts#L38)
+[src/service/domain/workflow/global_permissions.ts:38](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permissions.ts#L38)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`GlobalPermissions`](../interfaces/service_domain_workflow_global_permissions.GlobalPermissions.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`GlobalPermissions`](../interfaces/service_domain_workflow_global_permissions.GlobalPermissions.md)\>
 
 #### Parameters
 
@@ -71,8 +70,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`GlobalPermissions`](../interfaces/service_domain_workflow_global_permissions.GlobalPermissions.md)\>
+[`Type`](result.md#type)\<[`GlobalPermissions`](../interfaces/service_domain_workflow_global_permissions.GlobalPermissions.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/global_permissions.ts#L26)
+[src/service/domain/workflow/global_permissions.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permissions.ts#L26)

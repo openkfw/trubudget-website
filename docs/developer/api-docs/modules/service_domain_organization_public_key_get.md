@@ -1,5 +1,4 @@
 # service/domain/organization/public\_key\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/public\_key\_get
 
 ## Table of contents
@@ -14,7 +13,7 @@
 
 ### getAllPublicKeys
 
-▸ **getAllPublicKeys**(`ctx`, `repository`): `Promise`<[`Type`](result.md#type)<[`KeysByOrganization`](service_domain_organization_public_key_eventsourcing.md#keysbyorganization)\>\>
+▸ **getAllPublicKeys**(`ctx`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`KeysByOrganization`](service_domain_organization_public_key_eventsourcing.md#keysbyorganization)\>\>
 
 #### Parameters
 
@@ -25,17 +24,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`KeysByOrganization`](service_domain_organization_public_key_eventsourcing.md#keysbyorganization)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`KeysByOrganization`](service_domain_organization_public_key_eventsourcing.md#keysbyorganization)\>\>
 
 #### Defined in
 
-[src/service/domain/organization/public_key_get.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/public_key_get.ts#L14)
+[src/service/domain/organization/public_key_get.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_get.ts#L14)
 
 ___
 
 ### getPublicKey
 
-▸ **getPublicKey**(`ctx`, `organization`, `repository`): `Promise`<[`Type`](result.md#type)<[`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>\>
+▸ **getPublicKey**(`ctx`, `organization`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>\>
 
 #### Parameters
 
@@ -47,17 +46,17 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`PublicKeyBase64`](service_domain_organization_public_key.md#publickeybase64)\>\>
 
 #### Defined in
 
-[src/service/domain/organization/public_key_get.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/public_key_get.ts#L31)
+[src/service/domain/organization/public_key_get.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_get.ts#L31)
 
 ___
 
 ### publicKeyAlreadyExists
 
-▸ **publicKeyAlreadyExists**(`ctx`, `organization`, `repository`): `Promise`<[`Type`](result.md#type)<`boolean`\>\>
+▸ **publicKeyAlreadyExists**(`ctx`, `organization`, `repository`): `Promise`\<[`Type`](result.md#type)\<`boolean`\>\>
 
 #### Parameters
 
@@ -69,8 +68,8 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`boolean`\>\>
+`Promise`\<[`Type`](result.md#type)\<`boolean`\>\>
 
 #### Defined in
 
-[src/service/domain/organization/public_key_get.ts:55](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/public_key_get.ts#L55)
+[src/service/domain/organization/public_key_get.ts:55](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_get.ts#L55)

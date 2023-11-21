@@ -1,5 +1,4 @@
 # service/domain/organization/public\_key\_published
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/public\_key\_published
 
 ## Table of contents
@@ -21,17 +20,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/public_key_published.ts:21](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/public_key_published.ts#L21)
+[src/service/domain/organization/public_key_published.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_published.ts#L21)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `organization`, `publicKey`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_public_key_published.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `organization`, `publicKey`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_public_key_published.Event.md)\>
 
 #### Parameters
 
@@ -46,17 +45,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_public_key_published.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_public_key_published.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/public_key_published.ts:31](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/public_key_published.ts#L31)
+[src/service/domain/organization/public_key_published.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_published.ts#L31)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_public_key_published.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_public_key_published.Event.md)\>
 
 #### Parameters
 
@@ -66,8 +65,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_public_key_published.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_public_key_published.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/public_key_published.ts:57](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/public_key_published.ts#L57)
+[src/service/domain/organization/public_key_published.ts:57](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_published.ts#L57)

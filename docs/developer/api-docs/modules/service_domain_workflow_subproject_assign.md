@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_assign
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_assign
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### assignSubproject
 
-▸ **assignSubproject**(`ctx`, `issuer`, `projectId`, `subprojectId`, `assignee`, `repository`): `Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `subproject`: [`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)  }\>\>
+▸ **assignSubproject**(`ctx`, `issuer`, `projectId`, `subprojectId`, `assignee`, `repository`): `Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `subproject`: [`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)  }\>\>
 
 #### Parameters
 
@@ -27,8 +26,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `subproject`: [`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)  }\>\>
+`Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `subproject`: [`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)  }\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assign.ts:23](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_assign.ts#L23)
+[src/service/domain/workflow/subproject_assign.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_assign.ts#L23)

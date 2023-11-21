@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_projected\_budget\_deleted
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_projected\_budget\_deleted
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_deleted.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L25)
+[src/service/domain/workflow/subproject_projected_budget_deleted.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L25)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `organization`, `currencyCode`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_deleted.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `projectId`, `subprojectId`, `organization`, `currencyCode`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_deleted.Event.md)\>
 
 #### Parameters
 
@@ -49,17 +48,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_deleted.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_deleted.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_deleted.ts:37](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L37)
+[src/service/domain/workflow/subproject_projected_budget_deleted.ts:37](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L37)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`subproject`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`subproject`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given subproject, or returns an error.
 
@@ -79,17 +78,17 @@ subproject is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_deleted.ts:80](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L80)
+[src/service/domain/workflow/subproject_projected_budget_deleted.ts:80](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L80)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_deleted.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_deleted.Event.md)\>
 
 #### Parameters
 
@@ -99,8 +98,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_deleted.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_projected_budget_deleted.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_deleted.ts:65](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L65)
+[src/service/domain/workflow/subproject_projected_budget_deleted.ts:65](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L65)

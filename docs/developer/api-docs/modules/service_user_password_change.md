@@ -1,5 +1,4 @@
 # service/user\_password\_change
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_password\_change
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### changeUserPassword
 
-▸ **changeUserPassword**(`conn`, `ctx`, `serviceUser`, `issuerOrganization`, `requestData`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **changeUserPassword**(`conn`, `ctx`, `serviceUser`, `issuerOrganization`, `requestData`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -26,8 +25,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/user_password_change.ts:12](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/user_password_change.ts#L12)
+[src/service/user_password_change.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/user_password_change.ts#L12)

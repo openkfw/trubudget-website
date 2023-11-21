@@ -1,5 +1,4 @@
 # network/model/AccessVote
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/model/AccessVote
 
 ## Table of contents
@@ -26,7 +25,7 @@
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:3](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/AccessVote.ts#L3)
+[src/network/model/AccessVote.ts:3](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/AccessVote.ts#L3)
 
 ## Variables
 
@@ -36,7 +35,7 @@
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:14](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/AccessVote.ts#L14)
+[src/network/model/AccessVote.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/AccessVote.ts#L14)
 
 ___
 
@@ -46,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:6](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/AccessVote.ts#L6)
+[src/network/model/AccessVote.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/AccessVote.ts#L6)
 
 ___
 
@@ -56,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/AccessVote.ts#L13)
+[src/network/model/AccessVote.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/AccessVote.ts#L13)
 
 ## Functions
 
@@ -76,4 +75,4 @@ ___
 
 #### Defined in
 
-[src/network/model/AccessVote.ts:19](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/network/model/AccessVote.ts#L19)
+[src/network/model/AccessVote.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/AccessVote.ts#L19)

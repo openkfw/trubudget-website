@@ -1,8 +1,7 @@
 # default
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client\_storage\_service](../modules/service_Client_storage_service.md) / default
 
-[service/Client_storage_service](../modules/service_Client_storage_service.md).default
+[service/Client\_storage\_service](../modules/service_Client_storage_service.md).default
 
 ## Implements
 
@@ -37,11 +36,11 @@
 
 | Name | Type |
 | :------ | :------ |
-| `settings` | `AxiosRequestConfig`<`any`\> |
+| `settings` | `AxiosRequestConfig`\<`any`\> |
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:25](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.ts#L25)
+[src/service/Client_storage_service.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L25)
 
 ## Properties
 
@@ -51,7 +50,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:21](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.ts#L21)
+[src/service/Client_storage_service.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L21)
 
 ___
 
@@ -61,13 +60,13 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:23](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.ts#L23)
+[src/service/Client_storage_service.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L23)
 
 ## Methods
 
 ### downloadObject
 
-▸ **downloadObject**(`id`, `secret`): `Promise`<[`Type`](../modules/result.md#type)<[`StorageObject`](../interfaces/service_Client_storage_service_h.StorageObject.md)\>\>
+▸ **downloadObject**(`id`, `secret`): `Promise`\<[`Type`](../modules/result.md#type)\<[`StorageObject`](../interfaces/service_Client_storage_service_h.StorageObject.md)\>\>
 
 Download an object using the matching secret
 
@@ -80,7 +79,7 @@ Download an object using the matching secret
 
 #### Returns
 
-`Promise`<[`Type`](../modules/result.md#type)<[`StorageObject`](../interfaces/service_Client_storage_service_h.StorageObject.md)\>\>
+`Promise`\<[`Type`](../modules/result.md#type)\<[`StorageObject`](../interfaces/service_Client_storage_service_h.StorageObject.md)\>\>
 
 #### Implementation of
 
@@ -88,7 +87,7 @@ Download an object using the matching secret
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:95](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.ts#L95)
+[src/service/Client_storage_service.ts:95](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L95)
 
 ___
 
@@ -102,19 +101,19 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:136](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.ts#L136)
+[src/service/Client_storage_service.ts:136](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L136)
 
 ___
 
 ### getVersion
 
-▸ **getVersion**(): `Promise`<[`Version`](../interfaces/service_Client_storage_service_h.Version.md)\>
+▸ **getVersion**(): `Promise`\<[`Version`](../interfaces/service_Client_storage_service_h.Version.md)\>
 
 Get version of conncted storage service
 
 #### Returns
 
-`Promise`<[`Version`](../interfaces/service_Client_storage_service_h.Version.md)\>
+`Promise`\<[`Version`](../interfaces/service_Client_storage_service_h.Version.md)\>
 
 #### Implementation of
 
@@ -122,19 +121,19 @@ Get version of conncted storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:54](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.ts#L54)
+[src/service/Client_storage_service.ts:54](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L54)
 
 ___
 
 ### isReady
 
-▸ **isReady**(): `Promise`<`boolean`\>
+▸ **isReady**(): `Promise`\<`boolean`\>
 
 Get readiness sattus of storage service
 
 #### Returns
 
-`Promise`<`boolean`\>
+`Promise`\<`boolean`\>
 
 #### Implementation of
 
@@ -142,13 +141,13 @@ Get readiness sattus of storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:49](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.ts#L49)
+[src/service/Client_storage_service.ts:49](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L49)
 
 ___
 
 ### uploadObject
 
-▸ **uploadObject**(`id`, `name`, `data`): `Promise`<[`Type`](../modules/result.md#type)<[`UploadResponse`](../interfaces/service_Client_storage_service_h.UploadResponse.md)\>\>
+▸ **uploadObject**(`id`, `name`, `data`): `Promise`\<[`Type`](../modules/result.md#type)\<[`UploadResponse`](../interfaces/service_Client_storage_service_h.UploadResponse.md)\>\>
 
 Upload an object using the
 
@@ -162,7 +161,7 @@ Upload an object using the
 
 #### Returns
 
-`Promise`<[`Type`](../modules/result.md#type)<[`UploadResponse`](../interfaces/service_Client_storage_service_h.UploadResponse.md)\>\>
+`Promise`\<[`Type`](../modules/result.md#type)\<[`UploadResponse`](../interfaces/service_Client_storage_service_h.UploadResponse.md)\>\>
 
 #### Implementation of
 
@@ -170,4 +169,4 @@ Upload an object using the
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:68](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/Client_storage_service.ts#L68)
+[src/service/Client_storage_service.ts:68](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L68)

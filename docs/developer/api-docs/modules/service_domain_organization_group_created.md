@@ -1,5 +1,4 @@
 # service/domain/organization/group\_created
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_created
 
 ## Table of contents
@@ -21,17 +20,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/group_created.ts:42](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_created.ts#L42)
+[src/service/domain/organization/group_created.ts:42](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_created.ts#L42)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `group`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `group`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
 
 #### Parameters
 
@@ -45,17 +44,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/group_created.ts:51](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_created.ts#L51)
+[src/service/domain/organization/group_created.ts:51](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_created.ts#L51)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
 
 #### Parameters
 
@@ -65,8 +64,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_group_created.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/group_created.ts:75](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/group_created.ts#L75)
+[src/service/domain/organization/group_created.ts:75](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_created.ts#L75)

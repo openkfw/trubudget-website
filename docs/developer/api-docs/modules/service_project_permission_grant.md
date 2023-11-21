@@ -1,5 +1,4 @@
 # service/project\_permission\_grant
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_permission\_grant
 
 ## Table of contents
@@ -22,7 +21,7 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 ### grantProjectPermission
 
-▸ **grantProjectPermission**(`conn`, `ctx`, `serviceUser`, `projectId`, `grantee`, `intent`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **grantProjectPermission**(`conn`, `ctx`, `serviceUser`, `projectId`, `grantee`, `intent`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -37,8 +36,8 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/project_permission_grant.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/project_permission_grant.ts#L16)
+[src/service/project_permission_grant.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_permission_grant.ts#L17)

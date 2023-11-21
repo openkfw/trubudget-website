@@ -1,5 +1,4 @@
 # service/domain/organization/user\_disabled
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_disabled
 
 ## Table of contents
@@ -22,17 +21,17 @@
 
 ### schema
 
-• `Const` **schema**: `ObjectSchema`<`any`\>
+• `Const` **schema**: `ObjectSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:29](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_disabled.ts#L29)
+[src/service/domain/organization/user_disabled.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_disabled.ts#L29)
 
 ## Functions
 
 ### createEvent
 
-▸ **createEvent**(`source`, `publisher`, `user`, `time?`, `metadata?`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_disabled.Event.md)\>
+▸ **createEvent**(`source`, `publisher`, `user`, `time?`, `metadata?`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_disabled.Event.md)\>
 
 #### Parameters
 
@@ -46,17 +45,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_disabled.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_disabled.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:38](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_disabled.ts#L38)
+[src/service/domain/organization/user_disabled.ts:38](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_disabled.ts#L38)
 
 ___
 
 ### mutate
 
-▸ **mutate**(`user`, `event`): [`Type`](result.md#type)<`void`\>
+▸ **mutate**(`user`, `event`): [`Type`](result.md#type)\<`void`\>
 
 Applies the event to the given user, or returns an error.
 
@@ -76,17 +75,17 @@ is automatically validated when obtained using
 
 #### Returns
 
-[`Type`](result.md#type)<`void`\>
+[`Type`](result.md#type)\<`void`\>
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:77](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_disabled.ts#L77)
+[src/service/domain/organization/user_disabled.ts:77](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_disabled.ts#L77)
 
 ___
 
 ### validate
 
-▸ **validate**(`input`): [`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_disabled.Event.md)\>
+▸ **validate**(`input`): [`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_disabled.Event.md)\>
 
 #### Parameters
 
@@ -96,8 +95,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_organization_user_disabled.Event.md)\>
+[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_organization_user_disabled.Event.md)\>
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:62](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/organization/user_disabled.ts#L62)
+[src/service/domain/organization/user_disabled.ts:62](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_disabled.ts#L62)

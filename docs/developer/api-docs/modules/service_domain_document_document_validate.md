@@ -1,5 +1,4 @@
 # service/domain/document/document\_validate
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/document\_validate
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### documentValidate
 
-▸ **documentValidate**(`isDocumentValid`, `documentId`, `ctx`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `repository`): `Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
+▸ **documentValidate**(`isDocumentValid`, `documentId`, `ctx`, `issuer`, `projectId`, `subprojectId`, `workflowitemId`, `repository`): `Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
 
 #### Parameters
 
@@ -29,8 +28,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
+`Promise`\<[`Type`](result.md#type)\<\{ `newEvents`: [`BusinessEvent`](service_domain_business_event.md#businessevent)[] ; `workflowitem`: [`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)  }\>\>
 
 #### Defined in
 
-[src/service/domain/document/document_validate.ts:33](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/document_validate.ts#L33)
+[src/service/domain/document/document_validate.ts:33](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validate.ts#L33)

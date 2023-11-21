@@ -1,5 +1,4 @@
 # authz
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / authz
 
 ## Table of contents
@@ -16,7 +15,7 @@
 
 ### authorized
 
-▸ **authorized**(`token`, `intent`): (`resourcePermissions`: [`Permissions`](authz_types.md#permissions)) => `Promise`<`undefined`\>
+▸ **authorized**(`token`, `intent`): (`resourcePermissions`: [`Permissions`](authz_types.md#permissions)) => `Promise`\<`undefined`\>
 
 #### Parameters
 
@@ -29,7 +28,7 @@
 
 `fn`
 
-▸ (`resourcePermissions`): `Promise`<`undefined`\>
+▸ (`resourcePermissions`): `Promise`\<`undefined`\>
 
 ##### Parameters
 
@@ -39,11 +38,11 @@
 
 ##### Returns
 
-`Promise`<`undefined`\>
+`Promise`\<`undefined`\>
 
 #### Defined in
 
-[src/authz/index.ts:68](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/authz/index.ts#L68)
+[src/authz/index.ts:68](https://github.com/openkfw/TruBudget/blob/92640998/api/src/authz/index.ts#L68)
 
 ___
 
@@ -64,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/authz/index.ts:20](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/authz/index.ts#L20)
+[src/authz/index.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/authz/index.ts#L20)
 
 ___
 
@@ -86,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/authz/index.ts:16](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/authz/index.ts#L16)
+[src/authz/index.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/authz/index.ts#L16)
 
 ___
 
@@ -107,13 +106,13 @@ ___
 
 #### Defined in
 
-[src/authz/index.ts:13](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/authz/index.ts#L13)
+[src/authz/index.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/authz/index.ts#L13)
 
 ___
 
 ### throwIfUnauthorized
 
-▸ **throwIfUnauthorized**(`token`, `intent`, `permissions`): `Promise`<`undefined`\>
+▸ **throwIfUnauthorized**(`token`, `intent`, `permissions`): `Promise`\<`undefined`\>
 
 #### Parameters
 
@@ -125,8 +124,8 @@ ___
 
 #### Returns
 
-`Promise`<`undefined`\>
+`Promise`\<`undefined`\>
 
 #### Defined in
 
-[src/authz/index.ts:77](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/authz/index.ts#L77)
+[src/authz/index.ts:77](https://github.com/openkfw/TruBudget/blob/92640998/api/src/authz/index.ts#L77)

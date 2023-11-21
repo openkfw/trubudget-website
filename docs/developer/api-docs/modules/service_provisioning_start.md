@@ -1,5 +1,4 @@
 # service/provisioning\_start
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/provisioning\_start
 
 ## Table of contents
@@ -12,7 +11,7 @@
 
 ### setProvisioningStartFlag
 
-▸ **setProvisioningStartFlag**(`conn`, `ctx`, `serviceUser`): `Promise`<[`Type`](result.md#type)<`void`\>\>
+▸ **setProvisioningStartFlag**(`conn`, `ctx`, `serviceUser`): `Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Parameters
 
@@ -24,8 +23,8 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`void`\>\>
+`Promise`\<[`Type`](result.md#type)\<`void`\>\>
 
 #### Defined in
 
-[src/service/provisioning_start.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/provisioning_start.ts#L11)
+[src/service/provisioning_start.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/provisioning_start.ts#L11)

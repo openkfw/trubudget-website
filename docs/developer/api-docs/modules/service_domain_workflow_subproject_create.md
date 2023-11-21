@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_create
 
 ## Table of contents
@@ -17,7 +16,7 @@
 
 ### createSubproject
 
-▸ **createSubproject**(`ctx`, `issuer`, `reqData`, `repository`): `Promise`<[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_created.Event.md)\>\>
+▸ **createSubproject**(`ctx`, `issuer`, `reqData`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_created.Event.md)\>\>
 
 #### Parameters
 
@@ -30,11 +29,11 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<[`Event`](../interfaces/service_domain_workflow_subproject_created.Event.md)\>\>
+`Promise`\<[`Type`](result.md#type)\<[`Event`](../interfaces/service_domain_workflow_subproject_created.Event.md)\>\>
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_create.ts:62](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_create.ts#L62)
+[src/service/domain/workflow/subproject_create.ts:62](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_create.ts#L62)
 
 ___
 
@@ -54,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_create.ts:52](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/workflow/subproject_create.ts#L52)
+[src/service/domain/workflow/subproject_create.ts:52](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_create.ts#L52)

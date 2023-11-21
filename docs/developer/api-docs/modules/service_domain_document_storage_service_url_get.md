@@ -1,5 +1,4 @@
 # service/domain/document/storage\_service\_url\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/storage\_service\_url\_get
 
 ## Table of contents
@@ -13,7 +12,7 @@
 
 ### getAllStorageServiceUrls
 
-▸ **getAllStorageServiceUrls**(`repository`): `Promise`<[`Type`](result.md#type)<`Map`<`string`, `string`\>\>\>
+▸ **getAllStorageServiceUrls**(`repository`): `Promise`\<[`Type`](result.md#type)\<`Map`\<`string`, `string`\>\>\>
 
 #### Parameters
 
@@ -23,17 +22,17 @@
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`Map`<`string`, `string`\>\>\>
+`Promise`\<[`Type`](result.md#type)\<`Map`\<`string`, `string`\>\>\>
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_get.ts:11](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/storage_service_url_get.ts#L11)
+[src/service/domain/document/storage_service_url_get.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/storage_service_url_get.ts#L11)
 
 ___
 
 ### getStorageServiceUrl
 
-▸ **getStorageServiceUrl**(`organization`, `repository`): `Promise`<[`Type`](result.md#type)<`string` \| `undefined`\>\>
+▸ **getStorageServiceUrl**(`organization`, `repository`): `Promise`\<[`Type`](result.md#type)\<`string` \| `undefined`\>\>
 
 #### Parameters
 
@@ -44,8 +43,8 @@ ___
 
 #### Returns
 
-`Promise`<[`Type`](result.md#type)<`string` \| `undefined`\>\>
+`Promise`\<[`Type`](result.md#type)\<`string` \| `undefined`\>\>
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_get.ts:26](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/service/domain/document/storage_service_url_get.ts#L26)
+[src/service/domain/document/storage_service_url_get.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/storage_service_url_get.ts#L26)

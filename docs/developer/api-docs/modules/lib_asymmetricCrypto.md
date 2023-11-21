@@ -1,5 +1,4 @@
 # lib/asymmetricCrypto
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/asymmetricCrypto
 
 ## Table of contents
@@ -13,7 +12,7 @@
 
 ### decryptWithKey
 
-▸ **decryptWithKey**(`toDecrypt`, `privateKey`): [`Type`](result.md#type)<`string`\>
+▸ **decryptWithKey**(`toDecrypt`, `privateKey`): [`Type`](result.md#type)\<`string`\>
 
 #### Parameters
 
@@ -24,17 +23,17 @@
 
 #### Returns
 
-[`Type`](result.md#type)<`string`\>
+[`Type`](result.md#type)\<`string`\>
 
 #### Defined in
 
-[src/lib/asymmetricCrypto.ts:15](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/asymmetricCrypto.ts#L15)
+[src/lib/asymmetricCrypto.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/asymmetricCrypto.ts#L15)
 
 ___
 
 ### encryptWithKey
 
-▸ **encryptWithKey**(`toEncrypt`, `publicKey`): [`Type`](result.md#type)<`string`\>
+▸ **encryptWithKey**(`toEncrypt`, `publicKey`): [`Type`](result.md#type)\<`string`\>
 
 #### Parameters
 
@@ -45,8 +44,8 @@ ___
 
 #### Returns
 
-[`Type`](result.md#type)<`string`\>
+[`Type`](result.md#type)\<`string`\>
 
 #### Defined in
 
-[src/lib/asymmetricCrypto.ts:5](https://github.com/openkfw/TruBudget/blob/a06c11b/api/src/lib/asymmetricCrypto.ts#L5)
+[src/lib/asymmetricCrypto.ts:5](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/asymmetricCrypto.ts#L5)
