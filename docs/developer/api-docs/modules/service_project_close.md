@@ -1,4 +1,5 @@
 # service/project\_close
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_close
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/project_close.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_close.ts#L15)
+[src/service/project_close.ts:15](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/project_close.ts#L15)

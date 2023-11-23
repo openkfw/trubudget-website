@@ -1,4 +1,5 @@
 # AddressIsInvalidError
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [error](../modules/error.md) / AddressIsInvalidError
 
 [error](../modules/error.md).AddressIsInvalidError
@@ -20,7 +21,7 @@ Error type thrown when an address is invalid
 
 #### Defined in
 
-[src/error.ts:42](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L42)
+[src/error.ts:42](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/error.ts#L42)
 
 ___
 
@@ -30,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L41)
+[src/error.ts:41](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/error.ts#L41)

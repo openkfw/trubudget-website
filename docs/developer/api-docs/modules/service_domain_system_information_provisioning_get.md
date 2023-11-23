@@ -1,4 +1,5 @@
 # service/domain/system\_information/provisioning\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/system\_information/provisioning\_get
 
 ## Table of contents
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_get.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/provisioning_get.ts#L16)
+[src/service/domain/system_information/provisioning_get.ts:16](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/system_information/provisioning_get.ts#L16)

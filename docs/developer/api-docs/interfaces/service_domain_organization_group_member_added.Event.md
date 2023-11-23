@@ -1,4 +1,5 @@
-# Event: service/domain/organization/group_member_added
+# Event: 
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/group\_member\_added](../modules/service_domain_organization_group_member_added.md) / Event
 
 [service/domain/organization/group\_member\_added](../modules/service_domain_organization_group_member_added.md).Event
@@ -23,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L17)
+[src/service/domain/organization/group_member_added.ts:17](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L17)
 
 ___
 
@@ -33,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L19)
+[src/service/domain/organization/group_member_added.ts:19](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L19)
 
 ___
 
@@ -43,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L18)
+[src/service/domain/organization/group_member_added.ts:18](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L18)
 
 ___
 
@@ -53,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L16)
+[src/service/domain/organization/group_member_added.ts:16](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L16)
 
 ___
 
@@ -63,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L14)
+[src/service/domain/organization/group_member_added.ts:14](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L14)
 
 ___
 
@@ -73,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L15)
+[src/service/domain/organization/group_member_added.ts:15](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L15)
 
 ___
 
@@ -83,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L13)
+[src/service/domain/organization/group_member_added.ts:13](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L13)

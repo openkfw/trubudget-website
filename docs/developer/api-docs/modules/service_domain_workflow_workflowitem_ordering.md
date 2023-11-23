@@ -1,4 +1,5 @@
 # service/domain/workflow/workflowitem\_ordering
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_ordering
 
 ## Table of contents
@@ -19,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_ordering.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_ordering.ts#L4)
+[src/service/domain/workflow/workflowitem_ordering.ts:4](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/workflowitem_ordering.ts#L4)
 
 ## Functions
 
@@ -46,4 +47,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_ordering.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_ordering.ts#L11)
+[src/service/domain/workflow/workflowitem_ordering.ts:11](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/workflowitem_ordering.ts#L11)

@@ -1,4 +1,5 @@
 # group\_permissions\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / group\_permissions\_list
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/group.inte
 
 #### Defined in
 
-[src/group_permissions_list.ts:85](https://github.com/openkfw/TruBudget/blob/92640998/api/src/group_permissions_list.ts#L85)
+[src/group_permissions_list.ts:85](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/group_permissions_list.ts#L85)

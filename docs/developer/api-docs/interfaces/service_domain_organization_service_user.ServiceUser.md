@@ -1,4 +1,5 @@
 # ServiceUser
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/service\_user](../modules/service_domain_organization_service_user.md) / ServiceUser
 
 [service/domain/organization/service\_user](../modules/service_domain_organization_service_user.md).ServiceUser
@@ -20,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/service_user.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/service_user.ts#L6)
+[src/service/domain/organization/service_user.ts:6](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/service_user.ts#L6)
 
 ___
 
@@ -30,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/service_user.ts:5](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/service_user.ts#L5)
+[src/service/domain/organization/service_user.ts:5](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/service_user.ts#L5)
 
 ___
 
@@ -40,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/service_user.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/service_user.ts#L4)
+[src/service/domain/organization/service_user.ts:4](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/service_user.ts#L4)
 
 ___
 
@@ -50,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/service_user.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/service_user.ts#L7)
+[src/service/domain/organization/service_user.ts:7](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/service_user.ts#L7)

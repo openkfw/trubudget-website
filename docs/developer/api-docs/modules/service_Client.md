@@ -1,4 +1,5 @@
 # service/Client
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/Client
 
 ## Table of contents
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/Client.ts:39](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L39)
+[src/service/Client.ts:39](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/Client.ts#L39)

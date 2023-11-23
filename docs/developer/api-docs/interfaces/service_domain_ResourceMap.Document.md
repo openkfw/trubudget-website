@@ -1,4 +1,5 @@
 # Document
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/ResourceMap](../modules/service_domain_ResourceMap.md) / Document
 
 [service/domain/ResourceMap](../modules/service_domain_ResourceMap.md).Document
@@ -18,7 +19,7 @@
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/ResourceMap.ts#L4)
+[src/service/domain/ResourceMap.ts:4](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/ResourceMap.ts#L4)
 
 ___
 
@@ -28,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:5](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/ResourceMap.ts#L5)
+[src/service/domain/ResourceMap.ts:5](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/ResourceMap.ts#L5)

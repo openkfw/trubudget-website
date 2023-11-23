@@ -1,4 +1,5 @@
 # service/domain/organization/group\_member\_added
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_member\_added
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L22)
+[src/service/domain/organization/group_member_added.ts:22](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L22)
 
 ## Functions
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:32](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L32)
+[src/service/domain/organization/group_member_added.ts:32](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L32)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_added.ts:58](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_member_added.ts#L58)
+[src/service/domain/organization/group_member_added.ts:58](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/group_member_added.ts#L58)

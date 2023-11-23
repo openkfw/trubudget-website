@@ -1,4 +1,5 @@
 # service/domain/workflow/project\_projected\_budget\_delete
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_projected\_budget\_delete
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_delete.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_projected_budget_delete.ts#L26)
+[src/service/domain/workflow/project_projected_budget_delete.ts:26](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/project_projected_budget_delete.ts#L26)

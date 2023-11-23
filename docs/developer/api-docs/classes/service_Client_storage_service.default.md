@@ -1,4 +1,5 @@
 # default
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client\_storage\_service](../modules/service_Client_storage_service.md) / default
 
 [service/Client\_storage\_service](../modules/service_Client_storage_service.md).default
@@ -40,7 +41,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L25)
+[src/service/Client_storage_service.ts:25](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/Client_storage_service.ts#L25)
 
 ## Properties
 
@@ -50,7 +51,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L21)
+[src/service/Client_storage_service.ts:21](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/Client_storage_service.ts#L21)
 
 ___
 
@@ -60,7 +61,7 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L23)
+[src/service/Client_storage_service.ts:23](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/Client_storage_service.ts#L23)
 
 ## Methods
 
@@ -87,7 +88,7 @@ Download an object using the matching secret
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:95](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L95)
+[src/service/Client_storage_service.ts:95](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/Client_storage_service.ts#L95)
 
 ___
 
@@ -101,7 +102,7 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:136](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L136)
+[src/service/Client_storage_service.ts:136](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/Client_storage_service.ts#L136)
 
 ___
 
@@ -121,7 +122,7 @@ Get version of conncted storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:54](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L54)
+[src/service/Client_storage_service.ts:54](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/Client_storage_service.ts#L54)
 
 ___
 
@@ -141,7 +142,7 @@ Get readiness sattus of storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:49](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L49)
+[src/service/Client_storage_service.ts:49](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/Client_storage_service.ts#L49)
 
 ___
 
@@ -169,4 +170,4 @@ Upload an object using the
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:68](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client_storage_service.ts#L68)
+[src/service/Client_storage_service.ts:68](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/Client_storage_service.ts#L68)

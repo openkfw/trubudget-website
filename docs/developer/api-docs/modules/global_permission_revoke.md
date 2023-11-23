@@ -1,4 +1,5 @@
 # global\_permission\_revoke
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / global\_permission\_revoke
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.rev
 
 #### Defined in
 
-[src/global_permission_revoke.ts:117](https://github.com/openkfw/TruBudget/blob/92640998/api/src/global_permission_revoke.ts#L117)
+[src/global_permission_revoke.ts:117](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/global_permission_revoke.ts#L117)

@@ -1,4 +1,5 @@
 # subproject\_permissions\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / subproject\_permissions\_list
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/subproject_permissions_list.ts:90](https://github.com/openkfw/TruBudget/blob/92640998/api/src/subproject_permissions_list.ts#L90)
+[src/subproject_permissions_list.ts:90](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/subproject_permissions_list.ts#L90)

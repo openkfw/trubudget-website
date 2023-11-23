@@ -1,4 +1,5 @@
 # default
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/RpcError](../modules/service_RpcError.md) / default
 
 [service/RpcError](../modules/service_RpcError.md).default
@@ -56,7 +57,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L12)
+[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/RpcError.ts#L12)
 
 ## Properties
 
@@ -68,7 +69,7 @@ Body of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L16)
+[src/service/RpcError.ts:16](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/RpcError.ts#L16)
 
 ___
 
@@ -80,7 +81,7 @@ Headers of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L15)
+[src/service/RpcError.ts:15](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/RpcError.ts#L15)
 
 ___
 
@@ -134,7 +135,7 @@ Status code of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L13)
+[src/service/RpcError.ts:13](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/RpcError.ts#L13)
 
 ___
 
@@ -146,7 +147,7 @@ Status text of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcError.ts#L14)
+[src/service/RpcError.ts:14](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/RpcError.ts#L14)
 
 ___
 

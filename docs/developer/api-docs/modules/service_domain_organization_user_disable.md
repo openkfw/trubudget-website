@@ -1,4 +1,5 @@
 # service/domain/organization/user\_disable
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_disable
 
 ## Table of contents
@@ -34,7 +35,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_disable.ts:39](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_disable.ts#L39)
+[src/service/domain/organization/user_disable.ts:39](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_disable.ts#L39)
 
 ___
 
@@ -54,4 +55,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disable.ts:28](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_disable.ts#L28)
+[src/service/domain/organization/user_disable.ts:28](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_disable.ts#L28)

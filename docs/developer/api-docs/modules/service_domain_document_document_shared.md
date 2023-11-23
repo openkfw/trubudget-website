@@ -1,4 +1,5 @@
 # service/domain/document/document\_shared
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/document\_shared
 
 ## Table of contents
@@ -26,7 +27,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:28](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_shared.ts#L28)
+[src/service/domain/document/document_shared.ts:28](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/document/document_shared.ts#L28)
 
 ## Functions
 
@@ -52,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:44](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_shared.ts#L44)
+[src/service/domain/document/document_shared.ts:44](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/document/document_shared.ts#L44)
 
 ___
 
@@ -72,7 +73,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:39](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_shared.ts#L39)
+[src/service/domain/document/document_shared.ts:39](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/document/document_shared.ts#L39)
 
 ___
 
@@ -92,4 +93,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:79](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_shared.ts#L79)
+[src/service/domain/document/document_shared.ts:79](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/document/document_shared.ts#L79)

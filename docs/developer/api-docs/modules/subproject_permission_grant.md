@@ -1,4 +1,5 @@
 # subproject\_permission\_grant
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / subproject\_permission\_grant
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/subproject_permission_grant.ts:128](https://github.com/openkfw/TruBudget/blob/92640998/api/src/subproject_permission_grant.ts#L128)
+[src/subproject_permission_grant.ts:128](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/subproject_permission_grant.ts#L128)

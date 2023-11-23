@@ -1,4 +1,5 @@
 # Document
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [httpd](../modules/httpd.md) / Document
 
 [httpd](../modules/httpd.md).Document
@@ -18,7 +19,7 @@
 
 #### Defined in
 
-[src/httpd/index.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L9)
+[src/httpd/index.ts:9](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/httpd/index.ts#L9)
 
 ___
 
@@ -28,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/index.ts#L8)
+[src/httpd/index.ts:8](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/httpd/index.ts#L8)

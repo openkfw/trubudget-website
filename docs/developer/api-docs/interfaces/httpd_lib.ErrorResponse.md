@@ -1,4 +1,5 @@
 # ErrorResponse
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [httpd/lib](../modules/httpd_lib.md) / ErrorResponse
 
 [httpd/lib](../modules/httpd_lib.md).ErrorResponse
@@ -18,7 +19,7 @@
 
 #### Defined in
 
-[src/httpd/lib.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/lib.ts#L17)
+[src/httpd/lib.ts:17](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/httpd/lib.ts#L17)
 
 ___
 
@@ -35,4 +36,4 @@ ___
 
 #### Defined in
 
-[src/httpd/lib.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/lib.ts#L18)
+[src/httpd/lib.ts:18](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/httpd/lib.ts#L18)

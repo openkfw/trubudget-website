@@ -1,4 +1,5 @@
 # service/domain/workflow/global\_permissions\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/global\_permissions\_get
 
 ## Table of contents
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions_get.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permissions_get.ts#L15)
+[src/service/domain/workflow/global_permissions_get.ts:15](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/global_permissions_get.ts#L15)

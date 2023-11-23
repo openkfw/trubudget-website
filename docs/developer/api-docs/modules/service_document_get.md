@@ -1,4 +1,5 @@
 # service/document\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/document\_get
 
 ## Table of contents
@@ -26,4 +27,4 @@
 
 #### Defined in
 
-[src/service/document_get.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/document_get.ts#L11)
+[src/service/document_get.ts:11](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/document_get.ts#L11)

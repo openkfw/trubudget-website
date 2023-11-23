@@ -1,4 +1,5 @@
 # httpd/server
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / httpd/server
 
 ## Table of contents
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/httpd/server.ts:136](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/server.ts#L136)
+[src/httpd/server.ts:136](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/httpd/server.ts#L136)

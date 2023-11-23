@@ -1,4 +1,5 @@
 # AuthenticatedRequest
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [httpd/lib](../modules/httpd_lib.md) / AuthenticatedRequest
 
 [httpd/lib](../modules/httpd_lib.md).AuthenticatedRequest
@@ -438,7 +439,7 @@ FastifyRequest.user
 
 #### Defined in
 
-[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/httpd/lib.ts#L7)
+[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/httpd/lib.ts#L7)
 
 ___
 
@@ -553,7 +554,7 @@ FastifyRequest.jwtDecode
 
 #### Defined in
 
-node_modules/@fastify/jwt/jwt.d.ts:34
+node_modules/@fastify/jwt/types/jwt.d.ts:34
 
 ▸ **jwtDecode**\<`Decoded`\>(`callback`): `void`
 
@@ -579,7 +580,7 @@ FastifyRequest.jwtDecode
 
 #### Defined in
 
-node_modules/@fastify/jwt/jwt.d.ts:35
+node_modules/@fastify/jwt/types/jwt.d.ts:35
 
 ▸ **jwtDecode**\<`Decoded`\>(`options`, `callback`): `void`
 
@@ -606,7 +607,7 @@ FastifyRequest.jwtDecode
 
 #### Defined in
 
-node_modules/@fastify/jwt/jwt.d.ts:36
+node_modules/@fastify/jwt/types/jwt.d.ts:36
 
 ___
 
@@ -636,7 +637,7 @@ FastifyRequest.jwtVerify
 
 #### Defined in
 
-node_modules/@fastify/jwt/jwt.d.ts:29
+node_modules/@fastify/jwt/types/jwt.d.ts:29
 
 ▸ **jwtVerify**\<`Decoded`\>(`callback`): `void`
 
@@ -662,7 +663,7 @@ FastifyRequest.jwtVerify
 
 #### Defined in
 
-node_modules/@fastify/jwt/jwt.d.ts:30
+node_modules/@fastify/jwt/types/jwt.d.ts:30
 
 ▸ **jwtVerify**\<`Decoded`\>(`options`, `callback`): `void`
 
@@ -689,7 +690,7 @@ FastifyRequest.jwtVerify
 
 #### Defined in
 
-node_modules/@fastify/jwt/jwt.d.ts:31
+node_modules/@fastify/jwt/types/jwt.d.ts:31
 
 ▸ **jwtVerify**\<`Decoded`\>(`options?`): `Promise`\<`Decoded`\>
 
@@ -715,7 +716,7 @@ FastifyRequest.jwtVerify
 
 #### Defined in
 
-node_modules/@fastify/jwt/jwt.d.ts:32
+node_modules/@fastify/jwt/types/jwt.d.ts:32
 
 ▸ **jwtVerify**\<`Decoded`\>(`options`, `callback`): `void`
 
@@ -742,7 +743,7 @@ FastifyRequest.jwtVerify
 
 #### Defined in
 
-node_modules/@fastify/jwt/jwt.d.ts:33
+node_modules/@fastify/jwt/types/jwt.d.ts:33
 
 ___
 

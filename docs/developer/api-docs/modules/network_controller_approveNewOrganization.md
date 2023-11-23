@@ -1,4 +1,5 @@
 # network/controller/approveNewOrganization
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/approveNewOrganization
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/network/controller/approveNewOrganization.ts:10](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/approveNewOrganization.ts#L10)
+[src/network/controller/approveNewOrganization.ts:10](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/network/controller/approveNewOrganization.ts#L10)

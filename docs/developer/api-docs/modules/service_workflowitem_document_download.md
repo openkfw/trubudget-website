@@ -1,4 +1,5 @@
 # service/workflowitem\_document\_download
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_document\_download
 
 ## Table of contents
@@ -32,4 +33,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_document_download.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_document_download.ts#L24)
+[src/service/workflowitem_document_download.ts:24](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/workflowitem_document_download.ts#L24)

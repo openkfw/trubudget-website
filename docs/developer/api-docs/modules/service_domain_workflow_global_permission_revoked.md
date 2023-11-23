@@ -1,4 +1,5 @@
 # service/domain/workflow/global\_permission\_revoked
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/global\_permission\_revoked
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permission_revoked.ts#L22)
+[src/service/domain/workflow/global_permission_revoked.ts:22](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/global_permission_revoked.ts#L22)
 
 ## Functions
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:32](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permission_revoked.ts#L32)
+[src/service/domain/workflow/global_permission_revoked.ts:32](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/global_permission_revoked.ts#L32)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:59](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permission_revoked.ts#L59)
+[src/service/domain/workflow/global_permission_revoked.ts:59](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/global_permission_revoked.ts#L59)

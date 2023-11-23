@@ -1,4 +1,5 @@
 # service/domain/organization/user\_password\_changed
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_password\_changed
 
 ## Table of contents
@@ -25,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_password_changed.ts#L31)
+[src/service/domain/organization/user_password_changed.ts:31](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_password_changed.ts#L31)
 
 ## Functions
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:40](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_password_changed.ts#L40)
+[src/service/domain/organization/user_password_changed.ts:40](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_password_changed.ts#L40)
 
 ___
 
@@ -79,7 +80,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:79](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_password_changed.ts#L79)
+[src/service/domain/organization/user_password_changed.ts:79](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_password_changed.ts#L79)
 
 ___
 
@@ -99,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_password_changed.ts:64](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_password_changed.ts#L64)
+[src/service/domain/organization/user_password_changed.ts:64](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_password_changed.ts#L64)

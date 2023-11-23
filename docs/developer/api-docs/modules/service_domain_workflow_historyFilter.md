@@ -1,4 +1,5 @@
 # service/domain/workflow/historyFilter
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/historyFilter
 
 ## Table of contents
@@ -19,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/historyFilter.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/historyFilter.ts#L20)
+[src/service/domain/workflow/historyFilter.ts:20](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/historyFilter.ts#L20)
 
 ## Functions
 
@@ -46,4 +47,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/historyFilter.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/historyFilter.ts#L22)
+[src/service/domain/workflow/historyFilter.ts:22](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/historyFilter.ts#L22)

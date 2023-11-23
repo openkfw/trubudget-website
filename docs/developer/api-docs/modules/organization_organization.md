@@ -1,4 +1,5 @@
 # organization/organization
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / organization/organization
 
 ## Table of contents
@@ -31,7 +32,7 @@
 
 #### Defined in
 
-[src/organization/organization.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L31)
+[src/organization/organization.ts:31](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/organization/organization.ts#L31)
 
 ___
 
@@ -52,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/organization/organization.ts:199](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L199)
+[src/organization/organization.ts:199](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/organization/organization.ts#L199)
 
 ___
 
@@ -74,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/organization/organization.ts:65](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L65)
+[src/organization/organization.ts:65](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/organization/organization.ts#L65)
 
 ___
 
@@ -95,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/organization/organization.ts:188](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L188)
+[src/organization/organization.ts:188](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/organization/organization.ts#L188)
 
 ___
 
@@ -118,4 +119,4 @@ ___
 
 #### Defined in
 
-[src/organization/organization.ts:92](https://github.com/openkfw/TruBudget/blob/92640998/api/src/organization/organization.ts#L92)
+[src/organization/organization.ts:92](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/organization/organization.ts#L92)

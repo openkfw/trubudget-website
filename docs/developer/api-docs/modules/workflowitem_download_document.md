@@ -1,4 +1,5 @@
 # workflowitem\_download\_document
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_download\_document
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_download_document.ts:114](https://github.com/openkfw/TruBudget/blob/92640998/api/src/workflowitem_download_document.ts#L114)
+[src/workflowitem_download_document.ts:114](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/workflowitem_download_document.ts#L114)

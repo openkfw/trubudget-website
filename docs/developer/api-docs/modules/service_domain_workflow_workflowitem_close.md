@@ -1,4 +1,5 @@
 # service/domain/workflow/workflowitem\_close
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_close
 
 ## Table of contents
@@ -31,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_close.ts:37](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_close.ts#L37)
+[src/service/domain/workflow/workflowitem_close.ts:37](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/workflowitem_close.ts#L37)

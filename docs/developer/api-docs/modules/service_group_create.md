@@ -1,4 +1,5 @@
 # service/group\_create
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/group\_create
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/group_create.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/group_create.ts#L20)
+[src/service/group_create.ts:20](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/group_create.ts#L20)

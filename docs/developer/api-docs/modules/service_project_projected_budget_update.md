@@ -1,4 +1,5 @@
 # service/project\_projected\_budget\_update
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_projected\_budget\_update
 
 ## Table of contents
@@ -31,4 +32,4 @@
 
 #### Defined in
 
-[src/service/project_projected_budget_update.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_projected_budget_update.ts#L16)
+[src/service/project_projected_budget_update.ts:16](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/project_projected_budget_update.ts#L16)

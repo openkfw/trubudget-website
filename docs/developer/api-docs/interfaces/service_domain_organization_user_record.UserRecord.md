@@ -1,4 +1,5 @@
 # UserRecord
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/user\_record](../modules/service_domain_organization_user_record.md) / UserRecord
 
 [service/domain/organization/user\_record](../modules/service_domain_organization_user_record.md).UserRecord
@@ -26,7 +27,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L25)
+[src/service/domain/organization/user_record.ts:25](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L25)
 
 ___
 
@@ -36,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L21)
+[src/service/domain/organization/user_record.ts:21](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L21)
 
 ___
 
@@ -46,7 +47,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L17)
+[src/service/domain/organization/user_record.ts:17](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L17)
 
 ___
 
@@ -56,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L18)
+[src/service/domain/organization/user_record.ts:18](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L18)
 
 ___
 
@@ -66,7 +67,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L22)
+[src/service/domain/organization/user_record.ts:22](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L22)
 
 ___
 
@@ -76,7 +77,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L16)
+[src/service/domain/organization/user_record.ts:16](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L16)
 
 ___
 
@@ -86,7 +87,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L24)
+[src/service/domain/organization/user_record.ts:24](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L24)
 
 ___
 
@@ -96,7 +97,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L19)
+[src/service/domain/organization/user_record.ts:19](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L19)
 
 ___
 
@@ -106,7 +107,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L20)
+[src/service/domain/organization/user_record.ts:20](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L20)
 
 ___
 
@@ -116,4 +117,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:23](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_record.ts#L23)
+[src/service/domain/organization/user_record.ts:23](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/organization/user_record.ts#L23)

@@ -1,4 +1,5 @@
 # subproject\_assign
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / subproject\_assign
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/subproject_assign.ts:122](https://github.com/openkfw/TruBudget/blob/92640998/api/src/subproject_assign.ts#L122)
+[src/subproject_assign.ts:122](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/subproject_assign.ts#L122)

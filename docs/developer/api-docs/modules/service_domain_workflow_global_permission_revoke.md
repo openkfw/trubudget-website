@@ -1,4 +1,5 @@
 # service/domain/workflow/global\_permission\_revoke
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/global\_permission\_revoke
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoke.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/global_permission_revoke.ts#L21)
+[src/service/domain/workflow/global_permission_revoke.ts:21](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/global_permission_revoke.ts#L21)

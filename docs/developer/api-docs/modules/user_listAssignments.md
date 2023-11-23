@@ -1,4 +1,5 @@
 # user\_listAssignments
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_listAssignments
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.lis
 
 #### Defined in
 
-[src/user_listAssignments.ts:86](https://github.com/openkfw/TruBudget/blob/92640998/api/src/user_listAssignments.ts#L86)
+[src/user_listAssignments.ts:86](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/user_listAssignments.ts#L86)

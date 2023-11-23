@@ -1,4 +1,5 @@
 # service/domain/system\_information/system\_information
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/system\_information/system\_information
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/system_information/system_information.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/system_information/system_information.ts#L24)
+[src/service/domain/system_information/system_information.ts:24](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/system_information/system_information.ts#L24)

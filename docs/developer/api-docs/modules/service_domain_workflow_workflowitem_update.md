@@ -1,4 +1,5 @@
 # service/domain/workflow/workflowitem\_update
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_update
 
 ## Table of contents
@@ -27,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_update.ts:40](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_update.ts#L40)
+[src/service/domain/workflow/workflowitem_update.ts:40](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/workflowitem_update.ts#L40)
 
 ## Variables
 
@@ -37,7 +38,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_update.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_update.ts#L41)
+[src/service/domain/workflow/workflowitem_update.ts:41](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/workflowitem_update.ts#L41)
 
 ## Functions
 
@@ -63,4 +64,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_update.ts:73](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_update.ts#L73)
+[src/service/domain/workflow/workflowitem_update.ts:73](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/workflowitem_update.ts#L73)
