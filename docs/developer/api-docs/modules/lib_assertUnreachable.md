@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/lib/assertUnreachable.ts:24](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/lib/assertUnreachable.ts#L24)
+[src/lib/assertUnreachable.ts:24](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/lib/assertUnreachable.ts#L24)

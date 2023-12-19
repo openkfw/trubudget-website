@@ -29,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/user.logou
 
 #### Defined in
 
-[src/user_logout.ts:109](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/user_logout.ts#L109)
+[src/user_logout.ts:109](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/user_logout.ts#L109)

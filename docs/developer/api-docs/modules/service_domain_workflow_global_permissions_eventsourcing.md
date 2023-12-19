@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/global_permissions_eventsourcing.ts#L11)
+[src/service/domain/workflow/global_permissions_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/global_permissions_eventsourcing.ts#L11)

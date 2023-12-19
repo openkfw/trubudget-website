@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_trace_event.ts:11](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/notification_trace_event.ts#L11)
+[src/service/domain/workflow/notification_trace_event.ts:11](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/notification_trace_event.ts#L11)

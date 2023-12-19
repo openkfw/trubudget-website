@@ -55,7 +55,7 @@ VError.constructor
 
 #### Defined in
 
-[src/http_errors/bad_request.ts:13](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/http_errors/bad_request.ts#L13)
+[src/http_errors/bad_request.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/http_errors/bad_request.ts#L13)
 
 ## Properties
 

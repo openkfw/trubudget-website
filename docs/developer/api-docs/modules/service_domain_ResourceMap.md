@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:1](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/ResourceMap.ts#L1)
+[src/service/domain/ResourceMap.ts:1](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/ResourceMap.ts#L1)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/ResourceMap.ts:8](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/ResourceMap.ts#L8)
+[src/service/domain/ResourceMap.ts:8](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/ResourceMap.ts#L8)

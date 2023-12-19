@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/httpd/server.ts:136](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/httpd/server.ts#L136)
+[src/httpd/server.ts:139](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/httpd/server.ts#L139)

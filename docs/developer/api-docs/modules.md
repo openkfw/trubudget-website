@@ -31,6 +31,7 @@ sidebar_label: Table of Contents
 - [http\_errors/bad\_request](modules/http_errors_bad_request.md)
 - [http\_errors/not\_authenticated](modules/http_errors_not_authenticated.md)
 - [httpd](modules/httpd.md)
+- [httpd/instrumentation](modules/httpd_instrumentation.md)
 - [httpd/lib](modules/httpd_lib.md)
 - [httpd/router](modules/httpd_router.md)
 - [httpd/schema](modules/httpd_schema.md)

@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/provisione
 
 #### Defined in
 
-[src/provisioning_get.ts:72](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/provisioning_get.ts#L72)
+[src/provisioning_get.ts:72](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/provisioning_get.ts#L72)

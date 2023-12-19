@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoke.ts:21](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/global_permission_revoke.ts#L21)
+[src/service/domain/workflow/global_permission_revoke.ts:21](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/global_permission_revoke.ts#L21)

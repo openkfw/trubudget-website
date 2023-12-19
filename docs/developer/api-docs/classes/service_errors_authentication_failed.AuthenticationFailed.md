@@ -56,7 +56,7 @@ VError.constructor
 
 #### Defined in
 
-[src/service/errors/authentication_failed.ts:20](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/errors/authentication_failed.ts#L20)
+[src/service/errors/authentication_failed.ts:20](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/errors/authentication_failed.ts#L20)
 
 ## Properties
 

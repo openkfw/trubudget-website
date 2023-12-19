@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/subproject_assign.ts:16](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/subproject_assign.ts#L16)
+[src/service/subproject_assign.ts:16](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/subproject_assign.ts#L16)

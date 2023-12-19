@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/lib/timeout.ts:1](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/lib/timeout.ts#L1)
+[src/lib/timeout.ts:1](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/lib/timeout.ts#L1)

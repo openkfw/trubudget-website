@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/event.ts:14](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/event.ts#L14)
+[src/service/event.ts:14](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/event.ts#L14)

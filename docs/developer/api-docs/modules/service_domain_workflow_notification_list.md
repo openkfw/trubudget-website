@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_list.ts:14](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflow/notification_list.ts#L14)
+[src/service/domain/workflow/notification_list.ts:14](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/notification_list.ts#L14)

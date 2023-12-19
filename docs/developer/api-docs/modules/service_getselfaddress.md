@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/service/getselfaddress.ts:3](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/getselfaddress.ts#L3)
+[src/service/getselfaddress.ts:3](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/getselfaddress.ts#L3)

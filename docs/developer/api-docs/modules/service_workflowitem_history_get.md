@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_history_get.ts:20](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/workflowitem_history_get.ts#L20)
+[src/service/workflowitem_history_get.ts:20](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/workflowitem_history_get.ts#L20)

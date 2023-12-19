@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/domain/workflowitem_types/restricted.ts:14](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/domain/workflowitem_types/restricted.ts#L14)
+[src/service/domain/workflowitem_types/restricted.ts:14](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflowitem_types/restricted.ts#L14)

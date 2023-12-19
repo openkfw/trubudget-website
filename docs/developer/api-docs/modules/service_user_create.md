@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/user_create.ts:19](https://github.com/openkfw/TruBudget/blob/422cbec/api/src/service/user_create.ts#L19)
+[src/service/user_create.ts:19](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/user_create.ts#L19)
