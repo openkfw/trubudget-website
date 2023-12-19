@@ -1,4 +1,5 @@
 # service/domain/document/document\_validate
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/document\_validate
 
 ## Table of contents
@@ -32,4 +33,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document_validate.ts:33](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_validate.ts#L33)
+[src/service/domain/document/document_validate.ts:33](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/document_validate.ts#L33)

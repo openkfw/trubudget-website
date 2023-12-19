@@ -1,4 +1,5 @@
 # system/getVersion
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/getVersion
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/system/getVersion.ts:46](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/getVersion.ts#L46)
+[src/system/getVersion.ts:46](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/system/getVersion.ts#L46)

@@ -1,4 +1,5 @@
 # GenericDocument
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/document/document](../modules/service_domain_document_document.md) / GenericDocument
 
 [service/domain/document/document](../modules/service_domain_document_document.md).GenericDocument
@@ -23,4 +24,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:51](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document.ts#L51)
+[src/service/domain/document/document.ts:51](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/document.ts#L51)

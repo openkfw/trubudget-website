@@ -1,4 +1,5 @@
 # service/domain/business\_event
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/business\_event
 
 ## Table of contents
@@ -19,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/business_event.ts:53](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/business_event.ts#L53)
+[src/service/domain/business_event.ts:53](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/business_event.ts#L53)
 
 ## Variables
 
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/business_event.ts:104](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/business_event.ts#L104)
+[src/service/domain/business_event.ts:104](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/business_event.ts#L104)

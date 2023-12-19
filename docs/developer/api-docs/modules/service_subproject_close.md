@@ -1,4 +1,5 @@
 # service/subproject\_close
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_close
 
 ## Table of contents
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/subproject_close.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_close.ts#L16)
+[src/service/subproject_close.ts:16](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/subproject_close.ts#L16)

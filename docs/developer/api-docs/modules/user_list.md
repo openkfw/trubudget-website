@@ -1,4 +1,5 @@
 # user\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_list
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/user.list`
 
 #### Defined in
 
-[src/user_list.ts:89](https://github.com/openkfw/TruBudget/blob/92640998/api/src/user_list.ts#L89)
+[src/user_list.ts:89](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/user_list.ts#L89)

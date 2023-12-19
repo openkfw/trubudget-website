@@ -1,4 +1,5 @@
 # service/domain/workflow/project\_history\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_history\_get
 
 ## Table of contents
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_history_get.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/project_history_get.ts#L16)
+[src/service/domain/workflow/project_history_get.ts:16](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/project_history_get.ts#L16)

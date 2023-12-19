@@ -1,4 +1,5 @@
 # lib/datetime
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/datetime
 
 ## Table of contents
@@ -22,7 +23,7 @@
 
 #### Defined in
 
-[src/lib/datetime.ts:10](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/datetime.ts#L10)
+[src/lib/datetime.ts:10](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/lib/datetime.ts#L10)
 
 ___
 
@@ -36,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/lib/datetime.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/datetime.ts#L14)
+[src/lib/datetime.ts:14](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/lib/datetime.ts#L14)
 
 ___
 
@@ -56,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/lib/datetime.ts:1](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/datetime.ts#L1)
+[src/lib/datetime.ts:1](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/lib/datetime.ts#L1)
 
 ___
 
@@ -76,4 +77,4 @@ ___
 
 #### Defined in
 
-[src/lib/datetime.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/datetime.ts#L6)
+[src/lib/datetime.ts:6](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/lib/datetime.ts#L6)

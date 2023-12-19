@@ -1,4 +1,5 @@
 # service/domain/organization/public\_key\_publish
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/public\_key\_publish
 
 ## Table of contents
@@ -33,7 +34,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_publish.ts:34](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_publish.ts#L34)
+[src/service/domain/organization/public_key_publish.ts:34](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/public_key_publish.ts#L34)
 
 ___
 
@@ -53,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_publish.ts:25](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_publish.ts#L25)
+[src/service/domain/organization/public_key_publish.ts:25](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/public_key_publish.ts#L25)

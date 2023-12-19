@@ -1,4 +1,5 @@
 # service/domain/workflow/subproject\_snapshot\_publish
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_snapshot\_publish
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_snapshot_publish.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_snapshot_publish.ts#L15)
+[src/service/domain/workflow/subproject_snapshot_publish.ts:15](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/subproject_snapshot_publish.ts#L15)

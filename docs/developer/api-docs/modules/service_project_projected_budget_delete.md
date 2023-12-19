@@ -1,4 +1,5 @@
 # service/project\_projected\_budget\_delete
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_projected\_budget\_delete
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/service/project_projected_budget_delete.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/project_projected_budget_delete.ts#L16)
+[src/service/project_projected_budget_delete.ts:16](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/project_projected_budget_delete.ts#L16)

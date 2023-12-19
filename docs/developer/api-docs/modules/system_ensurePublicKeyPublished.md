@@ -1,4 +1,5 @@
 # system/ensurePublicKeyPublished
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/ensurePublicKeyPublished
 
 ## Table of contents
@@ -26,4 +27,4 @@
 
 #### Defined in
 
-[src/system/ensurePublicKeyPublished.ts:57](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/ensurePublicKeyPublished.ts#L57)
+[src/system/ensurePublicKeyPublished.ts:57](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/system/ensurePublicKeyPublished.ts#L57)

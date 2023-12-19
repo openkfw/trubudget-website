@@ -1,4 +1,5 @@
 # service/domain/organization/user\_enabled
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_enabled
 
 ## Table of contents
@@ -25,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_enabled.ts#L29)
+[src/service/domain/organization/user_enabled.ts:29](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_enabled.ts#L29)
 
 ## Functions
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:38](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_enabled.ts#L38)
+[src/service/domain/organization/user_enabled.ts:38](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_enabled.ts#L38)
 
 ___
 
@@ -79,7 +80,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:77](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_enabled.ts#L77)
+[src/service/domain/organization/user_enabled.ts:77](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_enabled.ts#L77)
 
 ___
 
@@ -99,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:62](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_enabled.ts#L62)
+[src/service/domain/organization/user_enabled.ts:62](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_enabled.ts#L62)

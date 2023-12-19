@@ -1,4 +1,5 @@
 # RpcMultichainClient
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client](../modules/service_Client.md) / RpcMultichainClient
 
 [service/Client](../modules/service_Client.md).RpcMultichainClient
@@ -54,7 +55,7 @@
 
 #### Defined in
 
-[src/service/Client.ts:46](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L46)
+[src/service/Client.ts:46](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L46)
 
 ## Properties
 
@@ -64,7 +65,7 @@
 
 #### Defined in
 
-[src/service/Client.ts:44](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L44)
+[src/service/Client.ts:44](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L44)
 
 ___
 
@@ -74,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:42](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L42)
+[src/service/Client.ts:42](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L42)
 
 ## Methods
 
@@ -92,7 +93,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:137](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L137)
+[src/service/Client.ts:137](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L137)
 
 ___
 
@@ -118,7 +119,7 @@ Get the latest block, possibly skipping a few.
 
 #### Defined in
 
-[src/service/Client.ts:246](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L246)
+[src/service/Client.ts:246](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L246)
 
 ___
 
@@ -144,7 +145,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:161](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L161)
+[src/service/Client.ts:161](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L161)
 
 ___
 
@@ -168,7 +169,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:55](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L55)
+[src/service/Client.ts:55](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L55)
 
 ___
 
@@ -186,7 +187,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:250](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L250)
+[src/service/Client.ts:250](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L250)
 
 ___
 
@@ -204,7 +205,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:51](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L51)
+[src/service/Client.ts:51](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L51)
 
 ___
 
@@ -229,7 +230,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:208](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L208)
+[src/service/Client.ts:208](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L208)
 
 ___
 
@@ -255,7 +256,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:141](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L141)
+[src/service/Client.ts:141](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L141)
 
 ___
 
@@ -279,7 +280,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:132](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L132)
+[src/service/Client.ts:132](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L132)
 
 ___
 
@@ -305,7 +306,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:108](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L108)
+[src/service/Client.ts:108](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L108)
 
 ___
 
@@ -334,7 +335,7 @@ You can retrieve the current maximum block height through calling getLastBlockIn
 
 #### Defined in
 
-[src/service/Client.ts:258](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L258)
+[src/service/Client.ts:258](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L258)
 
 ___
 
@@ -363,7 +364,7 @@ Retrieve all items within a stream by block height range.
 
 #### Defined in
 
-[src/service/Client.ts:266](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L266)
+[src/service/Client.ts:266](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L266)
 
 ___
 
@@ -381,7 +382,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:254](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L254)
+[src/service/Client.ts:254](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L254)
 
 ___
 
@@ -407,7 +408,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:221](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L221)
+[src/service/Client.ts:221](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L221)
 
 ___
 
@@ -431,7 +432,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:95](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L95)
+[src/service/Client.ts:95](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L95)
 
 ___
 
@@ -455,7 +456,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:82](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L82)
+[src/service/Client.ts:82](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L82)
 
 ___
 
@@ -481,7 +482,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:123](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L123)
+[src/service/Client.ts:123](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L123)
 
 ___
 
@@ -507,7 +508,7 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:226](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L226)
+[src/service/Client.ts:226](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L226)
 
 ___
 
@@ -533,4 +534,4 @@ ___
 
 #### Defined in
 
-[src/service/Client.ts:283](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.ts#L283)
+[src/service/Client.ts:283](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.ts#L283)

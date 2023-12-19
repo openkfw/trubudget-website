@@ -1,4 +1,5 @@
 # service/domain/workflow/subproject\_snapshot\_published
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_snapshot\_published
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_snapshot_published.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_snapshot_published.ts#L20)
+[src/service/domain/workflow/subproject_snapshot_published.ts:20](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/subproject_snapshot_published.ts#L20)
 
 ## Functions
 
@@ -47,7 +48,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_snapshot_published.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_snapshot_published.ts#L29)
+[src/service/domain/workflow/subproject_snapshot_published.ts:29](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/subproject_snapshot_published.ts#L29)
 
 ___
 
@@ -67,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_snapshot_published.ts:51](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_snapshot_published.ts#L51)
+[src/service/domain/workflow/subproject_snapshot_published.ts:51](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/subproject_snapshot_published.ts#L51)

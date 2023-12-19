@@ -1,4 +1,5 @@
 # lib/emptyChecks
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/emptyChecks
 
 ## Table of contents
@@ -32,7 +33,7 @@ value is undefined \| null
 
 #### Defined in
 
-[src/lib/emptyChecks.ts:1](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/emptyChecks.ts#L1)
+[src/lib/emptyChecks.ts:1](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/lib/emptyChecks.ts#L1)
 
 ___
 
@@ -58,4 +59,4 @@ value is T
 
 #### Defined in
 
-[src/lib/emptyChecks.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/lib/emptyChecks.ts#L7)
+[src/lib/emptyChecks.ts:7](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/lib/emptyChecks.ts#L7)

@@ -1,4 +1,5 @@
 # service/workflowitem\_update
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_update
 
 ## Table of contents
@@ -19,7 +20,7 @@
 
 #### Defined in
 
-[src/service/workflowitem_update.ts:29](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_update.ts#L29)
+[src/service/workflowitem_update.ts:29](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/workflowitem_update.ts#L29)
 
 ## Functions
 
@@ -46,4 +47,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_update.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_update.ts#L31)
+[src/service/workflowitem_update.ts:31](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/workflowitem_update.ts#L31)

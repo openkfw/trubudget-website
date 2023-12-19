@@ -1,4 +1,5 @@
 # UserTraceEvent
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/user\_trace\_event](../modules/service_domain_organization_user_trace_event.md) / UserTraceEvent
 
 [service/domain/organization/user\_trace\_event](../modules/service_domain_organization_user_trace_event.md).UserTraceEvent
@@ -20,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_trace_event.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_trace_event.ts#L8)
+[src/service/domain/organization/user_trace_event.ts:8](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_trace_event.ts#L8)
 
 ___
 
@@ -30,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_trace_event.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_trace_event.ts#L6)
+[src/service/domain/organization/user_trace_event.ts:6](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_trace_event.ts#L6)
 
 ___
 
@@ -40,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_trace_event.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_trace_event.ts#L7)
+[src/service/domain/organization/user_trace_event.ts:7](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_trace_event.ts#L7)
 
 ___
 
@@ -56,4 +57,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_trace_event.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_trace_event.ts#L9)
+[src/service/domain/organization/user_trace_event.ts:9](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_trace_event.ts#L9)

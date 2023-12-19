@@ -1,4 +1,5 @@
 # CreateStreamOptions
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client.h](../modules/service_Client_h.md) / CreateStreamOptions
 
 [service/Client.h](../modules/service_Client_h.md).CreateStreamOptions
@@ -18,7 +19,7 @@
 
 #### Defined in
 
-[src/service/Client.h.ts:90](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L90)
+[src/service/Client.h.ts:90](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.h.ts#L90)
 
 ___
 
@@ -28,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:91](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/Client.h.ts#L91)
+[src/service/Client.h.ts:91](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/Client.h.ts#L91)

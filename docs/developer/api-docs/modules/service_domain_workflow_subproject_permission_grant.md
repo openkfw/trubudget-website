@@ -1,4 +1,5 @@
 # service/domain/workflow/subproject\_permission\_grant
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_permission\_grant
 
 ## Table of contents
@@ -31,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_grant.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_permission_grant.ts#L26)
+[src/service/domain/workflow/subproject_permission_grant.ts:26](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/subproject_permission_grant.ts#L26)

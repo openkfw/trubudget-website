@@ -1,4 +1,5 @@
 # service/domain/organization/public\_key\_updated
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/public\_key\_updated
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_updated.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_updated.ts#L21)
+[src/service/domain/organization/public_key_updated.ts:21](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/public_key_updated.ts#L21)
 
 ## Functions
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_updated.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_updated.ts#L31)
+[src/service/domain/organization/public_key_updated.ts:31](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/public_key_updated.ts#L31)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_updated.ts:57](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/public_key_updated.ts#L57)
+[src/service/domain/organization/public_key_updated.ts:57](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/public_key_updated.ts#L57)

@@ -1,4 +1,5 @@
 # service/notification\_mark\_read
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/notification\_mark\_read
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/notification_mark_read.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/notification_mark_read.ts#L14)
+[src/service/notification_mark_read.ts:14](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/notification_mark_read.ts#L14)

@@ -1,4 +1,5 @@
 # service/domain/workflow/notification\_mark\_read
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/notification\_mark\_read
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_mark_read.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification_mark_read.ts#L18)
+[src/service/domain/workflow/notification_mark_read.ts:18](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/notification_mark_read.ts#L18)

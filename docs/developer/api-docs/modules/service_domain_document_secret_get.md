@@ -1,4 +1,5 @@
 # service/domain/document/secret\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/secret\_get
 
 ## Table of contents
@@ -28,7 +29,7 @@
 
 #### Defined in
 
-[src/service/domain/document/secret_get.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/secret_get.ts#L14)
+[src/service/domain/document/secret_get.ts:14](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/secret_get.ts#L14)
 
 ___
 
@@ -51,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/secret_get.ts:27](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/secret_get.ts#L27)
+[src/service/domain/document/secret_get.ts:27](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/secret_get.ts#L27)
 
 ___
 
@@ -74,4 +75,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/secret_get.ts:49](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/secret_get.ts#L49)
+[src/service/domain/document/secret_get.ts:49](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/secret_get.ts#L49)

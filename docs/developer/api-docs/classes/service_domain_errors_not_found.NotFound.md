@@ -1,4 +1,5 @@
 # NotFound
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/not\_found](../modules/service_domain_errors_not_found.md) / NotFound
 
 [service/domain/errors/not\_found](../modules/service_domain_errors_not_found.md).NotFound
@@ -50,7 +51,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/not_found.ts:4](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/not_found.ts#L4)
+[src/service/domain/errors/not_found.ts:4](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/errors/not_found.ts#L4)
 
 ## Properties
 
@@ -60,7 +61,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/not_found.ts:5](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/not_found.ts#L5)
+[src/service/domain/errors/not_found.ts:5](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/errors/not_found.ts#L5)
 
 ___
 
@@ -70,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/not_found.ts:16](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/not_found.ts#L16)
+[src/service/domain/errors/not_found.ts:16](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/errors/not_found.ts#L16)
 
 ___
 
@@ -80,7 +81,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/not_found.ts:6](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/errors/not_found.ts#L6)
+[src/service/domain/errors/not_found.ts:6](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/errors/not_found.ts#L6)
 
 ___
 

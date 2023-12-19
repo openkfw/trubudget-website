@@ -1,4 +1,5 @@
 # user\_permission\_grant
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_permission\_grant
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/user.inten
 
 #### Defined in
 
-[src/user_permission_grant.ts:128](https://github.com/openkfw/TruBudget/blob/92640998/api/src/user_permission_grant.ts#L128)
+[src/user_permission_grant.ts:128](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/user_permission_grant.ts#L128)

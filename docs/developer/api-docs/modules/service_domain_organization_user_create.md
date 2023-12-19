@@ -1,4 +1,5 @@
 # service/domain/organization/user\_create
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_create
 
 ## Table of contents
@@ -33,7 +34,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_create.ts:53](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_create.ts#L53)
+[src/service/domain/organization/user_create.ts:53](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_create.ts#L53)
 
 ___
 
@@ -53,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_create.ts:38](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/user_create.ts#L38)
+[src/service/domain/organization/user_create.ts:38](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/user_create.ts#L38)

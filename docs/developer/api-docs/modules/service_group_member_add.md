@@ -1,4 +1,5 @@
 # service/group\_member\_add
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/group\_member\_add
 
 ## Table of contents
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/group_member_add.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/group_member_add.ts#L12)
+[src/service/group_member_add.ts:12](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/group_member_add.ts#L12)

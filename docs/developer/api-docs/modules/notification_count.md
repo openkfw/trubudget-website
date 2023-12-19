@@ -1,4 +1,5 @@
 # notification\_count
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / notification\_count
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/notificati
 
 #### Defined in
 
-[src/notification_count.ts:75](https://github.com/openkfw/TruBudget/blob/92640998/api/src/notification_count.ts#L75)
+[src/notification_count.ts:75](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/notification_count.ts#L75)

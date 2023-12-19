@@ -1,4 +1,5 @@
 # BadRequest
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [http\_errors/bad\_request](../modules/http_errors_bad_request.md) / BadRequest
 
 [http\_errors/bad\_request](../modules/http_errors_bad_request.md).BadRequest
@@ -54,7 +55,7 @@ VError.constructor
 
 #### Defined in
 
-[src/http_errors/bad_request.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/http_errors/bad_request.ts#L13)
+[src/http_errors/bad_request.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/http_errors/bad_request.ts#L13)
 
 ## Properties
 

@@ -1,4 +1,5 @@
 # workflowitem\_permissions\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_permissions\_list
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_permissions_list.ts:117](https://github.com/openkfw/TruBudget/blob/92640998/api/src/workflowitem_permissions_list.ts#L117)
+[src/workflowitem_permissions_list.ts:117](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/workflowitem_permissions_list.ts#L117)

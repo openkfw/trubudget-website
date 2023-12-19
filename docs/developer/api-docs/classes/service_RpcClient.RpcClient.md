@@ -1,4 +1,5 @@
 # RpcClient
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/RpcClient](../modules/service_RpcClient.md) / RpcClient
 
 [service/RpcClient](../modules/service_RpcClient.md).RpcClient
@@ -39,7 +40,7 @@
 
 #### Defined in
 
-[src/service/RpcClient.ts:71](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L71)
+[src/service/RpcClient.ts:71](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L71)
 
 ## Properties
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/RpcClient.ts:67](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L67)
+[src/service/RpcClient.ts:67](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L67)
 
 ___
 
@@ -59,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:69](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L69)
+[src/service/RpcClient.ts:69](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L69)
 
 ## Methods
 
@@ -79,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:352](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L352)
+[src/service/RpcClient.ts:352](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L352)
 
 ___
 
@@ -99,7 +100,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:301](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L301)
+[src/service/RpcClient.ts:301](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L301)
 
 ___
 
@@ -123,7 +124,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:104](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L104)
+[src/service/RpcClient.ts:104](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L104)
 
 ___
 
@@ -143,7 +144,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:310](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L310)
+[src/service/RpcClient.ts:310](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L310)
 
 ___
 
@@ -165,7 +166,7 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:254](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L254)
+[src/service/RpcClient.ts:254](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L254)
 
 ___
 
@@ -190,7 +191,7 @@ return value also depends on the speicific method, can be listitems, permissions
 
 #### Defined in
 
-[src/service/RpcClient.ts:198](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L198)
+[src/service/RpcClient.ts:198](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L198)
 
 ___
 
@@ -216,7 +217,7 @@ Used to publish a stream item on the chain
 
 #### Defined in
 
-[src/service/RpcClient.ts:140](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L140)
+[src/service/RpcClient.ts:140](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L140)
 
 ___
 
@@ -238,4 +239,4 @@ ___
 
 #### Defined in
 
-[src/service/RpcClient.ts:347](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcClient.ts#L347)
+[src/service/RpcClient.ts:347](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.ts#L347)

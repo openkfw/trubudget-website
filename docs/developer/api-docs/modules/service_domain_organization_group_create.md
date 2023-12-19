@@ -1,4 +1,5 @@
 # service/domain/organization/group\_create
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_create
 
 ## Table of contents
@@ -33,7 +34,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:49](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_create.ts#L49)
+[src/service/domain/organization/group_create.ts:49](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_create.ts#L49)
 
 ___
 
@@ -53,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:38](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_create.ts#L38)
+[src/service/domain/organization/group_create.ts:38](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_create.ts#L38)

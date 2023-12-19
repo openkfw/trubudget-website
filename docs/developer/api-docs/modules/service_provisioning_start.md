@@ -1,4 +1,5 @@
 # service/provisioning\_start
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/provisioning\_start
 
 ## Table of contents
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/service/provisioning_start.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/provisioning_start.ts#L11)
+[src/service/provisioning_start.ts:11](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/provisioning_start.ts#L11)

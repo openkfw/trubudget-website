@@ -1,4 +1,5 @@
 # service/domain/workflow/notification
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/notification
 
 ## Table of contents
@@ -27,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification.ts#L8)
+[src/service/domain/workflow/notification.ts:8](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/notification.ts#L8)
 
 ## Variables
 
@@ -37,7 +38,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:10](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification.ts#L10)
+[src/service/domain/workflow/notification.ts:10](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/notification.ts#L10)
 
 ## Functions
 
@@ -57,4 +58,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:37](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/notification.ts#L37)
+[src/service/domain/workflow/notification.ts:37](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/notification.ts#L37)

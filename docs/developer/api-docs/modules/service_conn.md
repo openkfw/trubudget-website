@@ -1,4 +1,5 @@
 # service/conn
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/conn
 
 ## Table of contents
@@ -25,4 +26,4 @@ Opaque token that carries connection state.
 
 #### Defined in
 
-[src/service/conn.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/conn.ts#L8)
+[src/service/conn.ts:8](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/conn.ts#L8)

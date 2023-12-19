@@ -1,4 +1,5 @@
 # service/user\_permissions\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_permissions\_list
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/user_permissions_list.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/user_permissions_list.ts#L12)
+[src/service/user_permissions_list.ts:12](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/user_permissions_list.ts#L12)

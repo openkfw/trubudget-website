@@ -1,4 +1,5 @@
 # service/workflowitem\_permission\_revoke
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_permission\_revoke
 
 ## Table of contents
@@ -42,4 +43,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Defined in
 
-[src/service/workflowitem_permission_revoke.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/workflowitem_permission_revoke.ts#L19)
+[src/service/workflowitem_permission_revoke.ts:19](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/workflowitem_permission_revoke.ts#L19)

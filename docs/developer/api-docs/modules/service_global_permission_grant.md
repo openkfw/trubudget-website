@@ -1,4 +1,5 @@
 # service/global\_permission\_grant
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/global\_permission\_grant
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/service/global_permission_grant.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/global_permission_grant.ts#L15)
+[src/service/global_permission_grant.ts:15](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/global_permission_grant.ts#L15)

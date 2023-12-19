@@ -1,4 +1,5 @@
 # project\_budget\_delete\_projected
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / project\_budget\_delete\_projected
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.bu
 
 #### Defined in
 
-[src/project_budget_delete_projected.ts:132](https://github.com/openkfw/TruBudget/blob/92640998/api/src/project_budget_delete_projected.ts#L132)
+[src/project_budget_delete_projected.ts:132](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/project_budget_delete_projected.ts#L132)

@@ -1,4 +1,5 @@
 # service/subproject\_permissions\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_permissions\_list
 
 ## Table of contents
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/subproject_permissions_list.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_permissions_list.ts#L13)
+[src/service/subproject_permissions_list.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/subproject_permissions_list.ts#L13)

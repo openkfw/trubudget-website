@@ -1,4 +1,5 @@
 # Error
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/RpcResponse.h](../modules/service_RpcResponse_h.md) / Error
 
 [service/RpcResponse.h](../modules/service_RpcResponse_h.md).Error
@@ -24,7 +25,7 @@ See [[ErrorCode]] for a list of predefined error codes.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:31](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcResponse.h.ts#L31)
+[src/service/RpcResponse.h.ts:31](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcResponse.h.ts#L31)
 
 ___
 
@@ -36,4 +37,4 @@ Error description.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:36](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/RpcResponse.h.ts#L36)
+[src/service/RpcResponse.h.ts:36](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcResponse.h.ts#L36)

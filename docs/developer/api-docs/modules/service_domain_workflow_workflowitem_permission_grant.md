@@ -1,4 +1,5 @@
 # service/domain/workflow/workflowitem\_permission\_grant
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_permission\_grant
 
 ## Table of contents
@@ -32,4 +33,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_grant.ts:36](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/workflowitem_permission_grant.ts#L36)
+[src/service/domain/workflow/workflowitem_permission_grant.ts:36](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/workflowitem_permission_grant.ts#L36)

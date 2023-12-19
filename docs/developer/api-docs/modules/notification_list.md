@@ -1,4 +1,5 @@
 # notification\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / notification\_list
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/notificati
 
 #### Defined in
 
-[src/notification_list.ts:403](https://github.com/openkfw/TruBudget/blob/92640998/api/src/notification_list.ts#L403)
+[src/notification_list.ts:403](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/notification_list.ts#L403)

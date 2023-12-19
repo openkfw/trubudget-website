@@ -1,4 +1,5 @@
 # service/domain/document/storage\_service\_url\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/storage\_service\_url\_get
 
 ## Table of contents
@@ -26,7 +27,7 @@
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_get.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/storage_service_url_get.ts#L11)
+[src/service/domain/document/storage_service_url_get.ts:11](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/storage_service_url_get.ts#L11)
 
 ___
 
@@ -47,4 +48,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_get.ts:26](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/storage_service_url_get.ts#L26)
+[src/service/domain/document/storage_service_url_get.ts:26](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/storage_service_url_get.ts#L26)

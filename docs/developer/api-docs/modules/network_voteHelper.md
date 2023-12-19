@@ -1,4 +1,5 @@
 # network/voteHelper
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/voteHelper
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/network/voteHelper.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/voteHelper.ts#L13)
+[src/network/voteHelper.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/voteHelper.ts#L13)

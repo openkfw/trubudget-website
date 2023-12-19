@@ -1,4 +1,5 @@
 # service/domain/workflow/user\_assignments\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/user\_assignments\_get
 
 ## Table of contents
@@ -35,7 +36,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:41](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments_get.ts#L41)
+[src/service/domain/workflow/user_assignments_get.ts:41](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/user_assignments_get.ts#L41)
 
 ___
 
@@ -55,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:187](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments_get.ts#L187)
+[src/service/domain/workflow/user_assignments_get.ts:187](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/user_assignments_get.ts#L187)
 
 ___
 
@@ -75,4 +76,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:148](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/user_assignments_get.ts#L148)
+[src/service/domain/workflow/user_assignments_get.ts:148](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/user_assignments_get.ts#L148)

@@ -1,4 +1,5 @@
 # network/controller/listActive
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/listActive
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/network/controller/listActive.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/listActive.ts#L13)
+[src/network/controller/listActive.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/controller/listActive.ts#L13)

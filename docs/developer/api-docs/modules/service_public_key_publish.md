@@ -1,4 +1,5 @@
 # service/public\_key\_publish
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/public\_key\_publish
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/public_key_publish.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/public_key_publish.ts#L18)
+[src/service/public_key_publish.ts:18](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/public_key_publish.ts#L18)

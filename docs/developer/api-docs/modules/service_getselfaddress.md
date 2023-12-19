@@ -1,4 +1,5 @@
 # service/getselfaddress
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/getselfaddress
 
 ## Table of contents
@@ -25,4 +26,4 @@
 
 #### Defined in
 
-[src/service/getselfaddress.ts:3](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/getselfaddress.ts#L3)
+[src/service/getselfaddress.ts:3](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/getselfaddress.ts#L3)

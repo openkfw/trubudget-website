@@ -1,4 +1,5 @@
 # system/restoreBackup
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/restoreBackup
 
 ## Table of contents
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/system/restoreBackup.ts:7](https://github.com/openkfw/TruBudget/blob/92640998/api/src/system/restoreBackup.ts#L7)
+[src/system/restoreBackup.ts:7](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/system/restoreBackup.ts#L7)

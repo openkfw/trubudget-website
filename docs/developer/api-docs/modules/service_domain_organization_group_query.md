@@ -1,4 +1,5 @@
 # service/domain/organization/group\_query
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_query
 
 ## Table of contents
@@ -32,7 +33,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:36](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_query.ts#L36)
+[src/service/domain/organization/group_query.ts:36](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_query.ts#L36)
 
 ___
 
@@ -54,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_query.ts#L15)
+[src/service/domain/organization/group_query.ts:15](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_query.ts#L15)
 
 ___
 
@@ -77,7 +78,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:58](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_query.ts#L58)
+[src/service/domain/organization/group_query.ts:58](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_query.ts#L58)
 
 ___
 
@@ -100,7 +101,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:75](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_query.ts#L75)
+[src/service/domain/organization/group_query.ts:75](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_query.ts#L75)
 
 ___
 
@@ -130,4 +131,4 @@ returns all users for given identity
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:95](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_query.ts#L95)
+[src/service/domain/organization/group_query.ts:95](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_query.ts#L95)

@@ -1,4 +1,5 @@
 # service/groups
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/groups
 
 ## Table of contents
@@ -26,4 +27,4 @@
 
 #### Defined in
 
-[src/service/groups.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/groups.ts#L9)
+[src/service/groups.ts:9](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/groups.ts#L9)

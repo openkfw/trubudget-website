@@ -1,4 +1,5 @@
 # service/public\_key\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/public\_key\_get
 
 ## Table of contents
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/service/public_key_get.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/public_key_get.ts#L9)
+[src/service/public_key_get.ts:9](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/public_key_get.ts#L9)

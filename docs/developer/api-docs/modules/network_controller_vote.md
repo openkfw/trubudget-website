@@ -1,4 +1,5 @@
 # network/controller/vote
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/vote
 
 ## Table of contents
@@ -28,7 +29,7 @@
 
 #### Defined in
 
-[src/network/controller/vote.ts:62](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/vote.ts#L62)
+[src/network/controller/vote.ts:62](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/controller/vote.ts#L62)
 
 ___
 
@@ -51,4 +52,4 @@ ___
 
 #### Defined in
 
-[src/network/controller/vote.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/controller/vote.ts#L17)
+[src/network/controller/vote.ts:17](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/controller/vote.ts#L17)

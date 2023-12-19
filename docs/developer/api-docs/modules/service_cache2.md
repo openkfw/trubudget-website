@@ -1,4 +1,5 @@
 # service/cache2
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/cache2
 
 ## Table of contents
@@ -33,7 +34,7 @@
 
 #### Defined in
 
-[src/service/cache2.ts:68](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L68)
+[src/service/cache2.ts:68](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/cache2.ts#L68)
 
 ___
 
@@ -63,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:197](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L197)
+[src/service/cache2.ts:197](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/cache2.ts#L197)
 
 ## Functions
 
@@ -84,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:106](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L106)
+[src/service/cache2.ts:106](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/cache2.ts#L106)
 
 ___
 
@@ -98,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:78](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L78)
+[src/service/cache2.ts:78](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/cache2.ts#L78)
 
 ___
 
@@ -118,7 +119,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:227](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L227)
+[src/service/cache2.ts:227](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/cache2.ts#L227)
 
 ___
 
@@ -139,7 +140,7 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:463](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L463)
+[src/service/cache2.ts:463](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/cache2.ts#L463)
 
 ___
 
@@ -168,4 +169,4 @@ ___
 
 #### Defined in
 
-[src/service/cache2.ts:199](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache2.ts#L199)
+[src/service/cache2.ts:199](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/cache2.ts#L199)

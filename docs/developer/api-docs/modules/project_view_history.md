@@ -1,4 +1,5 @@
 # project\_view\_history
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / project\_view\_history
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.vi
 
 #### Defined in
 
-[src/project_view_history.ts:259](https://github.com/openkfw/TruBudget/blob/92640998/api/src/project_view_history.ts#L259)
+[src/project_view_history.ts:259](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/project_view_history.ts#L259)

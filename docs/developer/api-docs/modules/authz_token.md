@@ -1,4 +1,5 @@
 # authz/token
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / authz/token
 
 ## Table of contents

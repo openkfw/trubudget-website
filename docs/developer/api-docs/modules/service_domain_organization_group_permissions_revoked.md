@@ -1,4 +1,5 @@
 # service/domain/organization/group\_permissions\_revoked
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_permissions\_revoked
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:24](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_permissions_revoked.ts#L24)
+[src/service/domain/organization/group_permissions_revoked.ts:24](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_permissions_revoked.ts#L24)
 
 ## Functions
 
@@ -50,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:35](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_permissions_revoked.ts#L35)
+[src/service/domain/organization/group_permissions_revoked.ts:35](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_permissions_revoked.ts#L35)
 
 ___
 
@@ -70,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:64](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/organization/group_permissions_revoked.ts#L64)
+[src/service/domain/organization/group_permissions_revoked.ts:64](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/organization/group_permissions_revoked.ts#L64)

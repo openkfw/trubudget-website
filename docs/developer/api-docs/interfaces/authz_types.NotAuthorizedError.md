@@ -1,4 +1,5 @@
 # NotAuthorizedError
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [authz/types](../modules/authz_types.md) / NotAuthorizedError
 
 [authz/types](../modules/authz_types.md).NotAuthorizedError
@@ -19,7 +20,7 @@
 
 #### Defined in
 
-[src/authz/types.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/authz/types.ts#L13)
+[src/authz/types.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/authz/types.ts#L13)
 
 ___
 
@@ -29,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/authz/types.ts:11](https://github.com/openkfw/TruBudget/blob/92640998/api/src/authz/types.ts#L11)
+[src/authz/types.ts:11](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/authz/types.ts#L11)
 
 ___
 
@@ -39,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/authz/types.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/authz/types.ts#L12)
+[src/authz/types.ts:12](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/authz/types.ts#L12)

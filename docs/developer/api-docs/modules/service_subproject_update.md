@@ -1,4 +1,5 @@
 # service/subproject\_update
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_update
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/service/subproject_update.ts:15](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/subproject_update.ts#L15)
+[src/service/subproject_update.ts:15](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/subproject_update.ts#L15)

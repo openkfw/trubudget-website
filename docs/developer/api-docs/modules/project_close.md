@@ -1,4 +1,5 @@
 # project\_close
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / project\_close
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.cl
 
 #### Defined in
 
-[src/project_close.ts:109](https://github.com/openkfw/TruBudget/blob/92640998/api/src/project_close.ts#L109)
+[src/project_close.ts:109](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/project_close.ts#L109)

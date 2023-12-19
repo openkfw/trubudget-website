@@ -1,4 +1,5 @@
 # service/cache
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/cache
 
 ## Table of contents
@@ -28,7 +29,7 @@
 
 #### Defined in
 
-[src/service/cache.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache.ts#L8)
+[src/service/cache.ts:8](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/cache.ts#L8)
 
 ## Functions
 
@@ -42,4 +43,4 @@
 
 #### Defined in
 
-[src/service/cache.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/cache.ts#L19)
+[src/service/cache.ts:19](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/cache.ts#L19)

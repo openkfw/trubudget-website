@@ -1,4 +1,5 @@
 # ProjectIdAlreadyExistsError
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [error](../modules/error.md) / ProjectIdAlreadyExistsError
 
 [error](../modules/error.md).ProjectIdAlreadyExistsError
@@ -20,7 +21,7 @@ Error type thrown when a project id already exists
 
 #### Defined in
 
-[src/error.ts:65](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L65)
+[src/error.ts:65](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L65)
 
 ___
 
@@ -30,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:66](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L66)
+[src/error.ts:66](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L66)

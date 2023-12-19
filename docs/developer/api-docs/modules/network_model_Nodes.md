@@ -1,4 +1,5 @@
 # network/model/Nodes
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/model/Nodes
 
 ## Table of contents
@@ -33,7 +34,7 @@
 
 #### Defined in
 
-[src/network/model/Nodes.ts:14](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L14)
+[src/network/model/Nodes.ts:14](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L14)
 
 ___
 
@@ -43,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L13)
+[src/network/model/Nodes.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L13)
 
 ___
 
@@ -53,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:12](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L12)
+[src/network/model/Nodes.ts:12](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L12)
 
 ## Functions
 
@@ -73,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:235](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L235)
+[src/network/model/Nodes.ts:235](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L235)
 
 ___
 
@@ -95,7 +96,7 @@ Gets a list with all registered nodes
 
 #### Defined in
 
-[src/network/model/Nodes.ts:141](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L141)
+[src/network/model/Nodes.ts:141](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L141)
 
 ___
 
@@ -117,7 +118,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:306](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L306)
+[src/network/model/Nodes.ts:306](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L306)
 
 ___
 
@@ -141,7 +142,7 @@ Gets a node registered on the multichain
 
 #### Defined in
 
-[src/network/model/Nodes.ts:219](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L219)
+[src/network/model/Nodes.ts:219](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L219)
 
 ___
 
@@ -164,7 +165,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:44](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L44)
+[src/network/model/Nodes.ts:44](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L44)
 
 ___
 
@@ -191,7 +192,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:62](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L62)
+[src/network/model/Nodes.ts:62](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L62)
 
 ___
 
@@ -214,4 +215,4 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:53](https://github.com/openkfw/TruBudget/blob/92640998/api/src/network/model/Nodes.ts#L53)
+[src/network/model/Nodes.ts:53](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/model/Nodes.ts#L53)

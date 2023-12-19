@@ -1,4 +1,5 @@
 # service/group\_permissions\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/group\_permissions\_list
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/group_permissions_list.ts:13](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/group_permissions_list.ts#L13)
+[src/service/group_permissions_list.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/group_permissions_list.ts#L13)

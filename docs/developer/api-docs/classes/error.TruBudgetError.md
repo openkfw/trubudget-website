@@ -1,4 +1,5 @@
 # TruBudgetError
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [error](../modules/error.md) / TruBudgetError
 
 [error](../modules/error.md).TruBudgetError
@@ -58,7 +59,7 @@ Error.constructor
 
 #### Defined in
 
-[src/error.ts:135](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L135)
+[src/error.ts:135](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L135)
 
 ## Properties
 
@@ -68,7 +69,7 @@ Error.constructor
 
 #### Defined in
 
-[src/error.ts:121](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L121)
+[src/error.ts:121](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L121)
 
 ___
 
@@ -78,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:113](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L113)
+[src/error.ts:113](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L113)
 
 ___
 
@@ -88,7 +89,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:131](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L131)
+[src/error.ts:131](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L131)
 
 ___
 
@@ -98,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:129](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L129)
+[src/error.ts:129](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L129)
 
 ___
 
@@ -108,7 +109,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:117](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L117)
+[src/error.ts:117](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L117)
 
 ___
 
@@ -118,7 +119,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:133](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L133)
+[src/error.ts:133](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L133)
 
 ___
 
@@ -156,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:127](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L127)
+[src/error.ts:127](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L127)
 
 ___
 
@@ -180,7 +181,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:125](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L125)
+[src/error.ts:125](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L125)
 
 ___
 
@@ -190,7 +191,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:123](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L123)
+[src/error.ts:123](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L123)
 
 ___
 
@@ -200,7 +201,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:119](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L119)
+[src/error.ts:119](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L119)
 
 ___
 
@@ -210,7 +211,7 @@ ___
 
 #### Defined in
 
-[src/error.ts:115](https://github.com/openkfw/TruBudget/blob/92640998/api/src/error.ts#L115)
+[src/error.ts:115](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L115)
 
 ___
 

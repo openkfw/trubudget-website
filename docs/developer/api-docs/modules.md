@@ -3,6 +3,7 @@ sidebar_position: 2
 sidebar_label: Table of Contents
 ---
 # Api Code Documentation
+ 
 [Api Code Documentation](README.md) / Exports
 
 ## Table of contents
@@ -30,6 +31,7 @@ sidebar_label: Table of Contents
 - [http\_errors/bad\_request](modules/http_errors_bad_request.md)
 - [http\_errors/not\_authenticated](modules/http_errors_not_authenticated.md)
 - [httpd](modules/httpd.md)
+- [httpd/instrumentation](modules/httpd_instrumentation.md)
 - [httpd/lib](modules/httpd_lib.md)
 - [httpd/router](modules/httpd_router.md)
 - [httpd/schema](modules/httpd_schema.md)
@@ -455,6 +457,7 @@ sidebar_label: Table of Contents
 - [user\_enable](modules/user_enable.md)
 - [user\_list](modules/user_list.md)
 - [user\_listAssignments](modules/user_listAssignments.md)
+- [user\_logout](modules/user_logout.md)
 - [user\_password\_change](modules/user_password_change.md)
 - [user\_permission\_grant](modules/user_permission_grant.md)
 - [user\_permission\_revoke](modules/user_permission_revoke.md)

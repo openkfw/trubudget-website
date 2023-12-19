@@ -1,4 +1,5 @@
-# RequestData: service/domain/document/document_share
+# RequestData: 
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/document/document\_share](../modules/service_domain_document_document_share.md) / RequestData
 
 [service/domain/document/document\_share](../modules/service_domain_document_document_share.md).RequestData
@@ -21,7 +22,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_share.ts:18](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_share.ts#L18)
+[src/service/domain/document/document_share.ts:18](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/document_share.ts#L18)
 
 ___
 
@@ -31,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_share.ts:17](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_share.ts#L17)
+[src/service/domain/document/document_share.ts:17](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/document_share.ts#L17)
 
 ___
 
@@ -41,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_share.ts:19](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_share.ts#L19)
+[src/service/domain/document/document_share.ts:19](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/document_share.ts#L19)
 
 ___
 
@@ -51,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_share.ts:20](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_share.ts#L20)
+[src/service/domain/document/document_share.ts:20](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/document_share.ts#L20)
 
 ___
 
@@ -61,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_share.ts:21](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/document/document_share.ts#L21)
+[src/service/domain/document/document_share.ts:21](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/document/document_share.ts#L21)

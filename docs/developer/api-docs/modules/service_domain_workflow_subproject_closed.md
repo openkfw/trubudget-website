@@ -1,4 +1,5 @@
 # service/domain/workflow/subproject\_closed
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_closed
 
 ## Table of contents
@@ -25,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:22](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_closed.ts#L22)
+[src/service/domain/workflow/subproject_closed.ts:22](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/subproject_closed.ts#L22)
 
 ## Functions
 
@@ -50,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:32](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_closed.ts#L32)
+[src/service/domain/workflow/subproject_closed.ts:32](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/subproject_closed.ts#L32)
 
 ___
 
@@ -80,7 +81,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:71](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_closed.ts#L71)
+[src/service/domain/workflow/subproject_closed.ts:71](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/subproject_closed.ts#L71)
 
 ___
 
@@ -100,4 +101,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_closed.ts:56](https://github.com/openkfw/TruBudget/blob/92640998/api/src/service/domain/workflow/subproject_closed.ts#L56)
+[src/service/domain/workflow/subproject_closed.ts:56](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/subproject_closed.ts#L56)

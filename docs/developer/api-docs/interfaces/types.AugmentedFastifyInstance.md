@@ -1,4 +1,5 @@
 # AugmentedFastifyInstance
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [types](../modules/types.md) / AugmentedFastifyInstance
 
 [types](../modules/types.md).AugmentedFastifyInstance
@@ -129,7 +130,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/92640998/api/src/types.ts#L8)
+[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/types.ts#L8)
 
 ___
 
@@ -339,7 +340,7 @@ FastifyInstance.jwt
 
 #### Defined in
 
-node_modules/@fastify/jwt/jwt.d.ts:17
+node_modules/@fastify/jwt/types/jwt.d.ts:17
 
 ___
 
@@ -599,7 +600,7 @@ FastifyInstance.swaggerCSP
 
 #### Defined in
 
-[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/92640998/api/src/types.ts#L9)
+[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/types.ts#L9)
 
 ___
 
