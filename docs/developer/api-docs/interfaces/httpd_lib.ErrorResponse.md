@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/httpd/lib.ts:17](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/httpd/lib.ts#L17)
+[src/httpd/lib.ts:17](https://github.com/openkfw/TruBudget/blob/965031f/api/src/httpd/lib.ts#L17)
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 #### Defined in
 
-[src/httpd/lib.ts:18](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/httpd/lib.ts#L18)
+[src/httpd/lib.ts:18](https://github.com/openkfw/TruBudget/blob/965031f/api/src/httpd/lib.ts#L18)

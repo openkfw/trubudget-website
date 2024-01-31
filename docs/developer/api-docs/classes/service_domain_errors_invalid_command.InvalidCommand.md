@@ -51,7 +51,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_command.ts:5](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/errors/invalid_command.ts#L5)
+[src/service/domain/errors/invalid_command.ts:5](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/errors/invalid_command.ts#L5)
 
 ## Properties
 
@@ -61,7 +61,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_command.ts:7](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/errors/invalid_command.ts#L7)
+[src/service/domain/errors/invalid_command.ts:7](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/errors/invalid_command.ts#L7)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_command.ts:6](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/errors/invalid_command.ts#L6)
+[src/service/domain/errors/invalid_command.ts:6](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/errors/invalid_command.ts#L6)
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_command.ts:8](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/errors/invalid_command.ts#L8)
+[src/service/domain/errors/invalid_command.ts:8](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/errors/invalid_command.ts#L8)
 
 ___
 

@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/network/controller/listActive.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/network/controller/listActive.ts#L13)
+[src/network/controller/listActive.ts:13](https://github.com/openkfw/TruBudget/blob/965031f/api/src/network/controller/listActive.ts#L13)

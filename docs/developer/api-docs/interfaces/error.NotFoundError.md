@@ -21,7 +21,7 @@ Error type thrown when an entity is not found
 
 #### Defined in
 
-[src/error.ts:17](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L17)
+[src/error.ts:17](https://github.com/openkfw/TruBudget/blob/965031f/api/src/error.ts#L17)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:18](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/error.ts#L18)
+[src/error.ts:18](https://github.com/openkfw/TruBudget/blob/965031f/api/src/error.ts#L18)
