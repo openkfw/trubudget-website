@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/user_enable.ts:12](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/user_enable.ts#L12)
+[src/service/user_enable.ts:12](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/user_enable.ts#L12)

@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/authz/history.ts:29](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/authz/history.ts#L29)
+[src/authz/history.ts:29](https://github.com/openkfw/TruBudget/blob/965031f/api/src/authz/history.ts#L29)

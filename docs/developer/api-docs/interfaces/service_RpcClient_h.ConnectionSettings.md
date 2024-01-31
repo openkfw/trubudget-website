@@ -32,7 +32,7 @@ IP address or hostname of the node to connect to.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:18](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.h.ts#L18)
+[src/service/RpcClient.h.ts:18](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/RpcClient.h.ts#L18)
 
 ___
 
@@ -44,7 +44,7 @@ Password to use for authentication.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:35](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.h.ts#L35)
+[src/service/RpcClient.h.ts:35](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/RpcClient.h.ts#L35)
 
 ___
 
@@ -62,7 +62,7 @@ Port number of the node to connect to.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:24](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.h.ts#L24)
+[src/service/RpcClient.h.ts:24](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/RpcClient.h.ts#L24)
 
 ___
 
@@ -80,7 +80,7 @@ Protocol to use for the connection.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:12](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.h.ts#L12)
+[src/service/RpcClient.h.ts:12](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/RpcClient.h.ts#L12)
 
 ___
 
@@ -98,4 +98,4 @@ Username to use for authentication.
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:30](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/RpcClient.h.ts#L30)
+[src/service/RpcClient.h.ts:30](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/RpcClient.h.ts#L30)

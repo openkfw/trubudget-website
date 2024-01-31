@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/system/createBackup.ts:5](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/system/createBackup.ts#L5)
+[src/system/createBackup.ts:5](https://github.com/openkfw/TruBudget/blob/965031f/api/src/system/createBackup.ts#L5)

@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[src/service/domain/metadata.ts:3](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/metadata.ts#L3)
+[src/service/domain/metadata.ts:3](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/metadata.ts#L3)
 
 ## Variables
 
@@ -37,4 +37,4 @@
 
 #### Defined in
 
-[src/service/domain/metadata.ts:8](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/metadata.ts#L8)
+[src/service/domain/metadata.ts:8](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/metadata.ts#L8)

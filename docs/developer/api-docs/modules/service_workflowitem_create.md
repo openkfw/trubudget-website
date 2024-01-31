@@ -8,6 +8,10 @@
 
 - [RequestData](service_workflowitem_create.md#requestdata)
 
+### Interfaces
+
+- [Service](../interfaces/service_workflowitem_create.Service.md)
+
 ### Functions
 
 - [createWorkflowitem](service_workflowitem_create.md#createworkflowitem)
@@ -40,4 +44,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_workflowitem_crea
 
 #### Defined in
 
-[src/service/workflowitem_create.ts:30](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/workflowitem_create.ts#L30)
+[src/service/workflowitem_create.ts:38](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/workflowitem_create.ts#L38)

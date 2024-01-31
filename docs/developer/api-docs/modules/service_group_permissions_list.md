@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/group_permissions_list.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/group_permissions_list.ts#L13)
+[src/service/group_permissions_list.ts:13](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/group_permissions_list.ts#L13)

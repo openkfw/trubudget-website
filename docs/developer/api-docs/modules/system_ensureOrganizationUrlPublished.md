@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/system/ensureOrganizationUrlPublished.ts:13](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/system/ensureOrganizationUrlPublished.ts#L13)
+[src/system/ensureOrganizationUrlPublished.ts:13](https://github.com/openkfw/TruBudget/blob/965031f/api/src/system/ensureOrganizationUrlPublished.ts#L13)

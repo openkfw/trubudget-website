@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/public_key_get.ts:9](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/public_key_get.ts#L9)
+[src/service/public_key_get.ts:9](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/public_key_get.ts#L9)

@@ -22,7 +22,7 @@ Creates an http handler that handles incoming http requests for the `/project.cr
 | :------ | :------ | :------ |
 | `server` | [`AugmentedFastifyInstance`](../interfaces/types.AugmentedFastifyInstance.md) | the current fastify server instance |
 | `urlPrefix` | `string` | the prefix of the http url |
-| `service` | `Service` | the service Service object used to offer an interface to the domain logic |
+| `service` | [`Service`](../interfaces/service_subproject_create.Service.md) | the service Service object used to offer an interface to the domain logic |
 
 #### Returns
 
@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.cr
 
 #### Defined in
 
-[src/subproject_create.ts:192](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/subproject_create.ts#L192)
+[src/subproject_create.ts:180](https://github.com/openkfw/TruBudget/blob/965031f/api/src/subproject_create.ts#L180)

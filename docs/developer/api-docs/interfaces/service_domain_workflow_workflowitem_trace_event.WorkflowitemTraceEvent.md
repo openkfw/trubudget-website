@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_trace_event.ts:8](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/workflowitem_trace_event.ts#L8)
+[src/service/domain/workflow/workflowitem_trace_event.ts:8](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_trace_event.ts#L8)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_trace_event.ts:6](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/workflowitem_trace_event.ts#L6)
+[src/service/domain/workflow/workflowitem_trace_event.ts:6](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_trace_event.ts#L6)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_trace_event.ts:7](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/workflowitem_trace_event.ts#L7)
+[src/service/domain/workflow/workflowitem_trace_event.ts:7](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_trace_event.ts#L7)
 
 ___
 
@@ -60,4 +60,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_trace_event.ts:9](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/workflow/workflowitem_trace_event.ts#L9)
+[src/service/domain/workflow/workflowitem_trace_event.ts:9](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_trace_event.ts#L9)

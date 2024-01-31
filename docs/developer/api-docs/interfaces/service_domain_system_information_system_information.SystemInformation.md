@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[src/service/domain/system_information/system_information.ts:11](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/domain/system_information/system_information.ts#L11)
+[src/service/domain/system_information/system_information.ts:11](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/system_information/system_information.ts#L11)

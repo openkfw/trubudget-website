@@ -8,6 +8,10 @@
 
 - [RequestData](service_subproject_create.md#requestdata)
 
+### Interfaces
+
+- [Service](../interfaces/service_subproject_create.Service.md)
+
 ### Functions
 
 - [createSubproject](service_subproject_create.md#createsubproject)
@@ -39,4 +43,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_subproject_create
 
 #### Defined in
 
-[src/service/subproject_create.ts:16](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/service/subproject_create.ts#L16)
+[src/service/subproject_create.ts:24](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/subproject_create.ts#L24)

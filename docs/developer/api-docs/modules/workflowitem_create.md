@@ -22,7 +22,7 @@ Creates an http handler that handles incoming http requests for the `/subproject
 | :------ | :------ | :------ |
 | `server` | [`AugmentedFastifyInstance`](../interfaces/types.AugmentedFastifyInstance.md) | the current fastify server instance |
 | `urlPrefix` | `string` | the prefix of the http url |
-| `service` | `Service` | the service Service object used to offer an interface to the domain logic |
+| `service` | [`Service`](../interfaces/service_workflowitem_create.Service.md) | the service Service object used to offer an interface to the domain logic |
 
 #### Returns
 
@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/workflowitem_create.ts:206](https://github.com/openkfw/TruBudget/blob/d2b440c/api/src/workflowitem_create.ts#L206)
+[src/workflowitem_create.ts:196](https://github.com/openkfw/TruBudget/blob/965031f/api/src/workflowitem_create.ts#L196)
