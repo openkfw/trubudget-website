@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.ena
 
 #### Defined in
 
-[src/user_enable.ts:112](https://github.com/openkfw/TruBudget/blob/965031f/api/src/user_enable.ts#L112)
+[src/user_enable.ts:112](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/user_enable.ts#L112)

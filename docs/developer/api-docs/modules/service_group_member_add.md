@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/group_member_add.ts:12](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/group_member_add.ts#L12)
+[src/service/group_member_add.ts:12](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/group_member_add.ts#L12)

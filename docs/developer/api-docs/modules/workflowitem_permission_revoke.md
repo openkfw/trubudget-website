@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_permission_revoke.ts:134](https://github.com/openkfw/TruBudget/blob/965031f/api/src/workflowitem_permission_revoke.ts#L134)
+[src/workflowitem_permission_revoke.ts:134](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/workflowitem_permission_revoke.ts#L134)

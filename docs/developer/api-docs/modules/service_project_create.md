@@ -39,4 +39,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Defined in
 
-[src/service/project_create.ts:16](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/project_create.ts#L16)
+[src/service/project_create.ts:16](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/project_create.ts#L16)

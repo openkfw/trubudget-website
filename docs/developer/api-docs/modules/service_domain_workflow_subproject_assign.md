@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assign.ts:23](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/subproject_assign.ts#L23)
+[src/service/domain/workflow/subproject_assign.ts:23](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/subproject_assign.ts#L23)

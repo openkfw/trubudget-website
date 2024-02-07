@@ -32,7 +32,7 @@ Returns a new workflowitem with the given event applied, or an error.
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_eventsourcing.ts:154](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L154)
+[src/service/domain/workflow/workflowitem_eventsourcing.ts:154](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L154)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_eventsourcing.ts:84](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L84)
+[src/service/domain/workflow/workflowitem_eventsourcing.ts:84](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L84)
 
 ___
 
@@ -75,4 +75,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_eventsourcing.ts:18](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L18)
+[src/service/domain/workflow/workflowitem_eventsourcing.ts:18](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/workflowitem_eventsourcing.ts#L18)

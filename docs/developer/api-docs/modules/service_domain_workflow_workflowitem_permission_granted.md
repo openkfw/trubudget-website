@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:27](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L27)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:27](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L27)
 
 ## Functions
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:40](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L40)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:40](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L40)
 
 ___
 
@@ -84,7 +84,7 @@ workflowitem is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:86](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L86)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:86](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L86)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_granted.ts:71](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L71)
+[src/service/domain/workflow/workflowitem_permission_granted.ts:71](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/workflowitem_permission_granted.ts#L71)

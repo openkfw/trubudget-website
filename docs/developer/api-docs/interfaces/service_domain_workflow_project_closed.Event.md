@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:17](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/project_closed.ts#L17)
+[src/service/domain/workflow/project_closed.ts:17](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/project_closed.ts#L17)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:16](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/project_closed.ts#L16)
+[src/service/domain/workflow/project_closed.ts:16](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/project_closed.ts#L16)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:15](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/project_closed.ts#L15)
+[src/service/domain/workflow/project_closed.ts:15](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/project_closed.ts#L15)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:13](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/project_closed.ts#L13)
+[src/service/domain/workflow/project_closed.ts:13](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/project_closed.ts#L13)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:14](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/project_closed.ts#L14)
+[src/service/domain/workflow/project_closed.ts:14](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/project_closed.ts#L14)
 
 ___
 
@@ -73,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:12](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/workflow/project_closed.ts#L12)
+[src/service/domain/workflow/project_closed.ts:12](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/project_closed.ts#L12)
