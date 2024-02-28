@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[src/lib/test/promise.ts:18](https://github.com/openkfw/TruBudget/blob/965031f/api/src/lib/test/promise.ts#L18)
+[src/lib/test/promise.ts:18](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/lib/test/promise.ts#L18)
 
 ___
 
@@ -48,4 +48,4 @@ ___
 
 #### Defined in
 
-[src/lib/test/promise.ts:4](https://github.com/openkfw/TruBudget/blob/965031f/api/src/lib/test/promise.ts#L4)
+[src/lib/test/promise.ts:4](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/lib/test/promise.ts#L4)

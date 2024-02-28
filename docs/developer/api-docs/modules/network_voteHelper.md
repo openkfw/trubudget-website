@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/network/voteHelper.ts:13](https://github.com/openkfw/TruBudget/blob/965031f/api/src/network/voteHelper.ts#L13)
+[src/network/voteHelper.ts:13](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/network/voteHelper.ts#L13)

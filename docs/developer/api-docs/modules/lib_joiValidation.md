@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[src/lib/joiValidation.ts:18](https://github.com/openkfw/TruBudget/blob/965031f/api/src/lib/joiValidation.ts#L18)
+[src/lib/joiValidation.ts:18](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/lib/joiValidation.ts#L18)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[src/lib/joiValidation.ts:24](https://github.com/openkfw/TruBudget/blob/965031f/api/src/lib/joiValidation.ts#L24)
+[src/lib/joiValidation.ts:24](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/lib/joiValidation.ts#L24)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[src/lib/joiValidation.ts:12](https://github.com/openkfw/TruBudget/blob/965031f/api/src/lib/joiValidation.ts#L12)
+[src/lib/joiValidation.ts:12](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/lib/joiValidation.ts#L12)

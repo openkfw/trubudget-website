@@ -145,7 +145,7 @@ Re-exports [writeProjectAssignedToChain](service_ProjectEvents.md#writeprojectas
 
 #### Defined in
 
-[src/service/index.ts:277](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/index.ts#L277)
+[src/service/index.ts:285](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/index.ts#L285)
 
 ___
 
@@ -169,7 +169,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:218](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/index.ts#L218)
+[src/service/index.ts:226](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/index.ts#L226)
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:176](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/index.ts#L176)
+[src/service/index.ts:184](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/index.ts#L184)
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:52](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/index.ts#L52)
+[src/service/index.ts:60](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/index.ts#L60)
 
 ___
 
@@ -234,7 +234,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:40](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/index.ts#L40)
+[src/service/index.ts:48](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/index.ts#L48)
 
 ___
 
@@ -257,7 +257,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:101](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/index.ts#L101)
+[src/service/index.ts:109](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/index.ts#L109)
 
 ___
 
@@ -282,4 +282,4 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:247](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/index.ts#L247)
+[src/service/index.ts:255](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/index.ts#L255)

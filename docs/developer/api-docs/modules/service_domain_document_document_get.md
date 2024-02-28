@@ -29,13 +29,13 @@
 
 #### Defined in
 
-[src/service/domain/document/document_get.ts:22](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/document/document_get.ts#L22)
+[src/service/domain/document/document_get.ts:22](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document_get.ts#L22)
 
 ___
 
 ### getAllDocumentReferences
 
-▸ **getAllDocumentReferences**(`repository`): `Promise`\<[`Type`](result.md#type)\<[`DocumentReference`](../interfaces/service_domain_document_document.DocumentReference.md)[]\>\>
+▸ **getAllDocumentReferences**(`repository`): `Promise`\<[`Type`](result.md#type)\<[`DocumentOrExternalLinkReference`](service_domain_document_document.md#documentorexternallinkreference)[]\>\>
 
 #### Parameters
 
@@ -45,11 +45,11 @@ ___
 
 #### Returns
 
-`Promise`\<[`Type`](result.md#type)\<[`DocumentReference`](../interfaces/service_domain_document_document.DocumentReference.md)[]\>\>
+`Promise`\<[`Type`](result.md#type)\<[`DocumentOrExternalLinkReference`](service_domain_document_document.md#documentorexternallinkreference)[]\>\>
 
 #### Defined in
 
-[src/service/domain/document/document_get.ts:53](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/document/document_get.ts#L53)
+[src/service/domain/document/document_get.ts:53](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document_get.ts#L53)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_get.ts:37](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/domain/document/document_get.ts#L37)
+[src/service/domain/document/document_get.ts:37](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document_get.ts#L37)

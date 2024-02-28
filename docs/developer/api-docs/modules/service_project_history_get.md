@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/project_history_get.ts:18](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/project_history_get.ts#L18)
+[src/service/project_history_get.ts:18](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/project_history_get.ts#L18)

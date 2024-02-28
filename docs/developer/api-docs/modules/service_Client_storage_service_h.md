@@ -6,6 +6,7 @@
 
 ### Interfaces
 
+- [DeleteResponse](../interfaces/service_Client_storage_service_h.DeleteResponse.md)
 - [StorageObject](../interfaces/service_Client_storage_service_h.StorageObject.md)
 - [StorageServiceClientI](../interfaces/service_Client_storage_service_h.StorageServiceClientI.md)
 - [UploadResponse](../interfaces/service_Client_storage_service_h.UploadResponse.md)

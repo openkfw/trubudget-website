@@ -34,7 +34,7 @@ Type Result that can either contain a given type T or an Error
 
 #### Defined in
 
-[src/result.ts:11](https://github.com/openkfw/TruBudget/blob/965031f/api/src/result.ts#L11)
+[src/result.ts:11](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/result.ts#L11)
 
 ## Functions
 
@@ -64,7 +64,7 @@ a boolean indicating if the given result is an error or not
 
 #### Defined in
 
-[src/result.ts:19](https://github.com/openkfw/TruBudget/blob/965031f/api/src/result.ts#L19)
+[src/result.ts:19](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/result.ts#L19)
 
 ___
 
@@ -94,7 +94,7 @@ a boolean indicating if the given result is ok or not
 
 #### Defined in
 
-[src/result.ts:29](https://github.com/openkfw/TruBudget/blob/965031f/api/src/result.ts#L29)
+[src/result.ts:29](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/result.ts#L29)
 
 ___
 
@@ -126,7 +126,7 @@ the result of the function or an error
 
 #### Defined in
 
-[src/result.ts:44](https://github.com/openkfw/TruBudget/blob/965031f/api/src/result.ts#L44)
+[src/result.ts:44](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/result.ts#L44)
 
 ___
 
@@ -157,7 +157,7 @@ the result of the function if the element is an error or the given element other
 
 #### Defined in
 
-[src/result.ts:59](https://github.com/openkfw/TruBudget/blob/965031f/api/src/result.ts#L59)
+[src/result.ts:59](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/result.ts#L59)
 
 ___
 
@@ -188,7 +188,7 @@ the unwrapped result
 
 #### Defined in
 
-[src/result.ts:74](https://github.com/openkfw/TruBudget/blob/965031f/api/src/result.ts#L74)
+[src/result.ts:74](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/result.ts#L74)
 
 ___
 
@@ -219,7 +219,7 @@ the unwrapped error if the given element was indeed an error
 
 #### Defined in
 
-[src/result.ts:93](https://github.com/openkfw/TruBudget/blob/965031f/api/src/result.ts#L93)
+[src/result.ts:93](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/result.ts#L93)
 
 ___
 
@@ -251,4 +251,4 @@ the unwrapped result or the default value in case the given element is an error
 
 #### Defined in
 
-[src/result.ts:108](https://github.com/openkfw/TruBudget/blob/965031f/api/src/result.ts#L108)
+[src/result.ts:108](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/result.ts#L108)

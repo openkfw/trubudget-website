@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/project_get.ts:12](https://github.com/openkfw/TruBudget/blob/965031f/api/src/service/project_get.ts#L12)
+[src/service/project_get.ts:12](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/project_get.ts#L12)
