@@ -10,6 +10,8 @@
 
   ↳ [`UploadedDocument`](service_domain_document_document.UploadedDocument.md)
 
+  ↳ [`DocumentLink`](service_domain_document_document.DocumentLink.md)
+
 ## Table of contents
 
 ### Properties
@@ -24,4 +26,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:51](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/document/document.ts#L51)
+[src/service/domain/document/document.ts:94](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L94)

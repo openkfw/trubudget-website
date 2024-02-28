@@ -6,10 +6,19 @@
 
 ### Interfaces
 
+- [DeleteDocumentResponse](../interfaces/service_domain_document_document.DeleteDocumentResponse.md)
+- [DeletedDocument](../interfaces/service_domain_document_document.DeletedDocument.md)
+- [DocumentLink](../interfaces/service_domain_document_document.DocumentLink.md)
 - [DocumentReference](../interfaces/service_domain_document_document.DocumentReference.md)
+- [ExternalLinkReference](../interfaces/service_domain_document_document.ExternalLinkReference.md)
 - [GenericDocument](../interfaces/service_domain_document_document.GenericDocument.md)
 - [StoredDocument](../interfaces/service_domain_document_document.StoredDocument.md)
 - [UploadedDocument](../interfaces/service_domain_document_document.UploadedDocument.md)
+
+### Type Aliases
+
+- [DocumentOrExternalLinkReference](service_domain_document_document.md#documentorexternallinkreference)
+- [UploadedDocumentOrLink](service_domain_document_document.md#uploadeddocumentorlink)
 
 ### Variables
 
@@ -23,15 +32,35 @@
 - [hashDocuments](service_domain_document_document.md#hashdocuments)
 - [validate](service_domain_document_document.md#validate)
 
+## Type Aliases
+
+### DocumentOrExternalLinkReference
+
+Ƭ **DocumentOrExternalLinkReference**: [`DocumentReference`](../interfaces/service_domain_document_document.DocumentReference.md) \| [`ExternalLinkReference`](../interfaces/service_domain_document_document.ExternalLinkReference.md)
+
+#### Defined in
+
+[src/service/domain/document/document.ts:43](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L43)
+
+___
+
+### UploadedDocumentOrLink
+
+Ƭ **UploadedDocumentOrLink**: [`UploadedDocument`](../interfaces/service_domain_document_document.UploadedDocument.md) \| [`DocumentLink`](../interfaces/service_domain_document_document.DocumentLink.md)
+
+#### Defined in
+
+[src/service/domain/document/document.ts:72](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L72)
+
 ## Variables
 
 ### documentReferenceSchema
 
-• `Const` **documentReferenceSchema**: `ObjectSchema`\<`any`\>
+• `Const` **documentReferenceSchema**: `AlternativesSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/document/document.ts:28](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/document/document.ts#L28)
+[src/service/domain/document/document.ts:45](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L45)
 
 ___
 
@@ -41,17 +70,17 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:14](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/document/document.ts#L14)
+[src/service/domain/document/document.ts:18](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L18)
 
 ___
 
 ### uploadedDocumentSchema
 
-• `Const` **uploadedDocumentSchema**: `ObjectSchema`\<`any`\>
+• `Const` **uploadedDocumentSchema**: `AlternativesSchema`\<`any`\>
 
 #### Defined in
 
-[src/service/domain/document/document.ts:41](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/document/document.ts#L41)
+[src/service/domain/document/document.ts:74](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L74)
 
 ## Functions
 
@@ -71,7 +100,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:54](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/document/document.ts#L54)
+[src/service/domain/document/document.ts:97](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L97)
 
 ___
 
@@ -91,7 +120,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:65](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/document/document.ts#L65)
+[src/service/domain/document/document.ts:108](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L108)
 
 ___
 
@@ -111,4 +140,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:87](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/document/document.ts#L87)
+[src/service/domain/document/document.ts:137](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L137)

@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/group_create.ts:20](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/group_create.ts#L20)
+[src/service/group_create.ts:20](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/group_create.ts#L20)

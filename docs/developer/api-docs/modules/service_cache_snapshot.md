@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:78](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/cache_snapshot.ts#L78)
+[src/service/cache_snapshot.ts:79](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/cache_snapshot.ts#L79)
 
 ▸ **getLatestSnapshot**(`ctx`, `conn`, `streamName`, `key`, `eventType`): `Promise`\<[`Type`](result.md#type)\<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>\>
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:86](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/cache_snapshot.ts#L86)
+[src/service/cache_snapshot.ts:87](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/cache_snapshot.ts#L87)
 
 ▸ **getLatestSnapshot**(`ctx`, `conn`, `streamName`, `key`, `eventType`): `Promise`\<[`Type`](result.md#type)\<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>\>
 
@@ -72,7 +72,7 @@
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:94](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/cache_snapshot.ts#L94)
+[src/service/cache_snapshot.ts:95](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/cache_snapshot.ts#L95)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:335](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/cache_snapshot.ts#L335)
+[src/service/cache_snapshot.ts:337](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/cache_snapshot.ts#L337)
 
 ___
 
@@ -120,4 +120,4 @@ ___
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:187](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/cache_snapshot.ts#L187)
+[src/service/cache_snapshot.ts:189](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/cache_snapshot.ts#L189)

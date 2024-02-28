@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_grant.ts:36](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/workflow/workflowitem_permission_grant.ts#L36)
+[src/service/domain/workflow/workflowitem_permission_grant.ts:36](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/workflowitem_permission_grant.ts#L36)

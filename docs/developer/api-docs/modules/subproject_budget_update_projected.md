@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/subproject_budget_update_projected.ts:151](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/subproject_budget_update_projected.ts#L151)
+[src/subproject_budget_update_projected.ts:151](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/subproject_budget_update_projected.ts#L151)

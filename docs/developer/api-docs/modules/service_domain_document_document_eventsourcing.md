@@ -6,14 +6,14 @@
 
 ### Functions
 
-- [sourceDocuments](service_domain_document_document_eventsourcing.md#sourcedocuments)
+- [processDocumentEvents](service_domain_document_document_eventsourcing.md#processdocumentevents)
 - [sourceSecrets](service_domain_document_document_eventsourcing.md#sourcesecrets)
 
 ## Functions
 
-### sourceDocuments
+### processDocumentEvents
 
-▸ **sourceDocuments**(`ctx`, `events`): `Object`
+▸ **processDocumentEvents**(`ctx`, `events`): `Object`
 
 #### Parameters
 
@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/document/document_eventsourcing.ts#L11)
+[src/service/domain/document/document_eventsourcing.ts:12](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document_eventsourcing.ts#L12)
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_eventsourcing.ts:71](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/document/document_eventsourcing.ts#L71)
+[src/service/domain/document/document_eventsourcing.ts:101](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document_eventsourcing.ts#L101)

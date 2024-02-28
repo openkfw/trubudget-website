@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/service/subproject_cache_helper.ts:26](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/subproject_cache_helper.ts#L26)
+[src/service/subproject_cache_helper.ts:26](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/subproject_cache_helper.ts#L26)
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 #### Defined in
 
-[src/service/subproject_cache_helper.ts:11](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/subproject_cache_helper.ts#L11)
+[src/service/subproject_cache_helper.ts:11](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/subproject_cache_helper.ts#L11)

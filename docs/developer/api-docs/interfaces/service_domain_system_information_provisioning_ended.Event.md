@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:16](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/system_information/provisioning_ended.ts#L16)
+[src/service/domain/system_information/provisioning_ended.ts:16](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/system_information/provisioning_ended.ts#L16)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:15](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/system_information/provisioning_ended.ts#L15)
+[src/service/domain/system_information/provisioning_ended.ts:15](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/system_information/provisioning_ended.ts#L15)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:13](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/system_information/provisioning_ended.ts#L13)
+[src/service/domain/system_information/provisioning_ended.ts:13](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/system_information/provisioning_ended.ts#L13)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:14](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/system_information/provisioning_ended.ts#L14)
+[src/service/domain/system_information/provisioning_ended.ts:14](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/system_information/provisioning_ended.ts#L14)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:12](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/domain/system_information/provisioning_ended.ts#L12)
+[src/service/domain/system_information/provisioning_ended.ts:12](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/system_information/provisioning_ended.ts#L12)

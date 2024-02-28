@@ -12,12 +12,34 @@
 
 ### Methods
 
+- [deleteObject](service_Client_storage_service_h.StorageServiceClientI.md#deleteobject)
 - [downloadObject](service_Client_storage_service_h.StorageServiceClientI.md#downloadobject)
 - [getVersion](service_Client_storage_service_h.StorageServiceClientI.md#getversion)
 - [isReady](service_Client_storage_service_h.StorageServiceClientI.md#isready)
 - [uploadObject](service_Client_storage_service_h.StorageServiceClientI.md#uploadobject)
 
 ## Methods
+
+### deleteObject
+
+▸ **deleteObject**(`id`, `secret`): `Promise`\<[`Type`](../modules/result.md#type)\<[`DeleteResponse`](service_Client_storage_service_h.DeleteResponse.md)\>\>
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `id` | `string` |
+| `secret` | `string` |
+
+#### Returns
+
+`Promise`\<[`Type`](../modules/result.md#type)\<[`DeleteResponse`](service_Client_storage_service_h.DeleteResponse.md)\>\>
+
+#### Defined in
+
+[src/service/Client_storage_service.h.ts:51](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.h.ts#L51)
+
+___
 
 ### downloadObject
 
@@ -38,7 +60,7 @@ Download an object using the matching secret
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:46](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/Client_storage_service.h.ts#L46)
+[src/service/Client_storage_service.h.ts:50](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.h.ts#L50)
 
 ___
 
@@ -54,7 +76,7 @@ Get version of conncted storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:31](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/Client_storage_service.h.ts#L31)
+[src/service/Client_storage_service.h.ts:35](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.h.ts#L35)
 
 ___
 
@@ -70,7 +92,7 @@ Get readiness sattus of storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:26](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/Client_storage_service.h.ts#L26)
+[src/service/Client_storage_service.h.ts:30](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.h.ts#L30)
 
 ___
 
@@ -94,4 +116,4 @@ Upload an object using the
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:39](https://github.com/openkfw/TruBudget/blob/2e43ea7/api/src/service/Client_storage_service.h.ts#L39)
+[src/service/Client_storage_service.h.ts:43](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.h.ts#L43)
