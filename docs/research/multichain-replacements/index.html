@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-research/multichain-replacements" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.0.0">
+<title data-rh="true">Research on potential DLT replacements | TruBudget</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://trubudget.net/docs/research/multichain-replacements"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Research on potential DLT replacements | TruBudget"><meta data-rh="true" name="description" content="Index"><meta data-rh="true" property="og:description" content="Index"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://trubudget.net/docs/research/multichain-replacements"><link data-rh="true" rel="alternate" href="https://trubudget.net/docs/research/multichain-replacements" hreflang="en"><link data-rh="true" rel="alternate" href="https://trubudget.net/docs/research/multichain-replacements" hreflang="x-default"><link rel="stylesheet" href="/assets/css/styles.cf8fb7ed.css">
+<script src="/assets/js/runtime~main.571f49d9.js" defer="defer"></script>
+<script src="/assets/js/main.2218894c.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return localStorage.getItem("theme")}catch(t){}}();t(null!==e?e:"light")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="navbar navbar--fixed-top"><div class="navbar__inner"><div class="navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><b class="navbar__title text--truncate">TruBudget</b></a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/docs/">Documentation</a><a href="https://github.com/openkfw/TruBudget/discussions" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">Community<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a><a href="https://taas.trubudget.net" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">TruBudget as a Service<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></div><div class="navbar__items navbar__items--right"><a href="https://github.com/openkfw/TruBudget" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="Switch between dark and light mode (currently light mode)" aria-label="Switch between dark and light mode (currently light mode)" aria-live="polite"><svg viewBox="0 0 24 24" width="24" height="24" class="lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" class="darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><div class="navbar__search"><span aria-label="expand searchbar" role="button" class="search-icon" tabindex="0"></span><input id="search_input_react" type="search" placeholder="Loading..." aria-label="Search" class="navbar__search-input search-bar" disabled=""></div></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/docs/">Getting Started</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/docs/usecases">Example Use Cases</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" href="/docs/developer/introduction">Developer</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" href="/docs/operation-administration/introduction">Operation / Administration</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" href="/docs/user-guide/">User-Guide</a><button aria-label="Expand sidebar category &#x27;User-Guide&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" href="/docs/known-issues/intro">Known Issues</a></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/docs/environment-variables">Environment Variables</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" aria-expanded="true" href="/docs/research/multichain-replacements">research</a></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/docs/research/multichain-replacements">Research on potential DLT replacements</a></li></ul></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">research</span><meta itemprop="position" content="1"></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link" itemprop="name">Research on potential DLT replacements</span><meta itemprop="position" content="2"></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><h1>Research on potential DLT replacements</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="index">Index<a href="#index" class="hash-link" aria-label="Direct link to Index" title="Direct link to Index">​</a></h2>
+<ul>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#motivation">Motivation</a></li>
+<li><a href="#technologies-in-consideration">Technologies in Consideration</a></li>
+<li><a href="#requirements">Requirements</a></li>
+<li><a href="#blockchain-frameworks">Blockchain Frameworks</a>
+<ul>
+<li><a href="#celo">Celo</a></li>
+<li><a href="#polygon">Polygon</a></li>
+<li><a href="#cosmos">Cosmos</a></li>
+<li><a href="#polkadot-and-kusama">Polkadot and Kusama</a></li>
+<li><a href="#hyperledger-besu">Hyperledger Besu</a></li>
+<li><a href="#hyperledger-fabric">Hyperledger Fabric</a></li>
+</ul>
+</li>
+<li><a href="#ipfs-and-orbitdb">IPFS and OrbitDB</a>
+<ul>
+<li><a href="#ipfs">IPFS</a></li>
+<li><a href="#orbitdb">OrbitDB</a></li>
+</ul>
+</li>
+<li><a href="#immudb">ImmuDB</a></li>
+<li><a href="#corda-r3">Corda R3</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2>
+<p>TruBudget utilizes Multichain as its core component within its persistence layer. Multichain is not only a blockchain but also a Distributed Ledger Technology (DLT), which brings a different data architecture than from conventional databases. TruBudget leverages the immutability and data verifiability through cryptography provided by DLTs. As DLTs are distributed systems, availability, consistency, and fault tolerance are essential considerations when utilizing such technologies.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="motivation">Motivation<a href="#motivation" class="hash-link" aria-label="Direct link to Motivation" title="Direct link to Motivation">​</a></h2>
+<p>During this research, we are taking a look at possible alternatives to Multichain. This is not with the intention of replacing Multichain right away, but more as a reference point to compare similar technologies, their suitability and their advantages/drawbacks.</p>
+<p>Currently what drives this motivation is minimal company and community support of the Multichain product. This sets an unclear path in terms of future-proofness.</p>
+<p>With this research our goal is to</p>
+<ul>
+<li>Find a product that has more company and community support (Future-proofness)</li>
+<li>Potentially reduce infrastructure complexity, if possible</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="technologies-in-consideration">Technologies in Consideration<a href="#technologies-in-consideration" class="hash-link" aria-label="Direct link to Technologies in Consideration" title="Direct link to Technologies in Consideration">​</a></h2>
+<p>Following is a list of the technologies that are considered to be further investigated during this research:</p>
+<ul>
+<li>Celo</li>
+<li>Polygon</li>
+<li>Cosmos</li>
+<li>Polkadot and Kusama</li>
+<li>Hyperledger Besu</li>
+<li>Hyperledger Fabric</li>
+<li>IPFS and OrbitDB</li>
+<li>ImmuDB</li>
+<li>Corda R3</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="requirements">Requirements<a href="#requirements" class="hash-link" aria-label="Direct link to Requirements" title="Direct link to Requirements">​</a></h2>
+<p>Following are the requirements to take into consideration either when looking for new technologies (the ones not mentioned above) or when during the investigation of a certain technology.</p>
+<ul>
+<li><strong>Excellent documentation.</strong></li>
+<li><strong>Recognition in the community in terms of scalability and performance.</strong></li>
+<li><strong>Active product community and development with clear visions and road-map for the future. It is important that the product is well-established in the community, and does not go under frequent breaking changes.</strong></li>
+<li><strong>Possibility to use Javascript/Typescript, as this is the preferred language due to our stack choice.</strong></li>
+</ul>
+<blockquote>
+<p>These requirements can be refined and subject to change during future discussions.</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="blockchain-frameworks">Blockchain Frameworks<a href="#blockchain-frameworks" class="hash-link" aria-label="Direct link to Blockchain Frameworks" title="Direct link to Blockchain Frameworks">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="general-information-about-public-blockchains">General Information about public blockchains<a href="#general-information-about-public-blockchains" class="hash-link" aria-label="Direct link to General Information about public blockchains" title="Direct link to General Information about public blockchains">​</a></h3>
+<p>Before going into explanations of certain blockchain frameworks that are public below, we do not really recommend usage of these for a couple of reasons.</p>
+<p>First of all, public blockchains are, as the name suggests, developed for public usage under the Web3 vision. These chains are not feature optimised for enterprise and the enterprise use cases. They lack key features, which makes them not so great fit for private usage such as identity management and privacy/permissioning on-chain. Public chains allow creation of key pairs/addresses anonymously (anyone can create as much addresses as they want), thus identity management is not really a considered feature in such chains. Also Web3 or public solutions as a persistence layer <strong>does not scale well</strong>.</p>
+<p>Public blockchains are categorized in different layers, which have different purposes such as interoperability and scalability.</p>
+<ul>
+<li><strong>Layer-0 protocols</strong> are used mainly for interoperability purposes. Chains created on Layer-0 protocols can seamlessly work with Layer-1 chains. Thus Layer-0 protocols are used to create an ecosystem of networks of independent parallel blockchains.</li>
+<li><strong>Layer-1 protocols</strong> provide the infrastracture for the blockchain network. They usually come with a chosen consensus mechanism and is the foundation for many of the leading public blockchain networks as well as decentralized Apps and protocols. As the Blockchain Trilemma shows, Layer-1 protocols provide strong decentralization and security, but falls short when it comes to scalability.</li>
+<li><strong>Layer-2 protocols</strong> are used for scalability, which is what the Layer-1 protocols generally lack. Layer-2 chains are considered off-chain network and usually runs on top of an existing Layer-1 chain, thus inheriting the security features. Layer-2 chains can efficiently process transactions at higher throughput.</li>
+</ul>
+<p>For Layer-1 and Layer-2 chains, if one has to create a private deployment, this usually happens via forking an existing chain. Forking means copying the whole chain state up until a chosen block number. A forked chain will contain the state of the main chain. This is not really the best option since it increases the required storage size just to be able to run the chain. One solution is to fork from the genesis block, but then this possibly results in missing certain security and chain updates introduced in certain block numbers over the chain&#x27;s lifetime.</p>
+<blockquote>
+<p>e.g Ethereum blocksize is limited to 1 MB. Average block size on the network is 0.16 MB. Latest block at the time of writing this is 19069272. A full sync would require a minimum of at least 1TB storage.</p>
+</blockquote>
+<p>It&#x27;s important to keep these in mind when reading the below products.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="celo">Celo<a href="#celo" class="hash-link" aria-label="Direct link to Celo" title="Direct link to Celo">​</a></h3>
+<p>Celo is a Layer-1 EVM Compatible blockchain product developed by cLabs.</p>
+<p>To spin up a running Celo node, the Celo mainnet usually needs to be forked. The drawbacks of forking is mentioned above.</p>
+<p>However there is another problem with Celo, that makes Celo not a suitable candidate. The team behind Celo has submitted a <a href="https://celo.stake.id/#/proposal/116" target="_blank" rel="noopener noreferrer">proposal</a> on July 2023, which proposes to transition Celo from Layer 1 chain to a Ethereum Layer 2 solution. Proposal has been accepted by the community, thus confirming the transition plans. There are no set end dates on sight for this migration. According to the proposal, this change affects the validator nodes and developers, meaning that developing with Celo will require obvious refactoring efforts in the future as well as possible architectural replanning.</p>
+<p>This makes Celo an unfit candidate to build an architecture around.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="polygon">Polygon<a href="#polygon" class="hash-link" aria-label="Direct link to Polygon" title="Direct link to Polygon">​</a></h3>
+<p>Polygon is a Layer 2 chain on top of Ethereum. It offers two options for developers:</p>
+<ul>
+<li>Building decentralized apps on top of the Polygon mainnet</li>
+<li>Building application specific ZK (Zero-Knowledge) Layer 2 chains on top of Ethereum.</li>
+</ul>
+<p>As the latter is more fitting, Polygon offers Polygon CDK for building such chains.</p>
+<p>There are two possible chain setups:</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="validium">Validium<a href="#validium" class="hash-link" aria-label="Direct link to Validium" title="Direct link to Validium">​</a></h4>
+<p>Validium is a scaling solution that store transaction data off-chain. Hosting a validium network requires 6-7 nodes for different purposes, and 3 postgres instances. Docker-compose file for a functioning Validium network can be checked here: <a href="https://github.com/Snapchain/zkValidium-quickstart/blob/main/docker-compose.yml#L12" target="_blank" rel="noopener noreferrer">docker-compose</a></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="rollup">Rollup<a href="#rollup" class="hash-link" aria-label="Direct link to Rollup" title="Direct link to Rollup">​</a></h4>
+<p>Rollup is a scaling solution, which rolls up multiple transactions into batches which are eventually committed to the layer 1. This improves network speed. Similar to Validium, setting up a Rollup network needs multiple node deployments as well as db instances.</p>
+<p>Both of these setups depends on a Layer 1 as a base node. Developing a Layer-2 Chain automatically means that one has to also use a Layer-1 solution (in this case Ethereum).</p>
+<p>Generally Layer-2 solutions improve Layer-1 chain scalability, but do not really solve the identity management and privacy/permissioning issues.</p>
+<p>It is open for discussion, but we do not recommend Layer-2 chains because of the complexity they introduce in comparison to other Layer solutions.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cosmos">Cosmos<a href="#cosmos" class="hash-link" aria-label="Direct link to Cosmos" title="Direct link to Cosmos">​</a></h3>
+<p>Cosmos is a Layer-0 solution built for chain interoperability in mind. For developing application specific chains, Cosmos ecosystem offers Cosmos SDK. One advantage of Cosmos is that it also offers to build permissioned blockchains, which usually is not a feature offered by other public blockchains.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-features">Key features<a href="#key-features" class="hash-link" aria-label="Direct link to Key features" title="Direct link to Key features">​</a></h4>
+<ul>
+<li>Can build permissioned blockchains.</li>
+<li>Blockchains are built out of modules.</li>
+<li>Application-specific blockchains offer more freedom to make design choices for product optimization.</li>
+<li>Good documentation<!-- -->
+<ul>
+<li>Documentation also contains ADRs.</li>
+</ul>
+</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-concerns">Key concerns<a href="#key-concerns" class="hash-link" aria-label="Direct link to Key concerns" title="Direct link to Key concerns">​</a></h4>
+<ul>
+<li>Requires knowledge of Go.</li>
+<li>Just like other public projects, it&#x27;s support and existence is heavily tied to cryptocurrency market performance.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="polkadot-and-kusama">Polkadot and Kusama<a href="#polkadot-and-kusama" class="hash-link" aria-label="Direct link to Polkadot and Kusama" title="Direct link to Polkadot and Kusama">​</a></h3>
+<p>Polkadot is an open-source sharded multichain protocol with a focus on enabling cross-blockchain transfers of any type of data or asset, thereby allowing blockchains to be interoperable with each other. Polkadot describes a format for a network of blockchains, thus making it a layer-0 metaprotocol.</p>
+<p>Polkadot protocol connects the public and private chains (these are called Parachains) through its Relay Chain.  Relay Chain is the central chain in the Polkadot network for coordinating the whole ecosystem of parachains.</p>
+<p>Kusama on the other hand is used as sort of a standalone canary network for the Polkadot for the experimentation and early-stage deployment purposes. However Polkadot can process more transactions per second, and is more suitable as a enterprise-level deployments.</p>
+<p>Both Polkadot and Kusama use Substrate SDK as primary blockchain SDK to create parachains. All chains created using Substrate SDK are seamlessly compatible with Polkadot and Kusama. For these reasons, we will mostly focus on Substrate SDK.</p>
+<p>A short overview of Polkadot Architecture:</p>
+<p><img loading="lazy" alt="Polkadot Architecture" src="/assets/images/Polkadot_Arch-9d8706c332ad88a16a7ed1f79a56abc3.png" width="1657" height="1021" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="substrate-sdk">Substrate SDK<a href="#substrate-sdk" class="hash-link" aria-label="Direct link to Substrate SDK" title="Direct link to Substrate SDK">​</a></h4>
+<p>Substrate is a powerful blockchain development framework that allows developers to create blockchain solutions, including private blockchain networks.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-features-1">Key features<a href="#key-features-1" class="hash-link" aria-label="Direct link to Key features" title="Direct link to Key features">​</a></h4>
+<ul>
+<li><strong>A range of pre-built modules and libraries</strong>
+<ul>
+<li>These modules and libraries simplify and quicken the development process.</li>
+</ul>
+</li>
+<li><strong>Allows customized blockchains and private networks</strong></li>
+<li><strong>Private chains are compatible to deploy on public Kusama and Polkadot networks.</strong></li>
+<li><strong>Active developer community and regular updates</strong></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-concerns-1">Key concerns<a href="#key-concerns-1" class="hash-link" aria-label="Direct link to Key concerns" title="Direct link to Key concerns">​</a></h4>
+<ul>
+<li><strong>The offered pre-built modules and libraries might not provide exact level of customization needed for specific use cases or industry level requirements.</strong>
+<ul>
+<li>This can either result in changing Substrate codebase or development of custom modules, which in both ways increase development time and effort.</li>
+</ul>
+</li>
+<li><strong>Designed for scalability, but might fall short in comparison to other blockchain frameworks, which offer higher transactions per seconds and a native private network support.</strong></li>
+<li><strong>Offered security might end up not being sufficient for specific use cases.</strong></li>
+<li><strong>Uses Rust as the framework language</strong>
+<ul>
+<li>Rust as a language is challenging to learn due it&#x27;s ownership model in memory management.</li>
+<li>This can make onboarding and finding other developers harder.</li>
+</ul>
+</li>
+</ul>
+<p>We do not recommend Polkadot/Kusama as a replacement due to Substrate SDK being Rust based. Being locked into Rust as a language, would only make future onboarding of developers harder, as well as finding suitable replacements. However if decided that this is not an issue, then Polkadot could be the only public blockchain solution that we might recommend.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="hyperledger-besu">Hyperledger Besu<a href="#hyperledger-besu" class="hash-link" aria-label="Direct link to Hyperledger Besu" title="Direct link to Hyperledger Besu">​</a></h3>
+<p>More complicated setup for permissioned networks. Ethereum data storage has two possibilities:</p>
+<ul>
+<li>Smart contract space</li>
+<li>Transaction Inputs</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="smart-contract-space">Smart contract space<a href="#smart-contract-space" class="hash-link" aria-label="Direct link to Smart contract space" title="Direct link to Smart contract space">​</a></h4>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="hyperledger-fabric">Hyperledger Fabric<a href="#hyperledger-fabric" class="hash-link" aria-label="Direct link to Hyperledger Fabric" title="Direct link to Hyperledger Fabric">​</a></h3>
+<p>TBD</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ipfs-and-orbitdb">IPFS and OrbitDB<a href="#ipfs-and-orbitdb" class="hash-link" aria-label="Direct link to IPFS and OrbitDB" title="Direct link to IPFS and OrbitDB">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ipfs">IPFS<a href="#ipfs" class="hash-link" aria-label="Direct link to IPFS" title="Direct link to IPFS">​</a></h3>
+<p>IPFS is a distributed file storage protocol that allow nodes to store and serve files in a peer to peer network.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-features-2">Key features<a href="#key-features-2" class="hash-link" aria-label="Direct link to Key features" title="Direct link to Key features">​</a></h4>
+<ul>
+<li><strong>IPFS is public by nature.</strong></li>
+<li><strong>There are certain developments to make private IPFS networks.</strong>
+<ul>
+<li>IPFS Cluster</li>
+<li>IPFS Private swarm keys</li>
+</ul>
+</li>
+<li><strong>It uses content addressing, where the key is derived from the content.</strong>
+<ul>
+<li>A Content ID is generated via cryptographic hashing. This way content is immutable, because any change in content, changes the CID as well. This provides the verification of data integrity.</li>
+</ul>
+</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-concerns-2">Key Concerns<a href="#key-concerns-2" class="hash-link" aria-label="Direct link to Key Concerns" title="Direct link to Key Concerns">​</a></h4>
+<ul>
+<li><strong>Files have to be pinned to persist in an IPFS Network.</strong>
+<ul>
+<li>When a file is not pinned by any node, that file will be stored in the cache of the node. Then the file will be deleted during the next run of the IPFS Garbage Collection. Any mistake of not pinning the file, or during, might result in a data loss.</li>
+</ul>
+</li>
+<li><strong>Scalability and performance is a concern in IPFS.</strong>
+<ul>
+<li>P2P networks usually thrive on higher node counts, as the files are distributed in a higher range of nodes, which increases the data availability. Downloading seems to be much slower in smaller networks, although performance metrics concerning private networks seems to be lacking.</li>
+</ul>
+</li>
+<li><strong>Lack of consensus.</strong>
+<ul>
+<li>IPFS is made to be a P2P file sharing/storage technology, thus it does not provide a consensus mechanism, which is crucial for the data consistency in a data sensitive systems.</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="orbitdb">OrbitDB<a href="#orbitdb" class="hash-link" aria-label="Direct link to OrbitDB" title="Direct link to OrbitDB">​</a></h3>
+<p>OrbitDB is a distributed P2P database built on IPFS for data storage and Libp2p pub/sub for syncing databases with peers.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-features-3">Key features<a href="#key-features-3" class="hash-link" aria-label="Direct link to Key features" title="Direct link to Key features">​</a></h4>
+<ul>
+<li><strong>It is an eventually consistent database.</strong>
+<ul>
+<li>This means that immediate data consistency is not promised, thus at a given time, two nodes might not have the same data.</li>
+</ul>
+</li>
+<li><strong>It offers multiple database type options.</strong>
+<ul>
+<li>Key-Value</li>
+<li>Event</li>
+<li>Document</li>
+<li>Count</li>
+</ul>
+</li>
+<li><strong>Provides an immutable log with traversable history.</strong>
+<ul>
+<li>When doing data operations immutability is abstracted, meaning that data appears as mutable, however, independent of the database type, OrbitDB holds a log of the every data operation performed in a log, which is called OPLOG.</li>
+</ul>
+</li>
+<li><strong>Offers conflict-free database merges.</strong></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-concerns-3">Key concerns<a href="#key-concerns-3" class="hash-link" aria-label="Direct link to Key concerns" title="Direct link to Key concerns">​</a></h4>
+<ul>
+<li><strong>OrbitDb is not considered production ready.</strong>
+<ul>
+<li>They are still swapping some underlying deprecated library (js-ipfs) with a library called Helia.</li>
+<li>Next version would include breaking changes.</li>
+<li>No planned release date for the new version yet.</li>
+<li>Progress can be tracked via merged branches as the project is open-source, but there are no devlogs or progress updates.</li>
+</ul>
+</li>
+<li><strong>Poor documentation. Setup for more complicated use-cases is not intuitive.</strong>
+<ul>
+<li>Documentation is lacking and not sufficient.</li>
+<li>There is not much (if all) resources online, other than spinning up a very basic network example.</li>
+<li>Trying to find a solution for a problem might cost a lot of time.</li>
+<li>Example: Trying to set up a private network is a lot painful than doing so with a plain IPFS network, since js-ipfs (the library OrbitDB uses for now) does not read swarm keys from the file hierarchy. This means that there has to be additional classes and logic written to spin up a swarm network with a private key. What most documentation showed on the internet for js-ipfs however did not work with the OrbitDB.</li>
+</ul>
+</li>
+<li><strong>Lacks the data validation and consensus mechanism.</strong>
+<ul>
+<li>There are no consensus between nodes to make it up for the eventual consistency. Data consistency is a risk.</li>
+</ul>
+</li>
+<li><strong>Compatibility and breaking changes.</strong>
+<ul>
+<li>Upgrade from 1.0 had many breaking changes.</li>
+<li>Could potentially lead to an unwanted technical debt and refactoring efforts with it in the future.</li>
+</ul>
+</li>
+<li><strong>It also includes general concerns of the IPFS, since it is just an additional logical layer implemented on top of the IPFS.</strong></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="immudb">ImmuDB<a href="#immudb" class="hash-link" aria-label="Direct link to ImmuDB" title="Direct link to ImmuDB">​</a></h2>
+<p>TBD</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="corda-r3">Corda R3<a href="#corda-r3" class="hash-link" aria-label="Direct link to Corda R3" title="Direct link to Corda R3">​</a></h2>
+<p>Corda is an open-source market leading DLT solution. We are here strictly evaluating the Corda 5, which is the newer and evolved version, which improves upon the Corda 4 with an architecture change. Previously Corda 4 was divided into Community and Enterprise Editions. This does not seem to be the case for Corda 5, as it is under Apache 2.0 License.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastracture">Infrastracture<a href="#infrastracture" class="hash-link" aria-label="Direct link to Infrastracture" title="Direct link to Infrastracture">​</a></h3>
+<p>Corda 5 runtime consists of a distributed architecture, which is similar to a microservices approach. There are two terms, which are architecturally relevant:</p>
+<ul>
+<li>Worker Processes</li>
+<li>Virtual Nodes</li>
+</ul>
+<p><strong>Worker processes</strong> are stateless services and each have their unique responsibilities. As they are stateless, they scale horizontally.</p>
+<p><strong>Virtual nodes</strong> are a representation of identities on a network of application users. Virtual nodes are bound to their Corda deployments, meaning that they exist within a single Corda cluster and network. This means same name can exist in different clusters and networks, however the virtual node is abstracted from the runtime, thus through the Network Manager (MGM) a Corda deployment can support other networks&#x27; virtual nodes.</p>
+<p><img loading="lazy" alt="Virtual Nodes" src="/assets/images/VNodes-bd33753a742e314b2455f44fa2ea629f.png" width="2052" height="728" class="img_ev3q"></p>
+<blockquote>
+<p>Corda recommends the deployment of runtime environment as a Kubernetes Cluster with Helm charts, and thus provides workers as container images.</p>
+</blockquote>
+<p>Minimal setup of the architecture is as follows with suitable replicaCounts for worker processes configured:</p>
+<p><img loading="lazy" alt="Cluster setup" src="/assets/images/cluster-0819c381e22c50ccf7ab50bc103999f8.png" width="3740" height="2271" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-features-4">Key features<a href="#key-features-4" class="hash-link" aria-label="Direct link to Key features" title="Direct link to Key features">​</a></h4>
+<ul>
+<li><strong>Corda is a very well established product and has a large community.</strong></li>
+<li><strong>Built for enterprise, thus for scalability and performance.</strong></li>
+<li><strong>One of the big players in the enterprise scene.</strong></li>
+<li><strong>Production ready on an enterprise level.</strong></li>
+<li><strong>Corda 5 is open-source.</strong></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-concerns-4">Key concerns<a href="#key-concerns-4" class="hash-link" aria-label="Direct link to Key concerns" title="Direct link to Key concerns">​</a></h4>
+<ul>
+<li><strong>More complicated setup and infrastracture.</strong>
+<ul>
+<li>If scalability is not concerned, it might be an overkill.</li>
+<li>Infrastracture requires more deployments such as a Postgres Database and Kafka, along with additional services.</li>
+</ul>
+</li>
+<li><strong>Uses Java/Kotlin. This clashes with our Javascript preference.</strong></li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/facebook/docusaurus/edit/master/website/docs/research/multichain-replacements.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-02-28T12:34:45.000Z">Feb 28, 2024</time></b> by <b>Peter Baus</b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/docs/environment-variables"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Environment Variables</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#index" class="table-of-contents__link toc-highlight">Index</a></li><li><a href="#introduction" class="table-of-contents__link toc-highlight">Introduction</a></li><li><a href="#motivation" class="table-of-contents__link toc-highlight">Motivation</a></li><li><a href="#technologies-in-consideration" class="table-of-contents__link toc-highlight">Technologies in Consideration</a></li><li><a href="#requirements" class="table-of-contents__link toc-highlight">Requirements</a></li><li><a href="#blockchain-frameworks" class="table-of-contents__link toc-highlight">Blockchain Frameworks</a><ul><li><a href="#general-information-about-public-blockchains" class="table-of-contents__link toc-highlight">General Information about public blockchains</a></li><li><a href="#celo" class="table-of-contents__link toc-highlight">Celo</a></li><li><a href="#polygon" class="table-of-contents__link toc-highlight">Polygon</a></li><li><a href="#cosmos" class="table-of-contents__link toc-highlight">Cosmos</a></li><li><a href="#polkadot-and-kusama" class="table-of-contents__link toc-highlight">Polkadot and Kusama</a></li><li><a href="#hyperledger-besu" class="table-of-contents__link toc-highlight">Hyperledger Besu</a></li><li><a href="#hyperledger-fabric" class="table-of-contents__link toc-highlight">Hyperledger Fabric</a></li></ul></li><li><a href="#ipfs-and-orbitdb" class="table-of-contents__link toc-highlight">IPFS and OrbitDB</a><ul><li><a href="#ipfs" class="table-of-contents__link toc-highlight">IPFS</a></li><li><a href="#orbitdb" class="table-of-contents__link toc-highlight">OrbitDB</a></li></ul></li><li><a href="#immudb" class="table-of-contents__link toc-highlight">ImmuDB</a></li><li><a href="#corda-r3" class="table-of-contents__link toc-highlight">Corda R3</a><ul><li><a href="#infrastracture" class="table-of-contents__link toc-highlight">Infrastracture</a></li></ul></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">Docs</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/docs/README">Tutorial</a></li></ul></div><div class="col footer__col"><div class="footer__title">Community</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://github.com/openkfw/TruBudget/discussions" target="_blank" rel="noopener noreferrer" class="footer__link-item">Github Discussions<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div><div class="col footer__col"><div class="footer__title">More</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://github.com/openkfw/TruBudget" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://taas.trubudget.net" target="_blank" rel="noopener noreferrer" class="footer__link-item">TruBudget as a Service<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 TruBudget</div></div></div></footer></div>
+</body>
+</html>
