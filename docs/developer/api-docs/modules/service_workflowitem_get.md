@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_get.ts:13](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/workflowitem_get.ts#L13)
+[src/service/workflowitem_get.ts:13](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/workflowitem_get.ts#L13)

@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/document_share.ts:20](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/document_share.ts#L20)
+[src/service/document_share.ts:20](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/document_share.ts#L20)

@@ -56,7 +56,7 @@ VError.constructor
 
 #### Defined in
 
-[src/service/domain/errors/event_sourcing_error.ts:31](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/errors/event_sourcing_error.ts#L31)
+[src/service/domain/errors/event_sourcing_error.ts:31](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/errors/event_sourcing_error.ts#L31)
 
 ## Properties
 

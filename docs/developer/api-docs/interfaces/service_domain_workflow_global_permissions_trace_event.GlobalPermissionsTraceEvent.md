@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions_trace_event.ts:8](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/global_permissions_trace_event.ts#L8)
+[src/service/domain/workflow/global_permissions_trace_event.ts:8](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/global_permissions_trace_event.ts#L8)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions_trace_event.ts:6](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/global_permissions_trace_event.ts#L6)
+[src/service/domain/workflow/global_permissions_trace_event.ts:6](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/global_permissions_trace_event.ts#L6)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions_trace_event.ts:7](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/global_permissions_trace_event.ts#L7)
+[src/service/domain/workflow/global_permissions_trace_event.ts:7](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/global_permissions_trace_event.ts#L7)

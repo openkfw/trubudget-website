@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/project_assign.ts:15](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/project_assign.ts#L15)
+[src/service/project_assign.ts:15](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/project_assign.ts#L15)
