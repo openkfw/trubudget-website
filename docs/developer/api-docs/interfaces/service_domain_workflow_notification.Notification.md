@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:17](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/notification.ts#L17)
+[src/service/domain/workflow/notification.ts:17](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification.ts#L17)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:14](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/notification.ts#L14)
+[src/service/domain/workflow/notification.ts:14](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification.ts#L14)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:13](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/notification.ts#L13)
+[src/service/domain/workflow/notification.ts:13](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification.ts#L13)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:16](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/notification.ts#L16)
+[src/service/domain/workflow/notification.ts:16](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification.ts#L16)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:21](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/notification.ts#L21)
+[src/service/domain/workflow/notification.ts:21](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification.ts#L21)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:18](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/notification.ts#L18)
+[src/service/domain/workflow/notification.ts:18](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification.ts#L18)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:15](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/notification.ts#L15)
+[src/service/domain/workflow/notification.ts:15](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification.ts#L15)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:19](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/notification.ts#L19)
+[src/service/domain/workflow/notification.ts:19](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification.ts#L19)
 
 ___
 
@@ -106,4 +106,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification.ts:20](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/workflow/notification.ts#L20)
+[src/service/domain/workflow/notification.ts:20](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification.ts#L20)

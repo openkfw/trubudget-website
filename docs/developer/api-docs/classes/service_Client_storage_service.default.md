@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:26](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.ts#L26)
+[src/service/Client_storage_service.ts:26](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/Client_storage_service.ts#L26)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:22](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.ts#L22)
+[src/service/Client_storage_service.ts:22](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/Client_storage_service.ts#L22)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:24](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.ts#L24)
+[src/service/Client_storage_service.ts:24](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/Client_storage_service.ts#L24)
 
 ## Methods
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:137](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.ts#L137)
+[src/service/Client_storage_service.ts:137](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/Client_storage_service.ts#L137)
 
 ___
 
@@ -114,7 +114,7 @@ Download an object using the matching secret
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:96](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.ts#L96)
+[src/service/Client_storage_service.ts:96](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/Client_storage_service.ts#L96)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:160](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.ts#L160)
+[src/service/Client_storage_service.ts:160](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/Client_storage_service.ts#L160)
 
 ___
 
@@ -148,7 +148,7 @@ Get version of conncted storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:55](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.ts#L55)
+[src/service/Client_storage_service.ts:55](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/Client_storage_service.ts#L55)
 
 ___
 
@@ -168,7 +168,7 @@ Get readiness sattus of storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:50](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.ts#L50)
+[src/service/Client_storage_service.ts:50](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/Client_storage_service.ts#L50)
 
 ___
 
@@ -196,4 +196,4 @@ Upload an object using the
 
 #### Defined in
 
-[src/service/Client_storage_service.ts:69](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/Client_storage_service.ts#L69)
+[src/service/Client_storage_service.ts:69](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/Client_storage_service.ts#L69)

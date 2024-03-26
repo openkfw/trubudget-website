@@ -28,6 +28,7 @@
 
 ### Functions
 
+- [hashBase64String](service_domain_document_document.md#hashbase64string)
 - [hashDocument](service_domain_document_document.md#hashdocument)
 - [hashDocuments](service_domain_document_document.md#hashdocuments)
 - [validate](service_domain_document_document.md#validate)
@@ -40,7 +41,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:43](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L43)
+[src/service/domain/document/document.ts:43](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/document/document.ts#L43)
 
 ___
 
@@ -50,7 +51,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:72](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L72)
+[src/service/domain/document/document.ts:72](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/document/document.ts#L72)
 
 ## Variables
 
@@ -60,7 +61,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:45](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L45)
+[src/service/domain/document/document.ts:45](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/document/document.ts#L45)
 
 ___
 
@@ -70,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:18](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L18)
+[src/service/domain/document/document.ts:18](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/document/document.ts#L18)
 
 ___
 
@@ -80,9 +81,29 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:74](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L74)
+[src/service/domain/document/document.ts:74](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/document/document.ts#L74)
 
 ## Functions
+
+### hashBase64String
+
+▸ **hashBase64String**(`base64String`): `Promise`\<`string`\>
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `base64String` | `string` |
+
+#### Returns
+
+`Promise`\<`string`\>
+
+#### Defined in
+
+[src/service/domain/document/document.ts:129](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/document/document.ts#L129)
+
+___
 
 ### hashDocument
 
@@ -100,7 +121,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:97](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L97)
+[src/service/domain/document/document.ts:97](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/document/document.ts#L97)
 
 ___
 
@@ -120,7 +141,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:108](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L108)
+[src/service/domain/document/document.ts:108](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/document/document.ts#L108)
 
 ___
 
@@ -140,4 +161,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:137](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/domain/document/document.ts#L137)
+[src/service/domain/document/document.ts:137](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/document/document.ts#L137)

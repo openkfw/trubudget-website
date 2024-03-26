@@ -7,6 +7,7 @@
 ### Functions
 
 - [registerNode](network_controller_registerNode.md#registernode)
+- [registerNodeManual](network_controller_registerNode.md#registernodemanual)
 
 ## Functions
 
@@ -27,4 +28,27 @@
 
 #### Defined in
 
-[src/network/controller/registerNode.ts:9](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/network/controller/registerNode.ts#L9)
+[src/network/controller/registerNode.ts:12](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/network/controller/registerNode.ts#L12)
+
+___
+
+### registerNodeManual
+
+▸ **registerNodeManual**(`conn`, `ctx`, `issuer`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `conn` | [`ConnToken`](service_conn.md#conntoken) |
+| `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
+| `issuer` | [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md) |
+| `req` | `any` |
+
+#### Returns
+
+`Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+
+#### Defined in
+
+[src/network/controller/registerNode.ts:50](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/network/controller/registerNode.ts#L50)

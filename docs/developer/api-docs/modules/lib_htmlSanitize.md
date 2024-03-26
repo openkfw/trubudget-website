@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/lib/htmlSanitize.ts:4](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/lib/htmlSanitize.ts#L4)
+[src/lib/htmlSanitize.ts:4](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/lib/htmlSanitize.ts#L4)

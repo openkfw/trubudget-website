@@ -44,4 +44,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_workflowitem_crea
 
 #### Defined in
 
-[src/service/workflowitem_create.ts:38](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/workflowitem_create.ts#L38)
+[src/service/workflowitem_create.ts:38](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/workflowitem_create.ts#L38)

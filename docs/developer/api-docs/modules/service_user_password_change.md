@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/user_password_change.ts:12](https://github.com/openkfw/TruBudget/blob/26ade46/api/src/service/user_password_change.ts#L12)
+[src/service/user_password_change.ts:12](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/user_password_change.ts#L12)
