@@ -21,7 +21,7 @@ Error type thrown when an error occurred during authentication
 
 #### Defined in
 
-[src/error.ts:33](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/error.ts#L33)
+[src/error.ts:33](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/error.ts#L33)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:34](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/error.ts#L34)
+[src/error.ts:34](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/error.ts#L34)

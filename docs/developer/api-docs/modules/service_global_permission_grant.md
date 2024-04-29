@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/global_permission_grant.ts:15](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/global_permission_grant.ts#L15)
+[src/service/global_permission_grant.ts:15](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/global_permission_grant.ts#L15)

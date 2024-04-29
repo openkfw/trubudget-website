@@ -6,19 +6,42 @@
 
 ### Functions
 
+- [addGroupsPreHandler](httpd_server.md#addgroupsprehandler)
 - [createBasicApp](httpd_server.md#createbasicapp)
 
 ## Functions
 
-### createBasicApp
+### addGroupsPreHandler
 
-▸ **createBasicApp**(`jwtSecret`, `urlPrefix`, `apiPort`, `accessControlAllowOrigin`, `rateLimit`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **addGroupsPreHandler**(`server`, `conn`, `groupsFn`): `Promise`\<`void`\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `jwtSecret` | `string` |
+| `server` | `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
+| `conn` | [`ConnToken`](service_conn.md#conntoken) |
+| `groupsFn` | (`conn`: [`ConnToken`](service_conn.md#conntoken), `ctx`: [`Ctx`](../interfaces/lib_ctx.Ctx.md), `serviceUser`: [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md), `targetUserId`: `string`) => `Promise`\<[`Type`](result.md#type)\<[`Group`](../interfaces/service_domain_organization_group.Group.md)[]\>\> |
+
+#### Returns
+
+`Promise`\<`void`\>
+
+#### Defined in
+
+[src/httpd/server.ts:109](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/httpd/server.ts#L109)
+
+___
+
+### createBasicApp
+
+▸ **createBasicApp**(`jwt`, `urlPrefix`, `apiPort`, `accessControlAllowOrigin`, `rateLimit`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `jwt` | [`JwtConfig`](../interfaces/config.JwtConfig.md) |
 | `urlPrefix` | `string` |
 | `apiPort` | `number` |
 | `accessControlAllowOrigin` | `string` |
@@ -30,4 +53,4 @@
 
 #### Defined in
 
-[src/httpd/server.ts:139](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/httpd/server.ts#L139)
+[src/httpd/server.ts:196](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/httpd/server.ts#L196)

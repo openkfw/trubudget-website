@@ -12,7 +12,7 @@
 
 ### addHttpHandler
 
-▸ **addHttpHandler**(`server`, `urlPrefix`, `service`, `jwtSecret`): `void`
+▸ **addHttpHandler**(`server`, `urlPrefix`, `service`, `jwt`): `void`
 
 Creates an http handler that handles incoming http requests for the `/user.authenticate` route
 
@@ -23,7 +23,7 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 | `server` | `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> | the current fastify server instance |
 | `urlPrefix` | `string` | the prefix of the http url |
 | `service` | `Service` | the service Service object used to offer an interface to the domain logic |
-| `jwtSecret` | `string` | - |
+| `jwt` | [`JwtConfig`](../interfaces/config.JwtConfig.md) | - |
 
 #### Returns
 
@@ -31,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 #### Defined in
 
-[src/user_authenticate.ts:187](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/user_authenticate.ts#L187)
+[src/user_authenticate.ts:190](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/user_authenticate.ts#L190)

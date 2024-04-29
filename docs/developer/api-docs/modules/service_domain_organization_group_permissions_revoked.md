@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:24](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/organization/group_permissions_revoked.ts#L24)
+[src/service/domain/organization/group_permissions_revoked.ts:24](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/organization/group_permissions_revoked.ts#L24)
 
 ## Functions
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:35](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/organization/group_permissions_revoked.ts#L35)
+[src/service/domain/organization/group_permissions_revoked.ts:35](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/organization/group_permissions_revoked.ts#L35)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_permissions_revoked.ts:64](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/organization/group_permissions_revoked.ts#L64)
+[src/service/domain/organization/group_permissions_revoked.ts:64](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/organization/group_permissions_revoked.ts#L64)

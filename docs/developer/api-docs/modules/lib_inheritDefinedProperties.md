@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/lib/inheritDefinedProperties.ts:4](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/lib/inheritDefinedProperties.ts#L4)
+[src/lib/inheritDefinedProperties.ts:4](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/lib/inheritDefinedProperties.ts#L4)

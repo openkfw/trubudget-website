@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/organization/streamNames.ts:5](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/organization/streamNames.ts#L5)
+[src/organization/streamNames.ts:5](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/organization/streamNames.ts#L5)

@@ -4,6 +4,10 @@
 
 ## Table of contents
 
+### Interfaces
+
+- [JwtConfig](../interfaces/config.JwtConfig.md)
+
 ### Variables
 
 - [config](config.md#config)
@@ -21,7 +25,7 @@
 
 #### Defined in
 
-[src/config.ts:91](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/config.ts#L91)
+[src/config.ts:99](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/config.ts#L99)
 
 ## Functions
 
@@ -41,7 +45,7 @@ the configuration Config
 
 #### Defined in
 
-[src/config.ts:190](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/config.ts#L190)
+[src/config.ts:205](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/config.ts#L205)
 
 ___
 
@@ -59,4 +63,4 @@ true if the current environment is a production environment. otherwise false
 
 #### Defined in
 
-[src/config.ts:216](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/config.ts#L216)
+[src/config.ts:244](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/config.ts#L244)
