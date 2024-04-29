@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permissions_list.ts:20](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/workflowitem_permissions_list.ts#L20)
+[src/service/domain/workflow/workflowitem_permissions_list.ts:20](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/workflow/workflowitem_permissions_list.ts#L20)

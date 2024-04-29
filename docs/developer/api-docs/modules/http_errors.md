@@ -12,15 +12,16 @@
 
 ### toHttpError
 
-▸ **toHttpError**(`error`): `Object`
+▸ **toHttpError**(`error`, `version?`): `Object`
 
 Converts an error object to an appropriate http error
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `error` | `unknown` |
+| Name | Type | Default value |
+| :------ | :------ | :------ |
+| `error` | `unknown` | `undefined` |
+| `version` | `string` | `"1.0"` |
 
 #### Returns
 
@@ -35,4 +36,4 @@ an error object containing appropriate status code and an ErrorBody
 
 #### Defined in
 
-[src/http_errors.ts:21](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/http_errors.ts#L21)
+[src/http_errors.ts:21](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/http_errors.ts#L21)

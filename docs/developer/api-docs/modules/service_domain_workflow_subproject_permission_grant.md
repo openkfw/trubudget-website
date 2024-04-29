@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_grant.ts:26](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/subproject_permission_grant.ts#L26)
+[src/service/domain/workflow/subproject_permission_grant.ts:26](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/workflow/subproject_permission_grant.ts#L26)

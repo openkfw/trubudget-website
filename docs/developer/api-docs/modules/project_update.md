@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.up
 
 #### Defined in
 
-[src/project_update.ts:134](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/project_update.ts#L134)
+[src/project_update.ts:134](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/project_update.ts#L134)

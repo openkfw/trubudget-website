@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:25](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification_marked_read.ts#L25)
+[src/service/domain/workflow/notification_marked_read.ts:25](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/workflow/notification_marked_read.ts#L25)
 
 ## Functions
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:35](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification_marked_read.ts#L35)
+[src/service/domain/workflow/notification_marked_read.ts:35](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/workflow/notification_marked_read.ts#L35)
 
 ___
 
@@ -70,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:61](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/service/domain/workflow/notification_marked_read.ts#L61)
+[src/service/domain/workflow/notification_marked_read.ts:61](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/workflow/notification_marked_read.ts#L61)

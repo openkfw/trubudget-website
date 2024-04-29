@@ -12,7 +12,7 @@
 
 ### verifyToken
 
-▸ **verifyToken**(`token`, `signingKey`): `undefined` \| `Jwt`
+▸ **verifyToken**(`token`, `signingKey`, `algorithm?`): `undefined` \| `Jwt`
 
 #### Parameters
 
@@ -20,6 +20,7 @@
 | :------ | :------ |
 | `token` | `string` |
 | `signingKey` | `string` \| `Buffer` |
+| `algorithm?` | `string` |
 
 #### Returns
 
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/lib/token.ts:3](https://github.com/openkfw/TruBudget/blob/3cf6626/api/src/lib/token.ts#L3)
+[src/lib/token.ts:3](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/lib/token.ts#L3)
