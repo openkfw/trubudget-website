@@ -50,6 +50,7 @@ sidebar_label: Table of Contents
 - [lib/joiValidation](modules/lib_joiValidation.md)
 - [lib/joiValidation.spec](modules/lib_joiValidation_spec.md)
 - [lib/logger](modules/lib_logger.md)
+- [lib/loggingTools](modules/lib_loggingTools.md)
 - [lib/pagination](modules/lib_pagination.md)
 - [lib/readiness](modules/lib_readiness.md)
 - [lib/resourceTypes](modules/lib_resourceTypes.md)

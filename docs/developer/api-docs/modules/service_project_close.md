@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/project_close.ts:15](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/project_close.ts#L15)
+[src/service/project_close.ts:15](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/project_close.ts#L15)

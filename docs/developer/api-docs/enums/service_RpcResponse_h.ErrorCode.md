@@ -26,7 +26,7 @@ Internal JSON-RPC error.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:61](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/RpcResponse.h.ts#L61)
+[src/service/RpcResponse.h.ts:61](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcResponse.h.ts#L61)
 
 ___
 
@@ -38,7 +38,7 @@ The method arguments are invalid.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:56](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/RpcResponse.h.ts#L56)
+[src/service/RpcResponse.h.ts:56](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcResponse.h.ts#L56)
 
 ___
 
@@ -50,7 +50,7 @@ The request body is an invalid JSON-RPC request.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:46](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/RpcResponse.h.ts#L46)
+[src/service/RpcResponse.h.ts:46](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcResponse.h.ts#L46)
 
 ___
 
@@ -62,7 +62,7 @@ The invoked method does not exist.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:51](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/RpcResponse.h.ts#L51)
+[src/service/RpcResponse.h.ts:51](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcResponse.h.ts#L51)
 
 ___
 
@@ -74,4 +74,4 @@ The request body is an invalid JSON document.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:66](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/RpcResponse.h.ts#L66)
+[src/service/RpcResponse.h.ts:66](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcResponse.h.ts#L66)

@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/system/restoreBackup.ts:7](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/system/restoreBackup.ts#L7)
+[src/system/restoreBackup.ts:7](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/system/restoreBackup.ts#L7)

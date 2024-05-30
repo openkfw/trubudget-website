@@ -31,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 #### Defined in
 
-[src/user_authenticateAd.ts:180](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/user_authenticateAd.ts#L180)
+[src/user_authenticateAd.ts:180](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/user_authenticateAd.ts#L180)

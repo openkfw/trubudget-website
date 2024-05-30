@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/network/controller/declineNode.ts:14](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/network/controller/declineNode.ts#L14)
+[src/network/controller/declineNode.ts:14](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/network/controller/declineNode.ts#L14)
