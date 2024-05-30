@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoke.ts:22](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/organization/user_permission_revoke.ts#L22)
+[src/service/domain/organization/user_permission_revoke.ts:22](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/organization/user_permission_revoke.ts#L22)

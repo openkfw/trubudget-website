@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:22](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/workflow/global_permission_revoked.ts#L22)
+[src/service/domain/workflow/global_permission_revoked.ts:22](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/workflow/global_permission_revoked.ts#L22)
 
 ## Functions
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:32](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/workflow/global_permission_revoked.ts#L32)
+[src/service/domain/workflow/global_permission_revoked.ts:32](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/workflow/global_permission_revoked.ts#L32)
 
 ___
 
@@ -70,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:59](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/domain/workflow/global_permission_revoked.ts#L59)
+[src/service/domain/workflow/global_permission_revoked.ts:59](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/workflow/global_permission_revoked.ts#L59)

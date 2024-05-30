@@ -42,4 +42,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Defined in
 
-[src/service/user_permission_revoke.ts:17](https://github.com/openkfw/TruBudget/blob/40b449a/api/src/service/user_permission_revoke.ts#L17)
+[src/service/user_permission_revoke.ts:17](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/user_permission_revoke.ts#L17)
