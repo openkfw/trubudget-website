@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/importprivkey.ts:3](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/importprivkey.ts#L3)
+[src/service/importprivkey.ts:3](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/importprivkey.ts#L3)

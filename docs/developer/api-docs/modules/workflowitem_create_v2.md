@@ -1,12 +1,12 @@
-# workflowitem\_create
+# workflowitem\_create.v2
  
-[Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_create
+[Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_create.v2
 
 ## Table of contents
 
 ### Functions
 
-- [addHttpHandler](workflowitem_create.md#addhttphandler)
+- [addHttpHandler](workflowitem_create_v2.md#addhttphandler)
 
 ## Functions
 
@@ -14,7 +14,7 @@
 
 ▸ **addHttpHandler**(`server`, `urlPrefix`, `service`): `void`
 
-Creates an http handler that handles incoming http requests for the `/subproject.createWorkflowitem` route
+Creates an http handler that handles incoming http requests for the `/v2/subproject.createWorkflowitem` route
 
 #### Parameters
 
@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/workflowitem_create.ts:197](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/workflowitem_create.ts#L197)
+[src/workflowitem_create.v2.ts:217](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/workflowitem_create.v2.ts#L217)

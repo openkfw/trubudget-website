@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.lis
 
 #### Defined in
 
-[src/user_listAssignments.ts:86](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/user_listAssignments.ts#L86)
+[src/user_listAssignments.ts:86](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/user_listAssignments.ts#L86)

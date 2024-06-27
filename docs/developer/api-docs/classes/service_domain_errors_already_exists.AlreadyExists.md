@@ -59,7 +59,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:9](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/already_exists.ts#L9)
+[src/service/domain/errors/already_exists.ts:9](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/already_exists.ts#L9)
 
 ## Properties
 
@@ -69,7 +69,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:11](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/already_exists.ts#L11)
+[src/service/domain/errors/already_exists.ts:11](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/already_exists.ts#L11)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/already_exists.ts:10](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/already_exists.ts#L10)
+[src/service/domain/errors/already_exists.ts:10](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/already_exists.ts#L10)
 
 ___
 
@@ -156,7 +156,7 @@ Error.prepareStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:11
+node_modules/@types/node/globals.d.ts:27
 
 ___
 
@@ -170,7 +170,7 @@ Error.stackTraceLimit
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:13
+node_modules/@types/node/globals.d.ts:29
 
 ## Methods
 
@@ -197,4 +197,4 @@ Error.captureStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:4
+node_modules/@types/node/globals.d.ts:20

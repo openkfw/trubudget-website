@@ -57,7 +57,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcError.ts#L12)
+[src/service/RpcError.ts:12](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/RpcError.ts#L12)
 
 ## Properties
 
@@ -69,7 +69,7 @@ Body of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:16](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcError.ts#L16)
+[src/service/RpcError.ts:16](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/RpcError.ts#L16)
 
 ___
 
@@ -81,7 +81,7 @@ Headers of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:15](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcError.ts#L15)
+[src/service/RpcError.ts:15](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/RpcError.ts#L15)
 
 ___
 
@@ -135,7 +135,7 @@ Status code of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:13](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcError.ts#L13)
+[src/service/RpcError.ts:13](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/RpcError.ts#L13)
 
 ___
 
@@ -147,7 +147,7 @@ Status text of the HTTP response.
 
 #### Defined in
 
-[src/service/RpcError.ts:14](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/RpcError.ts#L14)
+[src/service/RpcError.ts:14](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/RpcError.ts#L14)
 
 ___
 
@@ -182,7 +182,7 @@ Error.prepareStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:11
+node_modules/@types/node/globals.d.ts:27
 
 ___
 
@@ -196,7 +196,7 @@ Error.stackTraceLimit
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:13
+node_modules/@types/node/globals.d.ts:29
 
 ## Methods
 
@@ -223,4 +223,4 @@ Error.captureStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:4
+node_modules/@types/node/globals.d.ts:20

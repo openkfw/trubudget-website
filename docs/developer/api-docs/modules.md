@@ -473,6 +473,7 @@ sidebar_label: Table of Contents
 - [workflowitem\_assign](modules/workflowitem_assign.md)
 - [workflowitem\_close](modules/workflowitem_close.md)
 - [workflowitem\_create](modules/workflowitem_create.md)
+- [workflowitem\_create.v2](modules/workflowitem_create_v2.md)
 - [workflowitem\_delete\_document](modules/workflowitem_delete_document.md)
 - [workflowitem\_download\_document](modules/workflowitem_download_document.md)
 - [workflowitem\_list](modules/workflowitem_list.md)

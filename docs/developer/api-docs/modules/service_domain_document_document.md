@@ -22,6 +22,8 @@
 
 ### Variables
 
+- [MAX\_DOCUMENT\_SIZE\_BASE64](service_domain_document_document.md#max_document_size_base64)
+- [MAX\_DOCUMENT\_SIZE\_BINARY](service_domain_document_document.md#max_document_size_binary)
 - [documentReferenceSchema](service_domain_document_document.md#documentreferenceschema)
 - [storedDocumentSchema](service_domain_document_document.md#storeddocumentschema)
 - [uploadedDocumentSchema](service_domain_document_document.md#uploadeddocumentschema)
@@ -41,7 +43,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:43](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/document/document.ts#L43)
+[src/service/domain/document/document.ts:46](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L46)
 
 ___
 
@@ -51,9 +53,29 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:72](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/document/document.ts#L72)
+[src/service/domain/document/document.ts:75](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L75)
 
 ## Variables
+
+### MAX\_DOCUMENT\_SIZE\_BASE64
+
+• `Const` **MAX\_DOCUMENT\_SIZE\_BASE64**: `number`
+
+#### Defined in
+
+[src/service/domain/document/document.ts:8](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L8)
+
+___
+
+### MAX\_DOCUMENT\_SIZE\_BINARY
+
+• `Const` **MAX\_DOCUMENT\_SIZE\_BINARY**: `number`
+
+#### Defined in
+
+[src/service/domain/document/document.ts:7](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L7)
+
+___
 
 ### documentReferenceSchema
 
@@ -61,7 +83,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:45](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/document/document.ts#L45)
+[src/service/domain/document/document.ts:48](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L48)
 
 ___
 
@@ -71,7 +93,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:18](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/document/document.ts#L18)
+[src/service/domain/document/document.ts:21](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L21)
 
 ___
 
@@ -81,7 +103,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:74](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/document/document.ts#L74)
+[src/service/domain/document/document.ts:77](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L77)
 
 ## Functions
 
@@ -101,7 +123,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:129](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/document/document.ts#L129)
+[src/service/domain/document/document.ts:132](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L132)
 
 ___
 
@@ -121,7 +143,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:97](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/document/document.ts#L97)
+[src/service/domain/document/document.ts:100](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L100)
 
 ___
 
@@ -141,7 +163,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:108](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/document/document.ts#L108)
+[src/service/domain/document/document.ts:111](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L111)
 
 ___
 
@@ -161,4 +183,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:137](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/document/document.ts#L137)
+[src/service/domain/document/document.ts:140](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/document/document.ts#L140)

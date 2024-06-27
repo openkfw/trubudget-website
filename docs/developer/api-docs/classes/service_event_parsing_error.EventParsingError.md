@@ -49,7 +49,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/event_parsing_error.ts#L4)
 
 ## Properties
 
@@ -59,7 +59,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/event_parsing_error.ts#L4)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/event_parsing_error.ts#L4)
 
 ___
 
@@ -146,7 +146,7 @@ Error.prepareStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:11
+node_modules/@types/node/globals.d.ts:27
 
 ___
 
@@ -160,7 +160,7 @@ Error.stackTraceLimit
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:13
+node_modules/@types/node/globals.d.ts:29
 
 ## Methods
 
@@ -187,4 +187,4 @@ Error.captureStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:4
+node_modules/@types/node/globals.d.ts:20

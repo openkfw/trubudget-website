@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_get.ts:15](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/workflow/project_get.ts#L15)
+[src/service/domain/workflow/project_get.ts:15](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/project_get.ts#L15)
