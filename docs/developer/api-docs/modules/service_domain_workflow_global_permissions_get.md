@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions_get.ts:13](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/workflow/global_permissions_get.ts#L13)
+[src/service/domain/workflow/global_permissions_get.ts:13](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/global_permissions_get.ts#L13)

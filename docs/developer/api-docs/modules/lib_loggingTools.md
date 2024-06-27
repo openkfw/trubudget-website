@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/lib/loggingTools.ts:4](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/lib/loggingTools.ts#L4)
+[src/lib/loggingTools.ts:4](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/lib/loggingTools.ts#L4)

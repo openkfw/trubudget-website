@@ -55,7 +55,7 @@ VError.constructor
 
 #### Defined in
 
-[src/http_errors/bad_request.ts:13](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/http_errors/bad_request.ts#L13)
+[src/http_errors/bad_request.ts:13](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/http_errors/bad_request.ts#L13)
 
 ## Properties
 
@@ -168,7 +168,7 @@ VError.prepareStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:11
+node_modules/@types/node/globals.d.ts:27
 
 ___
 
@@ -182,7 +182,7 @@ VError.stackTraceLimit
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:13
+node_modules/@types/node/globals.d.ts:29
 
 ## Methods
 
@@ -209,7 +209,7 @@ VError.captureStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:4
+node_modules/@types/node/globals.d.ts:20
 
 ___
 

@@ -51,7 +51,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/not_found.ts:4](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/not_found.ts#L4)
+[src/service/domain/errors/not_found.ts:4](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/not_found.ts#L4)
 
 ## Properties
 
@@ -61,7 +61,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/not_found.ts:5](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/not_found.ts#L5)
+[src/service/domain/errors/not_found.ts:5](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/not_found.ts#L5)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/not_found.ts:16](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/not_found.ts#L16)
+[src/service/domain/errors/not_found.ts:16](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/not_found.ts#L16)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/not_found.ts:6](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/not_found.ts#L6)
+[src/service/domain/errors/not_found.ts:6](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/not_found.ts#L6)
 
 ___
 
@@ -158,7 +158,7 @@ Error.prepareStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:11
+node_modules/@types/node/globals.d.ts:27
 
 ___
 
@@ -172,7 +172,7 @@ Error.stackTraceLimit
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:13
+node_modules/@types/node/globals.d.ts:29
 
 ## Methods
 
@@ -199,4 +199,4 @@ Error.captureStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:4
+node_modules/@types/node/globals.d.ts:20

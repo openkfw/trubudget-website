@@ -15,19 +15,24 @@
 ### Properties
 
 - [body](httpd_lib.AuthenticatedRequest.md#body)
+- [cleanRequestFiles](httpd_lib.AuthenticatedRequest.md#cleanrequestfiles)
 - [connection](httpd_lib.AuthenticatedRequest.md#connection)
 - [context](httpd_lib.AuthenticatedRequest.md#context)
 - [cookies](httpd_lib.AuthenticatedRequest.md#cookies)
+- [file](httpd_lib.AuthenticatedRequest.md#file)
+- [files](httpd_lib.AuthenticatedRequest.md#files)
 - [headers](httpd_lib.AuthenticatedRequest.md#headers)
 - [hostname](httpd_lib.AuthenticatedRequest.md#hostname)
 - [id](httpd_lib.AuthenticatedRequest.md#id)
 - [ip](httpd_lib.AuthenticatedRequest.md#ip)
 - [ips](httpd_lib.AuthenticatedRequest.md#ips)
 - [is404](httpd_lib.AuthenticatedRequest.md#is404)
+- [isMultipart](httpd_lib.AuthenticatedRequest.md#ismultipart)
 - [log](httpd_lib.AuthenticatedRequest.md#log)
 - [method](httpd_lib.AuthenticatedRequest.md#method)
 - [originalUrl](httpd_lib.AuthenticatedRequest.md#originalurl)
 - [params](httpd_lib.AuthenticatedRequest.md#params)
+- [parts](httpd_lib.AuthenticatedRequest.md#parts)
 - [protocol](httpd_lib.AuthenticatedRequest.md#protocol)
 - [query](httpd_lib.AuthenticatedRequest.md#query)
 - [raw](httpd_lib.AuthenticatedRequest.md#raw)
@@ -37,8 +42,11 @@
 - [routeSchema](httpd_lib.AuthenticatedRequest.md#routeschema)
 - [routerMethod](httpd_lib.AuthenticatedRequest.md#routermethod)
 - [routerPath](httpd_lib.AuthenticatedRequest.md#routerpath)
+- [saveRequestFiles](httpd_lib.AuthenticatedRequest.md#saverequestfiles)
+- [savedRequestFiles](httpd_lib.AuthenticatedRequest.md#savedrequestfiles)
 - [server](httpd_lib.AuthenticatedRequest.md#server)
 - [socket](httpd_lib.AuthenticatedRequest.md#socket)
+- [tmpUploads](httpd_lib.AuthenticatedRequest.md#tmpuploads)
 - [url](httpd_lib.AuthenticatedRequest.md#url)
 - [user](httpd_lib.AuthenticatedRequest.md#user)
 - [validationError](httpd_lib.AuthenticatedRequest.md#validationerror)
@@ -65,7 +73,29 @@ FastifyRequest.body
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:62
+node_modules/fastify/types/request.d.ts:64
+
+___
+
+### cleanRequestFiles
+
+• **cleanRequestFiles**: () => `Promise`\<`void`\>
+
+#### Type declaration
+
+▸ (): `Promise`\<`void`\>
+
+##### Returns
+
+`Promise`\<`void`\>
+
+#### Inherited from
+
+FastifyRequest.cleanRequestFiles
+
+#### Defined in
+
+node_modules/@fastify/multipart/types/index.d.ts:27
 
 ___
 
@@ -79,7 +109,7 @@ FastifyRequest.connection
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:95
+node_modules/fastify/types/request.d.ts:97
 
 ___
 
@@ -93,7 +123,7 @@ FastifyRequest.context
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:63
+node_modules/fastify/types/request.d.ts:65
 
 ___
 
@@ -117,6 +147,62 @@ node_modules/@fastify/cookie/types/plugin.d.ts:30
 
 ___
 
+### file
+
+• **file**: (`options?`: `Omit`\<`BusboyConfig`, ``"headers"``\> \| `FastifyMultipartBaseOptions`) => `Promise`\<`undefined` \| `MultipartFile`\>
+
+#### Type declaration
+
+▸ (`options?`): `Promise`\<`undefined` \| `MultipartFile`\>
+
+##### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options?` | `Omit`\<`BusboyConfig`, ``"headers"``\> \| `FastifyMultipartBaseOptions` |
+
+##### Returns
+
+`Promise`\<`undefined` \| `MultipartFile`\>
+
+#### Inherited from
+
+FastifyRequest.file
+
+#### Defined in
+
+node_modules/@fastify/multipart/types/index.d.ts:16
+
+___
+
+### files
+
+• **files**: (`options?`: `Omit`\<`BusboyConfig`, ``"headers"``\> \| `FastifyMultipartBaseOptions`) => `AsyncIterableIterator`\<`MultipartFile`\>
+
+#### Type declaration
+
+▸ (`options?`): `AsyncIterableIterator`\<`MultipartFile`\>
+
+##### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options?` | `Omit`\<`BusboyConfig`, ``"headers"``\> \| `FastifyMultipartBaseOptions` |
+
+##### Returns
+
+`AsyncIterableIterator`\<`MultipartFile`\>
+
+#### Inherited from
+
+FastifyRequest.files
+
+#### Defined in
+
+node_modules/@fastify/multipart/types/index.d.ts:19
+
+___
+
 ### headers
 
 • **headers**: `IncomingHttpHeaders`
@@ -127,7 +213,7 @@ FastifyRequest.headers
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:59
+node_modules/fastify/types/request.d.ts:61
 
 ___
 
@@ -141,7 +227,7 @@ FastifyRequest.hostname
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:76
+node_modules/fastify/types/request.d.ts:78
 
 ___
 
@@ -155,7 +241,7 @@ FastifyRequest.id
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:55
+node_modules/fastify/types/request.d.ts:57
 
 ___
 
@@ -169,7 +255,7 @@ FastifyRequest.ip
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:74
+node_modules/fastify/types/request.d.ts:76
 
 ___
 
@@ -183,7 +269,7 @@ FastifyRequest.ips
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:75
+node_modules/fastify/types/request.d.ts:77
 
 ___
 
@@ -197,7 +283,29 @@ FastifyRequest.is404
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:84
+node_modules/fastify/types/request.d.ts:86
+
+___
+
+### isMultipart
+
+• **isMultipart**: () => `boolean`
+
+#### Type declaration
+
+▸ (): `boolean`
+
+##### Returns
+
+`boolean`
+
+#### Inherited from
+
+FastifyRequest.isMultipart
+
+#### Defined in
+
+node_modules/@fastify/multipart/types/index.d.ts:8
 
 ___
 
@@ -211,7 +319,7 @@ FastifyRequest.log
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:60
+node_modules/fastify/types/request.d.ts:62
 
 ___
 
@@ -225,7 +333,7 @@ FastifyRequest.method
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:80
+node_modules/fastify/types/request.d.ts:82
 
 ___
 
@@ -239,7 +347,7 @@ FastifyRequest.originalUrl
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:78
+node_modules/fastify/types/request.d.ts:80
 
 ___
 
@@ -253,7 +361,35 @@ FastifyRequest.params
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:56
+node_modules/fastify/types/request.d.ts:58
+
+___
+
+### parts
+
+• **parts**: (`options?`: `Omit`\<`BusboyConfig`, ``"headers"``\>) => `AsyncIterableIterator`\<`Multipart`\>
+
+#### Type declaration
+
+▸ (`options?`): `AsyncIterableIterator`\<`Multipart`\>
+
+##### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options?` | `Omit`\<`BusboyConfig`, ``"headers"``\> |
+
+##### Returns
+
+`AsyncIterableIterator`\<`Multipart`\>
+
+#### Inherited from
+
+FastifyRequest.parts
+
+#### Defined in
+
+node_modules/@fastify/multipart/types/index.d.ts:11
 
 ___
 
@@ -267,7 +403,7 @@ FastifyRequest.protocol
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:79
+node_modules/fastify/types/request.d.ts:81
 
 ___
 
@@ -281,7 +417,7 @@ FastifyRequest.query
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:58
+node_modules/fastify/types/request.d.ts:60
 
 ___
 
@@ -295,7 +431,7 @@ FastifyRequest.raw
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:57
+node_modules/fastify/types/request.d.ts:59
 
 ___
 
@@ -313,7 +449,7 @@ FastifyRequest.req
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:73
+node_modules/fastify/types/request.d.ts:75
 
 ___
 
@@ -327,7 +463,7 @@ FastifyRequest.routeConfig
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:64
+node_modules/fastify/types/request.d.ts:66
 
 ___
 
@@ -341,13 +477,13 @@ FastifyRequest.routeOptions
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:83
+node_modules/fastify/types/request.d.ts:85
 
 ___
 
 ### routeSchema
 
-• **routeSchema**: `FastifySchema`
+• `Optional` **routeSchema**: `FastifySchema`
 
 #### Inherited from
 
@@ -355,7 +491,7 @@ FastifyRequest.routeSchema
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:65
+node_modules/fastify/types/request.d.ts:67
 
 ___
 
@@ -369,7 +505,7 @@ FastifyRequest.routerMethod
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:82
+node_modules/fastify/types/request.d.ts:84
 
 ___
 
@@ -383,7 +519,51 @@ FastifyRequest.routerPath
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:81
+node_modules/fastify/types/request.d.ts:83
+
+___
+
+### saveRequestFiles
+
+• **saveRequestFiles**: (`options?`: `Omit`\<`BusboyConfig`, ``"headers"``\> & \{ `tmpdir?`: `string`  }) => `Promise`\<`SavedMultipartFile`[]\>
+
+#### Type declaration
+
+▸ (`options?`): `Promise`\<`SavedMultipartFile`[]\>
+
+##### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options?` | `Omit`\<`BusboyConfig`, ``"headers"``\> & \{ `tmpdir?`: `string`  } |
+
+##### Returns
+
+`Promise`\<`SavedMultipartFile`[]\>
+
+#### Inherited from
+
+FastifyRequest.saveRequestFiles
+
+#### Defined in
+
+node_modules/@fastify/multipart/types/index.d.ts:24
+
+___
+
+### savedRequestFiles
+
+• **savedRequestFiles**: ``null`` \| `SavedMultipartFile`[]
+
+This will get populated as soon as a call to `saveRequestFiles` gets resolved. Avoiding any future duplicate work
+
+#### Inherited from
+
+FastifyRequest.savedRequestFiles
+
+#### Defined in
+
+node_modules/@fastify/multipart/types/index.d.ts:30
 
 ___
 
@@ -397,7 +577,7 @@ FastifyRequest.server
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:61
+node_modules/fastify/types/request.d.ts:63
 
 ___
 
@@ -411,7 +591,21 @@ FastifyRequest.socket
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:85
+node_modules/fastify/types/request.d.ts:87
+
+___
+
+### tmpUploads
+
+• **tmpUploads**: ``null`` \| `string`[]
+
+#### Inherited from
+
+FastifyRequest.tmpUploads
+
+#### Defined in
+
+node_modules/@fastify/multipart/types/index.d.ts:28
 
 ___
 
@@ -425,7 +619,7 @@ FastifyRequest.url
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:77
+node_modules/fastify/types/request.d.ts:79
 
 ___
 
@@ -439,7 +633,7 @@ FastifyRequest.user
 
 #### Defined in
 
-[src/httpd/lib.ts:7](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/httpd/lib.ts#L7)
+[src/httpd/lib.ts:8](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/httpd/lib.ts#L8)
 
 ___
 
@@ -455,7 +649,7 @@ FastifyRequest.validationError
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:68
+node_modules/fastify/types/request.d.ts:70
 
 ## Methods
 
@@ -480,7 +674,7 @@ FastifyRequest.compileValidationSchema
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:89
+node_modules/fastify/types/request.d.ts:91
 
 ___
 
@@ -504,7 +698,7 @@ FastifyRequest.getValidationFunction
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:87
+node_modules/fastify/types/request.d.ts:89
 
 ▸ **getValidationFunction**(`schema`): `ValidationFunction`
 
@@ -524,7 +718,7 @@ FastifyRequest.getValidationFunction
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:88
+node_modules/fastify/types/request.d.ts:90
 
 ___
 
@@ -821,7 +1015,7 @@ FastifyRequest.validateInput
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:90
+node_modules/fastify/types/request.d.ts:92
 
 ▸ **validateInput**(`input`, `httpPart?`): `boolean`
 
@@ -842,4 +1036,4 @@ FastifyRequest.validateInput
 
 #### Defined in
 
-node_modules/fastify/types/request.d.ts:91
+node_modules/fastify/types/request.d.ts:93

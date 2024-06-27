@@ -51,7 +51,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:5](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/invalid_event.ts#L5)
+[src/service/domain/errors/invalid_event.ts:5](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/invalid_event.ts#L5)
 
 ## Properties
 
@@ -61,7 +61,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:7](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/invalid_event.ts#L7)
+[src/service/domain/errors/invalid_event.ts:7](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/invalid_event.ts#L7)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:6](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/invalid_event.ts#L6)
+[src/service/domain/errors/invalid_event.ts:6](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/invalid_event.ts#L6)
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:8](https://github.com/openkfw/TruBudget/blob/d07ad94/api/src/service/domain/errors/invalid_event.ts#L8)
+[src/service/domain/errors/invalid_event.ts:8](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/errors/invalid_event.ts#L8)
 
 ___
 
@@ -158,7 +158,7 @@ Error.prepareStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:11
+node_modules/@types/node/globals.d.ts:27
 
 ___
 
@@ -172,7 +172,7 @@ Error.stackTraceLimit
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:13
+node_modules/@types/node/globals.d.ts:29
 
 ## Methods
 
@@ -199,4 +199,4 @@ Error.captureStackTrace
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:4
+node_modules/@types/node/globals.d.ts:20
