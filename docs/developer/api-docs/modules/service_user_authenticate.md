@@ -6,6 +6,7 @@
 
 ### Interfaces
 
+- [TokenBody](../interfaces/service_user_authenticate.TokenBody.md)
 - [UserLoginResponse](../interfaces/service_user_authenticate.UserLoginResponse.md)
 
 ### Functions
@@ -38,7 +39,7 @@
 
 #### Defined in
 
-[src/service/user_authenticate.ts:33](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/user_authenticate.ts#L33)
+[src/service/user_authenticate.ts:39](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/user_authenticate.ts#L39)
 
 ___
 
@@ -63,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:107](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/user_authenticate.ts#L107)
+[src/service/user_authenticate.ts:113](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/user_authenticate.ts#L113)
 
 ___
 
@@ -88,4 +89,4 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:191](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/user_authenticate.ts#L191)
+[src/service/user_authenticate.ts:197](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/user_authenticate.ts#L197)

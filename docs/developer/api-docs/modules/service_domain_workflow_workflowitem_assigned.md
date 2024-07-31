@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assigned.ts:25](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/workflowitem_assigned.ts#L25)
+[src/service/domain/workflow/workflowitem_assigned.ts:25](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/workflowitem_assigned.ts#L25)
 
 ## Functions
 
@@ -53,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assigned.ts:37](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/workflowitem_assigned.ts#L37)
+[src/service/domain/workflow/workflowitem_assigned.ts:37](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/workflowitem_assigned.ts#L37)
 
 ___
 
@@ -83,7 +83,7 @@ workflowitem is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assigned.ts:81](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/workflowitem_assigned.ts#L81)
+[src/service/domain/workflow/workflowitem_assigned.ts:81](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/workflowitem_assigned.ts#L81)
 
 ___
 
@@ -103,4 +103,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_assigned.ts:66](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/workflowitem_assigned.ts#L66)
+[src/service/domain/workflow/workflowitem_assigned.ts:66](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/workflowitem_assigned.ts#L66)

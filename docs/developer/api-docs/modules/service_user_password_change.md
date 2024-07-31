@@ -21,7 +21,7 @@
 | `conn` | [`ConnToken`](service_conn.md#conntoken) |
 | `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
 | `serviceUser` | [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md) |
-| `issuerOrganization` | `string` |
+| `issuerOrganization` | ``null`` \| `string` |
 | `requestData` | [`RequestData`](../interfaces/service_domain_organization_user_password_change.RequestData.md) |
 
 #### Returns
@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/user_password_change.ts:12](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/user_password_change.ts#L12)
+[src/service/user_password_change.ts:12](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/user_password_change.ts#L12)

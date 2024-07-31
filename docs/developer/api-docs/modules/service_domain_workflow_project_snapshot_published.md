@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_snapshot_published.ts:19](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/project_snapshot_published.ts#L19)
+[src/service/domain/workflow/project_snapshot_published.ts:19](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/project_snapshot_published.ts#L19)
 
 ## Functions
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_snapshot_published.ts:27](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/project_snapshot_published.ts#L27)
+[src/service/domain/workflow/project_snapshot_published.ts:27](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/project_snapshot_published.ts#L27)
 
 ___
 
@@ -68,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_snapshot_published.ts:48](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/project_snapshot_published.ts#L48)
+[src/service/domain/workflow/project_snapshot_published.ts:48](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/project_snapshot_published.ts#L48)

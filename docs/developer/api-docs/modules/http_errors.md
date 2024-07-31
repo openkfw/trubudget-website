@@ -36,4 +36,4 @@ an error object containing appropriate status code and an ErrorBody
 
 #### Defined in
 
-[src/http_errors.ts:21](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/http_errors.ts#L21)
+[src/http_errors.ts:21](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/http_errors.ts#L21)

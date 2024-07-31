@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/workflowitems_reorder.ts:129](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/workflowitems_reorder.ts#L129)
+[src/workflowitems_reorder.ts:129](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/workflowitems_reorder.ts#L129)

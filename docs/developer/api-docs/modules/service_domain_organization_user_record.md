@@ -14,6 +14,7 @@
 
 ### Variables
 
+- [emailSchema](service_domain_organization_user_record.md#emailschema)
 - [idSchema](service_domain_organization_user_record.md#idschema)
 
 ### Functions
@@ -29,9 +30,19 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:12](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/organization/user_record.ts#L12)
+[src/service/domain/organization/user_record.ts:12](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_record.ts#L12)
 
 ## Variables
+
+### emailSchema
+
+• `Const` **emailSchema**: `StringSchema`\<`string`\>
+
+#### Defined in
+
+[src/service/domain/organization/user_record.ts:14](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_record.ts#L14)
+
+___
 
 ### idSchema
 
@@ -39,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:13](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/organization/user_record.ts#L13)
+[src/service/domain/organization/user_record.ts:13](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_record.ts#L13)
 
 ## Functions
 
@@ -61,7 +72,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:46](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/organization/user_record.ts#L46)
+[src/service/domain/organization/user_record.ts:47](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_record.ts#L47)
 
 ___
 
@@ -81,4 +92,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:41](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/organization/user_record.ts#L41)
+[src/service/domain/organization/user_record.ts:42](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_record.ts#L42)

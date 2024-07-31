@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_snapshot_publish.ts:15](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/workflow/subproject_snapshot_publish.ts#L15)
+[src/service/domain/workflow/subproject_snapshot_publish.ts:15](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/subproject_snapshot_publish.ts#L15)

@@ -21,7 +21,7 @@ Error type thrown when an event version is not supported
 
 #### Defined in
 
-[src/error.ts:82](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/error.ts#L82)
+[src/error.ts:82](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/error.ts#L82)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:81](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/error.ts#L81)
+[src/error.ts:81](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/error.ts#L81)
