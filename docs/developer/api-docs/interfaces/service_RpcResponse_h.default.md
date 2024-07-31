@@ -24,7 +24,7 @@ Error object, if method invocation failed.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:14](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/RpcResponse.h.ts#L14)
+[src/service/RpcResponse.h.ts:14](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/RpcResponse.h.ts#L14)
 
 ___
 
@@ -36,7 +36,7 @@ Identifier of the request associated with the response, if any.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:19](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/RpcResponse.h.ts#L19)
+[src/service/RpcResponse.h.ts:19](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/RpcResponse.h.ts#L19)
 
 ___
 
@@ -48,4 +48,4 @@ Result of the invoked method, if successful.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:9](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/RpcResponse.h.ts#L9)
+[src/service/RpcResponse.h.ts:9](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/RpcResponse.h.ts#L9)

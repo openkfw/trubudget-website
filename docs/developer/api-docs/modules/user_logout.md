@@ -12,7 +12,7 @@
 
 ### addHttpHandler
 
-▸ **addHttpHandler**(`server`, `urlPrefix`): `void`
+▸ **addHttpHandler**(`server`, `urlPrefix`, `service`): `void`
 
 Creates an http handler that handles incoming http requests for the `/user.logout` route
 
@@ -22,6 +22,7 @@ Creates an http handler that handles incoming http requests for the `/user.logou
 | :------ | :------ | :------ |
 | `server` | `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> | the current fastify server instance |
 | `urlPrefix` | `string` | the prefix of the http url |
+| `service` | [`UserLogoutAPIService`](../interfaces/index.UserLogoutAPIService.md) | - |
 
 #### Returns
 
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/user.logou
 
 #### Defined in
 
-[src/user_logout.ts:109](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/user_logout.ts#L109)
+[src/user_logout.ts:112](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/user_logout.ts#L112)

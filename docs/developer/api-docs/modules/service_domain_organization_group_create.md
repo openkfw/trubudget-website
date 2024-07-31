@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:49](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/organization/group_create.ts#L49)
+[src/service/domain/organization/group_create.ts:49](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/group_create.ts#L49)
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_create.ts:38](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/domain/organization/group_create.ts#L38)
+[src/service/domain/organization/group_create.ts:38](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/group_create.ts#L38)

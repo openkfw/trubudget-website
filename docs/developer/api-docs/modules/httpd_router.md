@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/httpd/router.ts:220](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/httpd/router.ts#L220)
+[src/httpd/router.ts:220](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/httpd/router.ts#L220)

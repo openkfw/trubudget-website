@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/Client.ts:39](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/service/Client.ts#L39)
+[src/service/Client.ts:39](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/Client.ts#L39)

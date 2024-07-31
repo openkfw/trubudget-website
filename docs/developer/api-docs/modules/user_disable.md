@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.dis
 
 #### Defined in
 
-[src/user_disable.ts:112](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/user_disable.ts#L112)
+[src/user_disable.ts:112](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/user_disable.ts#L112)

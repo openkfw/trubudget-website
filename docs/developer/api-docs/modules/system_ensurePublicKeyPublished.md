@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/system/ensurePublicKeyPublished.ts:57](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/system/ensurePublicKeyPublished.ts#L57)
+[src/system/ensurePublicKeyPublished.ts:57](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/system/ensurePublicKeyPublished.ts#L57)

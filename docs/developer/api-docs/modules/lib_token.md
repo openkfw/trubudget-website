@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/lib/token.ts:3](https://github.com/openkfw/TruBudget/blob/3b9e793/api/src/lib/token.ts#L3)
+[src/lib/token.ts:3](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/token.ts#L3)
