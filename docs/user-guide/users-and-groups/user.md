@@ -19,7 +19,7 @@ View all users.
 1. Click the button in the upper left corner (hamburger menu) to open the side-navigation-bar
 2. Click "Users" Selection
 
-![Show Users](./../img/show_Users.jpg)
+![Show Users](./../img/show_Users.png)
 
 :::note
 Users can only be viewed or created by an administrator.
@@ -37,11 +37,11 @@ Create a new User.
 2. Click "Users" Selection
 3. Click the blue "+" button on the right to open the "Add User" dialog
 
-![Create User](./../img/create_User.jpg)
+![Create User](./../img/create_User.png)
 
 4. Fill in the required fields:
 
-   - "Full Name": Name displayed to other users
+   - Full name: Name of the organization and the function (“e.g. Project Executing Agency Project Manager”) as displayed to others users. Note: This name should not contain personal data to be conform with the General Data Protection Regulation (GDPR).
    - "Username": ID of the user e.g. for login
    - "Password": Password of user
 
