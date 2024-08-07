@@ -10,7 +10,6 @@
   - [Close subproject](#close-subproject)
   - [View the history of a subproject](#view-the-history-of-a-subproject)
   - [Filter the history of a subproject](#filter-the-history-of-a-subproject)
-  - [View the additional data of a subproject](#view-the-additional-data-of-a-subproject)
   - [Permissions on subproject](#permissions-on-subproject)
   - [Create a workflowitem](#create-a-workflowitem)
 
