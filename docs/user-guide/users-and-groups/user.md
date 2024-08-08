@@ -63,8 +63,8 @@ A user's password can be changed by anyone who has the permission `user.changePa
 
 Examples:
 
-- User `mstein` wants to change his own password, but does not have the permission to do so. The `root` user needs to grant `mstein` the permission `user.changePassword`. Once this is done, `mstein` can change his own password.
-- User `mstein` is an administrator and should be able to change the password of `dviolin`. The `root` user needs to grant the `user.changePassword` permission to `mstein` for `dviolin`. After that, `mstein` is able to change the password of `dviolin`.
+- User `Portfoliomanager` wants to change his own password, but does not have the permission to do so. The `root` user needs to grant `Portfoliomanager` the permission `user.changePassword`. Once this is done, `Portfoliomanager` can change his own password.
+- User `Portfoliomanager` is an administrator and should be able to change the password of `Portfolioanalyst`. The `root` user needs to grant the `user.changePassword` permission to `Portfoliomanager` for `Portfolioanalyst`. After that, `Portfoliomanager` is able to change the password of `Portfolioanalyst`.
 
 **Instructions:**
 

@@ -267,7 +267,7 @@ filter request.
 
 1. Click the button to add a new or edit an existing project
 2. Type the tag name in the "Tag" field
-3. „Tags should not contain names or personal data to remain conform with the GPDR.”
+3. Tags should not contain names or personal data to remain conform with the GPDR.
 4. Hit the "Enter" key or click the "Add" button next to the input field
 5. The tag is now visible below the input field
 6. [OPTIONAL] Hover click the "X" symbol next to the tag name to remove the tag
