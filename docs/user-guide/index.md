@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# User-Guide
+
+## Introduction
 
 This tutorial explains which functions Trubudget has and how they work.
 The documentation is organized in following sections:

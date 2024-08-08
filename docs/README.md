@@ -30,7 +30,7 @@ Contributing
 - [Logging](./operation-administration/logging-monitoring.md) - Information on the API log and how to handle it
 - [Troubleshooting](./known-issues/intro.md) - How to solve known issues
 
-[User Guide](./user-guide/index.md)
+[User Guide](./user-guide/index.md#introduction)
 
 - [Projects/Subprojects/Workflowitems](./user-guide/projects/project.md)
 - [Users and Groups](./user-guide/users-and-groups/user.md)
