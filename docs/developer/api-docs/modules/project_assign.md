@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.as
 
 #### Defined in
 
-[src/project_assign.ts:118](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/project_assign.ts#L118)
+[src/project_assign.ts:118](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/project_assign.ts#L118)

@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/lib/readiness.ts:4](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/readiness.ts#L4)
+[src/lib/readiness.ts:4](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/lib/readiness.ts#L4)

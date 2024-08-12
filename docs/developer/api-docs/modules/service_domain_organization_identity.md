@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/identity.ts:4](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/identity.ts#L4)
+[src/service/domain/organization/identity.ts:4](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/organization/identity.ts#L4)

@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_eventsourcing.ts:15](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/notification_eventsourcing.ts#L15)
+[src/service/domain/workflow/notification_eventsourcing.ts:15](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/notification_eventsourcing.ts#L15)

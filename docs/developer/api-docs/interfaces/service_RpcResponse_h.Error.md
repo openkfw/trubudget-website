@@ -25,7 +25,7 @@ See [[ErrorCode]] for a list of predefined error codes.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:31](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/RpcResponse.h.ts#L31)
+[src/service/RpcResponse.h.ts:31](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/RpcResponse.h.ts#L31)
 
 ___
 
@@ -37,4 +37,4 @@ Error description.
 
 #### Defined in
 
-[src/service/RpcResponse.h.ts:36](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/RpcResponse.h.ts#L36)
+[src/service/RpcResponse.h.ts:36](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/RpcResponse.h.ts#L36)

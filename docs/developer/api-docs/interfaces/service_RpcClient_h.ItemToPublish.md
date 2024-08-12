@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:50](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/RpcClient.h.ts#L50)
+[src/service/RpcClient.h.ts:50](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/RpcClient.h.ts#L50)

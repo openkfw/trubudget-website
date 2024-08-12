@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[src/httpd/instrumentation.ts:7](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/httpd/instrumentation.ts#L7)
+[src/httpd/instrumentation.ts:7](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/httpd/instrumentation.ts#L7)

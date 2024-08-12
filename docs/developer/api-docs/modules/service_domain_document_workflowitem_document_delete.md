@@ -36,4 +36,4 @@ A promise that resolves to an object containing the new events.
 
 #### Defined in
 
-[src/service/domain/document/workflowitem_document_delete.ts:128](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/document/workflowitem_document_delete.ts#L128)
+[src/service/domain/document/workflowitem_document_delete.ts:128](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/workflowitem_document_delete.ts#L128)

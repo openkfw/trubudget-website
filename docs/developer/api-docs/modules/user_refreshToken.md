@@ -31,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 #### Defined in
 
-[src/user_refreshToken.ts:159](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/user_refreshToken.ts#L159)
+[src/user_refreshToken.ts:159](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/user_refreshToken.ts#L159)

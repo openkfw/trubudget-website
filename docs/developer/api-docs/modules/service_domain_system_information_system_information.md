@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/system_information/system_information.ts:24](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/system_information/system_information.ts#L24)
+[src/service/domain/system_information/system_information.ts:24](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/system_information/system_information.ts#L24)

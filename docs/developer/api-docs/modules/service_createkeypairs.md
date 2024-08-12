@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/service/createkeypairs.ts:4](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/createkeypairs.ts#L4)
+[src/service/createkeypairs.ts:4](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/createkeypairs.ts#L4)

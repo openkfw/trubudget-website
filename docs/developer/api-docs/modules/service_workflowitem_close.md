@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_close.ts:19](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/workflowitem_close.ts#L19)
+[src/service/workflowitem_close.ts:19](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/workflowitem_close.ts#L19)

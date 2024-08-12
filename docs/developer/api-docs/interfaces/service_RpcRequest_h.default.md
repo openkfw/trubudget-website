@@ -23,7 +23,7 @@ Name of the method to invoke.
 
 #### Defined in
 
-[src/service/RpcRequest.h.ts:9](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/RpcRequest.h.ts#L9)
+[src/service/RpcRequest.h.ts:9](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/RpcRequest.h.ts#L9)
 
 ___
 
@@ -35,4 +35,4 @@ List of arguments to invoke the method with - can be anything
 
 #### Defined in
 
-[src/service/RpcRequest.h.ts:14](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/RpcRequest.h.ts#L14)
+[src/service/RpcRequest.h.ts:14](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/RpcRequest.h.ts#L14)

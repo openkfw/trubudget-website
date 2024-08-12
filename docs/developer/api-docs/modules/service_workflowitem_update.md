@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/workflowitem_update.ts:31](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/workflowitem_update.ts#L31)
+[src/service/workflowitem_update.ts:31](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/workflowitem_update.ts#L31)
 
 ## Functions
 
@@ -47,4 +47,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_update.ts:33](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/workflowitem_update.ts#L33)
+[src/service/workflowitem_update.ts:33](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/workflowitem_update.ts#L33)

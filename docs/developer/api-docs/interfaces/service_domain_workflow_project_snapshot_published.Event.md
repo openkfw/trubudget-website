@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_snapshot_published.ts:16](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/project_snapshot_published.ts#L16)
+[src/service/domain/workflow/project_snapshot_published.ts:16](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/project_snapshot_published.ts#L16)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_snapshot_published.ts:15](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/project_snapshot_published.ts#L15)
+[src/service/domain/workflow/project_snapshot_published.ts:15](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/project_snapshot_published.ts#L15)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_snapshot_published.ts:13](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/project_snapshot_published.ts#L13)
+[src/service/domain/workflow/project_snapshot_published.ts:13](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/project_snapshot_published.ts#L13)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_snapshot_published.ts:14](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/project_snapshot_published.ts#L14)
+[src/service/domain/workflow/project_snapshot_published.ts:14](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/project_snapshot_published.ts#L14)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_snapshot_published.ts:12](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/project_snapshot_published.ts#L12)
+[src/service/domain/workflow/project_snapshot_published.ts:12](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/project_snapshot_published.ts#L12)
