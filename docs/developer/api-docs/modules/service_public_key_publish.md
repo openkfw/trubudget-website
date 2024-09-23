@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/public_key_publish.ts:18](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/public_key_publish.ts#L18)
+[src/service/public_key_publish.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/public_key_publish.ts#L18)

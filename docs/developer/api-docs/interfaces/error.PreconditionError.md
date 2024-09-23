@@ -21,7 +21,7 @@ Error type thrown when a precondition is not met
 
 #### Defined in
 
-[src/error.ts:73](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/error.ts#L73)
+[src/error.ts:73](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/error.ts#L73)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:74](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/error.ts#L74)
+[src/error.ts:74](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/error.ts#L74)

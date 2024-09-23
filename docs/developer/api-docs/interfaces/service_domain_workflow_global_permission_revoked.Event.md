@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:19](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/global_permission_revoked.ts#L19)
+[src/service/domain/workflow/global_permission_revoked.ts:19](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/global_permission_revoked.ts#L19)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:17](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/global_permission_revoked.ts#L17)
+[src/service/domain/workflow/global_permission_revoked.ts:17](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/global_permission_revoked.ts#L17)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:16](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/global_permission_revoked.ts#L16)
+[src/service/domain/workflow/global_permission_revoked.ts:16](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/global_permission_revoked.ts#L16)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:18](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/global_permission_revoked.ts#L18)
+[src/service/domain/workflow/global_permission_revoked.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/global_permission_revoked.ts#L18)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:14](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/global_permission_revoked.ts#L14)
+[src/service/domain/workflow/global_permission_revoked.ts:14](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/global_permission_revoked.ts#L14)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:15](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/global_permission_revoked.ts#L15)
+[src/service/domain/workflow/global_permission_revoked.ts:15](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/global_permission_revoked.ts#L15)
 
 ___
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_revoked.ts:13](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/global_permission_revoked.ts#L13)
+[src/service/domain/workflow/global_permission_revoked.ts:13](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/global_permission_revoked.ts#L13)

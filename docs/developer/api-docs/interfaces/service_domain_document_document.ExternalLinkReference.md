@@ -9,9 +9,12 @@
 ### Properties
 
 - [available](service_domain_document_document.ExternalLinkReference.md#available)
+- [comment](service_domain_document_document.ExternalLinkReference.md#comment)
 - [fileName](service_domain_document_document.ExternalLinkReference.md#filename)
 - [id](service_domain_document_document.ExternalLinkReference.md#id)
+- [lastModified](service_domain_document_document.ExternalLinkReference.md#lastmodified)
 - [link](service_domain_document_document.ExternalLinkReference.md#link)
+- [linkedFileHash](service_domain_document_document.ExternalLinkReference.md#linkedfilehash)
 
 ## Properties
 
@@ -21,7 +24,17 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:43](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/document/document.ts#L43)
+[src/service/domain/document/document.ts:45](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L45)
+
+___
+
+### comment
+
+• `Optional` **comment**: `string`
+
+#### Defined in
+
+[src/service/domain/document/document.ts:48](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L48)
 
 ___
 
@@ -31,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:41](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/document/document.ts#L41)
+[src/service/domain/document/document.ts:43](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L43)
 
 ___
 
@@ -41,7 +54,17 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:40](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/document/document.ts#L40)
+[src/service/domain/document/document.ts:42](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L42)
+
+___
+
+### lastModified
+
+• `Optional` **lastModified**: `string`
+
+#### Defined in
+
+[src/service/domain/document/document.ts:47](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L47)
 
 ___
 
@@ -51,4 +74,14 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:42](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/document/document.ts#L42)
+[src/service/domain/document/document.ts:44](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L44)
+
+___
+
+### linkedFileHash
+
+• `Optional` **linkedFileHash**: `string`
+
+#### Defined in
+
+[src/service/domain/document/document.ts:46](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L46)

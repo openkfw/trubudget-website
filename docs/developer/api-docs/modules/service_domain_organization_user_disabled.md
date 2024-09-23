@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:29](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_disabled.ts#L29)
+[src/service/domain/organization/user_disabled.ts:29](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_disabled.ts#L29)
 
 ## Functions
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:38](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_disabled.ts#L38)
+[src/service/domain/organization/user_disabled.ts:38](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_disabled.ts#L38)
 
 ___
 
@@ -80,7 +80,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:77](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_disabled.ts#L77)
+[src/service/domain/organization/user_disabled.ts:77](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_disabled.ts#L77)
 
 ___
 
@@ -100,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:62](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_disabled.ts#L62)
+[src/service/domain/organization/user_disabled.ts:62](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_disabled.ts#L62)

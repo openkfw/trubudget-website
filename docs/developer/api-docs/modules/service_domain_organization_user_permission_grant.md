@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_grant.ts:22](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/organization/user_permission_grant.ts#L22)
+[src/service/domain/organization/user_permission_grant.ts:22](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_permission_grant.ts#L22)

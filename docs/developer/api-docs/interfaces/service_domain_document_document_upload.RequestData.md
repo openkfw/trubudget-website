@@ -8,11 +8,22 @@
 
 ### Properties
 
+- [comment](service_domain_document_document_upload.RequestData.md#comment)
 - [documentBase64](service_domain_document_document_upload.RequestData.md#documentbase64)
 - [fileName](service_domain_document_document_upload.RequestData.md#filename)
 - [id](service_domain_document_document_upload.RequestData.md#id)
 
 ## Properties
+
+### comment
+
+• `Optional` **comment**: `string`
+
+#### Defined in
+
+[src/service/domain/document/document_upload.ts:19](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_upload.ts#L19)
+
+___
 
 ### documentBase64
 
@@ -20,7 +31,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_upload.ts:18](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/document/document_upload.ts#L18)
+[src/service/domain/document/document_upload.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_upload.ts#L18)
 
 ___
 
@@ -30,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_upload.ts:17](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/document/document_upload.ts#L17)
+[src/service/domain/document/document_upload.ts:17](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_upload.ts#L17)
 
 ___
 
@@ -40,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_upload.ts:16](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/document/document_upload.ts#L16)
+[src/service/domain/document/document_upload.ts:16](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_upload.ts#L16)

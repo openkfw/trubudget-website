@@ -43,4 +43,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_subproject_create
 
 #### Defined in
 
-[src/service/subproject_create.ts:24](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/subproject_create.ts#L24)
+[src/service/subproject_create.ts:24](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/subproject_create.ts#L24)

@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/subproject_permission_revoke.ts:128](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/subproject_permission_revoke.ts#L128)
+[src/subproject_permission_revoke.ts:128](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/subproject_permission_revoke.ts#L128)

@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/handlerUtils.ts:4](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/handlerUtils.ts#L4)
+[src/handlerUtils.ts:4](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/handlerUtils.ts#L4)

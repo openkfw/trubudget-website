@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document_share.ts:39](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/document/document_share.ts#L39)
+[src/service/domain/document/document_share.ts:39](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_share.ts#L39)

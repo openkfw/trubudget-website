@@ -12,7 +12,7 @@
 
 ### registerRoutes
 
-▸ **registerRoutes**(`server`, `conn`, `urlPrefix`, `blockchainHost`, `blockchainPort`, `storageServiceClient`, `invalidateCache`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
+▸ **registerRoutes**(`server`, `conn`, `urlPrefix`, `blockchainProtocol`, `blockchainHost`, `blockchainPort`, `storageServiceClient`, `invalidateCache`): `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\>
 
 #### Parameters
 
@@ -21,6 +21,7 @@
 | `server` | `FastifyInstance`\<`RawServerDefault`, `IncomingMessage`, `ServerResponse`\<`IncomingMessage`\>, `FastifyBaseLogger`, `FastifyTypeProviderDefault`\> |
 | `conn` | [`ConnToken`](service_conn.md#conntoken) |
 | `urlPrefix` | `string` |
+| `blockchainProtocol` | ``"http"`` \| ``"https"`` |
 | `blockchainHost` | `string` |
 | `blockchainPort` | `number` |
 | `storageServiceClient` | [`default`](../classes/service_Client_storage_service.default.md) |
@@ -32,4 +33,4 @@
 
 #### Defined in
 
-[src/httpd/router.ts:220](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/httpd/router.ts#L220)
+[src/httpd/router.ts:220](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/httpd/router.ts#L220)

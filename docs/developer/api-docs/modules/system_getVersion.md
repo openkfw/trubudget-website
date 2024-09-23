@@ -12,12 +12,13 @@
 
 ### getVersion
 
-▸ **getVersion**(`blockchainHost`, `blockchainPort`, `multichainClient`, `storageServiceClient`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **getVersion**(`blockchainProtocol`, `blockchainHost`, `blockchainPort`, `multichainClient`, `storageServiceClient`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
+| `blockchainProtocol` | ``"http"`` \| ``"https"`` |
 | `blockchainHost` | `string` |
 | `blockchainPort` | `number` |
 | `multichainClient` | [`MultichainClient`](../interfaces/service_Client_h.MultichainClient.md) |
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/system/getVersion.ts:47](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/system/getVersion.ts#L47)
+[src/system/getVersion.ts:47](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/system/getVersion.ts#L47)

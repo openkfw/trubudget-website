@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/user_authenticate.ts:16](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/user_authenticate.ts#L16)
+[src/user_authenticate.ts:16](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_authenticate.ts#L16)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/user_authenticate.ts:17](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/user_authenticate.ts#L17)
+[src/user_authenticate.ts:17](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_authenticate.ts#L17)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/user_authenticate.ts:18](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/user_authenticate.ts#L18)
+[src/user_authenticate.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_authenticate.ts#L18)
 
 ## Functions
 
@@ -67,4 +67,4 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 #### Defined in
 
-[src/user_authenticate.ts:205](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/user_authenticate.ts#L205)
+[src/user_authenticate.ts:205](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_authenticate.ts#L205)

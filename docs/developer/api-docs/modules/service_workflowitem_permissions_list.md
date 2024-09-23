@@ -41,4 +41,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Defined in
 
-[src/service/workflowitem_permissions_list.ts:15](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/workflowitem_permissions_list.ts#L15)
+[src/service/workflowitem_permissions_list.ts:15](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/workflowitem_permissions_list.ts#L15)

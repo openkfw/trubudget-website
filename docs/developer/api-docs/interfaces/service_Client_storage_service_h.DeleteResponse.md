@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:18](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/Client_storage_service.h.ts#L18)
+[src/service/Client_storage_service.h.ts:20](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L20)

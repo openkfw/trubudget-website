@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_list.ts:27](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/workflow/workflowitem_list.ts#L27)
+[src/service/domain/workflow/workflowitem_list.ts:27](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/workflowitem_list.ts#L27)

@@ -11,6 +11,7 @@
 - [base64](service_Client_storage_service_h.StorageObject.md#base64)
 - [fileName](service_Client_storage_service_h.StorageObject.md#filename)
 - [id](service_Client_storage_service_h.StorageObject.md#id)
+- [lastModified](service_Client_storage_service_h.StorageObject.md#lastmodified)
 
 ## Properties
 
@@ -20,7 +21,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:14](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/Client_storage_service.h.ts#L14)
+[src/service/Client_storage_service.h.ts:15](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L15)
 
 ___
 
@@ -30,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:13](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/Client_storage_service.h.ts#L13)
+[src/service/Client_storage_service.h.ts:14](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L14)
 
 ___
 
@@ -40,4 +41,14 @@ ___
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:12](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/Client_storage_service.h.ts#L12)
+[src/service/Client_storage_service.h.ts:13](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L13)
+
+___
+
+### lastModified
+
+• `Optional` **lastModified**: `string`
+
+#### Defined in
+
+[src/service/Client_storage_service.h.ts:16](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L16)

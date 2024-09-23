@@ -22,7 +22,7 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 | :------ | :------ | :------ |
 | `server` | [`AugmentedFastifyInstance`](../interfaces/types.AugmentedFastifyInstance.md) | the current fastify server instance |
 | `urlPrefix` | `string` | the prefix of the http url |
-| `service` | `Service` | the service Service object used to offer an interface to the domain logic |
+| `service` | [`WorkflowitemUpdateServiceInterface`](../interfaces/index.WorkflowitemUpdateServiceInterface.md) | the service Service object used to offer an interface to the domain logic |
 
 #### Returns
 
@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_update.ts:171](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/workflowitem_update.ts#L171)
+[src/workflowitem_update.ts:162](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/workflowitem_update.ts#L162)

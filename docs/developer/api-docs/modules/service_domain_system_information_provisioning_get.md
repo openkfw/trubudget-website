@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_get.ts:16](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/domain/system_information/provisioning_get.ts#L16)
+[src/service/domain/system_information/provisioning_get.ts:16](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/system_information/provisioning_get.ts#L16)

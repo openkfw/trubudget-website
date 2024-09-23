@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[src/lib/db.ts:12](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L12)
+[src/lib/db.ts:12](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L12)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:15](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L15)
+[src/lib/db.ts:15](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L15)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:14](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L14)
+[src/lib/db.ts:14](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L14)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:16](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L16)
+[src/lib/db.ts:16](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L16)
 
 ## Methods
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:149](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L149)
+[src/lib/db.ts:149](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L149)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:98](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L98)
+[src/lib/db.ts:98](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L98)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:44](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L44)
+[src/lib/db.ts:44](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L44)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:18](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L18)
+[src/lib/db.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L18)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:29](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L29)
+[src/lib/db.ts:29](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L29)
 
 ___
 
@@ -177,7 +177,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:113](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L113)
+[src/lib/db.ts:113](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L113)
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:51](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L51)
+[src/lib/db.ts:51](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L51)
 
 ___
 
@@ -205,7 +205,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:135](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L135)
+[src/lib/db.ts:135](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L135)
 
 ___
 
@@ -227,7 +227,7 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:79](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L79)
+[src/lib/db.ts:79](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L79)
 
 ___
 
@@ -241,4 +241,4 @@ ___
 
 #### Defined in
 
-[src/lib/db.ts:68](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/lib/db.ts#L68)
+[src/lib/db.ts:68](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/db.ts#L68)

@@ -12,12 +12,13 @@
 
 ### restoreBackup
 
-▸ **restoreBackup**(`blockchainHost`, `blockchainPort`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
+▸ **restoreBackup**(`blockchainProtocol`, `blockchainHost`, `blockchainPort`, `req`): `Promise`\<[`HttpResponse`](httpd_lib.md#httpresponse)\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
+| `blockchainProtocol` | ``"http"`` \| ``"https"`` |
 | `blockchainHost` | `string` |
 | `blockchainPort` | `number` |
 | `req` | [`AuthenticatedRequest`](../interfaces/httpd_lib.AuthenticatedRequest.md) |
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/system/restoreBackup.ts:7](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/system/restoreBackup.ts#L7)
+[src/system/restoreBackup.ts:7](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/system/restoreBackup.ts#L7)

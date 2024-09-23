@@ -42,4 +42,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Defined in
 
-[src/service/user_permission_grant.ts:16](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/user_permission_grant.ts#L16)
+[src/service/user_permission_grant.ts:16](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/user_permission_grant.ts#L16)

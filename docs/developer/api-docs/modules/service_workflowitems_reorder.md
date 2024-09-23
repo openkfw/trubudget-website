@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/workflowitems_reorder.ts:15](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/service/workflowitems_reorder.ts#L15)
+[src/service/workflowitems_reorder.ts:15](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/workflowitems_reorder.ts#L15)

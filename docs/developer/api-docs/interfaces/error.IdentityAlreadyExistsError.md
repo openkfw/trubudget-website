@@ -21,7 +21,7 @@ Error type thrown when an identity already exists
 
 #### Defined in
 
-[src/error.ts:49](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/error.ts#L49)
+[src/error.ts:49](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/error.ts#L49)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:50](https://github.com/openkfw/TruBudget/blob/1602d8b/api/src/error.ts#L50)
+[src/error.ts:50](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/error.ts#L50)
