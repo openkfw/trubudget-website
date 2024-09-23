@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/group.remo
 
 #### Defined in
 
-[src/group_member_remove.ts:121](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/group_member_remove.ts#L121)
+[src/group_member_remove.ts:121](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/group_member_remove.ts#L121)

@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:37](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/ProjectEvents.ts#L37)
+[src/service/ProjectEvents.ts:37](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/ProjectEvents.ts#L37)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:36](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/ProjectEvents.ts#L36)
+[src/service/ProjectEvents.ts:36](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/ProjectEvents.ts#L36)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:38](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/ProjectEvents.ts#L38)
+[src/service/ProjectEvents.ts:38](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/ProjectEvents.ts#L38)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/service/ProjectEvents.ts:39](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/ProjectEvents.ts#L39)
+[src/service/ProjectEvents.ts:39](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/ProjectEvents.ts#L39)

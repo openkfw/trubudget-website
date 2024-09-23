@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[src/lib/chunkArray.ts:3](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/lib/chunkArray.ts#L3)
+[src/lib/chunkArray.ts:3](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/chunkArray.ts#L3)

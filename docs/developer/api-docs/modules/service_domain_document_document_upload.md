@@ -6,6 +6,7 @@
 
 ### Interfaces
 
+- [File](../interfaces/service_domain_document_document_upload.File.md)
 - [RequestData](../interfaces/service_domain_document_document_upload.RequestData.md)
 
 ### Functions
@@ -16,7 +17,7 @@
 
 ### uploadDocument
 
-▸ **uploadDocument**(`ctx`, `issuer`, `requestData`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
+▸ **uploadDocument**(`ctx`, `issuer`, `file`, `repository`): `Promise`\<[`Type`](result.md#type)\<[`BusinessEvent`](service_domain_business_event.md#businessevent)[]\>\>
 
 #### Parameters
 
@@ -24,7 +25,7 @@
 | :------ | :------ |
 | `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
 | `issuer` | [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md) |
-| `requestData` | [`RequestData`](../interfaces/service_domain_document_document_upload.RequestData.md) |
+| `file` | [`File`](../interfaces/service_domain_document_document_upload.File.md) |
 | `repository` | `Repository` |
 
 #### Returns
@@ -33,4 +34,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document_upload.ts:36](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document_upload.ts#L36)
+[src/service/domain/document/document_upload.ts:44](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_upload.ts#L44)

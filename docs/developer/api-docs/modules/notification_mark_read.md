@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/notificati
 
 #### Defined in
 
-[src/notification_mark_read.ts:112](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/notification_mark_read.ts#L112)
+[src/notification_mark_read.ts:112](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/notification_mark_read.ts#L112)

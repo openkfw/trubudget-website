@@ -17,6 +17,7 @@
 - [fileName](service_domain_document_document.DocumentLink.md#filename)
 - [id](service_domain_document_document.DocumentLink.md#id)
 - [link](service_domain_document_document.DocumentLink.md#link)
+- [linkedFileHash](service_domain_document_document.DocumentLink.md#linkedfilehash)
 
 ## Properties
 
@@ -26,7 +27,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:72](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L72)
+[src/service/domain/document/document.ts:90](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L90)
 
 ___
 
@@ -40,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:70](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L70)
+[src/service/domain/document/document.ts:88](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L88)
 
 ___
 
@@ -50,4 +51,14 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:71](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L71)
+[src/service/domain/document/document.ts:89](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L89)
+
+___
+
+### linkedFileHash
+
+• `Optional` **linkedFileHash**: `string`
+
+#### Defined in
+
+[src/service/domain/document/document.ts:91](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L91)

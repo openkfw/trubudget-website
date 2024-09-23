@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:51](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/Client_storage_service.h.ts#L51)
+[src/service/Client_storage_service.h.ts:60](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L60)
 
 ___
 
@@ -60,7 +60,7 @@ Download an object using the matching secret
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:50](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/Client_storage_service.h.ts#L50)
+[src/service/Client_storage_service.h.ts:59](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L59)
 
 ___
 
@@ -76,7 +76,7 @@ Get version of conncted storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:35](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/Client_storage_service.h.ts#L35)
+[src/service/Client_storage_service.h.ts:37](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L37)
 
 ___
 
@@ -92,13 +92,13 @@ Get readiness sattus of storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:30](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/Client_storage_service.h.ts#L30)
+[src/service/Client_storage_service.h.ts:32](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L32)
 
 ___
 
 ### uploadObject
 
-▸ **uploadObject**(`id`, `name`, `data`): `Promise`\<[`Type`](../modules/result.md#type)\<[`UploadResponse`](service_Client_storage_service_h.UploadResponse.md)\>\>
+▸ **uploadObject**(`file`): `Promise`\<[`Type`](../modules/result.md#type)\<[`UploadResponse`](service_Client_storage_service_h.UploadResponse.md)\>\>
 
 Upload an object using the
 
@@ -106,14 +106,14 @@ Upload an object using the
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `id` | `string` | id of object |
-| `name` | `string` | name of object |
-| `data` | `string` | content of uploaded object base64 encoded |
+| `file` | [`File`](service_domain_document_document_upload.File.md) | File object containing id, fileName, documentBase64, and an optional comment. |
 
 #### Returns
 
 `Promise`\<[`Type`](../modules/result.md#type)\<[`UploadResponse`](service_Client_storage_service_h.UploadResponse.md)\>\>
 
+- A promise that resolves to the upload response.
+
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:43](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/Client_storage_service.h.ts#L43)
+[src/service/Client_storage_service.h.ts:52](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/Client_storage_service.h.ts#L52)

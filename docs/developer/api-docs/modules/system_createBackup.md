@@ -12,12 +12,13 @@
 
 ### createBackup
 
-▸ **createBackup**(`blockchainHost`, `blockchainPort`, `req`): `Promise`\<`AxiosResponse`\<`any`, `any`\>\>
+▸ **createBackup**(`blockchainProtocol`, `blockchainHost`, `blockchainPort`, `req`): `Promise`\<`AxiosResponse`\<`any`, `any`\>\>
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
+| `blockchainProtocol` | `string` |
 | `blockchainHost` | `string` |
 | `blockchainPort` | `number` |
 | `req` | [`AuthenticatedRequest`](../interfaces/httpd_lib.AuthenticatedRequest.md) |
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/system/createBackup.ts:5](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/system/createBackup.ts#L5)
+[src/system/createBackup.ts:5](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/system/createBackup.ts#L5)

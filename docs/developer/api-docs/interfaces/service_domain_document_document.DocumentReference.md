@@ -9,9 +9,11 @@
 ### Properties
 
 - [available](service_domain_document_document.DocumentReference.md#available)
+- [comment](service_domain_document_document.DocumentReference.md#comment)
 - [fileName](service_domain_document_document.DocumentReference.md#filename)
 - [hash](service_domain_document_document.DocumentReference.md#hash)
 - [id](service_domain_document_document.DocumentReference.md#id)
+- [lastModified](service_domain_document_document.DocumentReference.md#lastmodified)
 
 ## Properties
 
@@ -21,7 +23,17 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:32](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L32)
+[src/service/domain/document/document.ts:32](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L32)
+
+___
+
+### comment
+
+• `Optional` **comment**: `string`
+
+#### Defined in
+
+[src/service/domain/document/document.ts:33](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L33)
 
 ___
 
@@ -31,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:30](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L30)
+[src/service/domain/document/document.ts:30](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L30)
 
 ___
 
@@ -41,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:31](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L31)
+[src/service/domain/document/document.ts:31](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L31)
 
 ___
 
@@ -51,4 +63,14 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:29](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L29)
+[src/service/domain/document/document.ts:29](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L29)
+
+___
+
+### lastModified
+
+• `Optional` **lastModified**: `string`
+
+#### Defined in
+
+[src/service/domain/document/document.ts:34](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L34)

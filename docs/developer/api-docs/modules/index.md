@@ -7,3 +7,4 @@
 ### Interfaces
 
 - [UserLogoutAPIService](../interfaces/index.UserLogoutAPIService.md)
+- [WorkflowitemUpdateServiceInterface](../interfaces/index.WorkflowitemUpdateServiceInterface.md)

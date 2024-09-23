@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/group_member_remove.ts:12](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/group_member_remove.ts#L12)
+[src/service/group_member_remove.ts:12](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/group_member_remove.ts#L12)

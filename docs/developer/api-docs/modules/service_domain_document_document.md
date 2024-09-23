@@ -18,6 +18,7 @@
 ### Type Aliases
 
 - [DocumentOrExternalLinkReference](service_domain_document_document.md#documentorexternallinkreference)
+- [DocumentWithAvailability](service_domain_document_document.md#documentwithavailability)
 - [UploadedDocumentOrLink](service_domain_document_document.md#uploadeddocumentorlink)
 
 ### Variables
@@ -43,7 +44,17 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:46](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L46)
+[src/service/domain/document/document.ts:51](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L51)
+
+___
+
+### DocumentWithAvailability
+
+Ƭ **DocumentWithAvailability**: [`DocumentOrExternalLinkReference`](service_domain_document_document.md#documentorexternallinkreference) & \{ `comment?`: `string` ; `isValidHash?`: `boolean` ; `lastModified?`: `string`  }
+
+#### Defined in
+
+[src/service/domain/document/document.ts:53](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L53)
 
 ___
 
@@ -53,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:75](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L75)
+[src/service/domain/document/document.ts:94](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L94)
 
 ## Variables
 
@@ -63,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:8](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L8)
+[src/service/domain/document/document.ts:8](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L8)
 
 ___
 
@@ -73,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:7](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L7)
+[src/service/domain/document/document.ts:7](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L7)
 
 ___
 
@@ -83,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:48](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L48)
+[src/service/domain/document/document.ts:59](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L59)
 
 ___
 
@@ -93,7 +104,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:21](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L21)
+[src/service/domain/document/document.ts:21](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L21)
 
 ___
 
@@ -103,7 +114,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:77](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L77)
+[src/service/domain/document/document.ts:96](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L96)
 
 ## Functions
 
@@ -123,7 +134,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:132](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L132)
+[src/service/domain/document/document.ts:155](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L155)
 
 ___
 
@@ -143,7 +154,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:100](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L100)
+[src/service/domain/document/document.ts:122](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L122)
 
 ___
 
@@ -163,7 +174,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:111](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L111)
+[src/service/domain/document/document.ts:134](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L134)
 
 ___
 
@@ -183,4 +194,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:140](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/document.ts#L140)
+[src/service/domain/document/document.ts:163](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L163)

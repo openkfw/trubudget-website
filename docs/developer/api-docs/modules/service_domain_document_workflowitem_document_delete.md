@@ -7,6 +7,7 @@
 ### Functions
 
 - [deleteDocument](service_domain_document_workflowitem_document_delete.md#deletedocument)
+- [isDocumentLink](service_domain_document_workflowitem_document_delete.md#isdocumentlink)
 
 ## Functions
 
@@ -36,4 +37,24 @@ A promise that resolves to an object containing the new events.
 
 #### Defined in
 
-[src/service/domain/document/workflowitem_document_delete.ts:128](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/document/workflowitem_document_delete.ts#L128)
+[src/service/domain/document/workflowitem_document_delete.ts:135](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/workflowitem_document_delete.ts#L135)
+
+___
+
+### isDocumentLink
+
+▸ **isDocumentLink**(`obj`): obj is ExternalLinkReference
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `obj` | [`DocumentOrExternalLinkReference`](service_domain_document_document.md#documentorexternallinkreference) \| [`UploadedDocument`](../interfaces/service_domain_document_document.UploadedDocument.md) |
+
+#### Returns
+
+obj is ExternalLinkReference
+
+#### Defined in
+
+[src/service/domain/document/workflowitem_document_delete.ts:22](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/workflowitem_document_delete.ts#L22)

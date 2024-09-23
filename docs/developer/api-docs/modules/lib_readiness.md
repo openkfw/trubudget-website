@@ -7,6 +7,7 @@
 ### Functions
 
 - [isReady](lib_readiness.md#isready)
+- [isSynced](lib_readiness.md#issynced)
 
 ## Functions
 
@@ -26,4 +27,24 @@
 
 #### Defined in
 
-[src/lib/readiness.ts:4](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/lib/readiness.ts#L4)
+[src/lib/readiness.ts:4](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/readiness.ts#L4)
+
+___
+
+### isSynced
+
+▸ **isSynced**(`multichain`): `Promise`\<`boolean`\>
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `multichain` | [`MultichainClient`](../interfaces/service_Client_h.MultichainClient.md) |
+
+#### Returns
+
+`Promise`\<`boolean`\>
+
+#### Defined in
+
+[src/lib/readiness.ts:26](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/readiness.ts#L26)

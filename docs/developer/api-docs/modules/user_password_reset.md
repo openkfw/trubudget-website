@@ -31,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/user.chang
 
 #### Defined in
 
-[src/user_password_reset.ts:123](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/user_password_reset.ts#L123)
+[src/user_password_reset.ts:123](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_password_reset.ts#L123)

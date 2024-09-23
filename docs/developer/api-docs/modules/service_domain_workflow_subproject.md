@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:16](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/subproject.ts#L16)
+[src/service/domain/workflow/subproject.ts:17](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject.ts#L17)
 
 ## Variables
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:18](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/subproject.ts#L18)
+[src/service/domain/workflow/subproject.ts:19](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject.ts#L19)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:41](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/subproject.ts#L41)
+[src/service/domain/workflow/subproject.ts:43](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject.ts#L43)
 
 ## Functions
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:64](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/subproject.ts#L64)
+[src/service/domain/workflow/subproject.ts:67](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject.ts#L67)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject.ts:59](https://github.com/openkfw/TruBudget/blob/648f2bb/api/src/service/domain/workflow/subproject.ts#L59)
+[src/service/domain/workflow/subproject.ts:62](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject.ts#L62)
