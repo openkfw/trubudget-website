@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:24](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/project_projected_budget_updated.ts#L24)
+[src/service/domain/workflow/project_projected_budget_updated.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_projected_budget_updated.ts#L26)
 
 ## Functions
 
@@ -53,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:36](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/project_projected_budget_updated.ts#L36)
+[src/service/domain/workflow/project_projected_budget_updated.ts:38](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_projected_budget_updated.ts#L38)
 
 ___
 
@@ -83,7 +83,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:79](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/project_projected_budget_updated.ts#L79)
+[src/service/domain/workflow/project_projected_budget_updated.ts:81](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_projected_budget_updated.ts#L81)
 
 ___
 
@@ -103,4 +103,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_updated.ts:64](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/project_projected_budget_updated.ts#L64)
+[src/service/domain/workflow/project_projected_budget_updated.ts:66](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_projected_budget_updated.ts#L66)

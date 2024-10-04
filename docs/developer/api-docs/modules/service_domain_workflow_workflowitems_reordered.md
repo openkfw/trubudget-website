@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:24](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/workflowitems_reordered.ts#L24)
+[src/service/domain/workflow/workflowitems_reordered.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitems_reordered.ts#L26)
 
 ## Functions
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:35](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/workflowitems_reordered.ts#L35)
+[src/service/domain/workflow/workflowitems_reordered.ts:37](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitems_reordered.ts#L37)
 
 ___
 
@@ -82,7 +82,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:77](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/workflowitems_reordered.ts#L77)
+[src/service/domain/workflow/workflowitems_reordered.ts:79](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitems_reordered.ts#L79)
 
 ___
 
@@ -102,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitems_reordered.ts:62](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/workflowitems_reordered.ts#L62)
+[src/service/domain/workflow/workflowitems_reordered.ts:64](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitems_reordered.ts#L64)

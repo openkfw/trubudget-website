@@ -31,7 +31,7 @@ Returns a new user with the given event applied, or an error.
 
 #### Defined in
 
-[src/service/domain/organization/user_eventsourcing.ts:145](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_eventsourcing.ts#L145)
+[src/service/domain/organization/user_eventsourcing.ts:147](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_eventsourcing.ts#L147)
 
 ___
 
@@ -58,4 +58,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_eventsourcing.ts:17](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_eventsourcing.ts#L17)
+[src/service/domain/organization/user_eventsourcing.ts:19](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_eventsourcing.ts#L19)

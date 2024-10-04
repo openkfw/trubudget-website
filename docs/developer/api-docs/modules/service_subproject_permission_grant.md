@@ -42,4 +42,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Defined in
 
-[src/service/subproject_permission_grant.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/subproject_permission_grant.ts#L18)
+[src/service/subproject_permission_grant.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/subproject_permission_grant.ts#L20)

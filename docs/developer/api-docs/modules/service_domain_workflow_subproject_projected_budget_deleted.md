@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_deleted.ts:25](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L25)
+[src/service/domain/workflow/subproject_projected_budget_deleted.ts:27](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L27)
 
 ## Functions
 
@@ -53,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_deleted.ts:37](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L37)
+[src/service/domain/workflow/subproject_projected_budget_deleted.ts:39](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L39)
 
 ___
 
@@ -83,7 +83,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_deleted.ts:80](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L80)
+[src/service/domain/workflow/subproject_projected_budget_deleted.ts:82](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L82)
 
 ___
 
@@ -103,4 +103,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_projected_budget_deleted.ts:65](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L65)
+[src/service/domain/workflow/subproject_projected_budget_deleted.ts:67](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_projected_budget_deleted.ts#L67)

@@ -37,7 +37,7 @@ A promise that resolves to an object containing the new events.
 
 #### Defined in
 
-[src/service/domain/document/workflowitem_document_delete.ts:135](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/workflowitem_document_delete.ts#L135)
+[src/service/domain/document/workflowitem_document_delete.ts:137](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/workflowitem_document_delete.ts#L137)
 
 ___
 
@@ -57,4 +57,4 @@ obj is ExternalLinkReference
 
 #### Defined in
 
-[src/service/domain/document/workflowitem_document_delete.ts:22](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/workflowitem_document_delete.ts#L22)
+[src/service/domain/document/workflowitem_document_delete.ts:24](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/workflowitem_document_delete.ts#L24)

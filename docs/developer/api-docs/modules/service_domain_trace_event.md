@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/trace_event.ts#L14)
+[src/service/domain/trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/trace_event.ts#L14)
 
 ## Variables
 
@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/trace_event.ts:20](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/trace_event.ts#L20)
+[src/service/domain/trace_event.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/trace_event.ts#L20)

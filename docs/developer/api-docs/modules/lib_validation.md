@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[src/lib/validation.ts:61](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/validation.ts#L61)
+[src/lib/validation.ts:62](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/validation.ts#L62)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:34](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/validation.ts#L34)
+[src/lib/validation.ts:35](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/validation.ts#L35)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:41](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/validation.ts#L41)
+[src/lib/validation.ts:42](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/validation.ts#L42)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:7](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/validation.ts#L7)
+[src/lib/validation.ts:8](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/validation.ts#L8)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:47](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/validation.ts#L47)
+[src/lib/validation.ts:48](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/validation.ts#L48)
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:71](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/validation.ts#L71)
+[src/lib/validation.ts:72](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/validation.ts#L72)
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:11](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/validation.ts#L11)
+[src/lib/validation.ts:12](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/validation.ts#L12)
 
 ___
 
@@ -185,4 +185,4 @@ ___
 
 #### Defined in
 
-[src/lib/validation.ts:52](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/validation.ts#L52)
+[src/lib/validation.ts:53](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/validation.ts#L53)

@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document_validate.ts:33](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_validate.ts#L33)
+[src/service/domain/document/document_validate.ts:34](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_validate.ts#L34)

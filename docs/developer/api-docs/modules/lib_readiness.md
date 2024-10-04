@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[src/lib/readiness.ts:4](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/readiness.ts#L4)
+[src/lib/readiness.ts:5](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/readiness.ts#L5)
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 #### Defined in
 
-[src/lib/readiness.ts:26](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/readiness.ts#L26)
+[src/lib/readiness.ts:27](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/readiness.ts#L27)

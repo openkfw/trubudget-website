@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:21](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_uploaded.ts#L21)
+[src/service/domain/document/document_uploaded.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_uploaded.ts#L23)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:22](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_uploaded.ts#L22)
+[src/service/domain/document/document_uploaded.ts:24](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_uploaded.ts#L24)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:23](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_uploaded.ts#L23)
+[src/service/domain/document/document_uploaded.ts:25](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_uploaded.ts#L25)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:20](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_uploaded.ts#L20)
+[src/service/domain/document/document_uploaded.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_uploaded.ts#L22)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_uploaded.ts#L18)
+[src/service/domain/document/document_uploaded.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_uploaded.ts#L20)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:19](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_uploaded.ts#L19)
+[src/service/domain/document/document_uploaded.ts:21](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_uploaded.ts#L21)
 
 ___
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_uploaded.ts:17](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document_uploaded.ts#L17)
+[src/service/domain/document/document_uploaded.ts:19](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_uploaded.ts#L19)

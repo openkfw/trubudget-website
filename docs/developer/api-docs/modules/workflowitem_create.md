@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/workflowitem_create.ts:197](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/workflowitem_create.ts#L197)
+[src/workflowitem_create.ts:197](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/workflowitem_create.ts#L197)

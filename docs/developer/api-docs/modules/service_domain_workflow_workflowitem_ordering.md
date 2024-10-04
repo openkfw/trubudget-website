@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_ordering.ts:5](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/workflowitem_ordering.ts#L5)
+[src/service/domain/workflow/workflowitem_ordering.ts:7](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_ordering.ts#L7)
 
 ## Functions
 
@@ -47,4 +47,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_ordering.ts:12](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/workflowitem_ordering.ts#L12)
+[src/service/domain/workflow/workflowitem_ordering.ts:14](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_ordering.ts#L14)

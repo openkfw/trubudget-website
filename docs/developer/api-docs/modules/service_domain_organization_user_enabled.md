@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:29](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_enabled.ts#L29)
+[src/service/domain/organization/user_enabled.ts:31](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_enabled.ts#L31)
 
 ## Functions
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:38](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_enabled.ts#L38)
+[src/service/domain/organization/user_enabled.ts:40](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_enabled.ts#L40)
 
 ___
 
@@ -80,7 +80,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:77](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_enabled.ts#L77)
+[src/service/domain/organization/user_enabled.ts:79](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_enabled.ts#L79)
 
 ___
 
@@ -100,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_enabled.ts:62](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_enabled.ts#L62)
+[src/service/domain/organization/user_enabled.ts:64](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_enabled.ts#L64)

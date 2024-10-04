@@ -29,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/app.upgrad
 
 #### Defined in
 
-[src/app_upgrade.ts:116](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/app_upgrade.ts#L116)
+[src/app_upgrade.ts:118](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/app_upgrade.ts#L118)

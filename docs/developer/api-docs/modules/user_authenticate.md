@@ -7,8 +7,6 @@
 ### Variables
 
 - [MAX\_GROUPS\_LENGTH](user_authenticate.md#max_groups_length)
-- [accessTokenExpirationInMinutesWithrefreshToken](user_authenticate.md#accesstokenexpirationinminuteswithrefreshtoken)
-- [refreshTokenExpirationInDays](user_authenticate.md#refreshtokenexpirationindays)
 
 ### Functions
 
@@ -22,27 +20,7 @@
 
 #### Defined in
 
-[src/user_authenticate.ts:16](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_authenticate.ts#L16)
-
-___
-
-### accessTokenExpirationInMinutesWithrefreshToken
-
-• `Const` **accessTokenExpirationInMinutesWithrefreshToken**: ``10``
-
-#### Defined in
-
-[src/user_authenticate.ts:17](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_authenticate.ts#L17)
-
-___
-
-### refreshTokenExpirationInDays
-
-• `Const` **refreshTokenExpirationInDays**: ``8``
-
-#### Defined in
-
-[src/user_authenticate.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_authenticate.ts#L18)
+[src/user_authenticate.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/user_authenticate.ts#L22)
 
 ## Functions
 
@@ -67,4 +45,4 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 #### Defined in
 
-[src/user_authenticate.ts:205](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_authenticate.ts#L205)
+[src/user_authenticate.ts:209](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/user_authenticate.ts#L209)

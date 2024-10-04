@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:23](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_assigned.ts#L23)
+[src/service/domain/workflow/subproject_assigned.ts:25](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_assigned.ts#L25)
 
 ## Functions
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:34](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_assigned.ts#L34)
+[src/service/domain/workflow/subproject_assigned.ts:36](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_assigned.ts#L36)
 
 ___
 
@@ -82,7 +82,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:76](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_assigned.ts#L76)
+[src/service/domain/workflow/subproject_assigned.ts:78](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_assigned.ts#L78)
 
 ___
 
@@ -102,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assigned.ts:61](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_assigned.ts#L61)
+[src/service/domain/workflow/subproject_assigned.ts:63](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_assigned.ts#L63)

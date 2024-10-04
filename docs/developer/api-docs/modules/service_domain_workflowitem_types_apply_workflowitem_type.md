@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/domain/workflowitem_types/apply_workflowitem_type.ts:8](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflowitem_types/apply_workflowitem_type.ts#L8)
+[src/service/domain/workflowitem_types/apply_workflowitem_type.ts:9](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflowitem_types/apply_workflowitem_type.ts#L9)

@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_mark_read.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/notification_mark_read.ts#L18)
+[src/service/domain/workflow/notification_mark_read.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/notification_mark_read.ts#L20)
