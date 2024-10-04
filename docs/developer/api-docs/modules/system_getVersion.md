@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/system/getVersion.ts:47](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/system/getVersion.ts#L47)
+[src/system/getVersion.ts:51](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/system/getVersion.ts#L51)

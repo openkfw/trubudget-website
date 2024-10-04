@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[src/system/blockchainApi.ts:9](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/system/blockchainApi.ts#L9)
+[src/system/blockchainApi.ts:10](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/system/blockchainApi.ts#L10)
 
 ## Properties
 
@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[src/system/blockchainApi.ts:7](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/system/blockchainApi.ts#L7)
+[src/system/blockchainApi.ts:8](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/system/blockchainApi.ts#L8)
 
 ## Methods
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[src/system/blockchainApi.ts:29](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/system/blockchainApi.ts#L29)
+[src/system/blockchainApi.ts:30](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/system/blockchainApi.ts#L30)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/system/blockchainApi.ts:25](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/system/blockchainApi.ts#L25)
+[src/system/blockchainApi.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/system/blockchainApi.ts#L26)

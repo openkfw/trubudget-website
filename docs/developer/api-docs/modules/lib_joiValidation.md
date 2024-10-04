@@ -9,6 +9,8 @@
 - [safeBase64Schema](lib_joiValidation.md#safebase64schema)
 - [safeIdSchema](lib_joiValidation.md#safeidschema)
 - [safePasswordSchema](lib_joiValidation.md#safepasswordschema)
+- [safePasswordSchemaOtherEnv](lib_joiValidation.md#safepasswordschemaotherenv)
+- [safePasswordSchemaProduction](lib_joiValidation.md#safepasswordschemaproduction)
 - [safeStringSchema](lib_joiValidation.md#safestringschema)
 
 ## Variables
@@ -19,7 +21,7 @@
 
 #### Defined in
 
-[src/lib/joiValidation.ts:32](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/joiValidation.ts#L32)
+[src/lib/joiValidation.ts:36](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/joiValidation.ts#L36)
 
 ___
 
@@ -29,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/lib/joiValidation.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/joiValidation.ts#L18)
+[src/lib/joiValidation.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/joiValidation.ts#L20)
 
 ___
 
@@ -39,7 +41,27 @@ ___
 
 #### Defined in
 
-[src/lib/joiValidation.ts:24](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/joiValidation.ts#L24)
+[src/lib/joiValidation.ts:32](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/joiValidation.ts#L32)
+
+___
+
+### safePasswordSchemaOtherEnv
+
+• `Const` **safePasswordSchemaOtherEnv**: `any`
+
+#### Defined in
+
+[src/lib/joiValidation.ts:31](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/joiValidation.ts#L31)
+
+___
+
+### safePasswordSchemaProduction
+
+• `Const` **safePasswordSchemaProduction**: `any`
+
+#### Defined in
+
+[src/lib/joiValidation.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/joiValidation.ts#L26)
 
 ___
 
@@ -49,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/lib/joiValidation.ts:12](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/joiValidation.ts#L12)
+[src/lib/joiValidation.ts:14](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/joiValidation.ts#L14)

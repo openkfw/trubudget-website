@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:51](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L51)
+[src/service/domain/document/document.ts:53](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L53)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:53](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L53)
+[src/service/domain/document/document.ts:55](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L55)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:94](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L94)
+[src/service/domain/document/document.ts:96](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L96)
 
 ## Variables
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:8](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L8)
+[src/service/domain/document/document.ts:10](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L10)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:7](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L7)
+[src/service/domain/document/document.ts:9](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L9)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:59](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L59)
+[src/service/domain/document/document.ts:61](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L61)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:21](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L21)
+[src/service/domain/document/document.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L23)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:96](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L96)
+[src/service/domain/document/document.ts:98](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L98)
 
 ## Functions
 
@@ -134,7 +134,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:155](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L155)
+[src/service/domain/document/document.ts:157](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L157)
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:122](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L122)
+[src/service/domain/document/document.ts:124](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L124)
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:134](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L134)
+[src/service/domain/document/document.ts:136](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L136)
 
 ___
 
@@ -194,4 +194,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document.ts:163](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/document/document.ts#L163)
+[src/service/domain/document/document.ts:165](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document.ts#L165)

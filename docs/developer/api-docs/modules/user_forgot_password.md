@@ -14,7 +14,7 @@
 
 ▸ **addHttpHandler**(`server`, `urlPrefix`, `service`, `jwt`): `void`
 
-Creates an http handler that handles incoming http requests for the `/v2/project.list` route
+Creates an http handler that handles incoming http requests for the `/user.forgotPassword` route
 
 #### Parameters
 
@@ -31,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/v2/project
 
 #### Defined in
 
-[src/user_forgot_password.ts:81](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/user_forgot_password.ts#L81)
+[src/user_forgot_password.ts:82](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/user_forgot_password.ts#L82)

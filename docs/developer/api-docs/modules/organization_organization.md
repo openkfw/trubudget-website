@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[src/organization/organization.ts:31](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/organization/organization.ts#L31)
+[src/organization/organization.ts:33](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/organization/organization.ts#L33)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/organization/organization.ts:199](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/organization/organization.ts#L199)
+[src/organization/organization.ts:201](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/organization/organization.ts#L201)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/organization/organization.ts:65](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/organization/organization.ts#L65)
+[src/organization/organization.ts:67](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/organization/organization.ts#L67)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/organization/organization.ts:188](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/organization/organization.ts#L188)
+[src/organization/organization.ts:190](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/organization/organization.ts#L190)
 
 ___
 
@@ -119,4 +119,4 @@ ___
 
 #### Defined in
 
-[src/organization/organization.ts:92](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/organization/organization.ts#L92)
+[src/organization/organization.ts:94](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/organization/organization.ts#L94)

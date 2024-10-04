@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_create.ts:104](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_create.ts#L104)
+[src/service/domain/workflow/subproject_create.ts:106](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_create.ts#L106)
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_create.ts:54](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_create.ts#L54)
+[src/service/domain/workflow/subproject_create.ts:56](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_create.ts#L56)

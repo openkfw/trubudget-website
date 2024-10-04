@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/business_event.ts:54](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/business_event.ts#L54)
+[src/service/domain/business_event.ts:54](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/business_event.ts#L54)
 
 ## Variables
 
@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/business_event.ts:106](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/business_event.ts#L106)
+[src/service/domain/business_event.ts:106](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/business_event.ts#L106)

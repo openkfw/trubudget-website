@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoked.ts:24](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_permission_revoked.ts#L24)
+[src/service/domain/organization/user_permission_revoked.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_permission_revoked.ts#L26)
 
 ## Functions
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoked.ts:35](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_permission_revoked.ts#L35)
+[src/service/domain/organization/user_permission_revoked.ts:37](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_permission_revoked.ts#L37)
 
 ___
 
@@ -82,7 +82,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoked.ts:78](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_permission_revoked.ts#L78)
+[src/service/domain/organization/user_permission_revoked.ts:80](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_permission_revoked.ts#L80)
 
 ___
 
@@ -102,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoked.ts:63](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/organization/user_permission_revoked.ts#L63)
+[src/service/domain/organization/user_permission_revoked.ts:65](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_permission_revoked.ts#L65)

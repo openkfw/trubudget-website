@@ -36,4 +36,4 @@
 
 #### Defined in
 
-[src/http_errors/not_authenticated.ts:1](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/http_errors/not_authenticated.ts#L1)
+[src/http_errors/not_authenticated.ts:1](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/http_errors/not_authenticated.ts#L1)

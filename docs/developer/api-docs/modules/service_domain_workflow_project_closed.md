@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:20](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/project_closed.ts#L20)
+[src/service/domain/workflow/project_closed.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_closed.ts#L22)
 
 ## Functions
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:29](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/project_closed.ts#L29)
+[src/service/domain/workflow/project_closed.ts:31](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_closed.ts#L31)
 
 ___
 
@@ -80,7 +80,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:66](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/project_closed.ts#L66)
+[src/service/domain/workflow/project_closed.ts:68](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_closed.ts#L68)
 
 ___
 
@@ -100,4 +100,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_closed.ts:51](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/project_closed.ts#L51)
+[src/service/domain/workflow/project_closed.ts:53](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_closed.ts#L53)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/lib/asymmetricCrypto.ts:15](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/asymmetricCrypto.ts#L15)
+[src/lib/asymmetricCrypto.ts:17](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/asymmetricCrypto.ts#L17)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[src/lib/asymmetricCrypto.ts:5](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/lib/asymmetricCrypto.ts#L5)
+[src/lib/asymmetricCrypto.ts:7](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/asymmetricCrypto.ts#L7)

@@ -33,7 +33,7 @@ Returns a new subproject with the given event applied, or an error.
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:219](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_eventsourcing.ts#L219)
+[src/service/domain/workflow/subproject_eventsourcing.ts:221](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_eventsourcing.ts#L221)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:88](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_eventsourcing.ts#L88)
+[src/service/domain/workflow/subproject_eventsourcing.ts:90](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_eventsourcing.ts#L90)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:20](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_eventsourcing.ts#L20)
+[src/service/domain/workflow/subproject_eventsourcing.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_eventsourcing.ts#L22)
 
 ___
 
@@ -103,4 +103,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:109](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/subproject_eventsourcing.ts#L109)
+[src/service/domain/workflow/subproject_eventsourcing.ts:111](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_eventsourcing.ts#L111)

@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:22](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/notification_marked_read.ts#L22)
+[src/service/domain/workflow/notification_marked_read.ts:24](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/notification_marked_read.ts#L24)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:18](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/notification_marked_read.ts#L18)
+[src/service/domain/workflow/notification_marked_read.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/notification_marked_read.ts#L20)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:17](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/notification_marked_read.ts#L17)
+[src/service/domain/workflow/notification_marked_read.ts:19](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/notification_marked_read.ts#L19)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:21](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/notification_marked_read.ts#L21)
+[src/service/domain/workflow/notification_marked_read.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/notification_marked_read.ts#L23)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:15](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/notification_marked_read.ts#L15)
+[src/service/domain/workflow/notification_marked_read.ts:17](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/notification_marked_read.ts#L17)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:16](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/notification_marked_read.ts#L16)
+[src/service/domain/workflow/notification_marked_read.ts:18](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/notification_marked_read.ts#L18)
 
 ___
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:14](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/service/domain/workflow/notification_marked_read.ts#L14)
+[src/service/domain/workflow/notification_marked_read.ts:16](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/notification_marked_read.ts#L16)

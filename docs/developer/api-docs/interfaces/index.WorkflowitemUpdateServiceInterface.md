@@ -35,4 +35,4 @@ Represents the service that updates a workflowitem
 
 #### Defined in
 
-[src/index.ts:900](https://github.com/openkfw/TruBudget/blob/2e83742/api/src/index.ts#L900)
+[src/index.ts:909](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/index.ts#L909)
