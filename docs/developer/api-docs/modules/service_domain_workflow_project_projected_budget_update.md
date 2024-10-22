@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_update.ts:28](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_projected_budget_update.ts#L28)
+[src/service/domain/workflow/project_projected_budget_update.ts:28](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/workflow/project_projected_budget_update.ts#L28)

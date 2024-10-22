@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/service/groups.ts:11](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/groups.ts#L11)
+[src/service/groups.ts:11](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/groups.ts#L11)

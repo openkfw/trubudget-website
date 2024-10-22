@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:16](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/nodes_logged.ts#L16)
+[src/service/domain/network/nodes_logged.ts:16](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/network/nodes_logged.ts#L16)
 
 ## Functions
 
@@ -47,7 +47,7 @@
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/nodes_logged.ts#L22)
+[src/service/domain/network/nodes_logged.ts:22](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/network/nodes_logged.ts#L22)
 
 ___
 
@@ -67,4 +67,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:41](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/nodes_logged.ts#L41)
+[src/service/domain/network/nodes_logged.ts:41](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/network/nodes_logged.ts#L41)

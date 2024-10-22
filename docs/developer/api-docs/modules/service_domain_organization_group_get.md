@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_get.ts:37](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group_get.ts#L37)
+[src/service/domain/organization/group_get.ts:37](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/group_get.ts#L37)
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_get.ts:15](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group_get.ts#L15)
+[src/service/domain/organization/group_get.ts:15](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/group_get.ts#L15)

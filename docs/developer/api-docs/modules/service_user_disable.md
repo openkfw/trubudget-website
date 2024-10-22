@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/user_disable.ts:16](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/user_disable.ts#L16)
+[src/service/user_disable.ts:16](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/user_disable.ts#L16)

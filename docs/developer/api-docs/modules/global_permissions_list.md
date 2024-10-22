@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.lis
 
 #### Defined in
 
-[src/global_permissions_list.ts:64](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/global_permissions_list.ts#L64)
+[src/global_permissions_list.ts:64](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/global_permissions_list.ts#L64)

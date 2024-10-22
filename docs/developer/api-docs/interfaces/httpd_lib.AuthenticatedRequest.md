@@ -633,7 +633,7 @@ FastifyRequest.user
 
 #### Defined in
 
-[src/httpd/lib.ts:8](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/httpd/lib.ts#L8)
+[src/httpd/lib.ts:8](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/httpd/lib.ts#L8)
 
 ___
 

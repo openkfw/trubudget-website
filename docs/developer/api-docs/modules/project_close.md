@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.cl
 
 #### Defined in
 
-[src/project_close.ts:111](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/project_close.ts#L111)
+[src/project_close.ts:111](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/project_close.ts#L111)

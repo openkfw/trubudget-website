@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_list.ts:17](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_list.ts#L17)
+[src/service/domain/workflow/subproject_list.ts:17](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/workflow/subproject_list.ts#L17)

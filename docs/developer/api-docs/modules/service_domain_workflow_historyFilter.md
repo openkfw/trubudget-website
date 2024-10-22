@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/historyFilter.ts:21](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/historyFilter.ts#L21)
+[src/service/domain/workflow/historyFilter.ts:21](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/workflow/historyFilter.ts#L21)
 
 ## Functions
 
@@ -47,4 +47,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/historyFilter.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/historyFilter.ts#L23)
+[src/service/domain/workflow/historyFilter.ts:23](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/workflow/historyFilter.ts#L23)

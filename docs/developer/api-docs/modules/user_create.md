@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.cre
 
 #### Defined in
 
-[src/user_create.ts:168](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/user_create.ts#L168)
+[src/user_create.ts:168](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/user_create.ts#L168)

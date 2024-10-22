@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:25](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/auth_token.ts#L25)
+[src/service/domain/organization/auth_token.ts:25](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/auth_token.ts#L25)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:40](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/auth_token.ts#L40)
+[src/service/domain/organization/auth_token.ts:40](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/auth_token.ts#L40)
 
 ___
 
@@ -79,4 +79,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:86](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/auth_token.ts#L86)
+[src/service/domain/organization/auth_token.ts:86](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/auth_token.ts#L86)

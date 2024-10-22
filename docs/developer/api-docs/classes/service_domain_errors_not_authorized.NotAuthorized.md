@@ -56,7 +56,7 @@ VError.constructor
 
 #### Defined in
 
-[src/service/domain/errors/not_authorized.ts:33](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/errors/not_authorized.ts#L33)
+[src/service/domain/errors/not_authorized.ts:33](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/errors/not_authorized.ts#L33)
 
 ## Properties
 

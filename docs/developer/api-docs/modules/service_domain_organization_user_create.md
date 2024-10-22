@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_create.ts:54](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_create.ts#L54)
+[src/service/domain/organization/user_create.ts:54](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/user_create.ts#L54)
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_create.ts:39](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_create.ts#L39)
+[src/service/domain/organization/user_create.ts:39](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/user_create.ts#L39)

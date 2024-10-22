@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_trace_event.ts#L14)
+[src/service/domain/organization/user_trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/user_trace_event.ts#L14)

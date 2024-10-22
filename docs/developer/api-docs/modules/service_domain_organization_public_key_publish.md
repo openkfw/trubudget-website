@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_publish.ts:35](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_publish.ts#L35)
+[src/service/domain/organization/public_key_publish.ts:35](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/public_key_publish.ts#L35)
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_publish.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_publish.ts#L26)
+[src/service/domain/organization/public_key_publish.ts:26](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/organization/public_key_publish.ts#L26)

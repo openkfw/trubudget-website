@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_update.ts:13](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/storage_service_url_update.ts#L13)
+[src/service/domain/document/storage_service_url_update.ts:13](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/document/storage_service_url_update.ts#L13)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/storage_service_url_update.ts:14](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/storage_service_url_update.ts#L14)
+[src/service/domain/document/storage_service_url_update.ts:14](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/document/storage_service_url_update.ts#L14)

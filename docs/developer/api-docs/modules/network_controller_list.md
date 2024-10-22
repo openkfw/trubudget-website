@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/network/controller/list.ts:42](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/network/controller/list.ts#L42)
+[src/network/controller/list.ts:42](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/network/controller/list.ts#L42)

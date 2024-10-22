@@ -32,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/system_information/system_information_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/system_information/system_information_eventsourcing.ts#L11)
+[src/service/domain/system_information/system_information_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/2e1b1a6/api/src/service/domain/system_information/system_information_eventsourcing.ts#L11)
