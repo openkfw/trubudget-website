@@ -1,5 +1,4 @@
 # service/domain/network/nodes\_logged
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/network/nodes\_logged
 
 ## Table of contents
@@ -25,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:16](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/nodes_logged.ts#L16)
+[src/service/domain/network/nodes_logged.ts:16](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/network/nodes_logged.ts#L16)
 
 ## Functions
 
@@ -47,7 +46,7 @@
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/nodes_logged.ts#L22)
+[src/service/domain/network/nodes_logged.ts:22](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/network/nodes_logged.ts#L22)
 
 ___
 
@@ -67,4 +66,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:41](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/nodes_logged.ts#L41)
+[src/service/domain/network/nodes_logged.ts:41](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/network/nodes_logged.ts#L41)

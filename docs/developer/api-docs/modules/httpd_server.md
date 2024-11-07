@@ -1,5 +1,4 @@
 # httpd/server
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / httpd/server
 
 ## Table of contents
@@ -29,7 +28,7 @@
 
 #### Defined in
 
-[src/httpd/server.ts:118](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/httpd/server.ts#L118)
+[src/httpd/server.ts:118](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/httpd/server.ts#L118)
 
 ___
 
@@ -53,4 +52,4 @@ ___
 
 #### Defined in
 
-[src/httpd/server.ts:205](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/httpd/server.ts#L205)
+[src/httpd/server.ts:205](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/httpd/server.ts#L205)

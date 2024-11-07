@@ -1,5 +1,4 @@
 # KeyPair
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/key\_pair](../modules/service_domain_organization_key_pair.md) / KeyPair
 
 [service/domain/organization/key\_pair](../modules/service_domain_organization_key_pair.md).KeyPair
@@ -20,7 +19,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/key_pair.ts:2](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/key_pair.ts#L2)
+[src/service/domain/organization/key_pair.ts:2](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/key_pair.ts#L2)
 
 ___
 
@@ -30,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/key_pair.ts:4](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/key_pair.ts#L4)
+[src/service/domain/organization/key_pair.ts:4](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/key_pair.ts#L4)
 
 ___
 
@@ -40,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/key_pair.ts:3](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/key_pair.ts#L3)
+[src/service/domain/organization/key_pair.ts:3](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/key_pair.ts#L3)

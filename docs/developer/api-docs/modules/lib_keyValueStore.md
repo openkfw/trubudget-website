@@ -1,5 +1,4 @@
 # lib/keyValueStore
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/keyValueStore
 
 ## Table of contents
@@ -24,7 +23,7 @@
 
 #### Defined in
 
-[src/lib/keyValueStore.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/keyValueStore.ts#L23)
+[src/lib/keyValueStore.ts:23](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/keyValueStore.ts#L23)
 
 ___
 
@@ -44,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/lib/keyValueStore.ts:17](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/keyValueStore.ts#L17)
+[src/lib/keyValueStore.ts:17](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/keyValueStore.ts#L17)
 
 ___
 
@@ -58,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/lib/keyValueStore.ts:36](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/keyValueStore.ts#L36)
+[src/lib/keyValueStore.ts:36](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/keyValueStore.ts#L36)
 
 ___
 
@@ -78,7 +77,7 @@ ___
 
 #### Defined in
 
-[src/lib/keyValueStore.ts:15](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/keyValueStore.ts#L15)
+[src/lib/keyValueStore.ts:15](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/keyValueStore.ts#L15)
 
 ___
 
@@ -100,4 +99,4 @@ ___
 
 #### Defined in
 
-[src/lib/keyValueStore.ts:6](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/keyValueStore.ts#L6)
+[src/lib/keyValueStore.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/keyValueStore.ts#L6)

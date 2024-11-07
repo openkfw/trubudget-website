@@ -1,5 +1,4 @@
 # workflowitem\_create.v2
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_create.v2
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/v2/subproj
 
 #### Defined in
 
-[src/workflowitem_create.v2.ts:222](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/workflowitem_create.v2.ts#L222)
+[src/workflowitem_create.v2.ts:181](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/workflowitem_create.v2.ts#L181)

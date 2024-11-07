@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_permission\_granted
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_permission\_granted
 
 ## Table of contents
@@ -26,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:27](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_permission_granted.ts#L27)
+[src/service/domain/workflow/subproject_permission_granted.ts:27](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_permission_granted.ts#L27)
 
 ## Functions
 
@@ -53,7 +52,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:39](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_permission_granted.ts#L39)
+[src/service/domain/workflow/subproject_permission_granted.ts:39](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_permission_granted.ts#L39)
 
 ___
 
@@ -83,7 +82,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:83](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_permission_granted.ts#L83)
+[src/service/domain/workflow/subproject_permission_granted.ts:83](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_permission_granted.ts#L83)
 
 ___
 
@@ -103,4 +102,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_permission_granted.ts:68](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_permission_granted.ts#L68)
+[src/service/domain/workflow/subproject_permission_granted.ts:68](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_permission_granted.ts#L68)

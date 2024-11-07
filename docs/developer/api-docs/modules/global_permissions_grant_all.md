@@ -1,5 +1,4 @@
 # global\_permissions\_grant\_all
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / global\_permissions\_grant\_all
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/global.gra
 
 #### Defined in
 
-[src/global_permissions_grant_all.ts:121](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/global_permissions_grant_all.ts#L121)
+[src/global_permissions_grant_all.ts:121](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/global_permissions_grant_all.ts#L121)

@@ -1,5 +1,4 @@
 # service/domain/organization/identity
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/identity
 
 ## Table of contents
@@ -16,4 +15,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/identity.ts:4](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/identity.ts#L4)
+[src/service/domain/organization/identity.ts:4](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/identity.ts#L4)

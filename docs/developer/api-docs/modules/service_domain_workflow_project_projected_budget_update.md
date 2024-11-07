@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_projected\_budget\_update
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_projected\_budget\_update
 
 ## Table of contents
@@ -32,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_update.ts:28](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_projected_budget_update.ts#L28)
+[src/service/domain/workflow/project_projected_budget_update.ts:28](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/project_projected_budget_update.ts#L28)

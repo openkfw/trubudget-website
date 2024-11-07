@@ -1,5 +1,4 @@
 # AuthenticationFailed
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/errors/authentication\_failed](../modules/service_errors_authentication_failed.md) / AuthenticationFailed
 
 [service/errors/authentication\_failed](../modules/service_errors_authentication_failed.md).AuthenticationFailed
@@ -56,7 +55,7 @@ VError.constructor
 
 #### Defined in
 
-[src/service/errors/authentication_failed.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/errors/authentication_failed.ts#L20)
+[src/service/errors/authentication_failed.ts:20](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/errors/authentication_failed.ts#L20)
 
 ## Properties
 

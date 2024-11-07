@@ -1,5 +1,4 @@
 # service/user\_disable
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_disable
 
 ## Table of contents
@@ -30,4 +29,4 @@
 
 #### Defined in
 
-[src/service/user_disable.ts:16](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/user_disable.ts#L16)
+[src/service/user_disable.ts:16](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_disable.ts#L16)

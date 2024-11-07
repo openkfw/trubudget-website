@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_permission\_granted
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_permission\_granted
 
 ## Table of contents
@@ -26,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_permission_granted.ts#L26)
+[src/service/domain/workflow/project_permission_granted.ts:26](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/project_permission_granted.ts#L26)
 
 ## Functions
 
@@ -52,7 +51,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:37](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_permission_granted.ts#L37)
+[src/service/domain/workflow/project_permission_granted.ts:37](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/project_permission_granted.ts#L37)
 
 ___
 
@@ -82,7 +81,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:80](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_permission_granted.ts#L80)
+[src/service/domain/workflow/project_permission_granted.ts:80](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/project_permission_granted.ts#L80)
 
 ___
 
@@ -102,4 +101,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_granted.ts:65](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_permission_granted.ts#L65)
+[src/service/domain/workflow/project_permission_granted.ts:65](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/project_permission_granted.ts#L65)

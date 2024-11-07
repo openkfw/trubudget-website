@@ -1,5 +1,4 @@
 # service/workflowitem\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_create
 
 ## Table of contents
@@ -44,4 +43,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_workflowitem_crea
 
 #### Defined in
 
-[src/service/workflowitem_create.ts:40](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/workflowitem_create.ts#L40)
+[src/service/workflowitem_create.ts:41](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/workflowitem_create.ts#L41)

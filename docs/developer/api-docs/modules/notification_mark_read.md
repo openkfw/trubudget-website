@@ -1,5 +1,4 @@
 # notification\_mark\_read
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / notification\_mark\_read
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/notificati
 
 #### Defined in
 
-[src/notification_mark_read.ts:114](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/notification_mark_read.ts#L114)
+[src/notification_mark_read.ts:114](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/notification_mark_read.ts#L114)

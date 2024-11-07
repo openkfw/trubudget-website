@@ -1,5 +1,4 @@
 # service/domain/organization/user\_permission\_revoke
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_permission\_revoke
 
 ## Table of contents
@@ -32,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_permission_revoke.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_permission_revoke.ts#L23)
+[src/service/domain/organization/user_permission_revoke.ts:23](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_permission_revoke.ts#L23)

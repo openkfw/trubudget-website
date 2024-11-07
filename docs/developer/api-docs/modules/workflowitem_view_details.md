@@ -1,5 +1,4 @@
 # workflowitem\_view\_details
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_view\_details
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_view_details.ts:190](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/workflowitem_view_details.ts#L190)
+[src/workflowitem_view_details.ts:192](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/workflowitem_view_details.ts#L192)

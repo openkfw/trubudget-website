@@ -1,5 +1,4 @@
 # service/event\_parsing\_error
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/event\_parsing\_error
 
 ## Table of contents

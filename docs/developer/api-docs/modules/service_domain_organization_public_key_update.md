@@ -1,5 +1,4 @@
 # service/domain/organization/public\_key\_update
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/public\_key\_update
 
 ## Table of contents
@@ -34,7 +33,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_update.ts:34](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_update.ts#L34)
+[src/service/domain/organization/public_key_update.ts:34](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/public_key_update.ts#L34)
 
 ___
 
@@ -54,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_update.ts:25](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_update.ts#L25)
+[src/service/domain/organization/public_key_update.ts:25](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/public_key_update.ts#L25)

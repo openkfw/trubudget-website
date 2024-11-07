@@ -1,5 +1,4 @@
 # service/user\_permission\_revoke
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_permission\_revoke
 
 ## Table of contents
@@ -42,4 +41,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Defined in
 
-[src/service/user_permission_revoke.ts:19](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/user_permission_revoke.ts#L19)
+[src/service/user_permission_revoke.ts:19](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_permission_revoke.ts#L19)

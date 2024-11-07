@@ -1,5 +1,4 @@
 # EventSourcingError
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/event\_sourcing\_error](../modules/service_domain_errors_event_sourcing_error.md) / EventSourcingError
 
 [service/domain/errors/event\_sourcing\_error](../modules/service_domain_errors_event_sourcing_error.md).EventSourcingError
@@ -56,7 +55,7 @@ VError.constructor
 
 #### Defined in
 
-[src/service/domain/errors/event_sourcing_error.ts:32](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/errors/event_sourcing_error.ts#L32)
+[src/service/domain/errors/event_sourcing_error.ts:32](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/event_sourcing_error.ts#L32)
 
 ## Properties
 

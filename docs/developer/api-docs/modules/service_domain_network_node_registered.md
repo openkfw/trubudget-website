@@ -1,5 +1,4 @@
 # service/domain/network/node\_registered
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/network/node\_registered
 
 ## Table of contents
@@ -25,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/network/node_registered.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/node_registered.ts#L22)
+[src/service/domain/network/node_registered.ts:22](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/network/node_registered.ts#L22)
 
 ## Functions
 
@@ -50,7 +49,7 @@
 
 #### Defined in
 
-[src/service/domain/network/node_registered.ts:32](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/node_registered.ts#L32)
+[src/service/domain/network/node_registered.ts:32](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/network/node_registered.ts#L32)
 
 ___
 
@@ -70,4 +69,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/node_registered.ts:58](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/node_registered.ts#L58)
+[src/service/domain/network/node_registered.ts:58](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/network/node_registered.ts#L58)

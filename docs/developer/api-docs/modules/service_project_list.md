@@ -1,5 +1,4 @@
 # service/project\_list
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_list
 
 ## Table of contents
@@ -28,4 +27,4 @@
 
 #### Defined in
 
-[src/service/project_list.ts:13](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/project_list.ts#L13)
+[src/service/project_list.ts:13](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/project_list.ts#L13)

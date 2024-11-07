@@ -1,5 +1,4 @@
 # NotAuthorized
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/not\_authorized](../modules/service_domain_errors_not_authorized.md) / NotAuthorized
 
 [service/domain/errors/not\_authorized](../modules/service_domain_errors_not_authorized.md).NotAuthorized
@@ -56,7 +55,7 @@ VError.constructor
 
 #### Defined in
 
-[src/service/domain/errors/not_authorized.ts:33](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/errors/not_authorized.ts#L33)
+[src/service/domain/errors/not_authorized.ts:33](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/not_authorized.ts#L33)
 
 ## Properties
 

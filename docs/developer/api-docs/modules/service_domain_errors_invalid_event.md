@@ -1,5 +1,4 @@
 # service/domain/errors/invalid\_event
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/errors/invalid\_event
 
 ## Table of contents

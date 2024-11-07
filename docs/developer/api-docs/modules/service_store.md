@@ -1,5 +1,4 @@
 # service/store
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/store
 
 ## Table of contents
@@ -29,4 +28,4 @@
 
 #### Defined in
 
-[src/service/store.ts:16](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/store.ts#L16)
+[src/service/store.ts:16](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/store.ts#L16)

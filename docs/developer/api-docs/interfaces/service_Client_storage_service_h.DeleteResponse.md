@@ -1,5 +1,4 @@
 # DeleteResponse
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client\_storage\_service.h](../modules/service_Client_storage_service_h.md) / DeleteResponse
 
 [service/Client\_storage\_service.h](../modules/service_Client_storage_service_h.md).DeleteResponse
@@ -18,4 +17,4 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:21](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/Client_storage_service.h.ts#L21)
+[src/service/Client_storage_service.h.ts:21](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/Client_storage_service.h.ts#L21)

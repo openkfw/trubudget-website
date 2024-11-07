@@ -1,5 +1,4 @@
 # service/domain/additional\_data
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/additional\_data
 
 ## Table of contents
@@ -20,7 +19,7 @@
 
 #### Defined in
 
-[src/service/domain/additional_data.ts:3](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/additional_data.ts#L3)
+[src/service/domain/additional_data.ts:3](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/additional_data.ts#L3)
 
 ## Variables
 
@@ -30,4 +29,4 @@
 
 #### Defined in
 
-[src/service/domain/additional_data.ts:5](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/additional_data.ts#L5)
+[src/service/domain/additional_data.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/additional_data.ts#L5)

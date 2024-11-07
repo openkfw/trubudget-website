@@ -1,5 +1,4 @@
 # service/domain/organization/public\_key\_eventsourcing
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/public\_key\_eventsourcing
 
 ## Table of contents
@@ -20,7 +19,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_eventsourcing.ts#L11)
+[src/service/domain/organization/public_key_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/public_key_eventsourcing.ts#L11)
 
 ## Functions
 
@@ -46,4 +45,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_eventsourcing.ts:13](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_eventsourcing.ts#L13)
+[src/service/domain/organization/public_key_eventsourcing.ts:13](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/public_key_eventsourcing.ts#L13)

@@ -1,5 +1,4 @@
 # service/hash
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/hash
 
 ## Table of contents
@@ -26,4 +25,4 @@
 
 #### Defined in
 
-[src/service/hash.ts:3](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/hash.ts#L3)
+[src/service/hash.ts:3](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/hash.ts#L3)

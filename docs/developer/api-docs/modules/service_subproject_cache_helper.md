@@ -1,5 +1,4 @@
 # service/subproject\_cache\_helper
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_cache\_helper
 
 ## Table of contents
@@ -29,7 +28,7 @@
 
 #### Defined in
 
-[src/service/subproject_cache_helper.ts:27](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/subproject_cache_helper.ts#L27)
+[src/service/subproject_cache_helper.ts:27](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/subproject_cache_helper.ts#L27)
 
 ___
 
@@ -52,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/service/subproject_cache_helper.ts:12](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/subproject_cache_helper.ts#L12)
+[src/service/subproject_cache_helper.ts:12](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/subproject_cache_helper.ts#L12)

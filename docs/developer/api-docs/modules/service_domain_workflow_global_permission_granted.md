@@ -1,5 +1,4 @@
 # service/domain/workflow/global\_permission\_granted
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/global\_permission\_granted
 
 ## Table of contents
@@ -25,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/global_permission_granted.ts#L23)
+[src/service/domain/workflow/global_permission_granted.ts:23](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/global_permission_granted.ts#L23)
 
 ## Functions
 
@@ -50,7 +49,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:33](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/global_permission_granted.ts#L33)
+[src/service/domain/workflow/global_permission_granted.ts:33](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/global_permission_granted.ts#L33)
 
 ___
 
@@ -70,4 +69,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permission_granted.ts:58](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/global_permission_granted.ts#L58)
+[src/service/domain/workflow/global_permission_granted.ts:58](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/global_permission_granted.ts#L58)

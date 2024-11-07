@@ -1,5 +1,4 @@
 # lib/pagination
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/pagination
 
 ## Table of contents
@@ -41,7 +40,7 @@
 
 #### Defined in
 
-[src/lib/pagination.ts:12](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/pagination.ts#L12)
+[src/lib/pagination.ts:12](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/pagination.ts#L12)
 
 ___
 
@@ -74,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/lib/pagination.ts:45](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/pagination.ts#L45)
+[src/lib/pagination.ts:45](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/pagination.ts#L45)

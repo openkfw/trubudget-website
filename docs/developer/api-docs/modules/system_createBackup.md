@@ -1,5 +1,4 @@
 # system/createBackup
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/createBackup
 
 ## Table of contents
@@ -29,4 +28,4 @@
 
 #### Defined in
 
-[src/system/createBackup.ts:6](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/system/createBackup.ts#L6)
+[src/system/createBackup.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/system/createBackup.ts#L6)

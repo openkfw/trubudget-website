@@ -1,5 +1,4 @@
 # service/domain/organization/user\_record
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_record
 
 ## Table of contents
@@ -30,7 +29,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:13](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_record.ts#L13)
+[src/service/domain/organization/user_record.ts:13](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_record.ts#L13)
 
 ## Variables
 
@@ -40,7 +39,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:15](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_record.ts#L15)
+[src/service/domain/organization/user_record.ts:15](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_record.ts#L15)
 
 ___
 
@@ -50,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:14](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_record.ts#L14)
+[src/service/domain/organization/user_record.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_record.ts#L14)
 
 ## Functions
 
@@ -72,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:48](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_record.ts#L48)
+[src/service/domain/organization/user_record.ts:48](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_record.ts#L48)
 
 ___
 
@@ -92,4 +91,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_record.ts:43](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_record.ts#L43)
+[src/service/domain/organization/user_record.ts:43](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_record.ts#L43)

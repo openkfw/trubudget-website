@@ -1,5 +1,4 @@
 # app\_latest\_version
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / app\_latest\_version
 
 ## Table of contents
@@ -29,4 +28,4 @@ Creates an http handler that handles incoming http requests for the `/app.upgrad
 
 #### Defined in
 
-[src/app_latest_version.ts:112](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/app_latest_version.ts#L112)
+[src/app_latest_version.ts:112](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/app_latest_version.ts#L112)

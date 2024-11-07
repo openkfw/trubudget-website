@@ -1,5 +1,4 @@
 # service/global\_permission\_revoke
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/global\_permission\_revoke
 
 ## Table of contents
@@ -31,4 +30,4 @@
 
 #### Defined in
 
-[src/service/global_permission_revoke.ts:17](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/global_permission_revoke.ts#L17)
+[src/service/global_permission_revoke.ts:17](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/global_permission_revoke.ts#L17)

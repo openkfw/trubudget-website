@@ -1,5 +1,4 @@
 # GlobalPermissions
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/workflow/global\_permissions](../modules/service_domain_workflow_global_permissions.md) / GlobalPermissions
 
 [service/domain/workflow/global\_permissions](../modules/service_domain_workflow_global_permissions.md).GlobalPermissions
@@ -19,7 +18,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions.ts:18](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/global_permissions.ts#L18)
+[src/service/domain/workflow/global_permissions.ts:18](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/global_permissions.ts#L18)
 
 ___
 
@@ -29,4 +28,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions.ts:17](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/global_permissions.ts#L17)
+[src/service/domain/workflow/global_permissions.ts:17](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/global_permissions.ts#L17)

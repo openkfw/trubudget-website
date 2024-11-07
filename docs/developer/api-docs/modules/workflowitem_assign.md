@@ -1,5 +1,4 @@
 # workflowitem\_assign
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_assign
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_assign.ts:128](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/workflowitem_assign.ts#L128)
+[src/workflowitem_assign.ts:128](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/workflowitem_assign.ts#L128)

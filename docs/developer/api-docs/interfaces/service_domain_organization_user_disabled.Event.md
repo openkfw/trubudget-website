@@ -1,5 +1,4 @@
-# Event: 
- 
+# Event: service/domain/organization/user_disabled
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/user\_disabled](../modules/service_domain_organization_user_disabled.md) / Event
 
 [service/domain/organization/user\_disabled](../modules/service_domain_organization_user_disabled.md).Event
@@ -23,7 +22,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:28](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_disabled.ts#L28)
+[src/service/domain/organization/user_disabled.ts:28](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_disabled.ts#L28)
 
 ___
 
@@ -33,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_disabled.ts#L26)
+[src/service/domain/organization/user_disabled.ts:26](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_disabled.ts#L26)
 
 ___
 
@@ -43,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:24](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_disabled.ts#L24)
+[src/service/domain/organization/user_disabled.ts:24](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_disabled.ts#L24)
 
 ___
 
@@ -53,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:25](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_disabled.ts#L25)
+[src/service/domain/organization/user_disabled.ts:25](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_disabled.ts#L25)
 
 ___
 
@@ -63,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_disabled.ts#L23)
+[src/service/domain/organization/user_disabled.ts:23](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_disabled.ts#L23)
 
 ___
 
@@ -73,4 +72,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_disabled.ts:27](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_disabled.ts#L27)
+[src/service/domain/organization/user_disabled.ts:27](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_disabled.ts#L27)

@@ -1,5 +1,4 @@
 # service/domain/organization/group\_created
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_created
 
 ## Table of contents
@@ -25,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_created.ts:44](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group_created.ts#L44)
+[src/service/domain/organization/group_created.ts:44](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group_created.ts#L44)
 
 ## Functions
 
@@ -49,7 +48,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_created.ts:53](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group_created.ts#L53)
+[src/service/domain/organization/group_created.ts:53](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group_created.ts#L53)
 
 ___
 
@@ -69,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_created.ts:77](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group_created.ts#L77)
+[src/service/domain/organization/group_created.ts:77](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group_created.ts#L77)

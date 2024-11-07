@@ -1,5 +1,4 @@
 # service/workflowitem\_cache\_helper
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitem\_cache\_helper
 
 ## Table of contents
@@ -30,7 +29,7 @@
 
 #### Defined in
 
-[src/service/workflowitem_cache_helper.ts:28](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/workflowitem_cache_helper.ts#L28)
+[src/service/workflowitem_cache_helper.ts:28](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/workflowitem_cache_helper.ts#L28)
 
 ___
 
@@ -53,4 +52,4 @@ ___
 
 #### Defined in
 
-[src/service/workflowitem_cache_helper.ts:13](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/workflowitem_cache_helper.ts#L13)
+[src/service/workflowitem_cache_helper.ts:13](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/workflowitem_cache_helper.ts#L13)

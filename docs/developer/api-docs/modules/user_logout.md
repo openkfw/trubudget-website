@@ -1,5 +1,4 @@
 # user\_logout
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_logout
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/user.logou
 
 #### Defined in
 
-[src/user_logout.ts:114](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/user_logout.ts#L114)
+[src/user_logout.ts:114](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_logout.ts#L114)

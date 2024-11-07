@@ -1,5 +1,4 @@
 # service/domain/system\_information/provisioning\_started
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/system\_information/provisioning\_started
 
 ## Table of contents
@@ -25,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/system_information/provisioning_started.ts#L20)
+[src/service/domain/system_information/provisioning_started.ts:20](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/system_information/provisioning_started.ts#L20)
 
 ## Functions
 
@@ -48,7 +47,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:28](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/system_information/provisioning_started.ts#L28)
+[src/service/domain/system_information/provisioning_started.ts:28](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/system_information/provisioning_started.ts#L28)
 
 ___
 
@@ -68,4 +67,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_started.ts:51](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/system_information/provisioning_started.ts#L51)
+[src/service/domain/system_information/provisioning_started.ts:51](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/system_information/provisioning_started.ts#L51)

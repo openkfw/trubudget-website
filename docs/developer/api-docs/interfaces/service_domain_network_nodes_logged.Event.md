@@ -1,5 +1,4 @@
-# Event: 
- 
+# Event: service/domain/network/nodes_logged
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/network/nodes\_logged](../modules/service_domain_network_nodes_logged.md) / Event
 
 [service/domain/network/nodes\_logged](../modules/service_domain_network_nodes_logged.md).Event
@@ -20,7 +19,7 @@
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:12](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/nodes_logged.ts#L12)
+[src/service/domain/network/nodes_logged.ts:12](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/network/nodes_logged.ts#L12)
 
 ___
 
@@ -30,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:13](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/nodes_logged.ts#L13)
+[src/service/domain/network/nodes_logged.ts:13](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/network/nodes_logged.ts#L13)
 
 ___
 
@@ -40,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:11](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/network/nodes_logged.ts#L11)
+[src/service/domain/network/nodes_logged.ts:11](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/network/nodes_logged.ts#L11)

@@ -1,5 +1,4 @@
 # Ctx
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [lib/ctx](../modules/lib_ctx.md) / Ctx
 
 [lib/ctx](../modules/lib_ctx.md).Ctx
@@ -19,7 +18,7 @@
 
 #### Defined in
 
-[src/lib/ctx.ts:2](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/ctx.ts#L2)
+[src/lib/ctx.ts:2](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/ctx.ts#L2)
 
 ___
 
@@ -29,4 +28,4 @@ ___
 
 #### Defined in
 
-[src/lib/ctx.ts:3](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/ctx.ts#L3)
+[src/lib/ctx.ts:3](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/ctx.ts#L3)

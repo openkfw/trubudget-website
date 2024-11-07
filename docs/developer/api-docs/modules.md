@@ -3,7 +3,6 @@ sidebar_position: 2
 sidebar_label: Table of Contents
 ---
 # Api Code Documentation
- 
 [Api Code Documentation](README.md) / Exports
 
 ## Table of contents
@@ -494,6 +493,7 @@ sidebar_label: Table of Contents
 - [workflowitem\_permission\_revoke](modules/workflowitem_permission_revoke.md)
 - [workflowitem\_permissions\_list](modules/workflowitem_permissions_list.md)
 - [workflowitem\_update](modules/workflowitem_update.md)
+- [workflowitem\_update.v2](modules/workflowitem_update_v2.md)
 - [workflowitem\_validate\_document](modules/workflowitem_validate_document.md)
 - [workflowitem\_view\_details](modules/workflowitem_view_details.md)
 - [workflowitem\_view\_history](modules/workflowitem_view_history.md)

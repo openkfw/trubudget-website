@@ -1,5 +1,4 @@
 # StorageServiceClientI
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client\_storage\_service.h](../modules/service_Client_storage_service_h.md) / StorageServiceClientI
 
 [service/Client\_storage\_service.h](../modules/service_Client_storage_service_h.md).StorageServiceClientI
@@ -37,7 +36,7 @@
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:61](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/Client_storage_service.h.ts#L61)
+[src/service/Client_storage_service.h.ts:61](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/Client_storage_service.h.ts#L61)
 
 ___
 
@@ -60,7 +59,7 @@ Download an object using the matching secret
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:60](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/Client_storage_service.h.ts#L60)
+[src/service/Client_storage_service.h.ts:60](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/Client_storage_service.h.ts#L60)
 
 ___
 
@@ -76,7 +75,7 @@ Get version of conncted storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:38](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/Client_storage_service.h.ts#L38)
+[src/service/Client_storage_service.h.ts:38](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/Client_storage_service.h.ts#L38)
 
 ___
 
@@ -92,7 +91,7 @@ Get readiness sattus of storage service
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:33](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/Client_storage_service.h.ts#L33)
+[src/service/Client_storage_service.h.ts:33](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/Client_storage_service.h.ts#L33)
 
 ___
 
@@ -116,4 +115,4 @@ Upload an object using the
 
 #### Defined in
 
-[src/service/Client_storage_service.h.ts:53](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/Client_storage_service.h.ts#L53)
+[src/service/Client_storage_service.h.ts:53](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/Client_storage_service.h.ts#L53)

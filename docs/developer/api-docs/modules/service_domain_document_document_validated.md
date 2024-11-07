@@ -1,5 +1,4 @@
 # service/domain/document/document\_validated
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/document\_validated
 
 ## Table of contents
@@ -26,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:27](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_validated.ts#L27)
+[src/service/domain/document/document_validated.ts:27](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/document_validated.ts#L27)
 
 ## Functions
 
@@ -54,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:40](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_validated.ts#L40)
+[src/service/domain/document/document_validated.ts:40](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/document_validated.ts#L40)
 
 ___
 
@@ -84,7 +83,7 @@ workflowitem is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:85](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_validated.ts#L85)
+[src/service/domain/document/document_validated.ts:85](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/document_validated.ts#L85)
 
 ___
 
@@ -104,4 +103,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_validated.ts:70](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/document/document_validated.ts#L70)
+[src/service/domain/document/document_validated.ts:70](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/document_validated.ts#L70)

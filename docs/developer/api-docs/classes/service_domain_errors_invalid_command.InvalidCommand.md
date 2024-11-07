@@ -1,5 +1,4 @@
 # InvalidCommand
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/invalid\_command](../modules/service_domain_errors_invalid_command.md) / InvalidCommand
 
 [service/domain/errors/invalid\_command](../modules/service_domain_errors_invalid_command.md).InvalidCommand
@@ -51,7 +50,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_command.ts:5](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/errors/invalid_command.ts#L5)
+[src/service/domain/errors/invalid_command.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/invalid_command.ts#L5)
 
 ## Properties
 
@@ -61,7 +60,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_command.ts:7](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/errors/invalid_command.ts#L7)
+[src/service/domain/errors/invalid_command.ts:7](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/invalid_command.ts#L7)
 
 ___
 
@@ -71,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_command.ts:6](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/errors/invalid_command.ts#L6)
+[src/service/domain/errors/invalid_command.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/invalid_command.ts#L6)
 
 ___
 
@@ -123,7 +122,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_command.ts:8](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/errors/invalid_command.ts#L8)
+[src/service/domain/errors/invalid_command.ts:8](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/invalid_command.ts#L8)
 
 ___
 

@@ -1,5 +1,4 @@
 # lib/readiness
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/readiness
 
 ## Table of contents
@@ -27,7 +26,7 @@
 
 #### Defined in
 
-[src/lib/readiness.ts:5](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/readiness.ts#L5)
+[src/lib/readiness.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/readiness.ts#L5)
 
 ___
 
@@ -47,4 +46,4 @@ ___
 
 #### Defined in
 
-[src/lib/readiness.ts:27](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/readiness.ts#L27)
+[src/lib/readiness.ts:27](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/readiness.ts#L27)

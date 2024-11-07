@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_permission\_revoke
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_permission\_revoke
 
 ## Table of contents
@@ -31,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_permission_revoke.ts:24](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_permission_revoke.ts#L24)
+[src/service/domain/workflow/project_permission_revoke.ts:24](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/project_permission_revoke.ts#L24)

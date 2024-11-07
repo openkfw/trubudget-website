@@ -1,5 +1,4 @@
 # EncryptedItemToPublish
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/RpcClient.h](../modules/service_RpcClient_h.md) / EncryptedItemToPublish
 
 [service/RpcClient.h](../modules/service_RpcClient_h.md).EncryptedItemToPublish
@@ -18,4 +17,4 @@
 
 #### Defined in
 
-[src/service/RpcClient.h.ts:54](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/RpcClient.h.ts#L54)
+[src/service/RpcClient.h.ts:54](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/RpcClient.h.ts#L54)
