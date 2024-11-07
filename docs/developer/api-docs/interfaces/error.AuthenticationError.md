@@ -1,5 +1,4 @@
 # AuthenticationError
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [error](../modules/error.md) / AuthenticationError
 
 [error](../modules/error.md).AuthenticationError
@@ -21,7 +20,7 @@ Error type thrown when an error occurred during authentication
 
 #### Defined in
 
-[src/error.ts:33](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/error.ts#L33)
+[src/error.ts:33](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/error.ts#L33)
 
 ___
 
@@ -31,4 +30,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:34](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/error.ts#L34)
+[src/error.ts:34](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/error.ts#L34)

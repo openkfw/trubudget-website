@@ -1,5 +1,4 @@
 # service/workflowitems\_reorder
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/workflowitems\_reorder
 
 ## Table of contents
@@ -31,4 +30,4 @@
 
 #### Defined in
 
-[src/service/workflowitems_reorder.ts:17](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/workflowitems_reorder.ts#L17)
+[src/service/workflowitems_reorder.ts:17](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/workflowitems_reorder.ts#L17)

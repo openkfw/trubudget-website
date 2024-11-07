@@ -1,5 +1,4 @@
 # service/project\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/project\_create
 
 ## Table of contents
@@ -39,4 +38,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Defined in
 
-[src/service/project_create.ts:18](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/project_create.ts#L18)
+[src/service/project_create.ts:18](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/project_create.ts#L18)

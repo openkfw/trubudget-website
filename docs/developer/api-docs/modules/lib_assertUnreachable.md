@@ -1,5 +1,4 @@
 # lib/assertUnreachable
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/assertUnreachable
 
 ## Table of contents
@@ -26,4 +25,4 @@
 
 #### Defined in
 
-[src/lib/assertUnreachable.ts:24](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/assertUnreachable.ts#L24)
+[src/lib/assertUnreachable.ts:24](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/assertUnreachable.ts#L24)

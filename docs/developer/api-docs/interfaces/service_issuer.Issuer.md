@@ -1,5 +1,4 @@
 # Issuer
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/issuer](../modules/service_issuer.md) / Issuer
 
 [service/issuer](../modules/service_issuer.md).Issuer
@@ -19,7 +18,7 @@
 
 #### Defined in
 
-[src/service/issuer.ts:3](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/issuer.ts#L3)
+[src/service/issuer.ts:3](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/issuer.ts#L3)
 
 ___
 
@@ -29,4 +28,4 @@ ___
 
 #### Defined in
 
-[src/service/issuer.ts:2](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/issuer.ts#L2)
+[src/service/issuer.ts:2](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/issuer.ts#L2)

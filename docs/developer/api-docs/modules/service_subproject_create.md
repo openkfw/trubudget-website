@@ -1,5 +1,4 @@
 # service/subproject\_create
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_create
 
 ## Table of contents
@@ -43,4 +42,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_subproject_create
 
 #### Defined in
 
-[src/service/subproject_create.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/subproject_create.ts#L26)
+[src/service/subproject_create.ts:26](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/subproject_create.ts#L26)

@@ -1,5 +1,4 @@
 # http\_errors
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / http\_errors
 
 ## Table of contents
@@ -36,4 +35,4 @@ an error object containing appropriate status code and an ErrorBody
 
 #### Defined in
 
-[src/http_errors.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/http_errors.ts#L22)
+[src/http_errors.ts:22](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/http_errors.ts#L22)

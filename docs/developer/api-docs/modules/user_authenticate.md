@@ -1,5 +1,4 @@
 # user\_authenticate
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_authenticate
 
 ## Table of contents
@@ -20,7 +19,7 @@
 
 #### Defined in
 
-[src/user_authenticate.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/user_authenticate.ts#L22)
+[src/user_authenticate.ts:22](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_authenticate.ts#L22)
 
 ## Functions
 
@@ -45,4 +44,4 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 #### Defined in
 
-[src/user_authenticate.ts:209](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/user_authenticate.ts#L209)
+[src/user_authenticate.ts:209](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_authenticate.ts#L209)

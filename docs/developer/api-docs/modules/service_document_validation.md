@@ -1,5 +1,4 @@
 # service/document\_validation
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/document\_validation
 
 ## Table of contents
@@ -36,4 +35,4 @@ Returns true if the given hash matches the given document.
 
 #### Defined in
 
-[src/service/document_validation.ts:27](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/document_validation.ts#L27)
+[src/service/document_validation.ts:27](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/document_validation.ts#L27)

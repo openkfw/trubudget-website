@@ -1,5 +1,4 @@
 # service/domain/organization/public\_key\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/public\_key\_get
 
 ## Table of contents
@@ -29,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_get.ts:16](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_get.ts#L16)
+[src/service/domain/organization/public_key_get.ts:16](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/public_key_get.ts#L16)
 
 ___
 
@@ -51,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_get.ts:33](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_get.ts#L33)
+[src/service/domain/organization/public_key_get.ts:33](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/public_key_get.ts#L33)
 
 ___
 
@@ -73,4 +72,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_get.ts:57](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_get.ts#L57)
+[src/service/domain/organization/public_key_get.ts:57](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/public_key_get.ts#L57)

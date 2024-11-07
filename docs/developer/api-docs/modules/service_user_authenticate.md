@@ -1,5 +1,4 @@
 # service/user\_authenticate
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_authenticate
 
 ## Table of contents
@@ -39,7 +38,7 @@
 
 #### Defined in
 
-[src/service/user_authenticate.ts:42](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/user_authenticate.ts#L42)
+[src/service/user_authenticate.ts:42](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_authenticate.ts#L42)
 
 ___
 
@@ -64,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:116](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/user_authenticate.ts#L116)
+[src/service/user_authenticate.ts:116](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_authenticate.ts#L116)
 
 ___
 
@@ -89,4 +88,4 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:200](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/user_authenticate.ts#L200)
+[src/service/user_authenticate.ts:200](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_authenticate.ts#L200)

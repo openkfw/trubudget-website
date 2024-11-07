@@ -1,5 +1,4 @@
 # service/domain/workflow/project\_close
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_close
 
 ## Table of contents
@@ -29,4 +28,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_close.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/project_close.ts#L26)
+[src/service/domain/workflow/project_close.ts:26](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/project_close.ts#L26)

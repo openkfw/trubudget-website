@@ -1,5 +1,4 @@
 # service/cache\_snapshot
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/cache\_snapshot
 
 ## Table of contents
@@ -32,7 +31,7 @@
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:80](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/cache_snapshot.ts#L80)
+[src/service/cache_snapshot.ts:80](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/cache_snapshot.ts#L80)
 
 ▸ **getLatestSnapshot**(`ctx`, `conn`, `streamName`, `key`, `eventType`): `Promise`\<[`Type`](result.md#type)\<[`Subproject`](../interfaces/service_domain_workflow_subproject.Subproject.md)\>\>
 
@@ -52,7 +51,7 @@
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:88](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/cache_snapshot.ts#L88)
+[src/service/cache_snapshot.ts:88](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/cache_snapshot.ts#L88)
 
 ▸ **getLatestSnapshot**(`ctx`, `conn`, `streamName`, `key`, `eventType`): `Promise`\<[`Type`](result.md#type)\<[`Workflowitem`](../interfaces/service_domain_workflow_workflowitem.Workflowitem.md)\>\>
 
@@ -72,7 +71,7 @@
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:96](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/cache_snapshot.ts#L96)
+[src/service/cache_snapshot.ts:96](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/cache_snapshot.ts#L96)
 
 ___
 
@@ -93,7 +92,7 @@ ___
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:338](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/cache_snapshot.ts#L338)
+[src/service/cache_snapshot.ts:338](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/cache_snapshot.ts#L338)
 
 ___
 
@@ -120,4 +119,4 @@ ___
 
 #### Defined in
 
-[src/service/cache_snapshot.ts:190](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/cache_snapshot.ts#L190)
+[src/service/cache_snapshot.ts:190](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/cache_snapshot.ts#L190)

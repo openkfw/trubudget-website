@@ -1,5 +1,4 @@
 # service/domain/workflowitem\_types/apply\_workflowitem\_type
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflowitem\_types/apply\_workflowitem\_type
 
 ## Table of contents
@@ -29,4 +28,4 @@
 
 #### Defined in
 
-[src/service/domain/workflowitem_types/apply_workflowitem_type.ts:9](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflowitem_types/apply_workflowitem_type.ts#L9)
+[src/service/domain/workflowitem_types/apply_workflowitem_type.ts:9](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflowitem_types/apply_workflowitem_type.ts#L9)

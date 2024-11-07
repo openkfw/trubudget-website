@@ -1,5 +1,4 @@
 # httpd/instrumentation
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / httpd/instrumentation
 
 ## Table of contents
@@ -20,4 +19,4 @@
 
 #### Defined in
 
-[src/httpd/instrumentation.ts:8](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/httpd/instrumentation.ts#L8)
+[src/httpd/instrumentation.ts:8](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/httpd/instrumentation.ts#L8)

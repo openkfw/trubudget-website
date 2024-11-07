@@ -1,5 +1,4 @@
 # service/domain/workflow/workflowitem\_updated
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_updated
 
 ## Table of contents
@@ -28,7 +27,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:40](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_updated.ts#L40)
+[src/service/domain/workflow/workflowitem_updated.ts:41](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_updated.ts#L41)
 
 ___
 
@@ -38,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:67](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_updated.ts#L67)
+[src/service/domain/workflow/workflowitem_updated.ts:69](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_updated.ts#L69)
 
 ## Functions
 
@@ -65,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:79](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_updated.ts#L79)
+[src/service/domain/workflow/workflowitem_updated.ts:81](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_updated.ts#L81)
 
 ___
 
@@ -95,7 +94,7 @@ workflowitem is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:125](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_updated.ts#L125)
+[src/service/domain/workflow/workflowitem_updated.ts:127](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_updated.ts#L127)
 
 ___
 
@@ -115,4 +114,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_updated.ts:110](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_updated.ts#L110)
+[src/service/domain/workflow/workflowitem_updated.ts:112](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_updated.ts#L112)

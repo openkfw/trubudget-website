@@ -1,5 +1,4 @@
 # AuthenticatedRequest
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [httpd/lib](../modules/httpd_lib.md) / AuthenticatedRequest
 
 [httpd/lib](../modules/httpd_lib.md).AuthenticatedRequest
@@ -633,7 +632,7 @@ FastifyRequest.user
 
 #### Defined in
 
-[src/httpd/lib.ts:8](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/httpd/lib.ts#L8)
+[src/httpd/lib.ts:8](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/httpd/lib.ts#L8)
 
 ___
 

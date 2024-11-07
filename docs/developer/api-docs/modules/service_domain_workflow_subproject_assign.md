@@ -1,5 +1,4 @@
 # service/domain/workflow/subproject\_assign
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_assign
 
 ## Table of contents
@@ -31,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_assign.ts:25](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/subproject_assign.ts#L25)
+[src/service/domain/workflow/subproject_assign.ts:25](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_assign.ts#L25)

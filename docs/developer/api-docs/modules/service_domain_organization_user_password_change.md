@@ -1,5 +1,4 @@
 # service/domain/organization/user\_password\_change
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_password\_change
 
 ## Table of contents
@@ -35,7 +34,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_password_change.ts:39](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_password_change.ts#L39)
+[src/service/domain/organization/user_password_change.ts:39](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_password_change.ts#L39)
 
 ___
 
@@ -55,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_password_change.ts:29](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_password_change.ts#L29)
+[src/service/domain/organization/user_password_change.ts:29](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_password_change.ts#L29)

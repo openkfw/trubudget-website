@@ -1,5 +1,4 @@
 # project\_budget\_update\_projected
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / project\_budget\_update\_projected
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/project.bu
 
 #### Defined in
 
-[src/project_budget_update_projected.ts:146](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/project_budget_update_projected.ts#L146)
+[src/project_budget_update_projected.ts:146](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/project_budget_update_projected.ts#L146)

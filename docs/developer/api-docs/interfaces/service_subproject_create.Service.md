@@ -1,5 +1,4 @@
 # Service
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/subproject\_create](../modules/service_subproject_create.md) / Service
 
 [service/subproject\_create](../modules/service_subproject_create.md).Service
@@ -30,4 +29,4 @@
 
 #### Defined in
 
-[src/service/subproject_create.ts:19](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/subproject_create.ts#L19)
+[src/service/subproject_create.ts:19](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/subproject_create.ts#L19)

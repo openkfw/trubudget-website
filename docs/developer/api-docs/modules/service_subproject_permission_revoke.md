@@ -1,5 +1,4 @@
 # service/subproject\_permission\_revoke
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_permission\_revoke
 
 ## Table of contents
@@ -42,4 +41,4 @@ Re-exports [RequestData](../interfaces/service_domain_workflow_project_create.Re
 
 #### Defined in
 
-[src/service/subproject_permission_revoke.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/subproject_permission_revoke.ts#L20)
+[src/service/subproject_permission_revoke.ts:20](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/subproject_permission_revoke.ts#L20)

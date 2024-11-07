@@ -1,5 +1,4 @@
-# RequestData: 
- 
+# RequestData: service/domain/organization/public_key_update
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/public\_key\_update](../modules/service_domain_organization_public_key_update.md) / RequestData
 
 [service/domain/organization/public\_key\_update](../modules/service_domain_organization_public_key_update.md).RequestData
@@ -19,7 +18,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_update.ts:16](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_update.ts#L16)
+[src/service/domain/organization/public_key_update.ts:16](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/public_key_update.ts#L16)
 
 ___
 
@@ -29,4 +28,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/public_key_update.ts:17](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/public_key_update.ts#L17)
+[src/service/domain/organization/public_key_update.ts:17](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/public_key_update.ts#L17)

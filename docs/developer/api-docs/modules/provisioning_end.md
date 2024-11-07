@@ -1,5 +1,4 @@
 # provisioning\_end
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / provisioning\_end
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/provisioni
 
 #### Defined in
 
-[src/provisioning_end.ts:101](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/provisioning_end.ts#L101)
+[src/provisioning_end.ts:101](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/provisioning_end.ts#L101)

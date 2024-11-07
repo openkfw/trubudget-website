@@ -1,5 +1,4 @@
 # service/domain/errors/already\_exists
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/errors/already\_exists
 
 ## Table of contents

@@ -1,5 +1,4 @@
 # service/domain/organization/user\_trace\_event
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_trace\_event
 
 ## Table of contents
@@ -20,4 +19,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_trace_event.ts#L14)
+[src/service/domain/organization/user_trace_event.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_trace_event.ts#L14)

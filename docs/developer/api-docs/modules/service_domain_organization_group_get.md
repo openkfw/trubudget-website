@@ -1,5 +1,4 @@
 # service/domain/organization/group\_get
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_get
 
 ## Table of contents
@@ -29,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_get.ts:37](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group_get.ts#L37)
+[src/service/domain/organization/group_get.ts:37](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group_get.ts#L37)
 
 ___
 
@@ -52,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_get.ts:15](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group_get.ts#L15)
+[src/service/domain/organization/group_get.ts:15](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group_get.ts#L15)

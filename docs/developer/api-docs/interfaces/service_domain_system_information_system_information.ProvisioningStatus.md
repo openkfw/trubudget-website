@@ -1,5 +1,4 @@
 # ProvisioningStatus
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/system\_information/system\_information](../modules/service_domain_system_information_system_information.md) / ProvisioningStatus
 
 [service/domain/system\_information/system\_information](../modules/service_domain_system_information_system_information.md).ProvisioningStatus
@@ -19,7 +18,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/system_information.ts:7](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/system_information/system_information.ts#L7)
+[src/service/domain/system_information/system_information.ts:7](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/system_information/system_information.ts#L7)
 
 ___
 
@@ -29,4 +28,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/system_information.ts:8](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/system_information/system_information.ts#L8)
+[src/service/domain/system_information/system_information.ts:8](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/system_information/system_information.ts#L8)

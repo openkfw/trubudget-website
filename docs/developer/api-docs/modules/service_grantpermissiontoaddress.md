@@ -1,5 +1,4 @@
 # service/grantpermissiontoaddress
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/grantpermissiontoaddress
 
 ## Table of contents
@@ -28,4 +27,4 @@
 
 #### Defined in
 
-[src/service/grantpermissiontoaddress.ts:5](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/grantpermissiontoaddress.ts#L5)
+[src/service/grantpermissiontoaddress.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/grantpermissiontoaddress.ts#L5)

@@ -1,5 +1,4 @@
 # network/controller/registerNode
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/registerNode
 
 ## Table of contents
@@ -28,7 +27,7 @@
 
 #### Defined in
 
-[src/network/controller/registerNode.ts:12](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/network/controller/registerNode.ts#L12)
+[src/network/controller/registerNode.ts:12](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/network/controller/registerNode.ts#L12)
 
 ___
 
@@ -51,4 +50,4 @@ ___
 
 #### Defined in
 
-[src/network/controller/registerNode.ts:50](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/network/controller/registerNode.ts#L50)
+[src/network/controller/registerNode.ts:50](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/network/controller/registerNode.ts#L50)

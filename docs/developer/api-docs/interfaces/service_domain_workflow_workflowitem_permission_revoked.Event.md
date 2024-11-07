@@ -1,5 +1,4 @@
-# Event: 
- 
+# Event: service/domain/workflow/workflowitem_permission_revoked
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/workflow/workflowitem\_permission\_revoked](../modules/service_domain_workflow_workflowitem_permission_revoked.md) / Event
 
 [service/domain/workflow/workflowitem\_permission\_revoked](../modules/service_domain_workflow_workflowitem_permission_revoked.md).Event
@@ -27,7 +26,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L26)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:26](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L26)
 
 ___
 
@@ -37,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:24](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L24)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:24](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L24)
 
 ___
 
@@ -47,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:21](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L21)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:21](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L21)
 
 ___
 
@@ -57,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:20](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L20)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:20](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L20)
 
 ___
 
@@ -67,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:25](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L25)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:25](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L25)
 
 ___
 
@@ -77,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:18](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L18)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:18](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L18)
 
 ___
 
@@ -87,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L22)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:22](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L22)
 
 ___
 
@@ -97,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:19](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L19)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:19](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L19)
 
 ___
 
@@ -107,7 +106,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:17](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L17)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:17](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L17)
 
 ___
 
@@ -117,4 +116,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoked.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L23)
+[src/service/domain/workflow/workflowitem_permission_revoked.ts:23](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permission_revoked.ts#L23)

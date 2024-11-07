@@ -1,5 +1,4 @@
 # ProjectAndSubprojects
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [httpd](../modules/httpd.md) / ProjectAndSubprojects
 
 [httpd](../modules/httpd.md).ProjectAndSubprojects
@@ -19,7 +18,7 @@
 
 #### Defined in
 
-[src/httpd/index.ts:154](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/httpd/index.ts#L154)
+[src/httpd/index.ts:154](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/httpd/index.ts#L154)
 
 ___
 
@@ -29,4 +28,4 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:155](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/httpd/index.ts#L155)
+[src/httpd/index.ts:155](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/httpd/index.ts#L155)

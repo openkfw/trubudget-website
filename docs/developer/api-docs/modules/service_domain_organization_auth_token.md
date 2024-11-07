@@ -1,5 +1,4 @@
 # service/domain/organization/auth\_token
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/auth\_token
 
 ## Table of contents
@@ -35,7 +34,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:25](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/auth_token.ts#L25)
+[src/service/domain/organization/auth_token.ts:25](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/auth_token.ts#L25)
 
 ___
 
@@ -57,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:40](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/auth_token.ts#L40)
+[src/service/domain/organization/auth_token.ts:40](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/auth_token.ts#L40)
 
 ___
 
@@ -79,4 +78,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/auth_token.ts:86](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/auth_token.ts#L86)
+[src/service/domain/organization/auth_token.ts:86](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/auth_token.ts#L86)

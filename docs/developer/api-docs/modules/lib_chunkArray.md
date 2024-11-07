@@ -1,5 +1,4 @@
 # lib/chunkArray
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/chunkArray
 
 ## Table of contents
@@ -33,4 +32,4 @@
 
 #### Defined in
 
-[src/lib/chunkArray.ts:3](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/lib/chunkArray.ts#L3)
+[src/lib/chunkArray.ts:3](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/chunkArray.ts#L3)

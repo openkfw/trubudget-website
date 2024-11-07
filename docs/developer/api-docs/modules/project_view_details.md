@@ -1,5 +1,4 @@
 # project\_view\_details
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / project\_view\_details
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/project.vi
 
 #### Defined in
 
-[src/project_view_details.ts:183](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/project_view_details.ts#L183)
+[src/project_view_details.ts:183](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/project_view_details.ts#L183)

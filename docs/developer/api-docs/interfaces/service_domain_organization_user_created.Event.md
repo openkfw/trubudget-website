@@ -1,5 +1,4 @@
-# Event: 
- 
+# Event: service/domain/organization/user_created
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/user\_created](../modules/service_domain_organization_user_created.md) / Event
 
 [service/domain/organization/user\_created](../modules/service_domain_organization_user_created.md).Event
@@ -23,7 +22,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:47](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_created.ts#L47)
+[src/service/domain/organization/user_created.ts:47](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_created.ts#L47)
 
 ___
 
@@ -33,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:45](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_created.ts#L45)
+[src/service/domain/organization/user_created.ts:45](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_created.ts#L45)
 
 ___
 
@@ -43,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:43](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_created.ts#L43)
+[src/service/domain/organization/user_created.ts:43](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_created.ts#L43)
 
 ___
 
@@ -53,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:44](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_created.ts#L44)
+[src/service/domain/organization/user_created.ts:44](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_created.ts#L44)
 
 ___
 
@@ -63,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:42](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_created.ts#L42)
+[src/service/domain/organization/user_created.ts:42](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_created.ts#L42)
 
 ___
 
@@ -73,4 +72,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_created.ts:46](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/user_created.ts#L46)
+[src/service/domain/organization/user_created.ts:46](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_created.ts#L46)

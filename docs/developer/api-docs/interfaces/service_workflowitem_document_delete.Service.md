@@ -1,5 +1,4 @@
 # Service
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/workflowitem\_document\_delete](../modules/service_workflowitem_document_delete.md) / Service
 
 [service/workflowitem\_document\_delete](../modules/service_workflowitem_document_delete.md).Service
@@ -33,4 +32,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_document_delete.ts:30](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/workflowitem_document_delete.ts#L30)
+[src/service/workflowitem_document_delete.ts:30](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/workflowitem_document_delete.ts#L30)

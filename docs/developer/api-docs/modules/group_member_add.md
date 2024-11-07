@@ -1,5 +1,4 @@
 # group\_member\_add
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / group\_member\_add
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/group.addU
 
 #### Defined in
 
-[src/group_member_add.ts:124](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/group_member_add.ts#L124)
+[src/group_member_add.ts:124](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/group_member_add.ts#L124)

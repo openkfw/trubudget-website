@@ -1,5 +1,4 @@
 # EventParsingError
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/event\_parsing\_error](../modules/service_event_parsing_error.md) / EventParsingError
 
 [service/event\_parsing\_error](../modules/service_event_parsing_error.md).EventParsingError
@@ -49,7 +48,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/event_parsing_error.ts#L4)
 
 ## Properties
 
@@ -59,7 +58,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/event_parsing_error.ts#L4)
 
 ___
 
@@ -69,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/event_parsing_error.ts#L4)
 
 ___
 

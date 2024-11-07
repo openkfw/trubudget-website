@@ -1,5 +1,4 @@
 # workflowitem\_validate\_document
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_validate\_document
 
 ## Table of contents
@@ -30,4 +29,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_validate_document.ts:153](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/workflowitem_validate_document.ts#L153)
+[src/workflowitem_validate_document.ts:153](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/workflowitem_validate_document.ts#L153)

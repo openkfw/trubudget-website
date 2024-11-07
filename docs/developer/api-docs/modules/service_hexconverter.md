@@ -1,5 +1,4 @@
 # service/hexconverter
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/hexconverter
 
 ## Table of contents
@@ -29,7 +28,7 @@
 
 #### Defined in
 
-[src/service/hexconverter.ts:50](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/hexconverter.ts#L50)
+[src/service/hexconverter.ts:50](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/hexconverter.ts#L50)
 
 ___
 
@@ -49,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/service/hexconverter.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/hexconverter.ts#L23)
+[src/service/hexconverter.ts:23](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/hexconverter.ts#L23)
 
 ___
 
@@ -69,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/service/hexconverter.ts:38](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/hexconverter.ts#L38)
+[src/service/hexconverter.ts:38](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/hexconverter.ts#L38)
 
 ___
 
@@ -89,4 +88,4 @@ ___
 
 #### Defined in
 
-[src/service/hexconverter.ts:9](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/hexconverter.ts#L9)
+[src/service/hexconverter.ts:9](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/hexconverter.ts#L9)

@@ -1,5 +1,4 @@
 # service/errors/authentication\_failed
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/errors/authentication\_failed
 
 ## Table of contents

@@ -1,5 +1,4 @@
 # service/subproject\_assign
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/subproject\_assign
 
 ## Table of contents
@@ -31,4 +30,4 @@
 
 #### Defined in
 
-[src/service/subproject_assign.ts:18](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/subproject_assign.ts#L18)
+[src/service/subproject_assign.ts:18](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/subproject_assign.ts#L18)

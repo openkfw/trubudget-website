@@ -1,5 +1,4 @@
 # Group
- 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/group](../modules/service_domain_organization_group.md) / Group
 
 [service/domain/organization/group](../modules/service_domain_organization_group.md).Group
@@ -25,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:29](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group.ts#L29)
+[src/service/domain/organization/group.ts:29](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L29)
 
 ___
 
@@ -35,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:22](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group.ts#L22)
+[src/service/domain/organization/group.ts:22](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L22)
 
 ___
 
@@ -45,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:24](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group.ts#L24)
+[src/service/domain/organization/group.ts:24](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L24)
 
 ___
 
@@ -55,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:23](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group.ts#L23)
+[src/service/domain/organization/group.ts:23](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L23)
 
 ___
 
@@ -65,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:21](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group.ts#L21)
+[src/service/domain/organization/group.ts:21](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L21)
 
 ___
 
@@ -75,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:27](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group.ts#L27)
+[src/service/domain/organization/group.ts:27](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L27)
 
 ___
 
@@ -85,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:25](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group.ts#L25)
+[src/service/domain/organization/group.ts:25](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L25)
 
 ___
 
@@ -95,4 +94,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:26](https://github.com/openkfw/TruBudget/blob/90402cb/api/src/service/domain/organization/group.ts#L26)
+[src/service/domain/organization/group.ts:26](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L26)
