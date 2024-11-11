@@ -1,4 +1,5 @@
 # service/domain/errors/not\_authorized
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/errors/not\_authorized
 
 ## Table of contents

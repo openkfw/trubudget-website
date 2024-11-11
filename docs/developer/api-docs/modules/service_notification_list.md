@@ -1,4 +1,5 @@
 # service/notification\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/notification\_list
 
 ## Table of contents
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/service/notification_list.ts:12](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/notification_list.ts#L12)
+[src/service/notification_list.ts:12](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/notification_list.ts#L12)

@@ -1,4 +1,5 @@
 # UnsupportedEventVersion
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [error](../modules/error.md) / UnsupportedEventVersion
 
 [error](../modules/error.md).UnsupportedEventVersion
@@ -20,7 +21,7 @@ Error type thrown when an event version is not supported
 
 #### Defined in
 
-[src/error.ts:82](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/error.ts#L82)
+[src/error.ts:82](https://github.com/openkfw/TruBudget/blob/086d599/api/src/error.ts#L82)
 
 ___
 
@@ -30,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:81](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/error.ts#L81)
+[src/error.ts:81](https://github.com/openkfw/TruBudget/blob/086d599/api/src/error.ts#L81)

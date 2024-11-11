@@ -1,4 +1,5 @@
 # service/domain/workflow/subproject\_update
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_update
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:22](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_update.ts#L22)
+[src/service/domain/workflow/subproject_update.ts:22](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_update.ts#L22)
 
 ## Variables
 
@@ -34,7 +35,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:23](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_update.ts#L23)
+[src/service/domain/workflow/subproject_update.ts:23](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_update.ts#L23)
 
 ## Functions
 
@@ -59,7 +60,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:38](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_update.ts#L38)
+[src/service/domain/workflow/subproject_update.ts:38](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_update.ts#L38)
 
 ___
 
@@ -79,4 +80,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_update.ts:25](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_update.ts#L25)
+[src/service/domain/workflow/subproject_update.ts:25](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_update.ts#L25)

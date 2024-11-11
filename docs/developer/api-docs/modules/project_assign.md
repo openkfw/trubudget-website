@@ -1,4 +1,5 @@
 # project\_assign
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / project\_assign
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.as
 
 #### Defined in
 
-[src/project_assign.ts:118](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/project_assign.ts#L118)
+[src/project_assign.ts:118](https://github.com/openkfw/TruBudget/blob/086d599/api/src/project_assign.ts#L118)

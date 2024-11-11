@@ -1,4 +1,5 @@
 # network/controller/logNodes
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / network/controller/logNodes
 
 ## Table of contents
@@ -26,7 +27,7 @@
 
 #### Defined in
 
-[src/network/controller/logNodes.ts:24](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/network/controller/logNodes.ts#L24)
+[src/network/controller/logNodes.ts:24](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/controller/logNodes.ts#L24)
 
 ___
 
@@ -47,4 +48,4 @@ ___
 
 #### Defined in
 
-[src/network/controller/logNodes.ts:9](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/network/controller/logNodes.ts#L9)
+[src/network/controller/logNodes.ts:9](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/controller/logNodes.ts#L9)

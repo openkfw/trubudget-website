@@ -1,4 +1,5 @@
 # user\_enable
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_enable
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.ena
 
 #### Defined in
 
-[src/user_enable.ts:114](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_enable.ts#L114)
+[src/user_enable.ts:114](https://github.com/openkfw/TruBudget/blob/086d599/api/src/user_enable.ts#L114)

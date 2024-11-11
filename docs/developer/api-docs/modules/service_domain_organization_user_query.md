@@ -1,4 +1,5 @@
 # service/domain/organization/user\_query
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_query
 
 ## Table of contents
@@ -30,7 +31,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_query.ts:31](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_query.ts#L31)
+[src/service/domain/organization/user_query.ts:31](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/user_query.ts#L31)
 
 ___
 
@@ -52,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_query.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_query.ts#L14)
+[src/service/domain/organization/user_query.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/user_query.ts#L14)
 
 ___
 
@@ -75,4 +76,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_query.ts:51](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_query.ts#L51)
+[src/service/domain/organization/user_query.ts:51](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/user_query.ts#L51)

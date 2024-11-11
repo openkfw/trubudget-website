@@ -1,4 +1,5 @@
 # service/domain/document/workflowitem\_document\_delete
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/document/workflowitem\_document\_delete
 
 ## Table of contents
@@ -36,7 +37,7 @@ A promise that resolves to an object containing the new events.
 
 #### Defined in
 
-[src/service/domain/document/workflowitem_document_delete.ts:137](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/workflowitem_document_delete.ts#L137)
+[src/service/domain/document/workflowitem_document_delete.ts:137](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/document/workflowitem_document_delete.ts#L137)
 
 ___
 
@@ -56,4 +57,4 @@ obj is ExternalLinkReference
 
 #### Defined in
 
-[src/service/domain/document/workflowitem_document_delete.ts:24](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/workflowitem_document_delete.ts#L24)
+[src/service/domain/document/workflowitem_document_delete.ts:24](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/document/workflowitem_document_delete.ts#L24)

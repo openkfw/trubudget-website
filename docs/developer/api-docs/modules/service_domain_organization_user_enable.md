@@ -1,4 +1,5 @@
 # service/domain/organization/user\_enable
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_enable
 
 ## Table of contents
@@ -34,7 +35,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_enable.ts:38](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_enable.ts#L38)
+[src/service/domain/organization/user_enable.ts:38](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/user_enable.ts#L38)
 
 ___
 
@@ -54,4 +55,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_enable.ts:28](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_enable.ts#L28)
+[src/service/domain/organization/user_enable.ts:28](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/user_enable.ts#L28)

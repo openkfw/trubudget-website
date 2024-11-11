@@ -1,4 +1,5 @@
 # workflowitem\_update.v2
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_update.v2
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_update.v2.ts:115](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/workflowitem_update.v2.ts#L115)
+[src/workflowitem_update.v2.ts:115](https://github.com/openkfw/TruBudget/blob/086d599/api/src/workflowitem_update.v2.ts#L115)

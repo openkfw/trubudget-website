@@ -1,4 +1,5 @@
 # service/domain/workflow/subproject\_updated
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_updated
 
 ## Table of contents
@@ -27,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:43](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_updated.ts#L43)
+[src/service/domain/workflow/subproject_updated.ts:43](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_updated.ts#L43)
 
 ___
 
@@ -37,7 +38,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:33](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_updated.ts#L33)
+[src/service/domain/workflow/subproject_updated.ts:33](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_updated.ts#L33)
 
 ## Functions
 
@@ -63,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:54](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_updated.ts#L54)
+[src/service/domain/workflow/subproject_updated.ts:54](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_updated.ts#L54)
 
 ___
 
@@ -93,7 +94,7 @@ subproject is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:96](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_updated.ts#L96)
+[src/service/domain/workflow/subproject_updated.ts:96](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_updated.ts#L96)
 
 ___
 
@@ -113,4 +114,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:81](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_updated.ts#L81)
+[src/service/domain/workflow/subproject_updated.ts:81](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_updated.ts#L81)

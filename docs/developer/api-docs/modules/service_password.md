@@ -1,4 +1,5 @@
 # service/password
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/password
 
 ## Table of contents
@@ -21,7 +22,7 @@
 
 #### Defined in
 
-[src/service/password.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/password.ts#L6)
+[src/service/password.ts:6](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/password.ts#L6)
 
 ___
 
@@ -31,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/service/password.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/password.ts#L5)
+[src/service/password.ts:5](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/password.ts#L5)
 
 ## Functions
 
@@ -53,7 +54,7 @@ Create a password hash.
 
 #### Defined in
 
-[src/service/password.ts:11](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/password.ts#L11)
+[src/service/password.ts:11](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/password.ts#L11)
 
 ___
 
@@ -78,4 +79,4 @@ Uses a "constant-time" algorithm to counter timing attacks.
 
 #### Defined in
 
-[src/service/password.ts:19](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/password.ts#L19)
+[src/service/password.ts:19](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/password.ts#L19)

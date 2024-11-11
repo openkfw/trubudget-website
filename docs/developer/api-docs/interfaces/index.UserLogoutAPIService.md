@@ -1,4 +1,5 @@
 # UserLogoutAPIService
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [index](../modules/index.md) / UserLogoutAPIService
 
 [index](../modules/index.md).UserLogoutAPIService
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/index.ts:435](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/index.ts#L435)
+[src/index.ts:435](https://github.com/openkfw/TruBudget/blob/086d599/api/src/index.ts#L435)

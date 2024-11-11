@@ -1,4 +1,5 @@
 # PermissionInfo
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [network/model/Nodes](../modules/network_model_Nodes.md) / PermissionInfo
 
 [network/model/Nodes](../modules/network_model_Nodes.md).PermissionInfo
@@ -21,7 +22,7 @@
 
 #### Defined in
 
-[src/network/model/Nodes.ts:39](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/network/model/Nodes.ts#L39)
+[src/network/model/Nodes.ts:39](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/model/Nodes.ts#L39)
 
 ___
 
@@ -31,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:41](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/network/model/Nodes.ts#L41)
+[src/network/model/Nodes.ts:41](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/model/Nodes.ts#L41)
 
 ___
 
@@ -41,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:40](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/network/model/Nodes.ts#L40)
+[src/network/model/Nodes.ts:40](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/model/Nodes.ts#L40)
 
 ___
 
@@ -51,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:38](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/network/model/Nodes.ts#L38)
+[src/network/model/Nodes.ts:38](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/model/Nodes.ts#L38)
 
 ___
 
@@ -61,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/network/model/Nodes.ts:37](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/network/model/Nodes.ts#L37)
+[src/network/model/Nodes.ts:37](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/model/Nodes.ts#L37)

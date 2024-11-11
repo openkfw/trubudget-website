@@ -1,4 +1,5 @@
 # httpd/router
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / httpd/router
 
 ## Table of contents
@@ -32,4 +33,4 @@
 
 #### Defined in
 
-[src/httpd/router.ts:220](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/httpd/router.ts#L220)
+[src/httpd/router.ts:220](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/router.ts#L220)

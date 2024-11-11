@@ -1,4 +1,5 @@
 # PreconditionError
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/precondition\_error](../modules/service_domain_errors_precondition_error.md) / PreconditionError
 
 [service/domain/errors/precondition\_error](../modules/service_domain_errors_precondition_error.md).PreconditionError
@@ -49,7 +50,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/precondition_error.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/precondition_error.ts#L5)
+[src/service/domain/errors/precondition_error.ts:5](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/errors/precondition_error.ts#L5)
 
 ## Properties
 
@@ -59,7 +60,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/precondition_error.ts:7](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/precondition_error.ts#L7)
+[src/service/domain/errors/precondition_error.ts:7](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/errors/precondition_error.ts#L7)
 
 ___
 
@@ -69,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/precondition_error.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/precondition_error.ts#L6)
+[src/service/domain/errors/precondition_error.ts:6](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/errors/precondition_error.ts#L6)
 
 ___
 

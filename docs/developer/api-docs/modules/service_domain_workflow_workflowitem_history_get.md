@@ -1,4 +1,5 @@
 # service/domain/workflow/workflowitem\_history\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_history\_get
 
 ## Table of contents
@@ -31,4 +32,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_history_get.ts:21](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_history_get.ts#L21)
+[src/service/domain/workflow/workflowitem_history_get.ts:21](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/workflowitem_history_get.ts#L21)

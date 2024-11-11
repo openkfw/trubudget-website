@@ -1,4 +1,5 @@
 # service/document\_share
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/document\_share
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/document_share.ts:22](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/document_share.ts#L22)
+[src/service/document_share.ts:22](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/document_share.ts#L22)

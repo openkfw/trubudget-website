@@ -1,4 +1,5 @@
 # service/storage\_service\_url\_update
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/storage\_service\_url\_update
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/storage_service_url_update.ts:13](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/storage_service_url_update.ts#L13)
+[src/service/storage_service_url_update.ts:13](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/storage_service_url_update.ts#L13)

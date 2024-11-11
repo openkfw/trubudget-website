@@ -1,4 +1,5 @@
 # lib/loggingTools
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/loggingTools
 
 ## Table of contents
@@ -25,4 +26,4 @@
 
 #### Defined in
 
-[src/lib/loggingTools.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/loggingTools.ts#L5)
+[src/lib/loggingTools.ts:5](https://github.com/openkfw/TruBudget/blob/086d599/api/src/lib/loggingTools.ts#L5)

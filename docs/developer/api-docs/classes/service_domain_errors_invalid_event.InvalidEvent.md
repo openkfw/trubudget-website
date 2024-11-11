@@ -1,4 +1,5 @@
 # InvalidEvent
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/errors/invalid\_event](../modules/service_domain_errors_invalid_event.md) / InvalidEvent
 
 [service/domain/errors/invalid\_event](../modules/service_domain_errors_invalid_event.md).InvalidEvent
@@ -50,7 +51,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/invalid_event.ts#L5)
+[src/service/domain/errors/invalid_event.ts:5](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/errors/invalid_event.ts#L5)
 
 ## Properties
 
@@ -60,7 +61,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:7](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/invalid_event.ts#L7)
+[src/service/domain/errors/invalid_event.ts:7](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/errors/invalid_event.ts#L7)
 
 ___
 
@@ -70,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/invalid_event.ts#L6)
+[src/service/domain/errors/invalid_event.ts:6](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/errors/invalid_event.ts#L6)
 
 ___
 
@@ -122,7 +123,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/errors/invalid_event.ts:8](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/errors/invalid_event.ts#L8)
+[src/service/domain/errors/invalid_event.ts:8](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/errors/invalid_event.ts#L8)
 
 ___
 

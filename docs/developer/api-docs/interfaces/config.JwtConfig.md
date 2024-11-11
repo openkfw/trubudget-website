@@ -1,4 +1,5 @@
 # JwtConfig
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [config](../modules/config.md) / JwtConfig
 
 [config](../modules/config.md).JwtConfig
@@ -19,7 +20,7 @@
 
 #### Defined in
 
-[src/config.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/config.ts#L6)
+[src/config.ts:6](https://github.com/openkfw/TruBudget/blob/086d599/api/src/config.ts#L6)
 
 ___
 
@@ -29,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/config.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/config.ts#L5)
+[src/config.ts:5](https://github.com/openkfw/TruBudget/blob/086d599/api/src/config.ts#L5)
 
 ___
 
@@ -39,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/config.ts:4](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/config.ts#L4)
+[src/config.ts:4](https://github.com/openkfw/TruBudget/blob/086d599/api/src/config.ts#L4)

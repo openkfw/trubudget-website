@@ -1,4 +1,5 @@
 # group\_create
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / group\_create
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.cre
 
 #### Defined in
 
-[src/group_create.ts:166](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/group_create.ts#L166)
+[src/group_create.ts:166](https://github.com/openkfw/TruBudget/blob/086d599/api/src/group_create.ts#L166)

@@ -1,4 +1,5 @@
 # user\_refreshToken
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_refreshToken
 
 ## Table of contents
@@ -30,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 #### Defined in
 
-[src/user_refreshToken.ts:158](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_refreshToken.ts#L158)
+[src/user_refreshToken.ts:158](https://github.com/openkfw/TruBudget/blob/086d599/api/src/user_refreshToken.ts#L158)

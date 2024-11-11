@@ -1,4 +1,5 @@
 # service/group\_member\_remove
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/group\_member\_remove
 
 ## Table of contents
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/group_member_remove.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/group_member_remove.ts#L14)
+[src/service/group_member_remove.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/group_member_remove.ts#L14)

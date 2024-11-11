@@ -1,4 +1,5 @@
 # service/public\_key\_update
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/public\_key\_update
 
 ## Table of contents
@@ -28,4 +29,4 @@
 
 #### Defined in
 
-[src/service/public_key_update.ts:20](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/public_key_update.ts#L20)
+[src/service/public_key_update.ts:20](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/public_key_update.ts#L20)

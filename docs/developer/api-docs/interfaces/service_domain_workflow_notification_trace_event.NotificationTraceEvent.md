@@ -1,4 +1,5 @@
 # NotificationTraceEvent
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/workflow/notification\_trace\_event](../modules/service_domain_workflow_notification_trace_event.md) / NotificationTraceEvent
 
 [service/domain/workflow/notification\_trace\_event](../modules/service_domain_workflow_notification_trace_event.md).NotificationTraceEvent
@@ -19,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_trace_event.ts:8](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/notification_trace_event.ts#L8)
+[src/service/domain/workflow/notification_trace_event.ts:8](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_trace_event.ts#L8)
 
 ___
 
@@ -29,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_trace_event.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/notification_trace_event.ts#L6)
+[src/service/domain/workflow/notification_trace_event.ts:6](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_trace_event.ts#L6)
 
 ___
 
@@ -39,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_trace_event.ts:7](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/notification_trace_event.ts#L7)
+[src/service/domain/workflow/notification_trace_event.ts:7](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_trace_event.ts#L7)

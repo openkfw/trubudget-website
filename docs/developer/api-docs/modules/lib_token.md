@@ -1,4 +1,5 @@
 # lib/token
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/token
 
 ## Table of contents
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/lib/token.ts:3](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/token.ts#L3)
+[src/lib/token.ts:3](https://github.com/openkfw/TruBudget/blob/086d599/api/src/lib/token.ts#L3)

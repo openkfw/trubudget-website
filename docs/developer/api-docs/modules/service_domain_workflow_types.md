@@ -1,4 +1,5 @@
 # service/domain/workflow/types
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/types
 
 ## Table of contents
@@ -19,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/types.ts:3](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/types.ts#L3)
+[src/service/domain/workflow/types.ts:3](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/types.ts#L3)
 
 ## Variables
 
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/types.ts:7](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/types.ts#L7)
+[src/service/domain/workflow/types.ts:7](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/types.ts#L7)

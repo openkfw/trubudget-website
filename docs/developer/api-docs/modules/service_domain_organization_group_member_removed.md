@@ -1,4 +1,5 @@
 # service/domain/organization/group\_member\_removed
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group\_member\_removed
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_member_removed.ts:24](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group_member_removed.ts#L24)
+[src/service/domain/organization/group_member_removed.ts:24](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group_member_removed.ts#L24)
 
 ## Functions
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_member_removed.ts:34](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group_member_removed.ts#L34)
+[src/service/domain/organization/group_member_removed.ts:34](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group_member_removed.ts#L34)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_member_removed.ts:60](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group_member_removed.ts#L60)
+[src/service/domain/organization/group_member_removed.ts:60](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group_member_removed.ts#L60)

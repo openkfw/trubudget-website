@@ -1,4 +1,5 @@
 # lib/timeout
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/timeout
 
 ## Table of contents
@@ -25,4 +26,4 @@
 
 #### Defined in
 
-[src/lib/timeout.ts:1](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/timeout.ts#L1)
+[src/lib/timeout.ts:1](https://github.com/openkfw/TruBudget/blob/086d599/api/src/lib/timeout.ts#L1)

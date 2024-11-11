@@ -1,4 +1,5 @@
 # service/domain/workflow/notification\_created
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/notification\_created
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:34](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/notification_created.ts#L34)
+[src/service/domain/workflow/notification_created.ts:34](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_created.ts#L34)
 
 ## Functions
 
@@ -52,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:49](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/notification_created.ts#L49)
+[src/service/domain/workflow/notification_created.ts:49](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_created.ts#L49)
 
 ___
 
@@ -72,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:82](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/notification_created.ts#L82)
+[src/service/domain/workflow/notification_created.ts:82](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_created.ts#L82)

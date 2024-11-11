@@ -1,4 +1,5 @@
 # StreamItemPair
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/Client.h](../modules/service_Client_h.md) / StreamItemPair
 
 [service/Client.h](../modules/service_Client_h.md).StreamItemPair
@@ -18,7 +19,7 @@
 
 #### Defined in
 
-[src/service/Client.h.ts:109](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/Client.h.ts#L109)
+[src/service/Client.h.ts:109](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/Client.h.ts#L109)
 
 ___
 
@@ -28,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/service/Client.h.ts:110](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/Client.h.ts#L110)
+[src/service/Client.h.ts:110](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/Client.h.ts#L110)

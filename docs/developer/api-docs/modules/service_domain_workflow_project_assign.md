@@ -1,4 +1,5 @@
 # service/domain/workflow/project\_assign
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/project\_assign
 
 ## Table of contents
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_assign.ts:25](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/project_assign.ts#L25)
+[src/service/domain/workflow/project_assign.ts:25](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_assign.ts#L25)

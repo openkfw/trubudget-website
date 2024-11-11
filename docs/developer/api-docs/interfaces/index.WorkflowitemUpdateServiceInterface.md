@@ -1,4 +1,5 @@
 # WorkflowitemUpdateServiceInterface
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [index](../modules/index.md) / WorkflowitemUpdateServiceInterface
 
 [index](../modules/index.md).WorkflowitemUpdateServiceInterface
@@ -34,4 +35,4 @@ Represents the service that updates a workflowitem
 
 #### Defined in
 
-[src/index.ts:910](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/index.ts#L910)
+[src/index.ts:910](https://github.com/openkfw/TruBudget/blob/086d599/api/src/index.ts#L910)

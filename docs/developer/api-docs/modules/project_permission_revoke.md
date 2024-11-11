@@ -1,4 +1,5 @@
 # project\_permission\_revoke
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / project\_permission\_revoke
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.in
 
 #### Defined in
 
-[src/project_permission_revoke.ts:130](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/project_permission_revoke.ts#L130)
+[src/project_permission_revoke.ts:130](https://github.com/openkfw/TruBudget/blob/086d599/api/src/project_permission_revoke.ts#L130)
