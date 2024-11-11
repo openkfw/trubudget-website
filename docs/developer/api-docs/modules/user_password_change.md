@@ -1,4 +1,5 @@
 # user\_password\_change
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_password\_change
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/user.chang
 
 #### Defined in
 
-[src/user_password_change.ts:117](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_password_change.ts#L117)
+[src/user_password_change.ts:117](https://github.com/openkfw/TruBudget/blob/086d599/api/src/user_password_change.ts#L117)

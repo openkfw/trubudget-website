@@ -1,4 +1,5 @@
 # authz/history
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / authz/history
 
 ## Table of contents
@@ -26,4 +27,4 @@
 
 #### Defined in
 
-[src/authz/history.ts:31](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/authz/history.ts#L31)
+[src/authz/history.ts:31](https://github.com/openkfw/TruBudget/blob/086d599/api/src/authz/history.ts#L31)

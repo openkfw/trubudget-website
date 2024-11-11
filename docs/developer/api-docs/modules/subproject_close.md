@@ -1,4 +1,5 @@
 # subproject\_close
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / subproject\_close
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/subproject
 
 #### Defined in
 
-[src/subproject_close.ts:120](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/subproject_close.ts#L120)
+[src/subproject_close.ts:120](https://github.com/openkfw/TruBudget/blob/086d599/api/src/subproject_close.ts#L120)

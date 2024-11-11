@@ -1,4 +1,5 @@
 # service/domain/organization/group
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/group
 
 ## Table of contents
@@ -31,7 +32,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:13](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L13)
+[src/service/domain/organization/group.ts:13](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group.ts#L13)
 
 ___
 
@@ -41,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:16](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L16)
+[src/service/domain/organization/group.ts:16](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group.ts#L16)
 
 ## Variables
 
@@ -51,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L14)
+[src/service/domain/organization/group.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group.ts#L14)
 
 ___
 
@@ -61,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:17](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L17)
+[src/service/domain/organization/group.ts:17](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group.ts#L17)
 
 ___
 
@@ -71,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:18](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L18)
+[src/service/domain/organization/group.ts:18](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group.ts#L18)
 
 ## Functions
 
@@ -93,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:48](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L48)
+[src/service/domain/organization/group.ts:48](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group.ts#L48)
 
 ___
 
@@ -113,4 +114,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group.ts:43](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/group.ts#L43)
+[src/service/domain/organization/group.ts:43](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group.ts#L43)

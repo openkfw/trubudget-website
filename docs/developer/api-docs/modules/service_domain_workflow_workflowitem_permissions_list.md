@@ -1,4 +1,5 @@
 # service/domain/workflow/workflowitem\_permissions\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/workflowitem\_permissions\_list
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permissions_list.ts:21](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/workflowitem_permissions_list.ts#L21)
+[src/service/domain/workflow/workflowitem_permissions_list.ts:21](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/workflowitem_permissions_list.ts#L21)

@@ -1,4 +1,5 @@
 # http\_errors/bad\_request
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / http\_errors/bad\_request
 
 ## Table of contents

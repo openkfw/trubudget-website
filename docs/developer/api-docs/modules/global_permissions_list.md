@@ -1,4 +1,5 @@
 # global\_permissions\_list
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / global\_permissions\_list
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.lis
 
 #### Defined in
 
-[src/global_permissions_list.ts:64](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/global_permissions_list.ts#L64)
+[src/global_permissions_list.ts:64](https://github.com/openkfw/TruBudget/blob/086d599/api/src/global_permissions_list.ts#L64)

@@ -1,4 +1,5 @@
 # system/ensureOrganizationUrlPublished
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / system/ensureOrganizationUrlPublished
 
 ## Table of contents
@@ -26,4 +27,4 @@
 
 #### Defined in
 
-[src/system/ensureOrganizationUrlPublished.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/system/ensureOrganizationUrlPublished.ts#L14)
+[src/system/ensureOrganizationUrlPublished.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/system/ensureOrganizationUrlPublished.ts#L14)

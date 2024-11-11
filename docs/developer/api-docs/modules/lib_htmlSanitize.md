@@ -1,4 +1,5 @@
 # lib/htmlSanitize
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/htmlSanitize
 
 ## Table of contents
@@ -27,4 +28,4 @@
 
 #### Defined in
 
-[src/lib/htmlSanitize.ts:4](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/htmlSanitize.ts#L4)
+[src/lib/htmlSanitize.ts:4](https://github.com/openkfw/TruBudget/blob/086d599/api/src/lib/htmlSanitize.ts#L4)

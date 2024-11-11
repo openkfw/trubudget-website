@@ -1,4 +1,5 @@
 # user\_authenticateAd
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_authenticateAd
 
 ## Table of contents
@@ -30,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/user.authe
 
 #### Defined in
 
-[src/user_authenticateAd.ts:196](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_authenticateAd.ts#L196)
+[src/user_authenticateAd.ts:196](https://github.com/openkfw/TruBudget/blob/086d599/api/src/user_authenticateAd.ts#L196)

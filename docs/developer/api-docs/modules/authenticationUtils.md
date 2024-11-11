@@ -1,4 +1,5 @@
 # authenticationUtils
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / authenticationUtils
 
 ## Table of contents
@@ -20,7 +21,7 @@
 
 #### Defined in
 
-[src/authenticationUtils.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/authenticationUtils.ts#L6)
+[src/authenticationUtils.ts:6](https://github.com/openkfw/TruBudget/blob/086d599/api/src/authenticationUtils.ts#L6)
 
 ___
 
@@ -30,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/authenticationUtils.ts:5](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/authenticationUtils.ts#L5)
+[src/authenticationUtils.ts:5](https://github.com/openkfw/TruBudget/blob/086d599/api/src/authenticationUtils.ts#L5)
 
 ## Functions
 
@@ -56,4 +57,4 @@ a string containing the encoded JWT token
 
 #### Defined in
 
-[src/authenticationUtils.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/authenticationUtils.ts#L14)
+[src/authenticationUtils.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/authenticationUtils.ts#L14)

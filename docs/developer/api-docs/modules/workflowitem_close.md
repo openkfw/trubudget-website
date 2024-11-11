@@ -1,4 +1,5 @@
 # workflowitem\_close
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / workflowitem\_close
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_close.ts:129](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/workflowitem_close.ts#L129)
+[src/workflowitem_close.ts:129](https://github.com/openkfw/TruBudget/blob/086d599/api/src/workflowitem_close.ts#L129)

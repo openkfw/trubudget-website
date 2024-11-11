@@ -1,4 +1,5 @@
 # handlerUtils
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / handlerUtils
 
 ## Table of contents
@@ -27,7 +28,7 @@
 
 #### Defined in
 
-[src/handlerUtils.ts:6](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/handlerUtils.ts#L6)
+[src/handlerUtils.ts:6](https://github.com/openkfw/TruBudget/blob/086d599/api/src/handlerUtils.ts#L6)
 
 ___
 
@@ -47,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/handlerUtils.ts:16](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/handlerUtils.ts#L16)
+[src/handlerUtils.ts:16](https://github.com/openkfw/TruBudget/blob/086d599/api/src/handlerUtils.ts#L16)
 
 ___
 
@@ -67,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/handlerUtils.ts:25](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/handlerUtils.ts#L25)
+[src/handlerUtils.ts:25](https://github.com/openkfw/TruBudget/blob/086d599/api/src/handlerUtils.ts#L25)

@@ -1,4 +1,5 @@
 # service/user\_enable
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/user\_enable
 
 ## Table of contents
@@ -29,4 +30,4 @@
 
 #### Defined in
 
-[src/service/user_enable.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_enable.ts#L14)
+[src/service/user_enable.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_enable.ts#L14)

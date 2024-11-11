@@ -1,4 +1,5 @@
 # service/domain/organization/user\_eventsourcing
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/organization/user\_eventsourcing
 
 ## Table of contents
@@ -30,7 +31,7 @@ Returns a new user with the given event applied, or an error.
 
 #### Defined in
 
-[src/service/domain/organization/user_eventsourcing.ts:147](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_eventsourcing.ts#L147)
+[src/service/domain/organization/user_eventsourcing.ts:147](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/user_eventsourcing.ts#L147)
 
 ___
 
@@ -57,4 +58,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/user_eventsourcing.ts:19](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_eventsourcing.ts#L19)
+[src/service/domain/organization/user_eventsourcing.ts:19](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/user_eventsourcing.ts#L19)

@@ -1,4 +1,5 @@
 # user\_create
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_create
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.cre
 
 #### Defined in
 
-[src/user_create.ts:168](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_create.ts#L168)
+[src/user_create.ts:168](https://github.com/openkfw/TruBudget/blob/086d599/api/src/user_create.ts#L168)

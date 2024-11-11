@@ -1,4 +1,5 @@
 # service/domain/workflow/subproject\_history\_get
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_history\_get
 
 ## Table of contents
@@ -30,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_history_get.ts:17](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_history_get.ts#L17)
+[src/service/domain/workflow/subproject_history_get.ts:17](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_history_get.ts#L17)

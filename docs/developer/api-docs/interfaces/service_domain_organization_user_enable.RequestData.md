@@ -1,4 +1,5 @@
-# RequestData: service/domain/organization/user_enable
+# RequestData: 
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/organization/user\_enable](../modules/service_domain_organization_user_enable.md) / RequestData
 
 [service/domain/organization/user\_enable](../modules/service_domain_organization_user_enable.md).RequestData
@@ -17,4 +18,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/user_enable.ts:21](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/organization/user_enable.ts#L21)
+[src/service/domain/organization/user_enable.ts:21](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/user_enable.ts#L21)

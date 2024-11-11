@@ -1,4 +1,5 @@
 # service/domain/permissions
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/permissions
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/permissions.ts:8](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/permissions.ts#L8)
+[src/service/domain/permissions.ts:8](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/permissions.ts#L8)
 
 ___
 
@@ -34,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/permissions.ts:7](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/permissions.ts#L7)
+[src/service/domain/permissions.ts:7](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/permissions.ts#L7)
 
 ## Variables
 
@@ -44,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/permissions.ts:10](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/permissions.ts#L10)
+[src/service/domain/permissions.ts:10](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/permissions.ts#L10)
 
 ## Functions
 
@@ -67,4 +68,4 @@ Removes permissions which should not be returned to the user
 
 #### Defined in
 
-[src/service/domain/permissions.ts:20](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/permissions.ts#L20)
+[src/service/domain/permissions.ts:20](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/permissions.ts#L20)

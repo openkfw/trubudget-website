@@ -1,4 +1,5 @@
 # AugmentedFastifyInstance
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [types](../modules/types.md) / AugmentedFastifyInstance
 
 [types](../modules/types.md).AugmentedFastifyInstance
@@ -132,7 +133,7 @@ ___
 
 #### Defined in
 
-[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/types.ts#L8)
+[src/types.ts:8](https://github.com/openkfw/TruBudget/blob/086d599/api/src/types.ts#L8)
 
 ___
 
@@ -616,7 +617,7 @@ FastifyInstance.swaggerCSP
 
 #### Defined in
 
-[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/types.ts#L9)
+[src/types.ts:9](https://github.com/openkfw/TruBudget/blob/086d599/api/src/types.ts#L9)
 
 ___
 

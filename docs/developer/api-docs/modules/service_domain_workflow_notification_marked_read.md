@@ -1,4 +1,5 @@
 # service/domain/workflow/notification\_marked\_read
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/notification\_marked\_read
 
 ## Table of contents
@@ -24,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:27](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/notification_marked_read.ts#L27)
+[src/service/domain/workflow/notification_marked_read.ts:27](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_marked_read.ts#L27)
 
 ## Functions
 
@@ -49,7 +50,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:37](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/notification_marked_read.ts#L37)
+[src/service/domain/workflow/notification_marked_read.ts:37](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_marked_read.ts#L37)
 
 ___
 
@@ -69,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_marked_read.ts:63](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/notification_marked_read.ts#L63)
+[src/service/domain/workflow/notification_marked_read.ts:63](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_marked_read.ts#L63)

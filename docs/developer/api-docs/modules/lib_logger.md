@@ -1,4 +1,5 @@
 # lib/logger
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / lib/logger
 
 ## Table of contents
@@ -15,4 +16,4 @@
 
 #### Defined in
 
-[src/lib/logger.ts:3](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/lib/logger.ts#L3)
+[src/lib/logger.ts:3](https://github.com/openkfw/TruBudget/blob/086d599/api/src/lib/logger.ts#L3)

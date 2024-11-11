@@ -1,4 +1,5 @@
 # service/domain/workflow/subproject\_eventsourcing
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / service/domain/workflow/subproject\_eventsourcing
 
 ## Table of contents
@@ -32,7 +33,7 @@ Returns a new subproject with the given event applied, or an error.
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:221](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_eventsourcing.ts#L221)
+[src/service/domain/workflow/subproject_eventsourcing.ts:221](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_eventsourcing.ts#L221)
 
 ___
 
@@ -52,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:90](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_eventsourcing.ts#L90)
+[src/service/domain/workflow/subproject_eventsourcing.ts:90](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_eventsourcing.ts#L90)
 
 ___
 
@@ -75,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:22](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_eventsourcing.ts#L22)
+[src/service/domain/workflow/subproject_eventsourcing.ts:22](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_eventsourcing.ts#L22)
 
 ___
 
@@ -102,4 +103,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_eventsourcing.ts:111](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/workflow/subproject_eventsourcing.ts#L111)
+[src/service/domain/workflow/subproject_eventsourcing.ts:111](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_eventsourcing.ts#L111)

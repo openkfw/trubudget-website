@@ -1,4 +1,5 @@
 # UserLoginResponse
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/user\_authenticate](../modules/service_user_authenticate.md) / UserLoginResponse
 
 [service/user\_authenticate](../modules/service_user_authenticate.md).UserLoginResponse
@@ -22,7 +23,7 @@
 
 #### Defined in
 
-[src/service/user_authenticate.ts:31](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_authenticate.ts#L31)
+[src/service/user_authenticate.ts:31](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_authenticate.ts#L31)
 
 ___
 
@@ -32,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:29](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_authenticate.ts#L29)
+[src/service/user_authenticate.ts:29](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_authenticate.ts#L29)
 
 ___
 
@@ -42,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:32](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_authenticate.ts#L32)
+[src/service/user_authenticate.ts:32](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_authenticate.ts#L32)
 
 ___
 
@@ -52,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:28](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_authenticate.ts#L28)
+[src/service/user_authenticate.ts:28](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_authenticate.ts#L28)
 
 ___
 
@@ -62,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:30](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_authenticate.ts#L30)
+[src/service/user_authenticate.ts:30](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_authenticate.ts#L30)
 
 ___
 
@@ -72,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:33](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/user_authenticate.ts#L33)
+[src/service/user_authenticate.ts:33](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_authenticate.ts#L33)

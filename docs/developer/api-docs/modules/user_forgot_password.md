@@ -1,4 +1,5 @@
 # user\_forgot\_password
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_forgot\_password
 
 ## Table of contents
@@ -30,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/user.forgo
 
 #### Defined in
 
-[src/user_forgot_password.ts:82](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_forgot_password.ts#L82)
+[src/user_forgot_password.ts:82](https://github.com/openkfw/TruBudget/blob/086d599/api/src/user_forgot_password.ts#L82)

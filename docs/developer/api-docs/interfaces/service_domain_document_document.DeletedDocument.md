@@ -1,4 +1,5 @@
 # DeletedDocument
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/document/document](../modules/service_domain_document_document.md) / DeletedDocument
 
 [service/domain/document/document](../modules/service_domain_document_document.md).DeletedDocument
@@ -17,4 +18,4 @@
 
 #### Defined in
 
-[src/service/domain/document/document.ts:20](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/document.ts#L20)
+[src/service/domain/document/document.ts:20](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/document/document.ts#L20)

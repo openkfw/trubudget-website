@@ -1,4 +1,5 @@
 # user\_disable
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / user\_disable
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/global.dis
 
 #### Defined in
 
-[src/user_disable.ts:114](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/user_disable.ts#L114)
+[src/user_disable.ts:114](https://github.com/openkfw/TruBudget/blob/086d599/api/src/user_disable.ts#L114)

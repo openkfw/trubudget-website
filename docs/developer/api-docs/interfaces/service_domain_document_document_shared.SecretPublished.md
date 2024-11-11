@@ -1,4 +1,5 @@
 # SecretPublished
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [service/domain/document/document\_shared](../modules/service_domain_document_document_shared.md) / SecretPublished
 
 [service/domain/document/document\_shared](../modules/service_domain_document_document_shared.md).SecretPublished
@@ -19,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:13](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/document_shared.ts#L13)
+[src/service/domain/document/document_shared.ts:13](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/document/document_shared.ts#L13)
 
 ___
 
@@ -29,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:15](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/document_shared.ts#L15)
+[src/service/domain/document/document_shared.ts:15](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/document/document_shared.ts#L15)
 
 ___
 
@@ -39,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/document/document_shared.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/service/domain/document/document_shared.ts#L14)
+[src/service/domain/document/document_shared.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/document/document_shared.ts#L14)

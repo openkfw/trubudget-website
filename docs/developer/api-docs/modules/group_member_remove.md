@@ -1,4 +1,5 @@
 # group\_member\_remove
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / group\_member\_remove
 
 ## Table of contents
@@ -29,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/group.remo
 
 #### Defined in
 
-[src/group_member_remove.ts:123](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/group_member_remove.ts#L123)
+[src/group_member_remove.ts:123](https://github.com/openkfw/TruBudget/blob/086d599/api/src/group_member_remove.ts#L123)

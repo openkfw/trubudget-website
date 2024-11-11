@@ -1,4 +1,5 @@
 # SuccessResponse
+ 
 [Api Code Documentation](../README.md) / [Exports](../modules.md) / [httpd/lib](../modules/httpd_lib.md) / SuccessResponse
 
 [httpd/lib](../modules/httpd_lib.md).SuccessResponse
@@ -18,7 +19,7 @@
 
 #### Defined in
 
-[src/httpd/lib.ts:12](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/httpd/lib.ts#L12)
+[src/httpd/lib.ts:12](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/lib.ts#L12)
 
 ___
 
@@ -28,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/httpd/lib.ts:14](https://github.com/openkfw/TruBudget/blob/c993c60c/api/src/httpd/lib.ts#L14)
+[src/httpd/lib.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/lib.ts#L14)
