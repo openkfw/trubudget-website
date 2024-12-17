@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[src/index.ts:435](https://github.com/openkfw/TruBudget/blob/086d599/api/src/index.ts#L435)
+[src/index.ts:435](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/index.ts#L435)

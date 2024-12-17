@@ -37,4 +37,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_document_delete.ts:40](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/workflowitem_document_delete.ts#L40)
+[src/service/workflowitem_document_delete.ts:40](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/workflowitem_document_delete.ts#L40)

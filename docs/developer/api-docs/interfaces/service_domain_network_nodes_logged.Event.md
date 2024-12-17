@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:12](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/network/nodes_logged.ts#L12)
+[src/service/domain/network/nodes_logged.ts:12](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/network/nodes_logged.ts#L12)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:13](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/network/nodes_logged.ts#L13)
+[src/service/domain/network/nodes_logged.ts:13](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/network/nodes_logged.ts#L13)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/network/nodes_logged.ts:11](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/network/nodes_logged.ts#L11)
+[src/service/domain/network/nodes_logged.ts:11](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/network/nodes_logged.ts#L11)

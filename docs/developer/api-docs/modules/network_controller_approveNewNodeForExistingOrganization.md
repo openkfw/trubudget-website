@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/network/controller/approveNewNodeForExistingOrganization.ts:10](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/controller/approveNewNodeForExistingOrganization.ts#L10)
+[src/network/controller/approveNewNodeForExistingOrganization.ts:10](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/network/controller/approveNewNodeForExistingOrganization.ts#L10)

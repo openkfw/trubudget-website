@@ -21,7 +21,7 @@ Error type thrown when a subproject id already exists
 
 #### Defined in
 
-[src/error.ts:57](https://github.com/openkfw/TruBudget/blob/086d599/api/src/error.ts#L57)
+[src/error.ts:57](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/error.ts#L57)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:58](https://github.com/openkfw/TruBudget/blob/086d599/api/src/error.ts#L58)
+[src/error.ts:58](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/error.ts#L58)

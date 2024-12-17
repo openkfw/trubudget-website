@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/lib/logger.ts:3](https://github.com/openkfw/TruBudget/blob/086d599/api/src/lib/logger.ts#L3)
+[src/lib/logger.ts:3](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/lib/logger.ts#L3)

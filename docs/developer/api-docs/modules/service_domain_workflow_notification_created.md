@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:34](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_created.ts#L34)
+[src/service/domain/workflow/notification_created.ts:34](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/notification_created.ts#L34)
 
 ## Functions
 
@@ -53,7 +53,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:49](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_created.ts#L49)
+[src/service/domain/workflow/notification_created.ts:49](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/notification_created.ts#L49)
 
 ___
 
@@ -73,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/notification_created.ts:82](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/notification_created.ts#L82)
+[src/service/domain/workflow/notification_created.ts:82](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/notification_created.ts#L82)

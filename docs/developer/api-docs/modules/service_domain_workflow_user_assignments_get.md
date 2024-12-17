@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:43](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/user_assignments_get.ts#L43)
+[src/service/domain/workflow/user_assignments_get.ts:43](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/user_assignments_get.ts#L43)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:189](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/user_assignments_get.ts#L189)
+[src/service/domain/workflow/user_assignments_get.ts:189](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/user_assignments_get.ts#L189)
 
 ___
 
@@ -76,4 +76,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/user_assignments_get.ts:150](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/user_assignments_get.ts#L150)
+[src/service/domain/workflow/user_assignments_get.ts:150](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/user_assignments_get.ts#L150)

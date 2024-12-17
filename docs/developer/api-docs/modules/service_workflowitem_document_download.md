@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[src/service/workflowitem_document_download.ts:26](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/workflowitem_document_download.ts#L26)
+[src/service/workflowitem_document_download.ts:26](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/workflowitem_document_download.ts#L26)

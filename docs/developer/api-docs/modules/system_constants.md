@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/system/constants.ts:1](https://github.com/openkfw/TruBudget/blob/086d599/api/src/system/constants.ts#L1)
+[src/system/constants.ts:1](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/system/constants.ts#L1)

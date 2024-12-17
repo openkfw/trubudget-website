@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/project_update.ts:16](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/project_update.ts#L16)
+[src/service/project_update.ts:16](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/project_update.ts#L16)

@@ -8,19 +8,8 @@
 
 - [ConnToken](service.md#conntoken)
 - [Event](service.md#event)
-- [HistoryEvent](service.md#historyevent)
 - [Issuer](service.md#issuer)
-- [Project](service.md#project)
-- [ProjectUpdate](service.md#projectupdate)
-- [applyStreamItems](service.md#applystreamitems)
-- [createProjectOnChain](service.md#createprojectonchain)
-- [getProject](service.md#getproject)
-- [getProjectList](service.md#getprojectlist)
-- [getProjectPermissionList](service.md#getprojectpermissionlist)
-- [grantProjectPermission](service.md#grantprojectpermission)
 - [throwUnsupportedEventVersion](service.md#throwunsupportedeventversion)
-- [updateProject](service.md#updateproject)
-- [writeProjectAssignedToChain](service.md#writeprojectassignedtochain)
 
 ### Functions
 
@@ -46,81 +35,15 @@ Re-exports [Event](../interfaces/service_event.Event.md)
 
 ___
 
-### HistoryEvent
-
-Re-exports [HistoryEvent](../interfaces/service_ProjectEvents.HistoryEvent.md)
-
-___
-
 ### Issuer
 
 Re-exports [Issuer](../interfaces/service_issuer.Issuer.md)
 
 ___
 
-### Project
-
-Re-exports [Project](../interfaces/service_ProjectEvents.Project.md)
-
-___
-
-### ProjectUpdate
-
-Re-exports [ProjectUpdate](../interfaces/service_ProjectEvents.ProjectUpdate.md)
-
-___
-
-### applyStreamItems
-
-Re-exports [applyStreamItems](service_ProjectEvents.md#applystreamitems)
-
-___
-
-### createProjectOnChain
-
-Re-exports [createProjectOnChain](service_ProjectEvents.md#createprojectonchain)
-
-___
-
-### getProject
-
-Re-exports [getProject](service_ProjectEvents.md#getproject)
-
-___
-
-### getProjectList
-
-Re-exports [getProjectList](service_ProjectEvents.md#getprojectlist)
-
-___
-
-### getProjectPermissionList
-
-Re-exports [getProjectPermissionList](service_ProjectEvents.md#getprojectpermissionlist)
-
-___
-
-### grantProjectPermission
-
-Re-exports [grantProjectPermission](service_ProjectEvents.md#grantprojectpermission)
-
-___
-
 ### throwUnsupportedEventVersion
 
 Re-exports [throwUnsupportedEventVersion](service_event.md#throwunsupportedeventversion)
-
-___
-
-### updateProject
-
-Re-exports [updateProject](service_ProjectEvents.md#updateproject)
-
-___
-
-### writeProjectAssignedToChain
-
-Re-exports [writeProjectAssignedToChain](service_ProjectEvents.md#writeprojectassignedtochain)
 
 ## Functions
 
@@ -145,7 +68,7 @@ Re-exports [writeProjectAssignedToChain](service_ProjectEvents.md#writeprojectas
 
 #### Defined in
 
-[src/service/index.ts:288](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/index.ts#L288)
+[src/service/index.ts:287](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/index.ts#L287)
 
 ___
 
@@ -169,7 +92,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:229](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/index.ts#L229)
+[src/service/index.ts:228](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/index.ts#L228)
 
 ___
 
@@ -191,7 +114,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:187](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/index.ts#L187)
+[src/service/index.ts:186](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/index.ts#L186)
 
 ___
 
@@ -214,7 +137,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:63](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/index.ts#L63)
+[src/service/index.ts:62](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/index.ts#L62)
 
 ___
 
@@ -234,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:51](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/index.ts#L51)
+[src/service/index.ts:50](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/index.ts#L50)
 
 ___
 
@@ -257,7 +180,7 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:112](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/index.ts#L112)
+[src/service/index.ts:111](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/index.ts#L111)
 
 ___
 
@@ -282,4 +205,4 @@ ___
 
 #### Defined in
 
-[src/service/index.ts:258](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/index.ts#L258)
+[src/service/index.ts:257](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/index.ts#L257)

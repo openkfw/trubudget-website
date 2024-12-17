@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:20](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/system_information/provisioning_ended.ts#L20)
+[src/service/domain/system_information/provisioning_ended.ts:20](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/system_information/provisioning_ended.ts#L20)
 
 ## Functions
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:28](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/system_information/provisioning_ended.ts#L28)
+[src/service/domain/system_information/provisioning_ended.ts:28](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/system_information/provisioning_ended.ts#L28)
 
 ___
 
@@ -68,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_ended.ts:50](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/system_information/provisioning_ended.ts#L50)
+[src/service/domain/system_information/provisioning_ended.ts:50](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/system_information/provisioning_ended.ts#L50)

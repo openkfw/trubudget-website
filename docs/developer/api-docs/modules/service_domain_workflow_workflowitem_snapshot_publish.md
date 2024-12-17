@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_snapshot_publish.ts:15](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/workflowitem_snapshot_publish.ts#L15)
+[src/service/domain/workflow/workflowitem_snapshot_publish.ts:15](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/workflowitem_snapshot_publish.ts#L15)

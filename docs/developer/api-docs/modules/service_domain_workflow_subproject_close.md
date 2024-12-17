@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_close.ts:33](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_close.ts#L33)
+[src/service/domain/workflow/subproject_close.ts:33](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/subproject_close.ts#L33)

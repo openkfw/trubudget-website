@@ -21,7 +21,7 @@ Error type thrown when a media type is not supported
 
 #### Defined in
 
-[src/error.ts:90](https://github.com/openkfw/TruBudget/blob/086d599/api/src/error.ts#L90)
+[src/error.ts:90](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/error.ts#L90)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:89](https://github.com/openkfw/TruBudget/blob/086d599/api/src/error.ts#L89)
+[src/error.ts:89](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/error.ts#L89)

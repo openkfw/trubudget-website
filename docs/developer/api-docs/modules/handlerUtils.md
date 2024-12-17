@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/handlerUtils.ts:6](https://github.com/openkfw/TruBudget/blob/086d599/api/src/handlerUtils.ts#L6)
+[src/handlerUtils.ts:6](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/handlerUtils.ts#L6)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/handlerUtils.ts:16](https://github.com/openkfw/TruBudget/blob/086d599/api/src/handlerUtils.ts#L16)
+[src/handlerUtils.ts:16](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/handlerUtils.ts#L16)
 
 ___
 
@@ -68,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/handlerUtils.ts:25](https://github.com/openkfw/TruBudget/blob/086d599/api/src/handlerUtils.ts#L25)
+[src/handlerUtils.ts:25](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/handlerUtils.ts#L25)

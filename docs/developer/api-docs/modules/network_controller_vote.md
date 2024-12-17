@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/network/controller/vote.ts:76](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/controller/vote.ts#L76)
+[src/network/controller/vote.ts:76](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/network/controller/vote.ts#L76)
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 #### Defined in
 
-[src/network/controller/vote.ts:19](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/controller/vote.ts#L19)
+[src/network/controller/vote.ts:19](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/network/controller/vote.ts#L19)

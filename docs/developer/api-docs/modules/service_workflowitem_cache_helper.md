@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[src/service/workflowitem_cache_helper.ts:28](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/workflowitem_cache_helper.ts#L28)
+[src/service/workflowitem_cache_helper.ts:28](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/workflowitem_cache_helper.ts#L28)
 
 ___
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/service/workflowitem_cache_helper.ts:13](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/workflowitem_cache_helper.ts#L13)
+[src/service/workflowitem_cache_helper.ts:13](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/workflowitem_cache_helper.ts#L13)
