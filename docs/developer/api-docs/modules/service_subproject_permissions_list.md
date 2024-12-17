@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[src/service/subproject_permissions_list.ts:15](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/subproject_permissions_list.ts#L15)
+[src/service/subproject_permissions_list.ts:15](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/subproject_permissions_list.ts#L15)

@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[src/service/domain/system_information/provisioning_end.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/system_information/provisioning_end.ts#L14)
+[src/service/domain/system_information/provisioning_end.ts:14](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/system_information/provisioning_end.ts#L14)

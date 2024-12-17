@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[src/service/user_authenticate.ts:42](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_authenticate.ts#L42)
+[src/service/user_authenticate.ts:42](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/user_authenticate.ts#L42)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:116](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_authenticate.ts#L116)
+[src/service/user_authenticate.ts:116](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/user_authenticate.ts#L116)
 
 ___
 
@@ -89,4 +89,4 @@ ___
 
 #### Defined in
 
-[src/service/user_authenticate.ts:200](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/user_authenticate.ts#L200)
+[src/service/user_authenticate.ts:200](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/user_authenticate.ts#L200)

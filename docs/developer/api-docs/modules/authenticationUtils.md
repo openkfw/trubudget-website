@@ -6,8 +6,8 @@
 
 ### Variables
 
-- [accessTokenExpirationInMinutesWithrefreshToken](authenticationUtils.md#accesstokenexpirationinminuteswithrefreshtoken)
-- [refreshTokenExpirationInDays](authenticationUtils.md#refreshtokenexpirationindays)
+- [accessTokenExpirationInHoursWithrefreshToken](authenticationUtils.md#accesstokenexpirationinhourswithrefreshtoken)
+- [refreshTokenExpirationInHours](authenticationUtils.md#refreshtokenexpirationinhours)
 
 ### Functions
 
@@ -15,23 +15,23 @@
 
 ## Variables
 
-### accessTokenExpirationInMinutesWithrefreshToken
+### accessTokenExpirationInHoursWithrefreshToken
 
-• `Const` **accessTokenExpirationInMinutesWithrefreshToken**: ``10``
+• `Const` **accessTokenExpirationInHoursWithrefreshToken**: `number` = `config.accessTokenExpiration`
 
 #### Defined in
 
-[src/authenticationUtils.ts:6](https://github.com/openkfw/TruBudget/blob/086d599/api/src/authenticationUtils.ts#L6)
+[src/authenticationUtils.ts:6](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/authenticationUtils.ts#L6)
 
 ___
 
-### refreshTokenExpirationInDays
+### refreshTokenExpirationInHours
 
-• `Const` **refreshTokenExpirationInDays**: ``8``
+• `Const` **refreshTokenExpirationInHours**: `number` = `config.refreshTokenExpiration`
 
 #### Defined in
 
-[src/authenticationUtils.ts:5](https://github.com/openkfw/TruBudget/blob/086d599/api/src/authenticationUtils.ts#L5)
+[src/authenticationUtils.ts:5](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/authenticationUtils.ts#L5)
 
 ## Functions
 
@@ -57,4 +57,4 @@ a string containing the encoded JWT token
 
 #### Defined in
 
-[src/authenticationUtils.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/authenticationUtils.ts#L14)
+[src/authenticationUtils.ts:14](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/authenticationUtils.ts#L14)

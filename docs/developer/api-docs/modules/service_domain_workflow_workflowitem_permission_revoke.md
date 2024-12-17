@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/workflowitem_permission_revoke.ts:30](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/workflowitem_permission_revoke.ts#L30)
+[src/service/domain/workflow/workflowitem_permission_revoke.ts:30](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/workflowitem_permission_revoke.ts#L30)

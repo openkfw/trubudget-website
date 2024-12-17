@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/network/controller/registerNode.ts:12](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/controller/registerNode.ts#L12)
+[src/network/controller/registerNode.ts:12](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/network/controller/registerNode.ts#L12)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/network/controller/registerNode.ts:50](https://github.com/openkfw/TruBudget/blob/086d599/api/src/network/controller/registerNode.ts#L50)
+[src/network/controller/registerNode.ts:50](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/network/controller/registerNode.ts#L50)

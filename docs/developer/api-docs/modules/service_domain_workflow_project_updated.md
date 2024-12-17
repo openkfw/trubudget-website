@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:28](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L28)
+[src/service/domain/workflow/project_updated.ts:29](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L29)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:46](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L46)
+[src/service/domain/workflow/project_updated.ts:48](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L48)
 
 ## Functions
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:56](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L56)
+[src/service/domain/workflow/project_updated.ts:58](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L58)
 
 ___
 
@@ -93,7 +93,7 @@ is automatically validated when obtained using
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:97](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L97)
+[src/service/domain/workflow/project_updated.ts:99](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L99)
 
 ___
 
@@ -113,4 +113,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:82](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L82)
+[src/service/domain/workflow/project_updated.ts:84](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L84)

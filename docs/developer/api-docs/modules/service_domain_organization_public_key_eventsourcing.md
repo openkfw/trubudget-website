@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/public_key_eventsourcing.ts#L11)
+[src/service/domain/organization/public_key_eventsourcing.ts:11](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/organization/public_key_eventsourcing.ts#L11)
 
 ## Functions
 
@@ -46,4 +46,4 @@
 
 #### Defined in
 
-[src/service/domain/organization/public_key_eventsourcing.ts:13](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/public_key_eventsourcing.ts#L13)
+[src/service/domain/organization/public_key_eventsourcing.ts:13](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/organization/public_key_eventsourcing.ts#L13)

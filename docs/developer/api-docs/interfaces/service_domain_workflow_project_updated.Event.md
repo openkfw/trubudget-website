@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:43](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L43)
+[src/service/domain/workflow/project_updated.ts:45](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L45)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:41](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L41)
+[src/service/domain/workflow/project_updated.ts:43](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L43)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:40](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L40)
+[src/service/domain/workflow/project_updated.ts:42](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L42)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:38](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L38)
+[src/service/domain/workflow/project_updated.ts:40](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L40)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:39](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L39)
+[src/service/domain/workflow/project_updated.ts:41](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L41)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:37](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L37)
+[src/service/domain/workflow/project_updated.ts:39](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L39)
 
 ___
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_updated.ts:42](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_updated.ts#L42)
+[src/service/domain/workflow/project_updated.ts:44](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_updated.ts#L44)

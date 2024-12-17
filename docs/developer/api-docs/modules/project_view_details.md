@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.vi
 
 #### Defined in
 
-[src/project_view_details.ts:183](https://github.com/openkfw/TruBudget/blob/086d599/api/src/project_view_details.ts#L183)
+[src/project_view_details.ts:183](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/project_view_details.ts#L183)

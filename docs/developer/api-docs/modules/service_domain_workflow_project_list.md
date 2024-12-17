@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_list.ts:47](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_list.ts#L47)
+[src/service/domain/workflow/project_list.ts:47](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_list.ts#L47)
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/project_list.ts:15](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_list.ts#L15)
+[src/service/domain/workflow/project_list.ts:15](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_list.ts#L15)

@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/service/store.ts:16](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/store.ts#L16)
+[src/service/store.ts:16](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/store.ts#L16)

@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/workflowit
 
 #### Defined in
 
-[src/workflowitem_view_details.ts:192](https://github.com/openkfw/TruBudget/blob/086d599/api/src/workflowitem_view_details.ts#L192)
+[src/workflowitem_view_details.ts:192](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/workflowitem_view_details.ts#L192)

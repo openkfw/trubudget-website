@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.cr
 
 #### Defined in
 
-[src/subproject_create.ts:185](https://github.com/openkfw/TruBudget/blob/086d599/api/src/subproject_create.ts#L185)
+[src/subproject_create.ts:185](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/subproject_create.ts#L185)

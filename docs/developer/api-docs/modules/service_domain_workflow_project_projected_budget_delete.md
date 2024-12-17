@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/domain/workflow/project_projected_budget_delete.ts:28](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/project_projected_budget_delete.ts#L28)
+[src/service/domain/workflow/project_projected_budget_delete.ts:28](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/project_projected_budget_delete.ts#L28)

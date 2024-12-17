@@ -49,7 +49,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/event_parsing_error.ts#L4)
 
 ## Properties
 
@@ -59,7 +59,7 @@ Error.constructor
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/event_parsing_error.ts#L4)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/event_parsing_error.ts#L4)
+[src/service/event_parsing_error.ts:4](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/event_parsing_error.ts#L4)
 
 ___
 

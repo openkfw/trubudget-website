@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[src/httpd/index.ts:86](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L86)
+[src/httpd/index.ts:69](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L69)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:84](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L84)
+[src/httpd/index.ts:67](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L67)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:81](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L81)
+[src/httpd/index.ts:64](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L64)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:80](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L80)
+[src/httpd/index.ts:63](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L63)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:83](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L83)
+[src/httpd/index.ts:66](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L66)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:82](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L82)
+[src/httpd/index.ts:65](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L65)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:85](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L85)
+[src/httpd/index.ts:68](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L68)
 
 ___
 
@@ -95,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:87](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L87)
+[src/httpd/index.ts:70](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L70)

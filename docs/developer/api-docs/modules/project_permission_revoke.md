@@ -30,4 +30,4 @@ Creates an http handler that handles incoming http requests for the `/project.in
 
 #### Defined in
 
-[src/project_permission_revoke.ts:130](https://github.com/openkfw/TruBudget/blob/086d599/api/src/project_permission_revoke.ts#L130)
+[src/project_permission_revoke.ts:130](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/project_permission_revoke.ts#L130)

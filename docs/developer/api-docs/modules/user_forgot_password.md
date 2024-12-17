@@ -31,4 +31,4 @@ Creates an http handler that handles incoming http requests for the `/user.forgo
 
 #### Defined in
 
-[src/user_forgot_password.ts:82](https://github.com/openkfw/TruBudget/blob/086d599/api/src/user_forgot_password.ts#L82)
+[src/user_forgot_password.ts:82](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/user_forgot_password.ts#L82)

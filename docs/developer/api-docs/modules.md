@@ -107,7 +107,6 @@ sidebar_label: Table of Contents
 - [service/Client.h](modules/service_Client_h.md)
 - [service/Client\_storage\_service](modules/service_Client_storage_service.md)
 - [service/Client\_storage\_service.h](modules/service_Client_storage_service_h.md)
-- [service/ProjectEvents](modules/service_ProjectEvents.md)
 - [service/RpcClient](modules/service_RpcClient.md)
 - [service/RpcClient.h](modules/service_RpcClient_h.md)
 - [service/RpcError](modules/service_RpcError.md)

@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[src/service/global_permission_revoke.ts:17](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/global_permission_revoke.ts#L17)
+[src/service/global_permission_revoke.ts:17](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/global_permission_revoke.ts#L17)

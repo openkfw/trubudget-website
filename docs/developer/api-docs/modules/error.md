@@ -36,4 +36,4 @@ Error type representing an internal TruBudget Error
 
 #### Defined in
 
-[src/error.ts:96](https://github.com/openkfw/TruBudget/blob/086d599/api/src/error.ts#L96)
+[src/error.ts:96](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/error.ts#L96)

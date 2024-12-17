@@ -21,12 +21,9 @@
 - [GlobalPermissionGranter](httpd.md#globalpermissiongranter)
 - [GlobalPermissionRevoker](httpd.md#globalpermissionrevoker)
 - [Permissions](httpd.md#permissions)
-- [ProjectAssigner](httpd.md#projectassigner)
-- [ProjectCreator](httpd.md#projectcreator)
 - [ProjectPermissionsGranter](httpd.md#projectpermissionsgranter)
 - [ProjectPermissionsReader](httpd.md#projectpermissionsreader)
 - [ProjectReader](httpd.md#projectreader)
-- [ProjectUpdater](httpd.md#projectupdater)
 - [WorkflowitemAssigner](httpd.md#workflowitemassigner)
 - [WorkflowitemCloser](httpd.md#workflowitemcloser)
 - [WorkflowitemUpdater](httpd.md#workflowitemupdater)
@@ -54,7 +51,7 @@
 
 #### Defined in
 
-[src/httpd/index.ts:43](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L43)
+[src/httpd/index.ts:41](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L41)
 
 ___
 
@@ -78,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:23](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L23)
+[src/httpd/index.ts:21](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L21)
 
 ___
 
@@ -102,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:16](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L16)
+[src/httpd/index.ts:14](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L14)
 
 ___
 
@@ -128,7 +125,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:17](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L17)
+[src/httpd/index.ts:15](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L15)
 
 ___
 
@@ -154,7 +151,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:37](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L37)
+[src/httpd/index.ts:35](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L35)
 
 ___
 
@@ -180,7 +177,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:45](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L45)
+[src/httpd/index.ts:43](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L43)
 
 ___
 
@@ -190,60 +187,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:12](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L12)
-
-___
-
-### ProjectAssigner
-
-Ƭ **ProjectAssigner**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `assignee`: `string`) => `Promise`\<`void`\>
-
-#### Type declaration
-
-▸ (`token`, `projectId`, `assignee`): `Promise`\<`void`\>
-
-##### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `token` | [`AuthToken`](../interfaces/authz_token.AuthToken.md) |
-| `projectId` | `string` |
-| `assignee` | `string` |
-
-##### Returns
-
-`Promise`\<`void`\>
-
-#### Defined in
-
-[src/httpd/index.ts:58](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L58)
-
-___
-
-### ProjectCreator
-
-Ƭ **ProjectCreator**: (`ctx`: [`Ctx`](../interfaces/lib_ctx.Ctx.md), `issuer`: [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md), `token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `payload`: [`CreateProjectPayload`](../interfaces/httpd.CreateProjectPayload.md)) => `Promise`\<`void`\>
-
-#### Type declaration
-
-▸ (`ctx`, `issuer`, `token`, `payload`): `Promise`\<`void`\>
-
-##### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `ctx` | [`Ctx`](../interfaces/lib_ctx.Ctx.md) |
-| `issuer` | [`ServiceUser`](../interfaces/service_domain_organization_service_user.ServiceUser.md) |
-| `token` | [`AuthToken`](../interfaces/authz_token.AuthToken.md) |
-| `payload` | [`CreateProjectPayload`](../interfaces/httpd.CreateProjectPayload.md) |
-
-##### Returns
-
-`Promise`\<`void`\>
-
-#### Defined in
-
-[src/httpd/index.ts:51](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L51)
+[src/httpd/index.ts:10](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L10)
 
 ___
 
@@ -270,7 +214,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:30](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L30)
+[src/httpd/index.ts:28](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L28)
 
 ___
 
@@ -295,7 +239,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:25](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L25)
+[src/httpd/index.ts:23](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L23)
 
 ___
 
@@ -320,33 +264,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:14](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L14)
-
-___
-
-### ProjectUpdater
-
-Ƭ **ProjectUpdater**: (`token`: [`AuthToken`](../interfaces/authz_token.AuthToken.md), `projectId`: `string`, `update`: `object`) => `Promise`\<`void`\>
-
-#### Type declaration
-
-▸ (`token`, `projectId`, `update`): `Promise`\<`void`\>
-
-##### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `token` | [`AuthToken`](../interfaces/authz_token.AuthToken.md) |
-| `projectId` | `string` |
-| `update` | `object` |
-
-##### Returns
-
-`Promise`\<`void`\>
-
-#### Defined in
-
-[src/httpd/index.ts:64](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L64)
+[src/httpd/index.ts:12](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L12)
 
 ___
 
@@ -374,7 +292,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:105](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L105)
+[src/httpd/index.ts:88](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L88)
 
 ___
 
@@ -401,7 +319,7 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:89](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L89)
+[src/httpd/index.ts:72](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L72)
 
 ___
 
@@ -429,4 +347,4 @@ ___
 
 #### Defined in
 
-[src/httpd/index.ts:96](https://github.com/openkfw/TruBudget/blob/086d599/api/src/httpd/index.ts#L96)
+[src/httpd/index.ts:79](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/httpd/index.ts#L79)

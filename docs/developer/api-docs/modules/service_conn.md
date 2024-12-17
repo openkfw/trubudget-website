@@ -26,4 +26,4 @@ Opaque token that carries connection state.
 
 #### Defined in
 
-[src/service/conn.ts:8](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/conn.ts#L8)
+[src/service/conn.ts:8](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/conn.ts#L8)

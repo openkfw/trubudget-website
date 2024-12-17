@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:19](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_updated.ts#L19)
+[src/service/domain/workflow/subproject_updated.ts:19](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/subproject_updated.ts#L19)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:18](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_updated.ts#L18)
+[src/service/domain/workflow/subproject_updated.ts:18](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/subproject_updated.ts#L18)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/subproject_updated.ts:17](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/subproject_updated.ts#L17)
+[src/service/domain/workflow/subproject_updated.ts:17](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/subproject_updated.ts#L17)

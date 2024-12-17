@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/service/cache.ts:9](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/cache.ts#L9)
+[src/service/cache.ts:9](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/cache.ts#L9)
 
 ## Functions
 
@@ -43,4 +43,4 @@
 
 #### Defined in
 
-[src/service/cache.ts:20](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/cache.ts#L20)
+[src/service/cache.ts:20](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/cache.ts#L20)

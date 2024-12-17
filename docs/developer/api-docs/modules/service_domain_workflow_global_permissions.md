@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions.ts:32](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/global_permissions.ts#L32)
+[src/service/domain/workflow/global_permissions.ts:32](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/global_permissions.ts#L32)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions.ts:39](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/global_permissions.ts#L39)
+[src/service/domain/workflow/global_permissions.ts:39](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/global_permissions.ts#L39)
 
 ___
 
@@ -75,4 +75,4 @@ ___
 
 #### Defined in
 
-[src/service/domain/workflow/global_permissions.ts:27](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/workflow/global_permissions.ts#L27)
+[src/service/domain/workflow/global_permissions.ts:27](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/workflow/global_permissions.ts#L27)

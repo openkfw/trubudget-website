@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:38](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group_query.ts#L38)
+[src/service/domain/organization/group_query.ts:38](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/organization/group_query.ts#L38)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:17](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group_query.ts#L17)
+[src/service/domain/organization/group_query.ts:17](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/organization/group_query.ts#L17)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:60](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group_query.ts#L60)
+[src/service/domain/organization/group_query.ts:60](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/organization/group_query.ts#L60)
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:77](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group_query.ts#L77)
+[src/service/domain/organization/group_query.ts:77](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/organization/group_query.ts#L77)
 
 ___
 
@@ -131,4 +131,4 @@ returns all users for given identity
 
 #### Defined in
 
-[src/service/domain/organization/group_query.ts:97](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/domain/organization/group_query.ts#L97)
+[src/service/domain/organization/group_query.ts:97](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/domain/organization/group_query.ts#L97)

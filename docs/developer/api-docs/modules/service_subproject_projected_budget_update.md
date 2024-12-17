@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[src/service/subproject_projected_budget_update.ts:19](https://github.com/openkfw/TruBudget/blob/086d599/api/src/service/subproject_projected_budget_update.ts#L19)
+[src/service/subproject_projected_budget_update.ts:19](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/service/subproject_projected_budget_update.ts#L19)

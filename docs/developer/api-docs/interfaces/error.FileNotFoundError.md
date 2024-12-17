@@ -21,7 +21,7 @@ Error type thrown when a file is not found
 
 #### Defined in
 
-[src/error.ts:26](https://github.com/openkfw/TruBudget/blob/086d599/api/src/error.ts#L26)
+[src/error.ts:26](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/error.ts#L26)
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/error.ts:25](https://github.com/openkfw/TruBudget/blob/086d599/api/src/error.ts#L25)
+[src/error.ts:25](https://github.com/openkfw/TruBudget/blob/e3c318d/api/src/error.ts#L25)
